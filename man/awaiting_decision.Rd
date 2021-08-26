@@ -8,7 +8,7 @@
 A data frame with 26,623 rows and 7 variables:
 \describe{
   \item{Date}{Date}
-  \item{Nationality}{Nationality of people receiving support}
+  \item{Nationality}{Nationality of people awaiting a decision}
   \item{Region}{World region the nation is in}
   \item{Applicant Type}{'Main applicant' or 'Dependant'}
   \item{Application stage}{'Pending initial decision' or 'Pending further review'}
