@@ -1,11 +1,23 @@
 Package: asylum
 Type: Package
-Title: What the Package Does (Title Case)
-Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
+Title: Asylum and resettlement data for the UK
+Version: 0.0.0.9000
+Authors@R: c(
+    person(given = c("Matthew", "Gwynfryn"), 
+           family = "Thomas", 
+           email = "matthewgthomas@gmail.com", 
+           role = c("cre", "aut")),
+    person(given = "Mike", 
+           family = "Page", 
+           email = "mpage@redcross.org.uk", 
+           role = "aut"),
+    person(family = "British Red Cross", 
+           role = "cph")
+    )
 Description: More about what it does (maybe more than one line)
     Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+License: MIT + file LICENSE
+URL: https://github.com/britishredcrosssociety/asylum
+BugReports: https://github.com/britishredcrosssociety/asylum/issues
 Encoding: UTF-8
 LazyData: true
