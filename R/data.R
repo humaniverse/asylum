@@ -1,0 +1,18 @@
+#' Asylum seekers in receipt of support
+#'
+#' Asylum seekers in receipt of support at end of period, by nationality,
+#' support type, and UK region.
+#'
+#' @format A data frame with 35,597 rows and 7 variables:
+#' \describe{
+#'   \item{Date}{Date}
+#'   \item{Nationality}{Nationality of people receiving support}
+#'   \item{Region}{World region the nation is in}
+#'   \item{Support Type}{Section 95, Section 98, or Section 4 support}
+#'   \item{Support Sub-Type}{'Dispersed Accommodation' or 'Subsistence Only' for Section 95 support}
+#'   \item{UK Region}{Where the people are currently living}
+#'   \item{People}{Number of people receiving support}
+#'   ...
+#' }
+#' @source \url{https://www.gov.uk/government/statistical-data-sets/asylum-and-resettlement-datasets}
+"support_received"
