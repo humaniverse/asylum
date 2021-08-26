@@ -14,7 +14,7 @@ A data frame with 57,482 rows and 11 variables:
   \item{Region}{World region the nation is in}
   \item{Age}{Age group of applicants}
   \item{Sex}{Gender/sex of applicants}
-  \item{Applicant Type}{'Main applicant' or 'Dependant'}
+  \item{Applicant type}{'Main applicant' or 'Dependant'}
   \item{UASC}{Are they an unaccompanied asylum-seeking child?}
   \item{Location of application}{'At Port' or 'In Country'}
   \item{Applications}{Number of applications}

@@ -17,7 +17,7 @@ A data frame with 95,179 rows and 14 variables:
   \item{Case outcome}{Detailed description of the case outcome}
   \item{Age}{Age group of applicants}
   \item{Sex}{Gender/sex of applicants}
-  \item{Applicant Type}{'Main applicant' or 'Dependant'}
+  \item{Applicant type}{'Main applicant' or 'Dependant'}
   \item{UASC}{Are they an unaccompanied asylum-seeking child?}
   \item{Host Country}{Host country, in cases of resettlement}
   \item{Decisions}{Number of decisions}
