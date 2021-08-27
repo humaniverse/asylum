@@ -85,3 +85,41 @@
 #' }
 #' @source \url{https://www.gov.uk/government/statistical-data-sets/asylum-and-resettlement-datasets}
 "decisions_resettlement"
+
+#' Asylum appeals lodged
+#'
+#' Asylum appeals raised at the First-Tier Tribunal, by nationality and sex.
+#'
+#' @format A data frame with 6,621 rows and 7 variables:
+#' \describe{
+#'   \item{Date}{Date}
+#'   \item{Year}{Year}
+#'   \item{Quarter}{Quarter}
+#'   \item{Nationality}{Nationality of people applying}
+#'   \item{Region}{World region the nation is in}
+#'   \item{Sex}{Gender/sex of applicants}
+#'   \item{Appeals lodged}{Number of appeals lodged}
+#'   ...
+#' }
+#' @source \url{https://www.gov.uk/government/statistical-data-sets/asylum-and-resettlement-datasets}
+"appeals_lodged"
+
+#' Asylum appeals determined
+#'
+#' Outcomes of asylum appeals raised at the First-Tier Tribunal, by nationality
+#' and sex.
+#'
+#' @format A data frame with 11,973 rows and 8 variables:
+#' \describe{
+#'   \item{Date}{Date}
+#'   \item{Year}{Year}
+#'   \item{Quarter}{Quarter}
+#'   \item{Nationality}{Nationality of people applying}
+#'   \item{Region}{World region the nation is in}
+#'   \item{Outcome}{'Allowed', 'Dismissed', or 'Withdrawn'}
+#'   \item{Sex}{Gender/sex of applicants}
+#'   \item{Appeals determined}{Number of appeals determined}
+#'   ...
+#' }
+#' @source \url{https://www.gov.uk/government/statistical-data-sets/asylum-and-resettlement-datasets}
+"appeals_determined"
