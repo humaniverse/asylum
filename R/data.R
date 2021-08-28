@@ -24,11 +24,11 @@
 #'
 #' @format A data frame with 3,837 rows and 6 variables:
 #' \describe{
-#'   \item{Date}{Date}
+#'   \item{Year}{Year}
 #'   \item{Nationality}{Nationality of people receiving support}
 #'   \item{Region}{World region the nation is in}
 #'   \item{Support type granted}{'Accommodation', 'Closed / Invalid', or 'Subsistence Only'}
-#'   \item{SupGroup type}{'Single adult', 'Family', or 'Unknown'}
+#'   \item{Group type}{'Single adult', 'Family', or 'Unknown'}
 #'   \item{Applications}{Number of applications}
 #'   ...
 #' }
@@ -171,8 +171,8 @@
 #'   \item{Controlled returns (Subset of Voluntary returns)}{Controlled returns (Subset of Voluntary returns)}
 #'   \item{Other verified returns (Subset of Voluntary returns)}{Other verified returns (Subset of Voluntary returns)}
 #'   \item{Final outcome: Grants of asylum}{Final outcome: Grants of asylum}
-#'   \item{Final outcomes: Grants of HP/DL and other}{Final outcomes: Grants of HP/DL and other}
-#'   \item{Final outcomes: Refused asylum, HP, DL or other leave}{Final outcomes: Refused asylum, HP, DL or other leave}
+#'   \item{`Final outcomes: Grants of HP/DL and other`}{Final outcomes: Grants of HP/DL and other}
+#'   \item{`Final outcomes: Refused asylum, HP, DL or other leave`}{Final outcomes: Refused asylum, HP, DL or other leave}
 #'   \item{Final outcome: Withdrawn application}{Final outcome: Withdrawn application}
 #'   \item{Final outcome: Cases with final outcome not yet known}{Final outcome: Cases with final outcome not yet known}
 #'   ...
@@ -219,3 +219,23 @@
 #' }
 #' @source \url{https://www.gov.uk/government/statistical-data-sets/asylum-and-resettlement-datasets}
 "appeals_non_suspensive"
+
+#' Dublin regulation
+#'
+#' Transfers and requests for transfer under the Dublin regulation, by EU
+#' member state and article.
+#'
+#' @format A data frame with 3,508 rows and 8 variables:
+#' \describe{
+#'   \item{Date}{The period in which the request or transfer of an asylum applicant under the Dublin Regulation was made}
+#'   \item{Year}{Year}
+#'   \item{Quarter}{Quarter}
+#'   \item{Member State}{As applicable, the EU Member State which either raises, or receives, a request or transfer of an asylum applicant under the Dublin Regulation}
+#'   \item{In / Out}{The direction of a request or transfer: either into, or out of, the UK}
+#'   \item{Request / Transfer}{Whether the case is a request for transfer, or a transfer, of an asylum applicant}
+#'   \item{Article}{The Article (rule) of the Dublin Regulation under which the request or transfer is carried out}
+#'   \item{Count}{The number of transfers, or requests to transfer under the Dublin Regulation}
+#'   ...
+#' }
+#' @source \url{https://www.gov.uk/government/statistical-data-sets/asylum-and-resettlement-datasets}
+"dublin_regulation"
