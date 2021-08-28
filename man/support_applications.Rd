@@ -7,11 +7,11 @@
 \format{
 A data frame with 3,837 rows and 6 variables:
 \describe{
-  \item{Date}{Date}
+  \item{Year}{Year}
   \item{Nationality}{Nationality of people receiving support}
   \item{Region}{World region the nation is in}
   \item{Support type granted}{'Accommodation', 'Closed / Invalid', or 'Subsistence Only'}
-  \item{SupGroup type}{'Single adult', 'Family', or 'Unknown'}
+  \item{Group type}{'Single adult', 'Family', or 'Unknown'}
   \item{Applications}{Number of applications}
   ...
 }

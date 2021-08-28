@@ -29,8 +29,8 @@ A data frame with 3,216 rows and 26 variables:
   \item{Controlled returns (Subset of Voluntary returns)}{Controlled returns (Subset of Voluntary returns)}
   \item{Other verified returns (Subset of Voluntary returns)}{Other verified returns (Subset of Voluntary returns)}
   \item{Final outcome: Grants of asylum}{Final outcome: Grants of asylum}
-  \item{Final outcomes: Grants of HP/DL and other}{Final outcomes: Grants of HP/DL and other}
-  \item{Final outcomes: Refused asylum, HP, DL or other leave}{Final outcomes: Refused asylum, HP, DL or other leave}
+  \item{`Final outcomes: Grants of HP/DL and other`}{Final outcomes: Grants of HP/DL and other}
+  \item{`Final outcomes: Refused asylum, HP, DL or other leave`}{Final outcomes: Refused asylum, HP, DL or other leave}
   \item{Final outcome: Withdrawn application}{Final outcome: Withdrawn application}
   \item{Final outcome: Cases with final outcome not yet known}{Final outcome: Cases with final outcome not yet known}
   ...
