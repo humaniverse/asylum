@@ -259,3 +259,22 @@
 #' }
 #' @source \url{https://www.gov.uk/government/statistical-data-sets/asylum-and-resettlement-datasets}
 "family_reunion"
+
+#' Resettlement by local authority
+#'
+#' Refugees resettled by resettlement scheme and local authority.
+#'
+#' @format A data frame with 2,243 rows and 8 variables:
+#' \describe{
+#'   \item{Date}{The period in which the refugee arrived in the UK}
+#'   \item{Year}{Year}
+#'   \item{Quarter}{Quarter}
+#'   \item{UK Region}{Region of the UK in which the refugee was initially resettled}
+#'   \item{LAD Code}{Local Authority (district) code as supplied by ONS}
+#'   \item{Local Authority}{The Local Authority in which the refugee was initially resettled}
+#'   \item{Resettlement Scheme}{The scheme under which the refugee was resettled}
+#'   \item{Persons}{The number of refugees resettled}
+#'   ...
+#' }
+#' @source \url{https://www.gov.uk/government/statistical-data-sets/asylum-and-resettlement-datasets}
+"local_authority_resettlement"
