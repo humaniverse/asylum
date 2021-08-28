@@ -17,6 +17,24 @@
 #' @source \url{https://www.gov.uk/government/statistical-data-sets/asylum-and-resettlement-datasets}
 "support_received"
 
+#' Applications for section 95 support
+#'
+#' Applications for section 95 support, by nationality, support type granted,
+#' and group type.
+#'
+#' @format A data frame with 3,837 rows and 6 variables:
+#' \describe{
+#'   \item{Date}{Date}
+#'   \item{Nationality}{Nationality of people receiving support}
+#'   \item{Region}{World region the nation is in}
+#'   \item{Support type granted}{'Accommodation', 'Closed / Invalid', or 'Subsistence Only'}
+#'   \item{SupGroup type}{'Single adult', 'Family', or 'Unknown'}
+#'   \item{Applications}{Number of applications}
+#'   ...
+#' }
+#' @source \url{https://www.gov.uk/government/statistical-data-sets/asylum-and-resettlement-datasets}
+"support_applications"
+
 #' Asylum applications awaiting a decision
 #'
 #' Asylum applications awaiting an initial decision or further review, by
