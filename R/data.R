@@ -278,3 +278,22 @@
 #' }
 #' @source \url{https://www.gov.uk/government/statistical-data-sets/asylum-and-resettlement-datasets}
 "local_authority_resettlement"
+
+#' Section 95 support by local authority
+#'
+#' Asylum seekers in receipt of section 95 support by local authority.
+#'
+#' @format A data frame with 9,929 rows and 8 variables:
+#' \describe{
+#'   \item{Date}{The date at which the number of people in receipt of support refers to}
+#'   \item{Year}{Year}
+#'   \item{Quarter}{Quarter}
+#'   \item{UK Region}{The UK region of the individual's registered address}
+#'   \item{Local Authority}{The Local Authority of the individual's registered address}
+#'   \item{LAD Code}{Local Authority (district) code as supplied by ONS}
+#'   \item{Support sub-type}{Whether the support provided is subsistence only, or includes provision of accommodation}
+#'   \item{People}{Number of people in receipt of section 95 support}
+#'   ...
+#' }
+#' @source \url{https://www.gov.uk/government/statistical-data-sets/asylum-and-resettlement-datasets}
+"local_authority_support"
