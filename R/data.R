@@ -180,3 +180,24 @@
 #' }
 #' @source \url{https://www.gov.uk/government/statistical-data-sets/asylum-and-resettlement-datasets}
 "age_disputes"
+
+#' Non-suspensive appeals
+#'
+#' Initial decisions on asylum applications eligible for non-suspensive appeal, by nationality
+#'
+#' @format A data frame with 2,035 rows and 10 variables:
+#' \describe{
+#'   \item{Date}{Date}
+#'   \item{Year}{Year}
+#'   \item{Quarter}{Quarter}
+#'   \item{Nationality}{Nationality of people applying}
+#'   \item{Region}{World region the nation is in}
+#'   \item{Initial decisions from designated states}{Initial decisions from designated states}
+#'   \item{Refusals from designated states}{Refusals from designated states}
+#'   \item{Clearly unfounded refusals (designated states)}{Clearly unfounded refusals (designated states)}
+#'   \item{Clearly unfounded refusals (non-designated states)}{Clearly unfounded refusals (non-designated states)}
+#'   \item{Total eligible for the NSA process}{Total eligible for the NSA process}
+#'   ...
+#' }
+#' @source \url{https://www.gov.uk/government/statistical-data-sets/asylum-and-resettlement-datasets}
+"appeals_non_suspensive"
