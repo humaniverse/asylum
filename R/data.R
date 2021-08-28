@@ -239,3 +239,23 @@
 #' }
 #' @source \url{https://www.gov.uk/government/statistical-data-sets/asylum-and-resettlement-datasets}
 "dublin_regulation"
+
+#' Family reunion visa grants
+#'
+#' Family reunion visas granted to family members of refugees, by nationality,
+#' sex and age.
+#'
+#' @format A data frame with 6,853 rows and 8 variables:
+#' \describe{
+#'   \item{Date}{The period in which the Family Reunion visa was granted}
+#'   \item{Year}{Year}
+#'   \item{Quarter}{Quarter}
+#'   \item{Nationality}{Nationality of the visa recipient}
+#'   \item{Region}{World region of the country of nationality for the visa recipient}
+#'   \item{Sex}{The sex of the individual}
+#'   \item{Age}{Age of individual at time of visa grant}
+#'   \item{Visas granted}{The number of family reunion visas granted}
+#'   ...
+#' }
+#' @source \url{https://www.gov.uk/government/statistical-data-sets/asylum-and-resettlement-datasets}
+"family_reunion"
