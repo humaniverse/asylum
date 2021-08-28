@@ -297,3 +297,89 @@
 #' }
 #' @source \url{https://www.gov.uk/government/statistical-data-sets/asylum-and-resettlement-datasets}
 "local_authority_support"
+
+#' Aspen Cards in use
+#'
+#' The number of Aspen Cards in use.
+#'
+#' @format A data frame with 17 rows and 4 variables:
+#' \describe{
+#'   \item{Date}{Date}
+#'   \item{Year}{Year}
+#'   \item{Quarter}{Quarter}
+#'   \item{Aspen Cards in use}{Number of Aspen Cards in use}
+#'   ...
+#' }
+#' @source \url{https://www.gov.uk/government/collections/migration-transparency-data#uk-visas-and-immigration}
+"aspen"
+
+#' Aspen Card-related support
+#'
+#' The number of Aspen Card-related support enquiries received by the Home
+#' Office, Sodexo and Migrant Help.
+#'
+#' @format A data frame with 17 rows and 6 variables:
+#' \describe{
+#'   \item{Date}{Date}
+#'   \item{Year}{Year}
+#'   \item{Quarter}{Quarter}
+#'   \item{Home Office}{NUmber of support enquiries received by the Home Office}
+#'   \item{Sodexo}{enquiries received by Sodexo}
+#'   \item{Migrant Help}{enquiries received by Migrant Help}
+#'   ...
+#' }
+#' @source \url{https://www.gov.uk/government/collections/migration-transparency-data#uk-visas-and-immigration}
+"aspen_support"
+
+#' National Transfer Scheme
+#'
+#' Number of individuals transferred between local authorities under the
+#' National Transfer Scheme for unaccompanied asylum seeking children.
+#'
+#' @format A data frame with 8,612 rows and 9 variables:
+#' \describe{
+#'   \item{Date}{Date}
+#'   \item{Year}{Year}
+#'   \item{Quarter}{Quarter}
+#'   \item{Region}{UK region}
+#'   \item{Local Authority or HSCT (NI)}{Local Authority, or Health & Social Care Trust in Northern Ireland}
+#'   \item{Able to participate in the NTS?}{Is this LA/HSCT participating in the National Transfer Scheme?}
+#'   \item{Transfers out of Local Authority}{Number of transfers out of LA}
+#'   \item{Transfers into Local Authority}{Number of transfers into LA}
+#'   \item{Transfers into to LA from port/intake unit}{Number of transfers into to LA from port/intake unit}
+#'   ...
+#' }
+#' @source \url{https://www.gov.uk/government/collections/migration-transparency-data#uk-visas-and-immigration}
+"nts"
+
+#' Applications for Support Section 4 and Section 95
+#'
+#' Applications for Support Section 4 and Section 95.
+#'
+#' @format A data frame with 46 rows and 5 variables:
+#' \describe{
+#'   \item{Date}{Date}
+#'   \item{Year}{Year}
+#'   \item{Quarter}{Quarter}
+#'   \item{Section 4}{Number of applications for Section 4 support}
+#'   \item{Section 95}{Number of applications for Section 95 support}
+#'   ...
+#' }
+#' @source \url{https://www.gov.uk/government/collections/migration-transparency-data#uk-visas-and-immigration}
+"support_applications_rasi"
+
+#' Travel documents
+#'
+#' Travel documents, applications raised and despatched.
+#'
+#' @format A data frame with 46 rows and 5 variables:
+#' \describe{
+#'   \item{Date}{Date}
+#'   \item{Year}{Year}
+#'   \item{Quarter}{Quarter}
+#'   \item{TD Raised}{Number of travel document applications raised}
+#'   \item{TD Despatched}{Number of travel documents despatched}
+#'   ...
+#' }
+#' @source \url{https://www.gov.uk/government/collections/migration-transparency-data#uk-visas-and-immigration}
+"travel_documents"
