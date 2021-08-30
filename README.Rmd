@@ -32,6 +32,19 @@ You can install the development version from [GitHub](https://github.com/) with:
 devtools::install_github("britishredcrosssociety/asylum")
 ```
 
+## Example
+
+To calculate the number of applications from Afghanistan awaiting a decision, as of the latest quarter:
+
+``` r
+library(asylum)
+library(dplyr)
+
+asylum::awaiting_decision |> 
+  filter(Nationality == "Afghanistan" & Date == max(Date)) |> 
+  summarise(`Total applications awaiting a decision` = sum(Applications))
+```
+
 ## Getting help
 
 If you encounter a clear bug, please file an issue with a minimal
