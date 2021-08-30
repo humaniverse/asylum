@@ -171,8 +171,8 @@
 #'   \item{Controlled returns (Subset of Voluntary returns)}{Controlled returns (Subset of Voluntary returns)}
 #'   \item{Other verified returns (Subset of Voluntary returns)}{Other verified returns (Subset of Voluntary returns)}
 #'   \item{Final outcome: Grants of asylum}{Final outcome: Grants of asylum}
-#'   \item{`Final outcomes: Grants of HP/DL and other`}{Final outcomes: Grants of HP/DL and other}
-#'   \item{`Final outcomes: Refused asylum, HP, DL or other leave`}{Final outcomes: Refused asylum, HP, DL or other leave}
+#'   \item{Final outcomes: Grants of HP/DL and other}{Final outcomes: Grants of HP/DL and other}
+#'   \item{Final outcomes: Refused asylum or HP or DL or other leave}{Final outcomes: Refused asylum or HP or DL or other leave}
 #'   \item{Final outcome: Withdrawn application}{Final outcome: Withdrawn application}
 #'   \item{Final outcome: Cases with final outcome not yet known}{Final outcome: Cases with final outcome not yet known}
 #'   ...
@@ -383,3 +383,256 @@
 #' }
 #' @source \url{https://www.gov.uk/government/collections/migration-transparency-data#uk-visas-and-immigration}
 "travel_documents"
+
+#' Appeal Representation Rates
+#'
+#' Appeal representation rates.
+#'
+#' @format A data frame with 38 rows and 7 variables:
+#' \describe{
+#'   \item{Date}{Date}
+#'   \item{Year}{Year}
+#'   \item{Quarter}{Quarter}
+#'   \item{All hearings (\%)}{All hearings}
+#'   \item{First Tier (\%)}{First tier}
+#'   \item{Upper Tier (\%)}{Upper tier}
+#'   \item{Deportation (\%)}{Deportation}
+#'   ...
+#' }
+#' @source \url{https://www.gov.uk/government/collections/migration-transparency-data#uk-visas-and-immigration}
+"appeal_representation_rate"
+
+#' Volume of oral hearings represented by the Home Office
+#'
+#' The volume of oral hearings represented by the Home Office divided by the
+#' total number of oral hearing.
+#'
+#' @format A data frame with 11 rows and 4 variables:
+#' \describe{
+#'   \item{Financial Year}{Financial year}
+#'   \item{Asylum appeals represented at hearing (\%)}{Percent of sylum appeals represented at hearing}
+#'   \item{Asylum Oral Hearings}{Number of asylum oral hearings}
+#'   \item{Asylum Oral Hearings Represented by HO}{Number of asylum oral hearings represented by the Home Office}
+#'   ...
+#' }
+#' @source \url{https://www.gov.uk/government/collections/migration-transparency-data#uk-visas-and-immigration}
+"oral_hearings_volume"
+
+#' Decision Quality
+#'
+#' The Decision Quality percentage of Decisions Sampled.
+#'
+#' @format A data frame with 14 rows and 5 variables:
+#' \describe{
+#'   \item{Financial Year}{Financial year}
+#'   \item{Assurance}{First line or second line assurance}
+#'   \item{Decision Quality (\%)}{Decision Quality percentage}
+#'   \item{Number of Decisions Sampled}{Number of decisions sampled}
+#'   \item{Sample Size (\%)}{Sample size}
+#'   ...
+#' }
+#' @source \url{https://www.gov.uk/government/collections/migration-transparency-data#uk-visas-and-immigration}
+"decision_quality"
+
+#' Asylum applications processed within 6 months
+#'
+#' Percentage of Asylum applications processed within 6 months
+#'
+#' @format A data frame with 27 rows and 16 variables:
+#' \describe{
+#'   \item{Date}{Date}
+#'   \item{Year}{Year}
+#'   \item{Quarter}{Quarter}
+#'   \item{Decisions in}{Column just containing a label saying "6 months"}
+#'   \item{Total Applications Received}{Total applications received}
+#'   \item{Of those Applications received the number completed within six months}{Number of applications completed}
+#'   \item{Of those Applications received the percentage completed within six months}{Percent of applications completed}
+#'   \item{Total Male Applications Received}{Total applications received for males}
+#'   \item{Of those Male Applications received the number completed within six months}{Number of applications completed for males}
+#'   \item{Of those Male Applications received the percentage completed within six months}{Percent of applications completed for males}
+#'   \item{Total Female Applications Received}{Total applications received for females}
+#'   \item{Of those Female Applications received the number completed within six months}{Number of applications completed for females}
+#'   \item{Of those Female Applications received the percentage completed within six months}{Percent of applications completed for females}
+#'   \item{Total Unknown Applications Received}{Total applications received for people whose sex/gender is unknown}
+#'   \item{Of those Unknown Applications received the number completed within six months}{Number of applications completed for people whose gender/sex is unknown}
+#'   \item{Of those Unknown Applications received the percentage completed within six months}{Percent of applications completed for people whose gender/sex is unknown}
+#'   ...
+#' }
+#' @source \url{https://www.gov.uk/government/collections/migration-transparency-data#uk-visas-and-immigration}
+"applications_proccessed_in_6_months"
+
+#' Age of asylum operations
+#'
+#' Age of Asylum Operations Initial Decision Work In Progress - applications
+#' made from 1st Oct 2006.
+#'
+#' @format A data frame with 19 rows and 8 variables:
+#' \describe{
+#'   \item{Date}{Date}
+#'   \item{Year}{Year}
+#'   \item{Quarter}{Quarter}
+#'   \item{Total}{Total awaiting initial asylum decision}
+#'   \item{Less than 3 months}{Number waiting less than three months}
+#'   \item{3-6 months}{Number waiting 3-6 months}
+#'   \item{6-12 months}{Number waiting 6-12 months}
+#'   \item{12 months+}{Number waiting more than a year}
+#'   ...
+#' }
+#' @source \url{https://www.gov.uk/government/collections/migration-transparency-data#uk-visas-and-immigration}
+"age_of_asylum_operations"
+
+#' Asylum work in progress
+#'
+#' Asylum work in progress.
+#'
+#' @format A data frame with 11 rows and 17 variables:
+#' \describe{
+#'   \item{Date}{Date}
+#'   \item{Year}{Year}
+#'   \item{Quarter}{Quarter}
+#'   \item{Total Work In Progress}{Number of cases that are not concluded at the given point in time}
+#'   \item{Awaiting Initial Asylum Decision}{Number waiting an initial decision}
+#'   \item{Post Decision}{The 'Post Decision' sub-category includes cases that have had a decision but have not appealed, are not appeal rights exhausted, and have not been removed}
+#'   \item{Asylum Appeal Outstanding}{Number with appeals outstanding}
+#'   \item{Subject to Removal Action}{Number of cases in the work in progress caseload have been processed through the initial stages of the asylum operations system and are now 'subject to removal action'}
+#'   \item{On Hold}{'On Hold' sub-category includes pre- and post-decision absconders}
+#'   \item{Further Leave Application Outstanding}{Further Leave applications from former Unaccompanied Asylum Seeking Children given Discretionary Leave}
+#'   \item{Case Age: 0:12 Months}{Age of the case}
+#'   \item{Case Age: 12:24 Months}{Age of the case}
+#'   \item{Case Age: 24:36 Months}{Age of the case}
+#'   \item{Case Age: 36+ Months}{Age of the case}
+#'   \item{Gender: Male}{Number of males}
+#'   \item{Gender: Female}{Number of females}
+#'   \item{Gender: Unknown}{Number of people whose gender/sex is unknown}
+#'   ...
+#' }
+#' @source \url{https://www.gov.uk/government/collections/migration-transparency-data#uk-visas-and-immigration}
+"asylum_work_in_progress"
+
+#' Breakdown of Asylum costs and productivity
+#'
+#' Breakdown of Asylum costs and productivity.
+#'
+#' @format A data frame with 11 rows and 12 variables:
+#' \describe{
+#'   \item{Financial Year}{Financial year}
+#'   \item{Total Asylum Costs}{The costs of managing an asylum operations claim include a) costs associated with deciding a case (screening clients, interviews and issuing a decision), b) managing any related appeal, c) the cost of all asylum operations support (S4, S95 & S98) d) detention costs where detention has been used and e) enforcement costs (escorting and assisted voluntary returns). Also included are the costs of department staff and buildings and the proportionate costs of the Home Office building and managerial costs}
+#'   \item{Asylum WIP (new method)}{Number of work in progress claims (new method)}
+#'   \item{Asylum WIP (old method)}{Number of work in progress claims (old method)}
+#'   \item{Unit Cost}{Unit Costs - This is based on the Work in Progress figure. The costs of an asylum operations case will vary considerably dependent on the type of case (single, dependents) as well as barriers to documentation, legal challenges and logistical and practical challenges}
+#'   \item{Total Conclusion}{Total conclusions}
+#'   \item{Average Conclusions Per Month}{Average conclusions per month}
+#'   \item{Conclusions Productivity}{Conclusions producitivity}
+#'   \item{Total Principal Stages Completed}{Total principal stages completed}
+#'   \item{Average Principal Stages Completed Per Month}{Average principal stages completed per month}
+#'   \item{Asylum Caseworking Staff}{Number of asylum caseworking staff}
+#'   \item{Productivity}{Productivity of staff}
+#'   ...
+#' }
+#' @source \url{https://www.gov.uk/government/collections/migration-transparency-data#uk-visas-and-immigration}
+"asylum_costs_and_productivity"
+
+#' NFRP - Destitution Change of Conditions Applications and Outcomes
+#'
+#' NFRP - Destitution Change of Conditions Applications and Outcomes. Data
+#' relating to people who are on a Family or Human Rights route and apply to
+#' have the No Recourse to Public Funds (NRPF) condition lifted. A factsheet
+#' relating to NRPF can be found here:
+#' https://homeofficemedia.blog.gov.uk/2020/05/05/no-recourse-to-public-funds-nrpf/
+#'
+#' @format A data frame with 16 rows and 10 variables:
+#' \describe{
+#'   \item{Date}{Date}
+#'   \item{Year}{Year}
+#'   \item{Quarter}{Quarter}
+#'   \item{Applications Received}{Number of applications received}
+#'   \item{Of which: Pending}{Number of applications pending}
+#'   \item{Decisions}{Number of decisions made}
+#'   \item{Of which: Accepted}{Decisions that were accepted}
+#'   \item{Of which: Rejected}{Decisions that were rejected}
+#'   \item{Average Days to Decision}{Average days taken to reach a decision}
+#'   \item{Acceptance Rate}{Rate of acceptance}
+#'   ...
+#' }
+#' @source \url{https://www.gov.uk/government/collections/migration-transparency-data#uk-visas-and-immigration}
+"nrpf_change_of_conditions_decisions"
+
+#' NRPF - Destitution Change of Conditions Application by Age Group
+#'
+#' NFRP - Destitution Change of Conditions Applications by Age Group. Data
+#' relating to people who are on a Family or Human Rights route and apply to
+#' have the No Recourse to Public Funds (NRPF) condition lifted. A factsheet
+#' relating to NRPF can be found here:
+#' https://homeofficemedia.blog.gov.uk/2020/05/05/no-recourse-to-public-funds-nrpf/
+#'
+#' @format A data frame with 16 rows and 12 variables:
+#' \describe{
+#'   \item{Date}{Date}
+#'   \item{Year}{Year}
+#'   \item{Quarter}{Quarter}
+#'   \item{Under 18}{Number of applicants under 18}
+#'   \item{18 to 25}{Number of applicants aged 18-25}
+#'   \item{26 to 30}{Number of applicants aged 26-30}
+#'   \item{31 to 40}{Number of applicants aged 31-40}
+#'   \item{41 to 50}{Number of applicants aged 41-50}
+#'   \item{51 to 60}{Number of applicants aged 51-60}
+#'   \item{61 to 70}{Number of applicants aged 61-70}
+#'   \item{71 to 80}{Number of applicants aged 71-80}
+#'   \item{Over 80}{Number of applicants aged over 80}
+#'   ...
+#' }
+#' @source \url{https://www.gov.uk/government/collections/migration-transparency-data#uk-visas-and-immigration}
+"nrpf_change_of_conditions_age"
+
+#' NRPF - Destitution Change of Conditions Application by Nationality
+#'
+#' NFRP - Destitution Change of Conditions Applications by Nationality. Data
+#' relating to people who are on a Family or Human Rights route and apply to
+#' have the No Recourse to Public Funds (NRPF) condition lifted. A factsheet
+#' relating to NRPF can be found here:
+#' https://homeofficemedia.blog.gov.uk/2020/05/05/no-recourse-to-public-funds-nrpf/
+#'
+#' @format A data frame with 146 rows and 17 variables:
+#' \describe{
+#'   \item{Nationality}{Nationality}
+#'   \item{2017 Q3}{2017 Q3}
+#'   \item{2017 Q4}{2017 Q4}
+#'   \item{2018 Q1}{2018 Q1}
+#'   \item{2018 Q2}{2018 Q2}
+#'   \item{2018 Q3}{2018 Q3}
+#'   \item{2018 Q4}{2018 Q4}
+#'   \item{2019 Q1}{2019 Q1}
+#'   \item{2019 Q2}{2019 Q2}
+#'   \item{2019 Q3}{2019 Q3}
+#'   \item{2019 Q4}{2019 Q4}
+#'   \item{2020 Q1}{2020 Q1}
+#'   \item{2020 Q2}{2020 Q2}
+#'   \item{2020 Q3}{2020 Q3}
+#'   \item{2020 Q4}{2020 Q4}
+#'   \item{2021 Q1}{2021 Q1}
+#'   \item{2021 Q2}{2021 Q2}
+#'   ...
+#' }
+#' @source \url{https://www.gov.uk/government/collections/migration-transparency-data#uk-visas-and-immigration}
+"nrpf_change_of_conditions_nationality"
+
+#' NFRP - Destitution Change of Conditions Applications by Gender
+#'
+#' NFRP - Destitution Change of Conditions Applications by Gender. Data
+#' relating to people who are on a Family or Human Rights route and apply to
+#' have the No Recourse to Public Funds (NRPF) condition lifted. A factsheet
+#' relating to NRPF can be found here:
+#' https://homeofficemedia.blog.gov.uk/2020/05/05/no-recourse-to-public-funds-nrpf/
+#'
+#' @format A data frame with 16 rows and 6 variables:
+#' \describe{
+#'   \item{Date}{Date}
+#'   \item{Year}{Year}
+#'   \item{Quarter}{Quarter}
+#'   \item{Male}{Number of applications from males}
+#'   \item{Female}{Number of applications from females}
+#'   \item{Recorded as Unknown}{Number of applications from people whose sex/gender is unknown}
+#'   ...
+#' }
+#' @source \url{https://www.gov.uk/government/collections/migration-transparency-data#uk-visas-and-immigration}
+"nrpf_change_of_conditions_gender"
