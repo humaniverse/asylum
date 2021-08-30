@@ -1,7 +1,7 @@
 Package: asylum
 Type: Package
-Title: Asylum and resettlement data for the UK
-Version: 0.0.0.9000
+Title: Data on Asylum and Resettlement for the UK
+Version: 1.0.0
 Authors@R: c(
     person(given = c("Matthew", "Gwynfryn"), 
            family = "Thomas", 
@@ -14,8 +14,8 @@ Authors@R: c(
     person(family = "British Red Cross", 
            role = "cph")
     )
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
+Description: Data on Asylum and Resettlement for the UK,
+    provided by the Home Office.
 License: MIT + file LICENSE
 URL: https://github.com/britishredcrosssociety/asylum
 BugReports: https://github.com/britishredcrosssociety/asylum/issues
