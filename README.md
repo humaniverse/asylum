@@ -5,9 +5,11 @@
 
 <!-- badges: start -->
 
-[![Project Status: WIP – Initial development is in progress, but there
-has not yet been a stable, usable release suitable for the
-public.](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip)
+[![Project Status: Active – The project has reached a stable, usable
+state and is being actively
+developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
+[![CRAN
+status](https://www.r-pkg.org/badges/version/asylum)](https://cran.r-project.org/package=asylum)
 <!-- badges: end -->
 
 The `asylum` package provides easy access to asylum and resettlement
@@ -15,7 +17,14 @@ datasets for the UK, published by the Home Office.
 
 ## Installation
 
-You can install the development version from
+Install the released version of `asylum` from
+[CRAN](https://cran.r-project.org/package=asylum):
+
+``` r
+install.packages("asylum")
+```
+
+Alternatively, you can install the development version from
 [GitHub](https://github.com/) with:
 
 ``` r
@@ -35,6 +44,10 @@ library(dplyr)
 asylum::awaiting_decision |> 
   filter(Nationality == "Afghanistan" & Date == max(Date)) |> 
   summarise(`Total applications awaiting a decision` = sum(Applications))
+#> # A tibble: 1 x 1
+#>   `Total applications awaiting a decision`
+#>                                      <dbl>
+#> 1                                     3213
 ```
 
 ## Getting help
