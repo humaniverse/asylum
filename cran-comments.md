@@ -1,7 +1,7 @@
-## Resubmission
-This is a resubmission. In this version I have:
+## Release summary
+This is a minor release in the 1.0.* series:
 
-* Added URLs to the 'description' field of `DESCRIPTION` listing the web services used
+* Updated all data to the latest datasets.
 
 ## Test environments
 * local Windows 10 install, R 4.1.0
@@ -9,6 +9,4 @@ This is a resubmission. In this version I have:
 * win-builder (devel)
 
 ## R CMD check results
-0 errors | 0 warnings | 1 note
-
-* This is a new release.
+0 errors v | 0 warnings v | 0 notes v

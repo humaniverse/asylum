@@ -3836,3 +3836,490 @@ Year,Nationality,Region,Support type granted,Group type,Applications
 2020,Zimbabwe,Africa Sub-Saharan,Subsistence Only,Family,2
 2020,Zimbabwe,Africa Sub-Saharan,Subsistence Only,Single adult,9
 2020,Zimbabwe,Africa Sub-Saharan,Subsistence Only,Unknown,1
+2021,Afghanistan,Asia Central,Accommodation,Single adult,767
+2021,Afghanistan,Asia Central,Closed / Invalid,Single adult,19
+2021,Afghanistan,Asia Central,Subsistence Only,Single adult,122
+2021,Afghanistan,Asia Central,Accommodation,Unknown,21
+2021,Afghanistan,Asia Central,Accommodation,Family,98
+2021,Afghanistan,Asia Central,Closed / Invalid,Family,4
+2021,Afghanistan,Asia Central,Subsistence Only,Unknown,4
+2021,Afghanistan,Asia Central,Subsistence Only,Family,4
+2021,Afghanistan,Asia Central,Closed / Invalid,Unknown,1
+2021,Albania,Europe Other,Subsistence Only,Single adult,69
+2021,Albania,Europe Other,Subsistence Only,Family,95
+2021,Albania,Europe Other,Accommodation,Single adult,145
+2021,Albania,Europe Other,Subsistence Only,Unknown,3
+2021,Albania,Europe Other,Accommodation,Family,97
+2021,Albania,Europe Other,Accommodation,Unknown,5
+2021,Albania,Europe Other,Closed / Invalid,Family,10
+2021,Albania,Europe Other,Closed / Invalid,Single adult,19
+2021,Algeria,Africa North,Accommodation,Single adult,73
+2021,Algeria,Africa North,Closed / Invalid,Family,1
+2021,Algeria,Africa North,Subsistence Only,Single adult,4
+2021,Algeria,Africa North,Accommodation,Unknown,2
+2021,Algeria,Africa North,Accommodation,Family,4
+2021,Algeria,Africa North,Closed / Invalid,Single adult,5
+2021,Algeria,Africa North,Subsistence Only,Family,1
+2021,American Samoa,Oceania,Accommodation,Single adult,1
+2021,Angola,Africa Sub-Saharan,Accommodation,Single adult,11
+2021,Angola,Africa Sub-Saharan,Accommodation,Family,7
+2021,Angola,Africa Sub-Saharan,Subsistence Only,Family,1
+2021,Angola,Africa Sub-Saharan,Subsistence Only,Single adult,2
+2021,Antigua and Barbuda,America Central and South,Accommodation,Single adult,1
+2021,Argentina,America Central and South,Accommodation,Single adult,3
+2021,Armenia,Europe Other,Accommodation,Single adult,3
+2021,Armenia,Europe Other,Accommodation,Family,1
+2021,Azerbaijan,Europe Other,Accommodation,Family,5
+2021,Azerbaijan,Europe Other,Closed / Invalid,Single adult,1
+2021,Azerbaijan,Europe Other,Accommodation,Single adult,5
+2021,Azerbaijan,Europe Other,Subsistence Only,Single adult,1
+2021,Bahrain,Middle East,Accommodation,Single adult,2
+2021,Bangladesh,Asia South,Accommodation,Single adult,26
+2021,Bangladesh,Asia South,Subsistence Only,Single adult,22
+2021,Bangladesh,Asia South,Accommodation,Family,17
+2021,Bangladesh,Asia South,Closed / Invalid,Family,4
+2021,Bangladesh,Asia South,Accommodation,Unknown,1
+2021,Bangladesh,Asia South,Closed / Invalid,Single adult,4
+2021,Bangladesh,Asia South,Subsistence Only,Unknown,1
+2021,Bangladesh,Asia South,Subsistence Only,Family,8
+2021,Barbados,America Central and South,Accommodation,Single adult,4
+2021,Barbados,America Central and South,Accommodation,Family,1
+2021,Barbados,America Central and South,Subsistence Only,Single adult,1
+2021,Barbados,America Central and South,Closed / Invalid,Single adult,1
+2021,Belarus,Europe Other,Accommodation,Single adult,6
+2021,Belarus,Europe Other,Accommodation,Family,2
+2021,Belarus,Europe Other,Closed / Invalid,Single adult,1
+2021,Benin,Africa Sub-Saharan,Subsistence Only,Single adult,1
+2021,Benin,Africa Sub-Saharan,Accommodation,Single adult,2
+2021,Benin,Africa Sub-Saharan,Accommodation,Family,1
+2021,Benin,Africa Sub-Saharan,Closed / Invalid,Family,1
+2021,Bhutan,Asia South,Accommodation,Single adult,1
+2021,Bolivia,America Central and South,Subsistence Only,Family,1
+2021,Bolivia,America Central and South,Accommodation,Single adult,1
+2021,Botswana,Africa Sub-Saharan,Accommodation,Family,4
+2021,Botswana,Africa Sub-Saharan,Subsistence Only,Single adult,2
+2021,Botswana,Africa Sub-Saharan,Accommodation,Single adult,5
+2021,Botswana,Africa Sub-Saharan,Closed / Invalid,Single adult,1
+2021,Brazil,America Central and South,Accommodation,Single adult,11
+2021,Brazil,America Central and South,Accommodation,Family,8
+2021,Brazil,America Central and South,Accommodation,Unknown,1
+2021,Brazil,America Central and South,Closed / Invalid,Single adult,2
+2021,Brazil,America Central and South,Closed / Invalid,Family,1
+2021,Brazil,America Central and South,Subsistence Only,Family,1
+2021,British overseas citizens,Other,Subsistence Only,Single adult,1
+2021,British overseas citizens,Other,Accommodation,Single adult,1
+2021,Burma,Asia South East,Accommodation,Single adult,2
+2021,Burma,Asia South East,Closed / Invalid,Single adult,4
+2021,Burma,Asia South East,Subsistence Only,Single adult,1
+2021,Burundi,Africa Sub-Saharan,Accommodation,Single adult,7
+2021,Cameroon,Africa Sub-Saharan,Accommodation,Single adult,37
+2021,Cameroon,Africa Sub-Saharan,Accommodation,Family,1
+2021,Cameroon,Africa Sub-Saharan,Subsistence Only,Single adult,13
+2021,Cameroon,Africa Sub-Saharan,Closed / Invalid,Family,3
+2021,Cameroon,Africa Sub-Saharan,Closed / Invalid,Single adult,3
+2021,Cameroon,Africa Sub-Saharan,Subsistence Only,Family,1
+2021,Central African Republic,Africa Sub-Saharan,Accommodation,Single adult,3
+2021,Chad,Africa Sub-Saharan,Accommodation,Single adult,67
+2021,Chad,Africa Sub-Saharan,Closed / Invalid,Single adult,2
+2021,Chad,Africa Sub-Saharan,Accommodation,Family,2
+2021,Chile,America Central and South,Accommodation,Single adult,1
+2021,China,Asia East,Closed / Invalid,Single adult,12
+2021,China,Asia East,Accommodation,Unknown,5
+2021,China,Asia East,Closed / Invalid,Family,7
+2021,China,Asia East,Subsistence Only,Single adult,14
+2021,China,Asia East,Accommodation,Single adult,34
+2021,China,Asia East,Accommodation,Family,34
+2021,China,Asia East,Subsistence Only,Unknown,1
+2021,China,Asia East,Subsistence Only,Family,4
+2021,China,Asia East,Closed / Invalid,Unknown,1
+2021,Colombia,America Central and South,Subsistence Only,Family,1
+2021,Colombia,America Central and South,Accommodation,Family,1
+2021,Colombia,America Central and South,Accommodation,Single adult,2
+2021,Comoros,Africa Sub-Saharan,Accommodation,Single adult,1
+2021,Congo,Africa Sub-Saharan,Accommodation,Single adult,4
+2021,Congo,Africa Sub-Saharan,Accommodation,Family,1
+2021,Congo (Democratic Republic),Africa Sub-Saharan,Accommodation,Single adult,19
+2021,Congo (Democratic Republic),Africa Sub-Saharan,Subsistence Only,Single adult,7
+2021,Congo (Democratic Republic),Africa Sub-Saharan,Accommodation,Family,3
+2021,Congo (Democratic Republic),Africa Sub-Saharan,Closed / Invalid,Family,1
+2021,Cuba,America Central and South,Closed / Invalid,Unknown,1
+2021,Czech Republic,EU 8,Accommodation,Single adult,1
+2021,Djibouti,Africa Sub-Saharan,Accommodation,Single adult,2
+2021,Dominica,America Central and South,Accommodation,Single adult,3
+2021,Dominica,America Central and South,Accommodation,Family,1
+2021,Dominican Republic,America Central and South,Accommodation,Single adult,2
+2021,Ecuador,America Central and South,Accommodation,Single adult,1
+2021,Egypt,Africa North,Accommodation,Single adult,225
+2021,Egypt,Africa North,Subsistence Only,Single adult,8
+2021,Egypt,Africa North,Closed / Invalid,Single adult,11
+2021,Egypt,Africa North,Accommodation,Family,17
+2021,Egypt,Africa North,Accommodation,Unknown,2
+2021,Egypt,Africa North,Subsistence Only,Family,2
+2021,Egypt,Africa North,Closed / Invalid,Family,1
+2021,El Salvador,America Central and South,Accommodation,Single adult,215
+2021,El Salvador,America Central and South,Accommodation,Family,188
+2021,El Salvador,America Central and South,Accommodation,Unknown,55
+2021,El Salvador,America Central and South,Subsistence Only,Single adult,8
+2021,El Salvador,America Central and South,Closed / Invalid,Single adult,3
+2021,Equatorial Guinea,Africa Sub-Saharan,Accommodation,Family,1
+2021,Eritrea,Africa Sub-Saharan,Accommodation,Single adult,3324
+2021,Eritrea,Africa Sub-Saharan,Closed / Invalid,Single adult,12
+2021,Eritrea,Africa Sub-Saharan,Accommodation,Family,186
+2021,Eritrea,Africa Sub-Saharan,Accommodation,Unknown,16
+2021,Eritrea,Africa Sub-Saharan,Subsistence Only,Single adult,8
+2021,Eritrea,Africa Sub-Saharan,Closed / Invalid,Family,1
+2021,Ethiopia,Africa Sub-Saharan,Accommodation,Single adult,427
+2021,Ethiopia,Africa Sub-Saharan,Subsistence Only,Single adult,3
+2021,Ethiopia,Africa Sub-Saharan,Accommodation,Unknown,9
+2021,Ethiopia,Africa Sub-Saharan,Accommodation,Family,45
+2021,Ethiopia,Africa Sub-Saharan,Closed / Invalid,Single adult,7
+2021,Ethiopia,Africa Sub-Saharan,Closed / Invalid,Family,2
+2021,"Gambia, The",Africa Sub-Saharan,Accommodation,Single adult,20
+2021,"Gambia, The",Africa Sub-Saharan,Subsistence Only,Single adult,4
+2021,"Gambia, The",Africa Sub-Saharan,Accommodation,Family,4
+2021,"Gambia, The",Africa Sub-Saharan,Closed / Invalid,Single adult,2
+2021,Georgia,Europe Other,Closed / Invalid,Single adult,3
+2021,Georgia,Europe Other,Accommodation,Single adult,29
+2021,Georgia,Europe Other,Accommodation,Family,3
+2021,Georgia,Europe Other,Accommodation,Unknown,7
+2021,Ghana,Africa Sub-Saharan,Subsistence Only,Single adult,8
+2021,Ghana,Africa Sub-Saharan,Accommodation,Family,7
+2021,Ghana,Africa Sub-Saharan,Accommodation,Single adult,16
+2021,Ghana,Africa Sub-Saharan,Closed / Invalid,Single adult,1
+2021,Ghana,Africa Sub-Saharan,Closed / Invalid,Family,1
+2021,Grenada,America Central and South,Accommodation,Single adult,4
+2021,Grenada,America Central and South,Closed / Invalid,Single adult,1
+2021,Grenada,America Central and South,Subsistence Only,Single adult,1
+2021,Grenada,America Central and South,Accommodation,Family,1
+2021,Guatemala,America Central and South,Accommodation,Unknown,2
+2021,Guatemala,America Central and South,Accommodation,Single adult,3
+2021,Guatemala,America Central and South,Accommodation,Family,2
+2021,Guatemala,America Central and South,Subsistence Only,Family,1
+2021,Guinea,Africa Sub-Saharan,Accommodation,Single adult,28
+2021,Guinea,Africa Sub-Saharan,Closed / Invalid,Single adult,1
+2021,Guinea,Africa Sub-Saharan,Subsistence Only,Single adult,1
+2021,Guinea-Bissau,Africa Sub-Saharan,Accommodation,Single adult,1
+2021,Guyana,America Central and South,Closed / Invalid,Single adult,1
+2021,Guyana,America Central and South,Accommodation,Single adult,2
+2021,Haiti,America Central and South,Accommodation,Single adult,1
+2021,Honduras,America Central and South,Accommodation,Family,44
+2021,Honduras,America Central and South,Accommodation,Unknown,14
+2021,Honduras,America Central and South,Accommodation,Single adult,52
+2021,Honduras,America Central and South,Closed / Invalid,Family,3
+2021,Honduras,America Central and South,Subsistence Only,Single adult,1
+2021,Hong Kong,Asia East,Accommodation,Single adult,10
+2021,Hong Kong,Asia East,Subsistence Only,Single adult,4
+2021,Hong Kong,Asia East,Closed / Invalid,Single adult,4
+2021,Hong Kong,Asia East,Accommodation,Unknown,2
+2021,Hong Kong,Asia East,Accommodation,Family,1
+2021,Hong Kong,Asia East,Closed / Invalid,Family,1
+2021,India,Asia South,Accommodation,Single adult,31
+2021,India,Asia South,Subsistence Only,Unknown,1
+2021,India,Asia South,Accommodation,Family,25
+2021,India,Asia South,Subsistence Only,Single adult,16
+2021,India,Asia South,Subsistence Only,Family,8
+2021,India,Asia South,Closed / Invalid,Family,4
+2021,India,Asia South,Closed / Invalid,Single adult,13
+2021,India,Asia South,Accommodation,Unknown,2
+2021,India,Asia South,Closed / Invalid,Unknown,2
+2021,Indonesia,Asia South East,Accommodation,Family,1
+2021,Iran,Middle East,Accommodation,Single adult,5401
+2021,Iran,Middle East,Subsistence Only,Single adult,98
+2021,Iran,Middle East,Accommodation,Unknown,82
+2021,Iran,Middle East,Accommodation,Family,183
+2021,Iran,Middle East,Closed / Invalid,Single adult,28
+2021,Iran,Middle East,Closed / Invalid,Family,1
+2021,Iran,Middle East,Subsistence Only,Family,4
+2021,Iran,Middle East,Closed / Invalid,Unknown,1
+2021,Iraq,Middle East,Accommodation,Single adult,3177
+2021,Iraq,Middle East,Accommodation,Family,398
+2021,Iraq,Middle East,Accommodation,Unknown,78
+2021,Iraq,Middle East,Subsistence Only,Single adult,77
+2021,Iraq,Middle East,Subsistence Only,Family,14
+2021,Iraq,Middle East,Closed / Invalid,Single adult,17
+2021,Iraq,Middle East,Closed / Invalid,Family,4
+2021,Israel,Middle East,Accommodation,Single adult,5
+2021,Ivory Coast,Africa Sub-Saharan,Accommodation,Single adult,8
+2021,Ivory Coast,Africa Sub-Saharan,Subsistence Only,Single adult,2
+2021,Ivory Coast,Africa Sub-Saharan,Closed / Invalid,Single adult,1
+2021,Jamaica,America Central and South,Accommodation,Single adult,12
+2021,Jamaica,America Central and South,Closed / Invalid,Single adult,2
+2021,Jamaica,America Central and South,Subsistence Only,Single adult,3
+2021,Jordan,Middle East,Accommodation,Family,7
+2021,Jordan,Middle East,Accommodation,Single adult,9
+2021,Jordan,Middle East,Subsistence Only,Single adult,1
+2021,Jordan,Middle East,Closed / Invalid,Family,1
+2021,Jordan,Middle East,Closed / Invalid,Single adult,1
+2021,Kazakhstan,Asia Central,Accommodation,Single adult,8
+2021,Kazakhstan,Asia Central,Accommodation,Family,3
+2021,Kazakhstan,Asia Central,Subsistence Only,Single adult,1
+2021,Kenya,Africa Sub-Saharan,Accommodation,Single adult,9
+2021,Kenya,Africa Sub-Saharan,Subsistence Only,Single adult,4
+2021,Kenya,Africa Sub-Saharan,Closed / Invalid,Single adult,2
+2021,Kenya,Africa Sub-Saharan,Subsistence Only,Family,1
+2021,Kenya,Africa Sub-Saharan,Accommodation,Family,6
+2021,Kenya,Africa Sub-Saharan,Closed / Invalid,Family,1
+2021,Korea (North),Asia East,Closed / Invalid,Single adult,2
+2021,Korea (North),Asia East,Accommodation,Family,2
+2021,Kosovo,Europe Other,Accommodation,Single adult,2
+2021,Kosovo,Europe Other,Accommodation,Family,1
+2021,Kuwait,Middle East,Accommodation,Single adult,281
+2021,Kuwait,Middle East,Accommodation,Family,53
+2021,Kuwait,Middle East,Subsistence Only,Single adult,13
+2021,Kuwait,Middle East,Accommodation,Unknown,7
+2021,Kuwait,Middle East,Subsistence Only,Family,6
+2021,Kuwait,Middle East,Closed / Invalid,Single adult,2
+2021,Kuwait,Middle East,Closed / Invalid,Family,1
+2021,Kyrgyzstan,Asia Central,Accommodation,Single adult,2
+2021,Lebanon,Middle East,Accommodation,Single adult,5
+2021,Lebanon,Middle East,Subsistence Only,Single adult,2
+2021,Lebanon,Middle East,Accommodation,Family,7
+2021,Lebanon,Middle East,Subsistence Only,Family,1
+2021,Liberia,Africa Sub-Saharan,Accommodation,Single adult,6
+2021,Liberia,Africa Sub-Saharan,Accommodation,Family,1
+2021,Libya,Africa North,Accommodation,Single adult,141
+2021,Libya,Africa North,Closed / Invalid,Single adult,3
+2021,Libya,Africa North,Subsistence Only,Single adult,7
+2021,Libya,Africa North,Accommodation,Family,14
+2021,Libya,Africa North,Subsistence Only,Family,6
+2021,Libya,Africa North,Closed / Invalid,Family,1
+2021,Libya,Africa North,Accommodation,Unknown,1
+2021,Macedonia,Europe Other,Accommodation,Single adult,1
+2021,Malawi,Africa Sub-Saharan,Accommodation,Single adult,4
+2021,Malawi,Africa Sub-Saharan,Closed / Invalid,Single adult,1
+2021,Malawi,Africa Sub-Saharan,Accommodation,Family,2
+2021,Malawi,Africa Sub-Saharan,Subsistence Only,Single adult,1
+2021,Malaysia,Asia South East,Accommodation,Single adult,4
+2021,Malaysia,Asia South East,Closed / Invalid,Family,1
+2021,Malaysia,Asia South East,Closed / Invalid,Single adult,2
+2021,Malaysia,Asia South East,Subsistence Only,Family,1
+2021,Malaysia,Asia South East,Subsistence Only,Single adult,2
+2021,Malaysia,Asia South East,Accommodation,Family,1
+2021,Mali,Africa Sub-Saharan,Accommodation,Single adult,13
+2021,Mauritania,Africa North,Accommodation,Single adult,3
+2021,Mauritius,Africa Sub-Saharan,Accommodation,Family,3
+2021,Mauritius,Africa Sub-Saharan,Closed / Invalid,Single adult,1
+2021,Mauritius,Africa Sub-Saharan,Accommodation,Unknown,1
+2021,Mauritius,Africa Sub-Saharan,Subsistence Only,Single adult,2
+2021,Mauritius,Africa Sub-Saharan,Subsistence Only,Family,1
+2021,Mauritius,Africa Sub-Saharan,Accommodation,Single adult,3
+2021,Mexico,America Central and South,Accommodation,Unknown,2
+2021,Mexico,America Central and South,Accommodation,Single adult,13
+2021,Mexico,America Central and South,Closed / Invalid,Single adult,1
+2021,Mexico,America Central and South,Accommodation,Family,6
+2021,Mongolia,Asia East,Accommodation,Family,4
+2021,Mongolia,Asia East,Closed / Invalid,Family,1
+2021,Mongolia,Asia East,Accommodation,Single adult,1
+2021,Morocco,Africa North,Closed / Invalid,Single adult,3
+2021,Morocco,Africa North,Accommodation,Single adult,47
+2021,Morocco,Africa North,Accommodation,Family,4
+2021,Morocco,Africa North,Subsistence Only,Single adult,2
+2021,Morocco,Africa North,Closed / Invalid,Family,1
+2021,Namibia,Africa Sub-Saharan,Accommodation,Single adult,44
+2021,Namibia,Africa Sub-Saharan,Accommodation,Family,17
+2021,Namibia,Africa Sub-Saharan,Accommodation,Unknown,1
+2021,Namibia,Africa Sub-Saharan,Closed / Invalid,Family,2
+2021,Namibia,Africa Sub-Saharan,Subsistence Only,Single adult,3
+2021,Namibia,Africa Sub-Saharan,Closed / Invalid,Single adult,5
+2021,Namibia,Africa Sub-Saharan,Subsistence Only,Family,2
+2021,Nepal,Asia South,Accommodation,Single adult,16
+2021,Nepal,Asia South,Accommodation,Family,3
+2021,Nepal,Asia South,Subsistence Only,Family,1
+2021,Nepal,Asia South,Subsistence Only,Single adult,1
+2021,New Zealand,Oceania,Accommodation,Single adult,1
+2021,Nicaragua,America Central and South,Accommodation,Family,16
+2021,Nicaragua,America Central and South,Subsistence Only,Family,1
+2021,Nicaragua,America Central and South,Accommodation,Single adult,15
+2021,Nicaragua,America Central and South,Accommodation,Unknown,2
+2021,Nicaragua,America Central and South,Closed / Invalid,Family,2
+2021,Nicaragua,America Central and South,Subsistence Only,Single adult,3
+2021,Nicaragua,America Central and South,Subsistence Only,Unknown,2
+2021,Niger,Africa Sub-Saharan,Accommodation,Single adult,5
+2021,Nigeria,Africa Sub-Saharan,Accommodation,Single adult,127
+2021,Nigeria,Africa Sub-Saharan,Accommodation,Family,149
+2021,Nigeria,Africa Sub-Saharan,Subsistence Only,Family,5
+2021,Nigeria,Africa Sub-Saharan,Accommodation,Unknown,3
+2021,Nigeria,Africa Sub-Saharan,Closed / Invalid,Family,10
+2021,Nigeria,Africa Sub-Saharan,Subsistence Only,Single adult,18
+2021,Nigeria,Africa Sub-Saharan,Closed / Invalid,Single adult,18
+2021,Occupied Palestinian Territories,Middle East,Subsistence Only,Family,2
+2021,Occupied Palestinian Territories,Middle East,Subsistence Only,Single adult,13
+2021,Occupied Palestinian Territories,Middle East,Accommodation,Single adult,129
+2021,Occupied Palestinian Territories,Middle East,Accommodation,Family,12
+2021,Occupied Palestinian Territories,Middle East,Accommodation,Unknown,2
+2021,Occupied Palestinian Territories,Middle East,Closed / Invalid,Single adult,1
+2021,Oman,Middle East,Accommodation,Single adult,4
+2021,Oman,Middle East,Closed / Invalid,Single adult,1
+2021,Other and unknown,Other,Closed / Invalid,Unknown,3438
+2021,Other and unknown,Other,Accommodation,Single adult,14
+2021,Other and unknown,Other,Subsistence Only,Family,9
+2021,Other and unknown,Other,Closed / Invalid,Single adult,1
+2021,Other and unknown,Other,Subsistence Only,Single adult,3
+2021,Other and unknown,Other,Accommodation,Unknown,1
+2021,Other and unknown,Other,Accommodation,Family,3
+2021,Other and unknown,Other,Closed / Invalid,Family,2
+2021,Pakistan,Asia South,Accommodation,Single adult,171
+2021,Pakistan,Asia South,Accommodation,Family,52
+2021,Pakistan,Asia South,Closed / Invalid,Single adult,19
+2021,Pakistan,Asia South,Subsistence Only,Unknown,3
+2021,Pakistan,Asia South,Subsistence Only,Single adult,59
+2021,Pakistan,Asia South,Subsistence Only,Family,14
+2021,Pakistan,Asia South,Closed / Invalid,Family,8
+2021,Pakistan,Asia South,Accommodation,Unknown,11
+2021,Pakistan,Asia South,Closed / Invalid,Unknown,2
+2021,Peru,America Central and South,Accommodation,Single adult,1
+2021,Peru,America Central and South,Closed / Invalid,Single adult,1
+2021,Philippines,Asia South East,Accommodation,Single adult,2
+2021,Philippines,Asia South East,Accommodation,Family,4
+2021,Philippines,Asia South East,Subsistence Only,Single adult,2
+2021,Refugee,Other,Subsistence Only,Single adult,6
+2021,Refugee,Other,Accommodation,Single adult,22
+2021,Refugee,Other,Accommodation,Family,3
+2021,Refugee,Other,Accommodation,Unknown,1
+2021,Refugee,Other,Subsistence Only,Family,2
+2021,Russia,Europe Other,Accommodation,Family,28
+2021,Russia,Europe Other,Accommodation,Unknown,14
+2021,Russia,Europe Other,Accommodation,Single adult,54
+2021,Russia,Europe Other,Closed / Invalid,Family,1
+2021,Russia,Europe Other,Subsistence Only,Single adult,4
+2021,Russia,Europe Other,Subsistence Only,Family,2
+2021,Russia,Europe Other,Closed / Invalid,Single adult,2
+2021,Russia,Europe Other,Closed / Invalid,Unknown,1
+2021,Rwanda,Africa Sub-Saharan,Subsistence Only,Single adult,1
+2021,Rwanda,Africa Sub-Saharan,Closed / Invalid,Single adult,1
+2021,Rwanda,Africa Sub-Saharan,Accommodation,Single adult,2
+2021,Saudi Arabia,Middle East,Accommodation,Single adult,48
+2021,Saudi Arabia,Middle East,Accommodation,Family,8
+2021,Saudi Arabia,Middle East,Subsistence Only,Single adult,3
+2021,Saudi Arabia,Middle East,Closed / Invalid,Single adult,4
+2021,Senegal,Africa Sub-Saharan,Accommodation,Single adult,11
+2021,Senegal,Africa Sub-Saharan,Subsistence Only,Single adult,2
+2021,Senegal,Africa Sub-Saharan,Accommodation,Family,1
+2021,Senegal,Africa Sub-Saharan,Closed / Invalid,Single adult,1
+2021,Sierra Leone,Africa Sub-Saharan,Accommodation,Single adult,22
+2021,Sierra Leone,Africa Sub-Saharan,Accommodation,Unknown,1
+2021,Sierra Leone,Africa Sub-Saharan,Closed / Invalid,Single adult,3
+2021,Sierra Leone,Africa Sub-Saharan,Subsistence Only,Single adult,7
+2021,Sierra Leone,Africa Sub-Saharan,Accommodation,Family,5
+2021,Somalia,Africa Sub-Saharan,Accommodation,Single adult,359
+2021,Somalia,Africa Sub-Saharan,Accommodation,Family,28
+2021,Somalia,Africa Sub-Saharan,Closed / Invalid,Family,1
+2021,Somalia,Africa Sub-Saharan,Subsistence Only,Single adult,31
+2021,Somalia,Africa Sub-Saharan,Accommodation,Unknown,6
+2021,Somalia,Africa Sub-Saharan,Closed / Invalid,Single adult,5
+2021,South Africa,Africa Sub-Saharan,Subsistence Only,Single adult,6
+2021,South Africa,Africa Sub-Saharan,Accommodation,Single adult,5
+2021,South Africa,Africa Sub-Saharan,Accommodation,Family,5
+2021,South Africa,Africa Sub-Saharan,Closed / Invalid,Single adult,1
+2021,Sri Lanka,Asia South,Accommodation,Single adult,15
+2021,Sri Lanka,Asia South,Subsistence Only,Single adult,25
+2021,Sri Lanka,Asia South,Accommodation,Family,12
+2021,Sri Lanka,Asia South,Accommodation,Unknown,2
+2021,Sri Lanka,Asia South,Subsistence Only,Family,7
+2021,Sri Lanka,Asia South,Closed / Invalid,Single adult,4
+2021,Sri Lanka,Asia South,Closed / Invalid,Unknown,1
+2021,Sri Lanka,Asia South,Closed / Invalid,Family,1
+2021,St. Kitts and Nevis,America Central and South,Accommodation,Family,2
+2021,St. Lucia,America Central and South,Subsistence Only,Single adult,2
+2021,St. Lucia,America Central and South,Accommodation,Family,4
+2021,St. Lucia,America Central and South,Accommodation,Single adult,2
+2021,St. Lucia,America Central and South,Closed / Invalid,Single adult,1
+2021,St. Vincent and the Grenadines,America Central and South,Accommodation,Family,2
+2021,St. Vincent and the Grenadines,America Central and South,Accommodation,Single adult,4
+2021,St. Vincent and the Grenadines,America Central and South,Subsistence Only,Single adult,1
+2021,Stateless,Other,Accommodation,Single adult,272
+2021,Stateless,Other,Subsistence Only,Single adult,64
+2021,Stateless,Other,Accommodation,Family,109
+2021,Stateless,Other,Subsistence Only,Unknown,3
+2021,Stateless,Other,Subsistence Only,Family,11
+2021,Stateless,Other,Closed / Invalid,Single adult,2
+2021,Stateless,Other,Closed / Invalid,Unknown,1
+2021,Stateless,Other,Accommodation,Unknown,10
+2021,Sudan,Africa North,Accommodation,Single adult,1437
+2021,Sudan,Africa North,Accommodation,Family,25
+2021,Sudan,Africa North,Accommodation,Unknown,3
+2021,Sudan,Africa North,Closed / Invalid,Single adult,11
+2021,Sudan,Africa North,Subsistence Only,Single adult,7
+2021,Sudan,Africa North,Closed / Invalid,Family,1
+2021,Sudan,Africa North,Subsistence Only,Family,1
+2021,Sudan (South),Africa Sub-Saharan,Accommodation,Single adult,44
+2021,Sudan (South),Africa Sub-Saharan,Accommodation,Family,3
+2021,Sudan (South),Africa Sub-Saharan,Closed / Invalid,Single adult,1
+2021,Swaziland,Africa Sub-Saharan,Subsistence Only,Single adult,1
+2021,Syria,Middle East,Subsistence Only,Single adult,188
+2021,Syria,Middle East,Accommodation,Single adult,1546
+2021,Syria,Middle East,Accommodation,Family,123
+2021,Syria,Middle East,Accommodation,Unknown,8
+2021,Syria,Middle East,Closed / Invalid,Single adult,13
+2021,Syria,Middle East,Closed / Invalid,Family,3
+2021,Syria,Middle East,Subsistence Only,Unknown,1
+2021,Syria,Middle East,Subsistence Only,Family,5
+2021,Tajikistan,Asia Central,Accommodation,Single adult,3
+2021,Tajikistan,Asia Central,Accommodation,Unknown,1
+2021,Tanzania,Africa Sub-Saharan,Closed / Invalid,Single adult,2
+2021,Tanzania,Africa Sub-Saharan,Accommodation,Single adult,6
+2021,Tanzania,Africa Sub-Saharan,Subsistence Only,Family,1
+2021,Tanzania,Africa Sub-Saharan,Accommodation,Family,1
+2021,Thailand,Asia South East,Accommodation,Single adult,5
+2021,Thailand,Asia South East,Accommodation,Unknown,1
+2021,Togo,Africa Sub-Saharan,Accommodation,Single adult,4
+2021,Trinidad and Tobago,America Central and South,Accommodation,Single adult,17
+2021,Trinidad and Tobago,America Central and South,Accommodation,Family,7
+2021,Trinidad and Tobago,America Central and South,Closed / Invalid,Single adult,2
+2021,Trinidad and Tobago,America Central and South,Subsistence Only,Family,1
+2021,Trinidad and Tobago,America Central and South,Accommodation,Unknown,2
+2021,Tunisia,Africa North,Accommodation,Single adult,14
+2021,Tunisia,Africa North,Accommodation,Family,2
+2021,Tunisia,Africa North,Subsistence Only,Single adult,1
+2021,Tunisia,Africa North,Closed / Invalid,Single adult,1
+2021,Turkey,Europe Other,Accommodation,Family,83
+2021,Turkey,Europe Other,Accommodation,Single adult,126
+2021,Turkey,Europe Other,Subsistence Only,Single adult,36
+2021,Turkey,Europe Other,Closed / Invalid,Family,3
+2021,Turkey,Europe Other,Closed / Invalid,Single adult,8
+2021,Turkey,Europe Other,Accommodation,Unknown,10
+2021,Turkey,Europe Other,Subsistence Only,Family,11
+2021,Turkey,Europe Other,Subsistence Only,Unknown,1
+2021,Turkmenistan,Asia Central,Accommodation,Family,3
+2021,Turkmenistan,Asia Central,Accommodation,Single adult,3
+2021,Turkmenistan,Asia Central,Subsistence Only,Single adult,1
+2021,Turkmenistan,Asia Central,Accommodation,Unknown,1
+2021,Uganda,Africa Sub-Saharan,Accommodation,Single adult,22
+2021,Uganda,Africa Sub-Saharan,Closed / Invalid,Single adult,2
+2021,Uganda,Africa Sub-Saharan,Accommodation,Family,2
+2021,Uganda,Africa Sub-Saharan,Subsistence Only,Single adult,11
+2021,Uganda,Africa Sub-Saharan,Subsistence Only,Family,1
+2021,Ukraine,Europe Other,Accommodation,Single adult,2
+2021,Ukraine,Europe Other,Closed / Invalid,Single adult,3
+2021,Ukraine,Europe Other,Subsistence Only,Single adult,1
+2021,United Arab Emirates,Middle East,Accommodation,Single adult,3
+2021,United States,America North,Closed / Invalid,Family,1
+2021,United States,America North,Closed / Invalid,Single adult,3
+2021,United States,America North,Accommodation,Single adult,8
+2021,Uzbekistan,Asia Central,Accommodation,Single adult,3
+2021,Uzbekistan,Asia Central,Accommodation,Family,2
+2021,Venezuela,America Central and South,Subsistence Only,Single adult,1
+2021,Venezuela,America Central and South,Accommodation,Single adult,2
+2021,Vietnam,Asia South East,Subsistence Only,Family,7
+2021,Vietnam,Asia South East,Accommodation,Single adult,210
+2021,Vietnam,Asia South East,Subsistence Only,Single adult,31
+2021,Vietnam,Asia South East,Accommodation,Family,23
+2021,Vietnam,Asia South East,Closed / Invalid,Single adult,20
+2021,Vietnam,Asia South East,Closed / Invalid,Family,4
+2021,Vietnam,Asia South East,Accommodation,Unknown,6
+2021,Western Sahara,Africa North,Accommodation,Single adult,3
+2021,Yemen,Middle East,Accommodation,Single adult,238
+2021,Yemen,Middle East,Accommodation,Family,24
+2021,Yemen,Middle East,Subsistence Only,Unknown,1
+2021,Yemen,Middle East,Closed / Invalid,Single adult,5
+2021,Yemen,Middle East,Subsistence Only,Single adult,15
+2021,Yemen,Middle East,Accommodation,Unknown,3
+2021,Yemen,Middle East,Subsistence Only,Family,1
+2021,Yemen,Middle East,Closed / Invalid,Unknown,1
+2021,Yemen,Middle East,Closed / Invalid,Family,1
+2021,Zambia,Africa Sub-Saharan,Accommodation,Single adult,2
+2021,Zambia,Africa Sub-Saharan,Closed / Invalid,Single adult,1
+2021,Zimbabwe,Africa Sub-Saharan,Closed / Invalid,Single adult,3
+2021,Zimbabwe,Africa Sub-Saharan,Subsistence Only,Single adult,1
+2021,Zimbabwe,Africa Sub-Saharan,Accommodation,Single adult,12
+2021,Zimbabwe,Africa Sub-Saharan,Accommodation,Family,8

@@ -1,7 +1,7 @@
 library(tidyverse)
 library(lubridate)
 library(devtools)
-library(readODS)
+library(readxl)
 library(janitor)
 library(httr)
 
@@ -27,7 +27,7 @@ GET(
 
 # ---- Appeal representation rate ----
 appeal_representation_rate <-
-  read_ods(tf, sheet = "ALAR_01", skip = 3)
+  read_excel(tf, sheet = "ALAR_01", skip = 3)
 
 appeal_representation_rate <-
   appeal_representation_rate |>
@@ -44,11 +44,12 @@ appeal_representation_rate <-
 
 # Remove footnotes from column names
 names(appeal_representation_rate) <-
-  str_remove(names(appeal_representation_rate), "[0-9]")
+  str_remove(names(appeal_representation_rate), "[0-9]") |>
+  str_remove(" $")
 
 # ---- Volume of oral hearings represented by the Home Office ----
 oral_hearings_volume <-
-  read_ods(tf, sheet = "ALAR_01A", skip = 3)
+  read_excel(tf, sheet = "ALAR_01A", skip = 3)
 
 oral_hearings_volume <-
   oral_hearings_volume |>
@@ -57,7 +58,7 @@ oral_hearings_volume <-
 
 # ---- Decision quality ----
 decision_quality <-
-  read_ods(tf, sheet = "ADQ_01A", skip = 3)
+  read_excel(tf, sheet = "ADQ_01A", skip = 3)
 
 names(decision_quality)[2] = "Assurance"
 
@@ -71,11 +72,12 @@ decision_quality <-
 names(decision_quality) <-
   names(decision_quality) |>
   str_remove(",") |>
-  str_remove_all("[0-9]")
+  str_remove_all("[0-9]") |>
+  str_remove(" $")
 
 # ---- Percentage of Asylum applications processed within 6 months ----
 applications_proccessed_in_6_months <-
-  read_ods(tf, sheet = "Asy_01", skip = 2)
+  read_excel(tf, sheet = "Asy_01", skip = 3)
 
 applications_proccessed_in_6_months <-
   applications_proccessed_in_6_months |>
@@ -95,11 +97,12 @@ names(applications_proccessed_in_6_months) <-
   str_remove(",") |>
   str_remove(":") |>
   str_replace("6 Months", "six months") |>
-  str_remove_all("[0-9]+")
+  str_remove_all("[0-9]+") |>
+  str_remove(" $")
 
 # ---- Age of Asylum Operations Initial Decision Work In Progress ----
 age_of_asylum_operations <-
-  read_ods(tf, sheet = "ASY_02", skip = 3)
+  read_excel(tf, sheet = "ASY_02", skip = 4)
 
 age_of_asylum_operations <-
   age_of_asylum_operations |>
@@ -114,7 +117,7 @@ age_of_asylum_operations <-
 
 # ---- Asylum work in progress ----
 asylum_work_in_progress <-
-  read_ods(tf, sheet = "Asy_03", skip = 3)
+  read_excel(tf, sheet = "Asy_03", skip = 3)
 
 asylum_work_in_progress <-
   asylum_work_in_progress |>
@@ -131,11 +134,12 @@ asylum_work_in_progress <-
 names(asylum_work_in_progress) <-
   names(asylum_work_in_progress) |>
   str_remove("[0-9]+$") |>
-  str_remove("[0-9]+,$")
+  str_remove("[0-9]+,$") |>
+  str_remove(" $")
 
 # ---- Breakdown of Asylum costs and productivity ----
 asylum_costs_and_productivity <-
-  read_ods(tf, sheet = "Asy_04", skip = 3)
+  read_excel(tf, sheet = "Asy_04", skip = 3)
 
 asylum_costs_and_productivity <-
   asylum_costs_and_productivity |>
@@ -148,11 +152,12 @@ asylum_costs_and_productivity <-
 names(asylum_costs_and_productivity) <-
   names(asylum_costs_and_productivity) |>
   str_remove("[0-9]+$") |>
-  str_remove("[0-9]+,$")
+  str_remove("[0-9]+,$") |>
+  str_remove(" $")
 
 # ---- NFRP - Destitution Change of Conditions Applications and Outcomes ----
 nrpf_change_of_conditions_decisions <-
-  read_ods(tf, sheet = "CoC_01", skip = 2)
+  read_excel(tf, sheet = "CoC_01", skip = 2)
 
 nrpf_change_of_conditions_decisions <-
   nrpf_change_of_conditions_decisions |>
@@ -175,7 +180,7 @@ names(nrpf_change_of_conditions_decisions) <-
 
 # ---- NRPF - Destitution Change of Conditions Application by Age Group ----
 nrpf_change_of_conditions_age <-
-  read_ods(tf, sheet = "CoC_02", skip = 3)
+  read_excel(tf, sheet = "CoC_02", skip = 3)
 
 nrpf_change_of_conditions_age <-
   nrpf_change_of_conditions_age |>
@@ -190,7 +195,7 @@ nrpf_change_of_conditions_age <-
 
 # ---- NRPF - Destitution Change of Conditions Nationality of Applicants ----
 nrpf_change_of_conditions_nationality <-
-  read_ods(tf, sheet = "CoC_03", skip = 3)
+  read_excel(tf, sheet = "CoC_03", skip = 3)
 
 nrpf_change_of_conditions_nationality <-
   nrpf_change_of_conditions_nationality |>
@@ -199,7 +204,7 @@ nrpf_change_of_conditions_nationality <-
 
 # ---- NRPF - Destitution Change of Conditions Gender of Applicants ----
 nrpf_change_of_conditions_gender <-
-  read_ods(tf, sheet = "CoC_04", skip = 3)
+  read_excel(tf, sheet = "CoC_04", skip = 3)
 
 nrpf_change_of_conditions_gender <-
   nrpf_change_of_conditions_gender |>

@@ -3,7 +3,7 @@
 #' Asylum seekers in receipt of support at end of period, by nationality,
 #' support type, and UK region.
 #'
-#' @format A data frame with 35,597 rows and 7 variables:
+#' @format A data frame with 47,365 rows and 7 variables:
 #' \describe{
 #'   \item{Date}{Date}
 #'   \item{Nationality}{Nationality of people receiving support}
@@ -22,7 +22,7 @@
 #' Applications for section 95 support, by nationality, support type granted,
 #' and group type.
 #'
-#' @format A data frame with 3,837 rows and 6 variables:
+#' @format A data frame with 4,324 rows and 6 variables:
 #' \describe{
 #'   \item{Year}{Year}
 #'   \item{Nationality}{Nationality of people receiving support}
@@ -40,7 +40,7 @@
 #' Asylum applications awaiting an initial decision or further review, by
 #' nationality and applicant type.
 #'
-#' @format A data frame with 26,623 rows and 7 variables:
+#' @format A data frame with 27,954 rows and 7 variables:
 #' \describe{
 #'   \item{Date}{Date}
 #'   \item{Nationality}{Nationality of people awaiting a decision}
@@ -59,7 +59,7 @@
 #' Asylum applications raised, by nationality, age, sex, UASC, applicant type,
 #' and location of application.
 #'
-#' @format A data frame with 57,482 rows and 11 variables:
+#' @format A data frame with 59,665 rows and 11 variables:
 #' \describe{
 #'   \item{Date}{Date}
 #'   \item{Year}{Year}
@@ -83,7 +83,7 @@
 #' in the UK, by nationality, age, sex, applicant type, and UASC (unaccompanied
 #' asylum-seeking children).
 #'
-#' @format A data frame with 95,179 rows and 14 variables:
+#' @format A data frame with 97,590 rows and 14 variables:
 #' \describe{
 #'   \item{Date}{Date}
 #'   \item{Year}{Year}
@@ -108,7 +108,7 @@
 #'
 #' Asylum appeals raised at the First-Tier Tribunal, by nationality and sex.
 #'
-#' @format A data frame with 6,621 rows and 7 variables:
+#' @format A data frame with 6,852 rows and 7 variables:
 #' \describe{
 #'   \item{Date}{Date}
 #'   \item{Year}{Year}
@@ -127,7 +127,7 @@
 #' Outcomes of asylum appeals raised at the First-Tier Tribunal, by nationality
 #' and sex.
 #'
-#' @format A data frame with 11,973 rows and 8 variables:
+#' @format A data frame with 12,380 rows and 8 variables:
 #' \describe{
 #'   \item{Date}{Date}
 #'   \item{Year}{Year}
@@ -184,7 +184,7 @@
 #'
 #' Age disputes raised and outcomes of age disputes.
 #'
-#' @format A data frame with 3,061 rows and 8 variables:
+#' @format A data frame with 3,210 rows and 8 variables:
 #' \describe{
 #'   \item{Date}{Date}
 #'   \item{Year}{Year}
@@ -203,7 +203,7 @@
 #'
 #' Initial decisions on asylum applications eligible for non-suspensive appeal, by nationality
 #'
-#' @format A data frame with 2,035 rows and 10 variables:
+#' @format A data frame with 2,074 rows and 10 variables:
 #' \describe{
 #'   \item{Date}{Date}
 #'   \item{Year}{Year}
@@ -245,7 +245,7 @@
 #' Family reunion visas granted to family members of refugees, by nationality,
 #' sex and age.
 #'
-#' @format A data frame with 6,853 rows and 8 variables:
+#' @format A data frame with 7,176 rows and 8 variables:
 #' \describe{
 #'   \item{Date}{The period in which the Family Reunion visa was granted}
 #'   \item{Year}{Year}
@@ -264,7 +264,7 @@
 #'
 #' Refugees resettled by resettlement scheme and local authority.
 #'
-#' @format A data frame with 2,243 rows and 8 variables:
+#' @format A data frame with 2,368 rows and 8 variables:
 #' \describe{
 #'   \item{Date}{The period in which the refugee arrived in the UK}
 #'   \item{Year}{Year}
@@ -283,11 +283,12 @@
 #'
 #' Asylum seekers in receipt of section 95 support by local authority.
 #'
-#' @format A data frame with 9,929 rows and 8 variables:
+#' @format A data frame with 12,695 rows and 9 variables:
 #' \describe{
 #'   \item{Date}{The date at which the number of people in receipt of support refers to}
 #'   \item{Year}{Year}
 #'   \item{Quarter}{Quarter}
+#'   \item{Support Type}{Section 95 or Section 4 support?}
 #'   \item{UK Region}{The UK region of the individual's registered address}
 #'   \item{Local Authority}{The Local Authority of the individual's registered address}
 #'   \item{LAD Code}{Local Authority (district) code as supplied by ONS}
@@ -336,7 +337,7 @@
 #' Number of individuals transferred between local authorities under the
 #' National Transfer Scheme for unaccompanied asylum seeking children.
 #'
-#' @format A data frame with 8,612 rows and 9 variables:
+#' @format A data frame with 9,535 rows and 9 variables:
 #' \describe{
 #'   \item{Date}{Date}
 #'   \item{Year}{Year}
@@ -356,7 +357,7 @@
 #'
 #' Applications for Support Section 4 and Section 95.
 #'
-#' @format A data frame with 46 rows and 5 variables:
+#' @format A data frame with 48 rows and 5 variables:
 #' \describe{
 #'   \item{Date}{Date}
 #'   \item{Year}{Year}
@@ -372,7 +373,7 @@
 #'
 #' Travel documents, applications raised and despatched.
 #'
-#' @format A data frame with 46 rows and 5 variables:
+#' @format A data frame with 47 rows and 5 variables:
 #' \describe{
 #'   \item{Date}{Date}
 #'   \item{Year}{Year}
@@ -388,7 +389,7 @@
 #'
 #' Appeal representation rates.
 #'
-#' @format A data frame with 38 rows and 7 variables:
+#' @format A data frame with 40 rows and 7 variables:
 #' \describe{
 #'   \item{Date}{Date}
 #'   \item{Year}{Year}
@@ -438,7 +439,7 @@
 #'
 #' Percentage of Asylum applications processed within 6 months
 #'
-#' @format A data frame with 27 rows and 16 variables:
+#' @format A data frame with 29 rows and 16 variables:
 #' \describe{
 #'   \item{Date}{Date}
 #'   \item{Year}{Year}
@@ -455,7 +456,7 @@
 #'   \item{Of those Female Applications received the percentage completed within six months}{Percent of applications completed for females}
 #'   \item{Total Unknown Applications Received}{Total applications received for people whose sex/gender is unknown}
 #'   \item{Of those Unknown Applications received the number completed within six months}{Number of applications completed for people whose gender/sex is unknown}
-#'   \item{Of those Unknown Applications received the percentage completed within six months}{Percent of applications completed for people whose gender/sex is unknown}
+#'   \item{Of those Unknown Straightforward Applications received the percentage completed within six months}{Percent of applications completed for people whose gender/sex is unknown}
 #'   ...
 #' }
 #' @source \url{https://www.gov.uk/government/collections/migration-transparency-data#uk-visas-and-immigration}
@@ -466,7 +467,7 @@
 #' Age of Asylum Operations Initial Decision Work In Progress - applications
 #' made from 1st Oct 2006.
 #'
-#' @format A data frame with 19 rows and 8 variables:
+#' @format A data frame with 21 rows and 8 variables:
 #' \describe{
 #'   \item{Date}{Date}
 #'   \item{Year}{Year}
@@ -540,7 +541,7 @@
 #' relating to NRPF can be found here:
 #' https://homeofficemedia.blog.gov.uk/2020/05/05/no-recourse-to-public-funds-nrpf/
 #'
-#' @format A data frame with 16 rows and 10 variables:
+#' @format A data frame with 18 rows and 10 variables:
 #' \describe{
 #'   \item{Date}{Date}
 #'   \item{Year}{Year}
@@ -565,7 +566,7 @@
 #' relating to NRPF can be found here:
 #' https://homeofficemedia.blog.gov.uk/2020/05/05/no-recourse-to-public-funds-nrpf/
 #'
-#' @format A data frame with 16 rows and 12 variables:
+#' @format A data frame with 18 rows and 12 variables:
 #' \describe{
 #'   \item{Date}{Date}
 #'   \item{Year}{Year}
@@ -592,7 +593,7 @@
 #' relating to NRPF can be found here:
 #' https://homeofficemedia.blog.gov.uk/2020/05/05/no-recourse-to-public-funds-nrpf/
 #'
-#' @format A data frame with 146 rows and 17 variables:
+#' @format A data frame with 152 rows and 19 variables:
 #' \describe{
 #'   \item{Nationality}{Nationality}
 #'   \item{2017 Q3}{2017 Q3}
@@ -611,6 +612,8 @@
 #'   \item{2020 Q4}{2020 Q4}
 #'   \item{2021 Q1}{2021 Q1}
 #'   \item{2021 Q2}{2021 Q2}
+#'   \item{2021 Q3}{2021 Q3}
+#'   \item{2021 Q4}{2021 Q4}
 #'   ...
 #' }
 #' @source \url{https://www.gov.uk/government/collections/migration-transparency-data#uk-visas-and-immigration}
@@ -624,7 +627,7 @@
 #' relating to NRPF can be found here:
 #' https://homeofficemedia.blog.gov.uk/2020/05/05/no-recourse-to-public-funds-nrpf/
 #'
-#' @format A data frame with 16 rows and 6 variables:
+#' @format A data frame with 18 rows and 6 variables:
 #' \describe{
 #'   \item{Date}{Date}
 #'   \item{Year}{Year}

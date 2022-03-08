@@ -17,7 +17,7 @@ GET(
 )
 
 support_applications <-
-  read_excel(tf, sheet = "Data - Asy_D10", skip = 0)
+  read_excel(tf, sheet = "Data - Asy_D10", skip = 1)
 
 # Wrangling
 support_applications <-

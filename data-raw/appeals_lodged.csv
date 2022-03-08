@@ -6620,3 +6620,234 @@ Date,Year,Quarter,Nationality,Region,Sex,Appeals lodged
 2021-04-01,2021,2,Yemen,Middle East,Male,7
 2021-04-01,2021,2,Zimbabwe,Africa Sub-Saharan,Female,2
 2021-04-01,2021,2,Zimbabwe,Africa Sub-Saharan,Male,6
+2021-07-01,2021,3,Afghanistan,Asia Central,Female,3
+2021-07-01,2021,3,Afghanistan,Asia Central,Male,40
+2021-07-01,2021,3,Albania,Europe Other,Female,8
+2021-07-01,2021,3,Albania,Europe Other,Male,24
+2021-07-01,2021,3,Algeria,Africa North,Female,1
+2021-07-01,2021,3,Algeria,Africa North,Male,4
+2021-07-01,2021,3,Bangladesh,Asia South,Female,4
+2021-07-01,2021,3,Bangladesh,Asia South,Male,70
+2021-07-01,2021,3,Belize,America Central and South,Male,1
+2021-07-01,2021,3,Benin,Africa Sub-Saharan,Male,1
+2021-07-01,2021,3,Bolivia,America Central and South,Female,1
+2021-07-01,2021,3,Botswana,Africa Sub-Saharan,Male,1
+2021-07-01,2021,3,Brazil,America Central and South,Male,1
+2021-07-01,2021,3,Burkina,Africa Sub-Saharan,Male,1
+2021-07-01,2021,3,Burma,Asia South East,Male,1
+2021-07-01,2021,3,Burundi,Africa Sub-Saharan,Female,1
+2021-07-01,2021,3,Cameroon,Africa Sub-Saharan,Female,5
+2021-07-01,2021,3,Cameroon,Africa Sub-Saharan,Male,6
+2021-07-01,2021,3,Chad,Africa Sub-Saharan,Male,1
+2021-07-01,2021,3,China,Asia East,Female,5
+2021-07-01,2021,3,China,Asia East,Male,7
+2021-07-01,2021,3,Congo,Africa Sub-Saharan,Male,1
+2021-07-01,2021,3,Congo (Democratic Republic),Africa Sub-Saharan,Female,1
+2021-07-01,2021,3,Congo (Democratic Republic),Africa Sub-Saharan,Male,2
+2021-07-01,2021,3,Cyprus (Northern part of),Europe Other,Male,1
+2021-07-01,2021,3,Egypt,Africa North,Female,2
+2021-07-01,2021,3,Egypt,Africa North,Male,17
+2021-07-01,2021,3,El Salvador,America Central and South,Female,8
+2021-07-01,2021,3,El Salvador,America Central and South,Male,15
+2021-07-01,2021,3,Eritrea,Africa Sub-Saharan,Female,1
+2021-07-01,2021,3,Eritrea,Africa Sub-Saharan,Male,7
+2021-07-01,2021,3,Ethiopia,Africa Sub-Saharan,Female,5
+2021-07-01,2021,3,Ethiopia,Africa Sub-Saharan,Male,21
+2021-07-01,2021,3,"Gambia, The",Africa Sub-Saharan,Female,1
+2021-07-01,2021,3,"Gambia, The",Africa Sub-Saharan,Male,1
+2021-07-01,2021,3,Georgia,Europe Other,Female,2
+2021-07-01,2021,3,Georgia,Europe Other,Male,6
+2021-07-01,2021,3,Ghana,Africa Sub-Saharan,Male,2
+2021-07-01,2021,3,Grenada,America Central and South,Female,1
+2021-07-01,2021,3,Grenada,America Central and South,Male,1
+2021-07-01,2021,3,Guinea,Africa Sub-Saharan,Male,1
+2021-07-01,2021,3,Honduras,America Central and South,Male,1
+2021-07-01,2021,3,Hong Kong,Asia East,Female,1
+2021-07-01,2021,3,Hong Kong,Asia East,Male,4
+2021-07-01,2021,3,India,Asia South,Female,9
+2021-07-01,2021,3,India,Asia South,Male,19
+2021-07-01,2021,3,Iran,Middle East,Female,6
+2021-07-01,2021,3,Iran,Middle East,Male,50
+2021-07-01,2021,3,Iraq,Middle East,Female,10
+2021-07-01,2021,3,Iraq,Middle East,Male,150
+2021-07-01,2021,3,Ivory Coast,Africa Sub-Saharan,Male,2
+2021-07-01,2021,3,Jamaica,America Central and South,Female,4
+2021-07-01,2021,3,Jamaica,America Central and South,Male,3
+2021-07-01,2021,3,Kenya,Africa Sub-Saharan,Female,2
+2021-07-01,2021,3,Kenya,Africa Sub-Saharan,Male,8
+2021-07-01,2021,3,Kosovo,Europe Other,Male,1
+2021-07-01,2021,3,Kuwait,Middle East,Female,1
+2021-07-01,2021,3,Kuwait,Middle East,Male,3
+2021-07-01,2021,3,Lebanon,Middle East,Male,3
+2021-07-01,2021,3,Libya,Africa North,Male,1
+2021-07-01,2021,3,Macau,Asia East,Male,1
+2021-07-01,2021,3,Malaysia,Asia South East,Male,4
+2021-07-01,2021,3,Maldives,Asia South,Female,1
+2021-07-01,2021,3,Mali,Africa Sub-Saharan,Male,2
+2021-07-01,2021,3,Mauritius,Africa Sub-Saharan,Female,2
+2021-07-01,2021,3,Mexico,America Central and South,Female,1
+2021-07-01,2021,3,Morocco,Africa North,Female,2
+2021-07-01,2021,3,Morocco,Africa North,Male,3
+2021-07-01,2021,3,Namibia,Africa Sub-Saharan,Female,3
+2021-07-01,2021,3,Namibia,Africa Sub-Saharan,Male,5
+2021-07-01,2021,3,Nepal,Asia South,Female,2
+2021-07-01,2021,3,Nepal,Asia South,Male,3
+2021-07-01,2021,3,Nigeria,Africa Sub-Saharan,Female,15
+2021-07-01,2021,3,Nigeria,Africa Sub-Saharan,Male,13
+2021-07-01,2021,3,Occupied Palestinian Territories,Middle East,Female,2
+2021-07-01,2021,3,Occupied Palestinian Territories,Middle East,Male,5
+2021-07-01,2021,3,Pakistan,Asia South,Female,4
+2021-07-01,2021,3,Pakistan,Asia South,Male,69
+2021-07-01,2021,3,Philippines,Asia South East,Female,9
+2021-07-01,2021,3,Philippines,Asia South East,Male,2
+2021-07-01,2021,3,Refugee,Other,Male,1
+2021-07-01,2021,3,Russia,Europe Other,Female,4
+2021-07-01,2021,3,Russia,Europe Other,Male,2
+2021-07-01,2021,3,Rwanda,Africa Sub-Saharan,Male,1
+2021-07-01,2021,3,Saudi Arabia,Middle East,Male,1
+2021-07-01,2021,3,Sierra Leone,Africa Sub-Saharan,Female,3
+2021-07-01,2021,3,Sierra Leone,Africa Sub-Saharan,Male,3
+2021-07-01,2021,3,Somalia,Africa Sub-Saharan,Male,5
+2021-07-01,2021,3,South Africa,Africa Sub-Saharan,Female,1
+2021-07-01,2021,3,South Africa,Africa Sub-Saharan,Male,3
+2021-07-01,2021,3,Sri Lanka,Asia South,Female,2
+2021-07-01,2021,3,Sri Lanka,Asia South,Male,20
+2021-07-01,2021,3,St. Lucia,America Central and South,Male,1
+2021-07-01,2021,3,St. Vincent and the Grenadines,America Central and South,Female,1
+2021-07-01,2021,3,Stateless,Other,Female,1
+2021-07-01,2021,3,Stateless,Other,Male,2
+2021-07-01,2021,3,Sudan,Africa North,Male,8
+2021-07-01,2021,3,Syria,Middle East,Male,2
+2021-07-01,2021,3,Tajikistan,Asia Central,Female,1
+2021-07-01,2021,3,Tanzania,Africa Sub-Saharan,Male,1
+2021-07-01,2021,3,Thailand,Asia South East,Female,1
+2021-07-01,2021,3,Trinidad and Tobago,America Central and South,Female,2
+2021-07-01,2021,3,Trinidad and Tobago,America Central and South,Male,3
+2021-07-01,2021,3,Turkey,Europe Other,Female,3
+2021-07-01,2021,3,Turkey,Europe Other,Male,30
+2021-07-01,2021,3,Uganda,Africa Sub-Saharan,Female,7
+2021-07-01,2021,3,Uganda,Africa Sub-Saharan,Male,3
+2021-07-01,2021,3,Ukraine,Europe Other,Male,2
+2021-07-01,2021,3,Uzbekistan,Asia Central,Male,1
+2021-07-01,2021,3,Vietnam,Asia South East,Female,15
+2021-07-01,2021,3,Vietnam,Asia South East,Male,44
+2021-07-01,2021,3,Yemen,Middle East,Female,2
+2021-07-01,2021,3,Yemen,Middle East,Male,7
+2021-07-01,2021,3,Zambia,Africa Sub-Saharan,Male,1
+2021-07-01,2021,3,Zimbabwe,Africa Sub-Saharan,Female,7
+2021-07-01,2021,3,Zimbabwe,Africa Sub-Saharan,Male,4
+2021-10-01,2021,4,Afghanistan,Asia Central,Male,3
+2021-10-01,2021,4,Albania,Europe Other,Female,6
+2021-10-01,2021,4,Albania,Europe Other,Male,30
+2021-10-01,2021,4,Algeria,Africa North,Female,1
+2021-10-01,2021,4,Algeria,Africa North,Male,10
+2021-10-01,2021,4,Angola,Africa Sub-Saharan,Female,1
+2021-10-01,2021,4,Angola,Africa Sub-Saharan,Male,2
+2021-10-01,2021,4,Azerbaijan,Europe Other,Male,2
+2021-10-01,2021,4,Bahrain,Middle East,Male,1
+2021-10-01,2021,4,Bangladesh,Asia South,Female,3
+2021-10-01,2021,4,Bangladesh,Asia South,Male,63
+2021-10-01,2021,4,Brazil,America Central and South,Female,2
+2021-10-01,2021,4,Brazil,America Central and South,Male,2
+2021-10-01,2021,4,Cameroon,Africa Sub-Saharan,Female,5
+2021-10-01,2021,4,Cameroon,Africa Sub-Saharan,Male,4
+2021-10-01,2021,4,Central African Republic,Africa Sub-Saharan,Male,1
+2021-10-01,2021,4,Chad,Africa Sub-Saharan,Male,4
+2021-10-01,2021,4,Chile,America Central and South,Female,1
+2021-10-01,2021,4,Chile,America Central and South,Male,2
+2021-10-01,2021,4,China,Asia East,Female,3
+2021-10-01,2021,4,China,Asia East,Male,8
+2021-10-01,2021,4,Colombia,America Central and South,Male,1
+2021-10-01,2021,4,Congo (Democratic Republic),Africa Sub-Saharan,Female,1
+2021-10-01,2021,4,Congo (Democratic Republic),Africa Sub-Saharan,Male,1
+2021-10-01,2021,4,Ecuador,America Central and South,Male,1
+2021-10-01,2021,4,Egypt,Africa North,Female,1
+2021-10-01,2021,4,Egypt,Africa North,Male,23
+2021-10-01,2021,4,El Salvador,America Central and South,Female,7
+2021-10-01,2021,4,El Salvador,America Central and South,Male,19
+2021-10-01,2021,4,Eritrea,Africa Sub-Saharan,Female,2
+2021-10-01,2021,4,Eritrea,Africa Sub-Saharan,Male,3
+2021-10-01,2021,4,Ethiopia,Africa Sub-Saharan,Female,4
+2021-10-01,2021,4,Ethiopia,Africa Sub-Saharan,Male,25
+2021-10-01,2021,4,"Gambia, The",Africa Sub-Saharan,Male,5
+2021-10-01,2021,4,Georgia,Europe Other,Female,1
+2021-10-01,2021,4,Georgia,Europe Other,Male,2
+2021-10-01,2021,4,Ghana,Africa Sub-Saharan,Female,2
+2021-10-01,2021,4,Ghana,Africa Sub-Saharan,Male,4
+2021-10-01,2021,4,Guinea,Africa Sub-Saharan,Male,1
+2021-10-01,2021,4,Guinea-Bissau,Africa Sub-Saharan,Male,1
+2021-10-01,2021,4,Honduras,America Central and South,Male,4
+2021-10-01,2021,4,Hong Kong,Asia East,Female,4
+2021-10-01,2021,4,Hong Kong,Asia East,Male,2
+2021-10-01,2021,4,India,Asia South,Female,3
+2021-10-01,2021,4,India,Asia South,Male,12
+2021-10-01,2021,4,Iran,Middle East,Female,4
+2021-10-01,2021,4,Iran,Middle East,Male,59
+2021-10-01,2021,4,Iraq,Middle East,Female,14
+2021-10-01,2021,4,Iraq,Middle East,Male,152
+2021-10-01,2021,4,Ivory Coast,Africa Sub-Saharan,Male,2
+2021-10-01,2021,4,Jamaica,America Central and South,Male,2
+2021-10-01,2021,4,Jordan,Middle East,Female,1
+2021-10-01,2021,4,Jordan,Middle East,Male,2
+2021-10-01,2021,4,Kenya,Africa Sub-Saharan,Female,5
+2021-10-01,2021,4,Kenya,Africa Sub-Saharan,Male,1
+2021-10-01,2021,4,Kosovo,Europe Other,Female,1
+2021-10-01,2021,4,Kosovo,Europe Other,Male,1
+2021-10-01,2021,4,Kuwait,Middle East,Female,1
+2021-10-01,2021,4,Kuwait,Middle East,Male,1
+2021-10-01,2021,4,Lebanon,Middle East,Male,3
+2021-10-01,2021,4,Liberia,Africa Sub-Saharan,Female,1
+2021-10-01,2021,4,Libya,Africa North,Male,1
+2021-10-01,2021,4,Malawi,Africa Sub-Saharan,Male,1
+2021-10-01,2021,4,Malaysia,Asia South East,Female,1
+2021-10-01,2021,4,Malaysia,Asia South East,Male,1
+2021-10-01,2021,4,Mali,Africa Sub-Saharan,Male,2
+2021-10-01,2021,4,Mauritius,Africa Sub-Saharan,Female,1
+2021-10-01,2021,4,Mexico,America Central and South,Female,1
+2021-10-01,2021,4,Mexico,America Central and South,Male,1
+2021-10-01,2021,4,Morocco,Africa North,Female,1
+2021-10-01,2021,4,Morocco,Africa North,Male,11
+2021-10-01,2021,4,Namibia,Africa Sub-Saharan,Female,6
+2021-10-01,2021,4,Namibia,Africa Sub-Saharan,Male,8
+2021-10-01,2021,4,Nicaragua,America Central and South,Male,1
+2021-10-01,2021,4,Nigeria,Africa Sub-Saharan,Female,17
+2021-10-01,2021,4,Nigeria,Africa Sub-Saharan,Male,16
+2021-10-01,2021,4,Occupied Palestinian Territories,Middle East,Male,3
+2021-10-01,2021,4,Pakistan,Asia South,Female,12
+2021-10-01,2021,4,Pakistan,Asia South,Male,53
+2021-10-01,2021,4,Philippines,Asia South East,Female,12
+2021-10-01,2021,4,Refugee,Other,Male,2
+2021-10-01,2021,4,Russia,Europe Other,Female,2
+2021-10-01,2021,4,Russia,Europe Other,Male,6
+2021-10-01,2021,4,Saudi Arabia,Middle East,Male,1
+2021-10-01,2021,4,Senegal,Africa Sub-Saharan,Male,1
+2021-10-01,2021,4,Sierra Leone,Africa Sub-Saharan,Female,3
+2021-10-01,2021,4,Sierra Leone,Africa Sub-Saharan,Male,6
+2021-10-01,2021,4,Somalia,Africa Sub-Saharan,Female,2
+2021-10-01,2021,4,Somalia,Africa Sub-Saharan,Male,9
+2021-10-01,2021,4,South Africa,Africa Sub-Saharan,Female,2
+2021-10-01,2021,4,South Africa,Africa Sub-Saharan,Male,1
+2021-10-01,2021,4,Sri Lanka,Asia South,Female,3
+2021-10-01,2021,4,Sri Lanka,Asia South,Male,10
+2021-10-01,2021,4,St. Vincent and the Grenadines,America Central and South,Female,1
+2021-10-01,2021,4,Stateless,Other,Female,2
+2021-10-01,2021,4,Stateless,Other,Male,4
+2021-10-01,2021,4,Sudan,Africa North,Male,15
+2021-10-01,2021,4,Syria,Middle East,Male,3
+2021-10-01,2021,4,Tanzania,Africa Sub-Saharan,Male,1
+2021-10-01,2021,4,Trinidad and Tobago,America Central and South,Female,1
+2021-10-01,2021,4,Trinidad and Tobago,America Central and South,Male,1
+2021-10-01,2021,4,Tunisia,Africa North,Female,1
+2021-10-01,2021,4,Tunisia,Africa North,Male,1
+2021-10-01,2021,4,Turkey,Europe Other,Female,5
+2021-10-01,2021,4,Turkey,Europe Other,Male,16
+2021-10-01,2021,4,Uganda,Africa Sub-Saharan,Female,4
+2021-10-01,2021,4,Uganda,Africa Sub-Saharan,Male,1
+2021-10-01,2021,4,Ukraine,Europe Other,Female,2
+2021-10-01,2021,4,Ukraine,Europe Other,Male,5
+2021-10-01,2021,4,Venezuela,America Central and South,Male,3
+2021-10-01,2021,4,Vietnam,Asia South East,Female,12
+2021-10-01,2021,4,Vietnam,Asia South East,Male,22
+2021-10-01,2021,4,Yemen,Middle East,Female,4
+2021-10-01,2021,4,Yemen,Middle East,Male,14
+2021-10-01,2021,4,Zimbabwe,Africa Sub-Saharan,Male,5

@@ -17,13 +17,13 @@ GET(
 )
 
 aspen <-
-  read_ods(tf, sheet = "AC_01", skip = 2)
+  read_ods(tf, sheet = "AC_01", skip = 3)
 
 aspen_support <-
   read_ods(tf, sheet = "AC_02", skip = 3)
 
 nts <-
-  read_ods(tf, sheet = "NTS_01", skip = 4)
+  read_ods(tf, sheet = "NTS_01", skip = 3)
 
 support_applications_rasi <-
   read_ods(tf, sheet = "AS_01", skip = 3)
@@ -73,7 +73,7 @@ nts <-
 
 support_applications_rasi <-
   support_applications_rasi |>
-  select(Quarter:`Section 952`) |>
+  select(Quarter:`Section 95(2)`) |>
   as_tibble() |>
   drop_na() |>
   mutate(Date = yq(Quarter)) |>
@@ -84,13 +84,13 @@ support_applications_rasi <-
   relocate(Date, Year, Quarter) |>
   # Remove footnote numbers from column names
   rename(
-    `Section 4` = `Section 41`,
-    `Section 95` = `Section 952`
+    `Section 4` = `Section 4(1)`,
+    `Section 95` = `Section 95(2)`
   )
 
 travel_documents <-
   travel_documents |>
-  select(Quarter, `TD Raised`, `TD Despatched` = `TD Despatched5`) |>
+  select(Quarter, `TD Raised`, `TD Despatched` = `TD Despatched 5`) |>
   as_tibble() |>
   drop_na() |>
   mutate(Quarter = if_else(Quarter == "2020 Q23", "2020 Q2", Quarter)) |>
