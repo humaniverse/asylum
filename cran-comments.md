@@ -9,4 +9,4 @@ This is a minor release in the 1.0.* series:
 * win-builder (devel)
 
 ## R CMD check results
-0 errors v | 0 warnings v | 0 notes v
+0 errors | 0 warnings | 0 notes

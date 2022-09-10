@@ -2154,10 +2154,6 @@ Date,Year,Quarter,UK Region,LAD Code,Local Authority,Resettlement Scheme,Persons
 2020-01-01,2020,1,Yorkshire and The Humber,E08000034,Kirklees,Vulnerable Persons Resettlement Scheme,5
 2020-01-01,2020,1,Yorkshire and The Humber,E08000035,Leeds,Vulnerable Children Resettlement Scheme,2
 2020-01-01,2020,1,Yorkshire and The Humber,E08000036,Wakefield,Vulnerable Persons Resettlement Scheme,7
-2020-04-01,2020,2,Other,N/A,Other,Vulnerable Children Resettlement Scheme,0
-2020-04-01,2020,2,Other,N/A,Other,Vulnerable Persons Resettlement Scheme,0
-2020-07-01,2020,3,Other,N/A,Other,Vulnerable Children Resettlement Scheme,0
-2020-07-01,2020,3,Other,N/A,Other,Vulnerable Persons Resettlement Scheme,0
 2020-10-01,2020,4,East of England,E07000148,Norwich,Vulnerable Persons Resettlement Scheme,5
 2020-10-01,2020,4,London,E09000010,Enfield,Vulnerable Persons Resettlement Scheme,1
 2020-10-01,2020,4,Wales,W06000006,Wrexham,Vulnerable Persons Resettlement Scheme,2
@@ -2169,28 +2165,28 @@ Date,Year,Quarter,UK Region,LAD Code,Local Authority,Resettlement Scheme,Persons
 2021-01-01,2021,1,London,E09000030,Tower Hamlets,Vulnerable Persons Resettlement Scheme,5
 2021-01-01,2021,1,London,E09000031,Waltham Forest,Vulnerable Persons Resettlement Scheme,5
 2021-01-01,2021,1,North East,E06000005,Darlington,Vulnerable Persons Resettlement Scheme,5
-2021-01-01,2021,1,North East,E06000047,County Durham,UK Resettlement Scheme,5
 2021-01-01,2021,1,North East,E06000047,County Durham,Vulnerable Persons Resettlement Scheme,16
+2021-01-01,2021,1,North East,E06000047,County Durham,UK Resettlement Scheme,5
 2021-01-01,2021,1,North West,E07000117,Burnley,Vulnerable Persons Resettlement Scheme,16
 2021-01-01,2021,1,North West,E08000012,Liverpool,Vulnerable Persons Resettlement Scheme,4
+2021-01-01,2021,1,Scotland,S12000036,City of Edinburgh,Vulnerable Children Resettlement Scheme,5
 2021-01-01,2021,1,Scotland,S12000014,Falkirk,Vulnerable Persons Resettlement Scheme,5
 2021-01-01,2021,1,Scotland,S12000030,Stirling,Vulnerable Persons Resettlement Scheme,2
-2021-01-01,2021,1,Scotland,S12000034,Aberdeenshire,UK Resettlement Scheme,6
-2021-01-01,2021,1,Scotland,S12000036,City of Edinburgh,Vulnerable Children Resettlement Scheme,5
 2021-01-01,2021,1,Scotland,S12000036,City of Edinburgh,Vulnerable Persons Resettlement Scheme,1
 2021-01-01,2021,1,Scotland,S12000042,Dundee City,Vulnerable Persons Resettlement Scheme,2
+2021-01-01,2021,1,Scotland,S12000034,Aberdeenshire,UK Resettlement Scheme,6
+2021-01-01,2021,1,South East,E07000115,Tonbridge and Malling,Vulnerable Children Resettlement Scheme,4
 2021-01-01,2021,1,South East,E06000043,Brighton and Hove,Vulnerable Persons Resettlement Scheme,5
 2021-01-01,2021,1,South East,E06000060,Buckinghamshire,Vulnerable Persons Resettlement Scheme,5
-2021-01-01,2021,1,South East,E07000062,Hastings,UK Resettlement Scheme,1
 2021-01-01,2021,1,South East,E07000064,Rother,Vulnerable Persons Resettlement Scheme,2
-2021-01-01,2021,1,South East,E07000105,Ashford,UK Resettlement Scheme,3
 2021-01-01,2021,1,South East,E07000108,Dover,Vulnerable Persons Resettlement Scheme,26
-2021-01-01,2021,1,South East,E07000115,Tonbridge and Malling,Vulnerable Children Resettlement Scheme,4
 2021-01-01,2021,1,South East,E07000115,Tonbridge and Malling,Vulnerable Persons Resettlement Scheme,6
 2021-01-01,2021,1,South East,E07000177,Cherwell,Vulnerable Persons Resettlement Scheme,11
+2021-01-01,2021,1,South East,E07000105,Ashford,UK Resettlement Scheme,3
+2021-01-01,2021,1,South East,E07000062,Hastings,UK Resettlement Scheme,1
+2021-01-01,2021,1,South West,E06000026,Plymouth,Vulnerable Children Resettlement Scheme,3
 2021-01-01,2021,1,South West,E06000022,Bath and North East Somerset,Vulnerable Persons Resettlement Scheme,6
 2021-01-01,2021,1,South West,E06000023,"Bristol, City of",Vulnerable Persons Resettlement Scheme,12
-2021-01-01,2021,1,South West,E06000026,Plymouth,Vulnerable Children Resettlement Scheme,3
 2021-01-01,2021,1,South West,E07000040,East Devon,Vulnerable Persons Resettlement Scheme,9
 2021-01-01,2021,1,South West,E07000043,North Devon,Vulnerable Persons Resettlement Scheme,7
 2021-01-01,2021,1,Wales,W06000002,Gwynedd,Vulnerable Persons Resettlement Scheme,5
@@ -2202,11 +2198,11 @@ Date,Year,Quarter,UK Region,LAD Code,Local Authority,Resettlement Scheme,Persons
 2021-01-01,2021,1,Yorkshire and The Humber,E07000164,Hambleton,Vulnerable Persons Resettlement Scheme,14
 2021-01-01,2021,1,Yorkshire and The Humber,E07000166,Richmondshire,Vulnerable Persons Resettlement Scheme,10
 2021-01-01,2021,1,Yorkshire and The Humber,E08000018,Rotherham,Vulnerable Persons Resettlement Scheme,4
-2021-01-01,2021,1,Yorkshire and The Humber,E08000019,Sheffield,UK Resettlement Scheme,4
 2021-01-01,2021,1,Yorkshire and The Humber,E08000019,Sheffield,Vulnerable Persons Resettlement Scheme,37
 2021-01-01,2021,1,Yorkshire and The Humber,E08000032,Bradford,Vulnerable Persons Resettlement Scheme,21
-2021-01-01,2021,1,Yorkshire and The Humber,E08000035,Leeds,UK Resettlement Scheme,6
 2021-01-01,2021,1,Yorkshire and The Humber,E08000035,Leeds,Vulnerable Persons Resettlement Scheme,11
+2021-01-01,2021,1,Yorkshire and The Humber,E08000035,Leeds,UK Resettlement Scheme,6
+2021-01-01,2021,1,Yorkshire and The Humber,E08000019,Sheffield,UK Resettlement Scheme,4
 2021-04-01,2021,2,East Midlands,E07000035,Derbyshire Dales,UK Resettlement Scheme,4
 2021-04-01,2021,2,East of England,E06000056,Central Bedfordshire,UK Resettlement Scheme,5
 2021-04-01,2021,2,East of England,E07000148,Norwich,UK Resettlement Scheme,10
@@ -2218,103 +2214,101 @@ Date,Year,Quarter,UK Region,LAD Code,Local Authority,Resettlement Scheme,Persons
 2021-04-01,2021,2,North East,E08000021,Newcastle upon Tyne,UK Resettlement Scheme,7
 2021-04-01,2021,2,North West,E07000120,Hyndburn,UK Resettlement Scheme,21
 2021-04-01,2021,2,North West,E08000008,Tameside,UK Resettlement Scheme,3
-2021-04-01,2021,2,Scotland,S12000029,South Lanarkshire,UK Resettlement Scheme,8
 2021-04-01,2021,2,Scotland,S12000036,City of Edinburgh,UK Resettlement Scheme,23
 2021-04-01,2021,2,Scotland,S12000042,Dundee City,UK Resettlement Scheme,2
+2021-04-01,2021,2,Scotland,S12000029,South Lanarkshire,UK Resettlement Scheme,8
 2021-04-01,2021,2,South East,E07000106,Canterbury,UK Resettlement Scheme,4
 2021-04-01,2021,2,South East,E07000108,Dover,UK Resettlement Scheme,2
 2021-04-01,2021,2,South East,E07000112,Folkestone and Hythe,UK Resettlement Scheme,2
 2021-04-01,2021,2,South East,E07000227,Horsham,UK Resettlement Scheme,4
 2021-04-01,2021,2,South West,E06000022,Bath and North East Somerset,UK Resettlement Scheme,4
 2021-04-01,2021,2,South West,E06000023,"Bristol, City of",UK Resettlement Scheme,15
-2021-04-01,2021,2,South West,E06000024,North Somerset,UK Resettlement Scheme,5
-2021-04-01,2021,2,South West,E06000026,Plymouth,UK Resettlement Scheme,11
+2021-04-01,2021,2,South West,E07000078,Cheltenham,UK Resettlement Scheme,6
 2021-04-01,2021,2,South West,E06000052,Cornwall,Community Sponsorship Scheme,5
 2021-04-01,2021,2,South West,E07000043,North Devon,Community Sponsorship Scheme,4
-2021-04-01,2021,2,South West,E07000078,Cheltenham,UK Resettlement Scheme,6
+2021-04-01,2021,2,South West,E06000024,North Somerset,UK Resettlement Scheme,5
+2021-04-01,2021,2,South West,E06000026,Plymouth,UK Resettlement Scheme,11
 2021-04-01,2021,2,Wales,W06000010,Carmarthenshire,UK Resettlement Scheme,9
 2021-04-01,2021,2,Wales,W06000014,Vale of Glamorgan,UK Resettlement Scheme,4
 2021-04-01,2021,2,West Midlands,E08000025,Birmingham,Community Sponsorship Scheme,6
 2021-04-01,2021,2,West Midlands,E08000025,Birmingham,UK Resettlement Scheme,16
 2021-04-01,2021,2,West Midlands,E08000026,Coventry,UK Resettlement Scheme,28
-2021-04-01,2021,2,Yorkshire and The Humber,E07000164,Hambleton,UK Resettlement Scheme,16
-2021-04-01,2021,2,Yorkshire and The Humber,E07000166,Richmondshire,UK Resettlement Scheme,7
-2021-04-01,2021,2,Yorkshire and The Humber,E08000019,Sheffield,UK Resettlement Scheme,11
 2021-04-01,2021,2,Yorkshire and The Humber,E08000032,Bradford,UK Resettlement Scheme,38
-2021-04-01,2021,2,Yorkshire and The Humber,E08000035,Leeds,UK Resettlement Scheme,10
-2021-07-01,2021,3,East Midlands,E06000018,Nottingham,UK Resettlement Scheme,10
+2021-04-01,2021,2,Yorkshire and The Humber,E07000164,Hambleton,UK Resettlement Scheme,16
+2021-04-01,2021,2,Yorkshire and The Humber,E08000035,Leeds,UK Resettlement Scheme,6
+2021-04-01,2021,2,Yorkshire and The Humber,E07000166,Richmondshire,UK Resettlement Scheme,7
+2021-04-01,2021,2,Yorkshire and The Humber,E08000019,Sheffield,UK Resettlement Scheme,15
 2021-07-01,2021,3,East Midlands,E07000170,Ashfield,UK Resettlement Scheme,8
 2021-07-01,2021,3,East Midlands,E07000172,Broxtowe,UK Resettlement Scheme,5
+2021-07-01,2021,3,East Midlands,E06000018,Nottingham,UK Resettlement Scheme,10
+2021-07-01,2021,3,East of England,E07000008,Cambridge,UK Resettlement Scheme,6
+2021-07-01,2021,3,East of England,E06000056,Central Bedfordshire,UK Resettlement Scheme,3
+2021-07-01,2021,3,East of England,E07000071,Colchester,UK Resettlement Scheme,6
+2021-07-01,2021,3,East of England,E07000202,Ipswich,UK Resettlement Scheme,9
+2021-07-01,2021,3,East of England,E07000148,Norwich,UK Resettlement Scheme,8
 2021-07-01,2021,3,East of England,E06000031,Peterborough,UK Resettlement Scheme,6
 2021-07-01,2021,3,East of England,E06000033,Southend-on-Sea,UK Resettlement Scheme,5
-2021-07-01,2021,3,East of England,E06000056,Central Bedfordshire,UK Resettlement Scheme,3
-2021-07-01,2021,3,East of England,E07000008,Cambridge,UK Resettlement Scheme,6
-2021-07-01,2021,3,East of England,E07000071,Colchester,UK Resettlement Scheme,6
-2021-07-01,2021,3,East of England,E07000148,Norwich,UK Resettlement Scheme,8
-2021-07-01,2021,3,East of England,E07000202,Ipswich,UK Resettlement Scheme,9
 2021-07-01,2021,3,East of England,E07000243,Stevenage,UK Resettlement Scheme,4
 2021-07-01,2021,3,London,E09000018,Hounslow,UK Resettlement Scheme,4
 2021-07-01,2021,3,London,E09000023,Lewisham,UK Resettlement Scheme,7
 2021-07-01,2021,3,London,E09000031,Waltham Forest,UK Resettlement Scheme,4
+2021-07-01,2021,3,North East,E08000037,Gateshead,UK Resettlement Scheme,27
 2021-07-01,2021,3,North East,E06000001,Hartlepool,UK Resettlement Scheme,3
 2021-07-01,2021,3,North East,E08000021,Newcastle upon Tyne,UK Resettlement Scheme,18
 2021-07-01,2021,3,North East,E08000022,North Tyneside,Community Sponsorship Scheme,5
-2021-07-01,2021,3,North East,E08000037,Gateshead,UK Resettlement Scheme,27
 2021-07-01,2021,3,North West,E06000049,Cheshire East,Community Sponsorship Scheme,5
-2021-07-01,2021,3,North West,E08000007,Stockport,Community Sponsorship Scheme,3
 2021-07-01,2021,3,North West,E08000014,Sefton,UK Resettlement Scheme,7
+2021-07-01,2021,3,North West,E08000007,Stockport,Community Sponsorship Scheme,3
 2021-07-01,2021,3,Northern Ireland,N09000006,Fermanagh and Omagh,UK Resettlement Scheme,3
-2021-07-01,2021,3,Scotland,S12000008,East Ayrshire,UK Resettlement Scheme,2
-2021-07-01,2021,3,Scotland,S12000021,North Ayrshire,UK Resettlement Scheme,5
-2021-07-01,2021,3,Scotland,S12000029,South Lanarkshire,UK Resettlement Scheme,3
-2021-07-01,2021,3,Scotland,S12000030,Stirling,UK Resettlement Scheme,1
 2021-07-01,2021,3,Scotland,S12000033,Aberdeen City,UK Resettlement Scheme,4
 2021-07-01,2021,3,Scotland,S12000036,City of Edinburgh,Community Sponsorship Scheme,6
 2021-07-01,2021,3,Scotland,S12000036,City of Edinburgh,UK Resettlement Scheme,44
 2021-07-01,2021,3,Scotland,S12000042,Dundee City,UK Resettlement Scheme,1
+2021-07-01,2021,3,Scotland,S12000008,East Ayrshire,UK Resettlement Scheme,2
 2021-07-01,2021,3,Scotland,S12000047,Fife,UK Resettlement Scheme,7
+2021-07-01,2021,3,Scotland,S12000021,North Ayrshire,UK Resettlement Scheme,5
 2021-07-01,2021,3,Scotland,S12000050,North Lanarkshire,UK Resettlement Scheme,4
-2021-07-01,2021,3,South East,E07000062,Hastings,UK Resettlement Scheme,1
-2021-07-01,2021,3,South East,E07000063,Lewes,UK Resettlement Scheme,4
-2021-07-01,2021,3,South East,E07000064,Rother,UK Resettlement Scheme,8
-2021-07-01,2021,3,South East,E07000065,Wealden,UK Resettlement Scheme,5
-2021-07-01,2021,3,South East,E07000090,Havant,Community Sponsorship Scheme,4
+2021-07-01,2021,3,Scotland,S12000029,South Lanarkshire,UK Resettlement Scheme,3
+2021-07-01,2021,3,Scotland,S12000030,Stirling,UK Resettlement Scheme,1
 2021-07-01,2021,3,South East,E07000105,Ashford,UK Resettlement Scheme,9
 2021-07-01,2021,3,South East,E07000106,Canterbury,Community Sponsorship Scheme,6
+2021-07-01,2021,3,South East,E07000177,Cherwell,UK Resettlement Scheme,6
+2021-07-01,2021,3,South East,E07000225,Chichester,UK Resettlement Scheme,4
+2021-07-01,2021,3,South East,E07000062,Hastings,UK Resettlement Scheme,1
+2021-07-01,2021,3,South East,E07000090,Havant,Community Sponsorship Scheme,4
+2021-07-01,2021,3,South East,E07000063,Lewes,UK Resettlement Scheme,4
+2021-07-01,2021,3,South East,E07000064,Rother,UK Resettlement Scheme,8
+2021-07-01,2021,3,South East,E07000212,Runnymede,UK Resettlement Scheme,5
 2021-07-01,2021,3,South East,E07000111,Sevenoaks,UK Resettlement Scheme,9
 2021-07-01,2021,3,South East,E07000116,Tunbridge Wells,UK Resettlement Scheme,5
-2021-07-01,2021,3,South East,E07000177,Cherwell,UK Resettlement Scheme,6
-2021-07-01,2021,3,South East,E07000212,Runnymede,UK Resettlement Scheme,5
-2021-07-01,2021,3,South East,E07000225,Chichester,UK Resettlement Scheme,4
+2021-07-01,2021,3,South East,E07000065,Wealden,UK Resettlement Scheme,5
 2021-07-01,2021,3,South West,E06000023,"Bristol, City of",UK Resettlement Scheme,5
-2021-07-01,2021,3,South West,E06000025,South Gloucestershire,UK Resettlement Scheme,6
-2021-07-01,2021,3,South West,E06000026,Plymouth,UK Resettlement Scheme,6
-2021-07-01,2021,3,South West,E06000054,Wiltshire,UK Resettlement Scheme,5
 2021-07-01,2021,3,South West,E07000041,Exeter,Community Sponsorship Scheme,6
 2021-07-01,2021,3,South West,E07000081,Gloucester,UK Resettlement Scheme,7
+2021-07-01,2021,3,South West,E06000026,Plymouth,UK Resettlement Scheme,6
+2021-07-01,2021,3,South West,E06000025,South Gloucestershire,UK Resettlement Scheme,6
+2021-07-01,2021,3,South West,E06000054,Wiltshire,UK Resettlement Scheme,5
+2021-07-01,2021,3,Wales,W06000015,Cardiff,UK Resettlement Scheme,5
 2021-07-01,2021,3,Wales,W06000004,Denbighshire,UK Resettlement Scheme,4
 2021-07-01,2021,3,Wales,W06000011,Swansea,UK Resettlement Scheme,3
 2021-07-01,2021,3,Wales,W06000014,Vale of Glamorgan,Community Sponsorship Scheme,4
-2021-07-01,2021,3,Wales,W06000015,Cardiff,UK Resettlement Scheme,5
-2021-07-01,2021,3,West Midlands,E06000051,Shropshire,UK Resettlement Scheme,5
-2021-07-01,2021,3,West Midlands,E08000025,Birmingham,Community Sponsorship Scheme,6
-2021-07-01,2021,3,West Midlands,E08000025,Birmingham,UK Resettlement Scheme,22
+2021-07-01,2021,3,West Midlands,E08000025,Birmingham,UK Resettlement Scheme,28
 2021-07-01,2021,3,West Midlands,E08000026,Coventry,UK Resettlement Scheme,1
-2021-07-01,2021,3,Yorkshire and The Humber,E06000011,East Riding of Yorkshire,UK Resettlement Scheme,11
-2021-07-01,2021,3,Yorkshire and The Humber,E06000012,North East Lincolnshire,UK Resettlement Scheme,10
-2021-07-01,2021,3,Yorkshire and The Humber,E06000013,North Lincolnshire,UK Resettlement Scheme,5
-2021-07-01,2021,3,Yorkshire and The Humber,E06000014,York,Community Sponsorship Scheme,5
-2021-07-01,2021,3,Yorkshire and The Humber,E06000014,York,UK Resettlement Scheme,6
-2021-07-01,2021,3,Yorkshire and The Humber,E08000019,Sheffield,UK Resettlement Scheme,10
+2021-07-01,2021,3,West Midlands,E06000051,Shropshire,UK Resettlement Scheme,5
 2021-07-01,2021,3,Yorkshire and The Humber,E08000032,Bradford,UK Resettlement Scheme,54
+2021-07-01,2021,3,Yorkshire and The Humber,E06000011,East Riding of Yorkshire,UK Resettlement Scheme,11
 2021-07-01,2021,3,Yorkshire and The Humber,E08000034,Kirklees,UK Resettlement Scheme,5
 2021-07-01,2021,3,Yorkshire and The Humber,E08000035,Leeds,UK Resettlement Scheme,15
+2021-07-01,2021,3,Yorkshire and The Humber,E06000012,North East Lincolnshire,UK Resettlement Scheme,10
+2021-07-01,2021,3,Yorkshire and The Humber,E06000013,North Lincolnshire,UK Resettlement Scheme,5
+2021-07-01,2021,3,Yorkshire and The Humber,E08000019,Sheffield,UK Resettlement Scheme,10
 2021-07-01,2021,3,Yorkshire and The Humber,E08000036,Wakefield,UK Resettlement Scheme,5
+2021-07-01,2021,3,Yorkshire and The Humber,E06000014,York,UK Resettlement Scheme,11
 2021-10-01,2021,4,East Midlands,E06000018,Nottingham,UK Resettlement Scheme,5
-2021-10-01,2021,4,East of England,E06000031,Peterborough,UK Resettlement Scheme,4
-2021-10-01,2021,4,East of England,E06000033,Southend-on-Sea,UK Resettlement Scheme,5
 2021-10-01,2021,4,East of England,E06000056,Central Bedfordshire,UK Resettlement Scheme,10
 2021-10-01,2021,4,East of England,E07000148,Norwich,UK Resettlement Scheme,7
+2021-10-01,2021,4,East of England,E06000031,Peterborough,UK Resettlement Scheme,4
+2021-10-01,2021,4,East of England,E06000033,Southend-on-Sea,UK Resettlement Scheme,5
 2021-10-01,2021,4,East of England,E07000241,Welwyn Hatfield,UK Resettlement Scheme,2
 2021-10-01,2021,4,London,E09000006,Bromley,Community Sponsorship Scheme,4
 2021-10-01,2021,4,London,E09000021,Kingston upon Thames,Community Sponsorship Scheme,4
@@ -2323,47 +2317,149 @@ Date,Year,Quarter,UK Region,LAD Code,Local Authority,Resettlement Scheme,Persons
 2021-10-01,2021,4,London,E09000023,Lewisham,UK Resettlement Scheme,10
 2021-10-01,2021,4,London,E09000028,Southwark,Community Sponsorship Scheme,5
 2021-10-01,2021,4,London,E09000031,Waltham Forest,UK Resettlement Scheme,6
-2021-10-01,2021,4,North East,E06000003,Redcar and Cleveland,UK Resettlement Scheme,4
 2021-10-01,2021,4,North East,E08000037,Gateshead,UK Resettlement Scheme,4
-2021-10-01,2021,4,North West,E07000124,Ribble Valley,Community Sponsorship Scheme,5
-2021-10-01,2021,4,North West,E07000126,South Ribble,Community Sponsorship Scheme,5
+2021-10-01,2021,4,North East,E06000003,Redcar and Cleveland,UK Resettlement Scheme,4
 2021-10-01,2021,4,North West,E08000006,Salford,Mandate Scheme,2
 2021-10-01,2021,4,North West,E08000012,Liverpool,UK Resettlement Scheme,11
+2021-10-01,2021,4,North West,E07000124,Ribble Valley,Community Sponsorship Scheme,5
 2021-10-01,2021,4,North West,E08000014,Sefton,UK Resettlement Scheme,6
+2021-10-01,2021,4,North West,E07000126,South Ribble,Community Sponsorship Scheme,5
 2021-10-01,2021,4,North West,E08000015,Wirral,UK Resettlement Scheme,4
 2021-10-01,2021,4,Northern Ireland,N09000001,Antrim and Newtownabbey,UK Resettlement Scheme,3
+2021-10-01,2021,4,Northern Ireland,N09000011,Ards and North Down,UK Resettlement Scheme,10
 2021-10-01,2021,4,Northern Ireland,N09000003,Belfast,UK Resettlement Scheme,2
 2021-10-01,2021,4,Northern Ireland,N09000009,Mid Ulster,UK Resettlement Scheme,6
-2021-10-01,2021,4,Northern Ireland,N09000011,Ards and North Down,UK Resettlement Scheme,10
-2021-10-01,2021,4,Scotland,S12000005,Clackmannanshire,UK Resettlement Scheme,5
 2021-10-01,2021,4,Scotland,S12000035,Argyll and Bute,UK Resettlement Scheme,3
 2021-10-01,2021,4,Scotland,S12000036,City of Edinburgh,UK Resettlement Scheme,19
-2021-10-01,2021,4,South East,E06000040,Windsor and Maidenhead,UK Resettlement Scheme,2
-2021-10-01,2021,4,South East,E07000062,Hastings,UK Resettlement Scheme,5
-2021-10-01,2021,4,South East,E07000086,Eastleigh,Community Sponsorship Scheme,4
+2021-10-01,2021,4,Scotland,S12000005,Clackmannanshire,UK Resettlement Scheme,5
 2021-10-01,2021,4,South East,E07000106,Canterbury,UK Resettlement Scheme,7
+2021-10-01,2021,4,South East,E07000086,Eastleigh,Community Sponsorship Scheme,4
 2021-10-01,2021,4,South East,E07000209,Guildford,Community Sponsorship Scheme,4
+2021-10-01,2021,4,South East,E07000062,Hastings,UK Resettlement Scheme,5
 2021-10-01,2021,4,South East,E07000210,Mole Valley,Community Sponsorship Scheme,5
-2021-10-01,2021,4,South West,E06000054,Wiltshire,UK Resettlement Scheme,9
-2021-10-01,2021,4,South West,E07000043,North Devon,Community Sponsorship Scheme,6
+2021-10-01,2021,4,South East,E06000040,Windsor and Maidenhead,UK Resettlement Scheme,2
 2021-10-01,2021,4,South West,E07000078,Cheltenham,UK Resettlement Scheme,4
+2021-10-01,2021,4,South West,E07000043,North Devon,Community Sponsorship Scheme,6
 2021-10-01,2021,4,South West,E07000246,Somerset West and Taunton,Community Sponsorship Scheme,3
+2021-10-01,2021,4,South West,E06000054,Wiltshire,UK Resettlement Scheme,9
 2021-10-01,2021,4,Wales,W06000013,Bridgend,UK Resettlement Scheme,5
 2021-10-01,2021,4,Wales,W06000014,Vale of Glamorgan,Community Sponsorship Scheme,6
 2021-10-01,2021,4,Wales,W06000014,Vale of Glamorgan,UK Resettlement Scheme,5
+2021-10-01,2021,4,West Midlands,E08000025,Birmingham,UK Resettlement Scheme,48
 2021-10-01,2021,4,West Midlands,E07000192,Cannock Chase,Community Sponsorship Scheme,5
-2021-10-01,2021,4,West Midlands,E07000221,Stratford-on-Avon,UK Resettlement Scheme,4
+2021-10-01,2021,4,West Midlands,E08000026,Coventry,UK Resettlement Scheme,24
 2021-10-01,2021,4,West Midlands,E07000235,Malvern Hills,Community Sponsorship Scheme,5
+2021-10-01,2021,4,West Midlands,E07000221,Stratford-on-Avon,UK Resettlement Scheme,4
+2021-10-01,2021,4,West Midlands,E08000030,Walsall,UK Resettlement Scheme,4
 2021-10-01,2021,4,West Midlands,E07000237,Worcester,UK Resettlement Scheme,4
 2021-10-01,2021,4,West Midlands,E07000238,Wychavon,UK Resettlement Scheme,4
-2021-10-01,2021,4,West Midlands,E08000025,Birmingham,UK Resettlement Scheme,48
-2021-10-01,2021,4,West Midlands,E08000026,Coventry,UK Resettlement Scheme,24
-2021-10-01,2021,4,West Midlands,E08000030,Walsall,UK Resettlement Scheme,4
+2021-10-01,2021,4,Yorkshire and The Humber,E08000032,Bradford,UK Resettlement Scheme,28
+2021-10-01,2021,4,Yorkshire and The Humber,E08000017,Doncaster,UK Resettlement Scheme,2
+2021-10-01,2021,4,Yorkshire and The Humber,E07000165,Harrogate,UK Resettlement Scheme,20
 2021-10-01,2021,4,Yorkshire and The Humber,E06000010,"Kingston upon Hull, City of",UK Resettlement Scheme,9
 2021-10-01,2021,4,Yorkshire and The Humber,E06000012,North East Lincolnshire,UK Resettlement Scheme,3
-2021-10-01,2021,4,Yorkshire and The Humber,E06000014,York,UK Resettlement Scheme,6
-2021-10-01,2021,4,Yorkshire and The Humber,E07000165,Harrogate,UK Resettlement Scheme,20
-2021-10-01,2021,4,Yorkshire and The Humber,E08000017,Doncaster,UK Resettlement Scheme,2
 2021-10-01,2021,4,Yorkshire and The Humber,E08000019,Sheffield,UK Resettlement Scheme,24
-2021-10-01,2021,4,Yorkshire and The Humber,E08000032,Bradford,UK Resettlement Scheme,28
 2021-10-01,2021,4,Yorkshire and The Humber,E08000036,Wakefield,UK Resettlement Scheme,5
+2021-10-01,2021,4,Yorkshire and The Humber,E06000014,York,UK Resettlement Scheme,6
+2022-01-01,2022,1,East Midlands,E06000018,Nottingham,Community Sponsorship Scheme,5
+2022-01-01,2022,1,East Midlands,E06000018,Nottingham,UK Resettlement Scheme,14
+2022-01-01,2022,1,East Midlands,E07000035,Derbyshire Dales,UK Resettlement Scheme,5
+2022-01-01,2022,1,East Midlands,E07000133,Melton,UK Resettlement Scheme,5
+2022-01-01,2022,1,East Midlands,E07000175,Newark and Sherwood,UK Resettlement Scheme,7
+2022-01-01,2022,1,East of England,E06000031,Peterborough,UK Resettlement Scheme,5
+2022-01-01,2022,1,London,E09000008,Croydon,Community Sponsorship Scheme,4
+2022-01-01,2022,1,London,E09000009,Ealing,UK Resettlement Scheme,7
+2022-01-01,2022,1,London,E09000018,Hounslow,UK Resettlement Scheme,4
+2022-01-01,2022,1,London,E09000025,Newham,Community Sponsorship Scheme,6
+2022-01-01,2022,1,London,E09000026,Redbridge,UK Resettlement Scheme,5
+2022-01-01,2022,1,London,E09000031,Waltham Forest,UK Resettlement Scheme,4
+2022-01-01,2022,1,London,E09000008,Croydon,Mandate Scheme,1
+2022-01-01,2022,1,North East,E06000001,Hartlepool,UK Resettlement Scheme,3
+2022-01-01,2022,1,North East,E06000003,Redcar and Cleveland,UK Resettlement Scheme,19
+2022-01-01,2022,1,North East,E06000047,County Durham,UK Resettlement Scheme,30
+2022-01-01,2022,1,North East,E08000021,Newcastle upon Tyne,UK Resettlement Scheme,5
+2022-01-01,2022,1,North West,E07000117,Burnley,UK Resettlement Scheme,3
+2022-01-01,2022,1,North West,E07000118,Chorley,UK Resettlement Scheme,1
+2022-01-01,2022,1,North West,E07000121,Lancaster,UK Resettlement Scheme,4
+2022-01-01,2022,1,North West,E07000122,Pendle,UK Resettlement Scheme,5
+2022-01-01,2022,1,North West,E08000003,Manchester,Community Sponsorship Scheme,6
+2022-01-01,2022,1,North West,E08000012,Liverpool,Community Sponsorship Scheme,4
+2022-01-01,2022,1,North West,E08000012,Liverpool,UK Resettlement Scheme,10
+2022-01-01,2022,1,Northern Ireland,N09000001,Antrim and Newtownabbey,UK Resettlement Scheme,6
+2022-01-01,2022,1,Northern Ireland,N09000003,Belfast,UK Resettlement Scheme,7
+2022-01-01,2022,1,Scotland,S12000008,East Ayrshire,UK Resettlement Scheme,4
+2022-01-01,2022,1,Scotland,S12000014,Falkirk,UK Resettlement Scheme,10
+2022-01-01,2022,1,Scotland,S12000018,Inverclyde,UK Resettlement Scheme,10
+2022-01-01,2022,1,Scotland,S12000021,North Ayrshire,UK Resettlement Scheme,5
+2022-01-01,2022,1,Scotland,S12000030,Stirling,UK Resettlement Scheme,7
+2022-01-01,2022,1,Scotland,S12000036,City of Edinburgh,UK Resettlement Scheme,22
+2022-01-01,2022,1,Scotland,S12000042,Dundee City,UK Resettlement Scheme,3
+2022-01-01,2022,1,Scotland,S12000050,North Lanarkshire,UK Resettlement Scheme,6
+2022-01-01,2022,1,South East,E06000060,Buckinghamshire,Community Sponsorship Scheme,6
+2022-01-01,2022,1,South East,E06000038,Reading,UK Resettlement Scheme,6
+2022-01-01,2022,1,South East,E06000043,Brighton and Hove,UK Resettlement Scheme,5
+2022-01-01,2022,1,South East,E06000045,Southampton,Community Sponsorship Scheme,5
+2022-01-01,2022,1,South East,E07000087,Fareham,Community Sponsorship Scheme,5
+2022-01-01,2022,1,South East,E07000113,Swale,Community Sponsorship Scheme,6
+2022-01-01,2022,1,South East,E07000177,Cherwell,UK Resettlement Scheme,3
+2022-01-01,2022,1,South East,E07000178,Oxford,Community Sponsorship Scheme,4
+2022-01-01,2022,1,South East,E07000178,Oxford,UK Resettlement Scheme,4
+2022-01-01,2022,1,South East,E07000179,South Oxfordshire,UK Resettlement Scheme,4
+2022-01-01,2022,1,South East,E07000180,Vale of White Horse,UK Resettlement Scheme,3
+2022-01-01,2022,1,South West,E06000023,"Bristol, City of",UK Resettlement Scheme,11
+2022-01-01,2022,1,South West,E06000059,Dorset,Community Sponsorship Scheme,4
+2022-01-01,2022,1,South West,E07000078,Cheltenham,UK Resettlement Scheme,7
+2022-01-01,2022,1,South West,E07000081,Gloucester,UK Resettlement Scheme,4
+2022-01-01,2022,1,Wales,W06000008,Ceredigion,Community Sponsorship Scheme,3
+2022-01-01,2022,1,West Midlands,E08000025,Birmingham,UK Resettlement Scheme,9
+2022-01-01,2022,1,West Midlands,E08000026,Coventry,UK Resettlement Scheme,8
+2022-01-01,2022,1,West Midlands,E08000025,Birmingham,Mandate Scheme,1
+2022-01-01,2022,1,Yorkshire and The Humber,E06000010,"Kingston upon Hull, City of",UK Resettlement Scheme,18
+2022-01-01,2022,1,Yorkshire and The Humber,E07000165,Harrogate,UK Resettlement Scheme,7
+2022-01-01,2022,1,Yorkshire and The Humber,E08000018,Rotherham,UK Resettlement Scheme,3
+2022-01-01,2022,1,Yorkshire and The Humber,E08000032,Bradford,UK Resettlement Scheme,25
+2022-01-01,2022,1,Yorkshire and The Humber,E08000036,Wakefield,Community Sponsorship Scheme,4
+2022-01-01,2022,1,Yorkshire and The Humber,E08000036,Wakefield,UK Resettlement Scheme,12
+2022-04-01,2022,2,East Midlands,E07000035,Derbyshire Dales,UK Resettlement Scheme,9
+2022-04-01,2022,2,East of England,E06000055,Bedford,UK Resettlement Scheme,5
+2022-04-01,2022,2,London,E09000018,Hounslow,UK Resettlement Scheme,4
+2022-04-01,2022,2,London,E09000023,Lewisham,Community Sponsorship Scheme,5
+2022-04-01,2022,2,London,E09000024,Merton,Community Sponsorship Scheme,4
+2022-04-01,2022,2,London,E09000028,Southwark,Community Sponsorship Scheme,7
+2022-04-01,2022,2,London,E09000031,Waltham Forest,UK Resettlement Scheme,8
+2022-04-01,2022,2,North East,E06000003,Redcar and Cleveland,UK Resettlement Scheme,12
+2022-04-01,2022,2,North West,E06000006,Halton,UK Resettlement Scheme,10
+2022-04-01,2022,2,North West,E08000009,Trafford,Community Sponsorship Scheme,5
+2022-04-01,2022,2,North West,E08000015,Wirral,UK Resettlement Scheme,2
+2022-04-01,2022,2,Northern Ireland,N09000003,Belfast,UK Resettlement Scheme,1
+2022-04-01,2022,2,Scotland,S12000035,Argyll and Bute,UK Resettlement Scheme,9
+2022-04-01,2022,2,Scotland,S12000036,City of Edinburgh,Community Sponsorship Scheme,5
+2022-04-01,2022,2,Scotland,S12000036,City of Edinburgh,UK Resettlement Scheme,2
+2022-04-01,2022,2,Scotland,S12000018,Inverclyde,UK Resettlement Scheme,5
+2022-04-01,2022,2,Scotland,S12000039,West Dunbartonshire,UK Resettlement Scheme,1
+2022-04-01,2022,2,South East,E06000043,Brighton and Hove,UK Resettlement Scheme,5
+2022-04-01,2022,2,South East,E06000046,Isle of Wight,UK Resettlement Scheme,3
+2022-04-01,2022,2,South East,E07000178,Oxford,UK Resettlement Scheme,2
+2022-04-01,2022,2,South East,E06000044,Portsmouth,Community Sponsorship Scheme,4
+2022-04-01,2022,2,South East,E07000064,Rother,UK Resettlement Scheme,10
+2022-04-01,2022,2,South East,E07000212,Runnymede,UK Resettlement Scheme,4
+2022-04-01,2022,2,South East,E07000179,South Oxfordshire,UK Resettlement Scheme,3
+2022-04-01,2022,2,South East,E07000214,Surrey Heath,UK Resettlement Scheme,4
+2022-04-01,2022,2,South West,E06000022,Bath and North East Somerset,Community Sponsorship Scheme,4
+2022-04-01,2022,2,South West,E06000023,"Bristol, City of",UK Resettlement Scheme,10
+2022-04-01,2022,2,South West,E07000078,Cheltenham,UK Resettlement Scheme,5
+2022-04-01,2022,2,South West,E06000052,Cornwall,Community Sponsorship Scheme,7
+2022-04-01,2022,2,South West,E06000059,Dorset,Community Sponsorship Scheme,10
+2022-04-01,2022,2,South West,E07000040,East Devon,Community Sponsorship Scheme,5
+2022-04-01,2022,2,South West,E07000046,Torridge,Community Sponsorship Scheme,5
+2022-04-01,2022,2,West Midlands,E08000025,Birmingham,UK Resettlement Scheme,10
+2022-04-01,2022,2,West Midlands,E08000026,Coventry,UK Resettlement Scheme,20
+2022-04-01,2022,2,West Midlands,E07000221,Stratford-on-Avon,UK Resettlement Scheme,2
+2022-04-01,2022,2,West Midlands,E07000222,Warwick,Community Sponsorship Scheme,5
+2022-04-01,2022,2,Yorkshire and The Humber,E08000032,Bradford,UK Resettlement Scheme,21
+2022-04-01,2022,2,Yorkshire and The Humber,E06000011,East Riding of Yorkshire,UK Resettlement Scheme,6
+2022-04-01,2022,2,Yorkshire and The Humber,E07000165,Harrogate,UK Resettlement Scheme,15
+2022-04-01,2022,2,Yorkshire and The Humber,E06000010,"Kingston upon Hull, City of",UK Resettlement Scheme,5
+2022-04-01,2022,2,Yorkshire and The Humber,E06000013,North Lincolnshire,UK Resettlement Scheme,5
+2022-04-01,2022,2,Yorkshire and The Humber,E08000019,Sheffield,Community Sponsorship Scheme,9
+2022-04-01,2022,2,Yorkshire and The Humber,E08000019,Sheffield,UK Resettlement Scheme,6

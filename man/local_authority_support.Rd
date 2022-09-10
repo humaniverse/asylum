@@ -5,11 +5,12 @@
 \alias{local_authority_support}
 \title{Section 95 support by local authority}
 \format{
-A data frame with 9,929 rows and 8 variables:
+A data frame with 13,952 rows and 8 variables:
 \describe{
   \item{Date}{The date at which the number of people in receipt of support refers to}
   \item{Year}{Year}
   \item{Quarter}{Quarter}
+  \item{Support Type}{Section 95 or Section 4 support?}
   \item{UK Region}{The UK region of the individual's registered address}
   \item{Local Authority}{The Local Authority of the individual's registered address}
   \item{LAD Code}{Local Authority (district) code as supplied by ONS}

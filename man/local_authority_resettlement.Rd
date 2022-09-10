@@ -5,7 +5,7 @@
 \alias{local_authority_resettlement}
 \title{Resettlement by local authority}
 \format{
-A data frame with 2,243 rows and 8 variables:
+A data frame with 2,464 rows and 8 variables:
 \describe{
   \item{Date}{The period in which the refugee arrived in the UK}
   \item{Year}{Year}

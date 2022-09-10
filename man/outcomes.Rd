@@ -5,7 +5,7 @@
 \alias{outcomes}
 \title{Outcome analysis of asylum applications}
 \format{
-A data frame with 3,216 rows and 26 variables:
+A data frame with 3,463 rows and 26 variables:
 \describe{
   \item{Year of application}{Year of application}
   \item{Geographical region}{Geographical region}

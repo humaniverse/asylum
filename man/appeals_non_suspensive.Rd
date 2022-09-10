@@ -5,7 +5,7 @@
 \alias{appeals_non_suspensive}
 \title{Non-suspensive appeals}
 \format{
-A data frame with 2,035 rows and 10 variables:
+A data frame with 2,105 rows and 10 variables:
 \describe{
   \item{Date}{Date}
   \item{Year}{Year}

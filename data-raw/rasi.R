@@ -16,11 +16,11 @@ GET(
   write_disk(tf <- tempfile())
 )
 
-aspen <-
-  read_ods(tf, sheet = "AC_01", skip = 3)
-
-aspen_support <-
-  read_ods(tf, sheet = "AC_02", skip = 3)
+# aspen <-
+#   read_ods(tf, sheet = "AC_01", skip = 2)
+#
+# aspen_support <-
+#   read_ods(tf, sheet = "AC_02", skip = 3)
 
 nts <-
   read_ods(tf, sheet = "NTS_01", skip = 3)
@@ -32,31 +32,31 @@ travel_documents <-
   read_ods(tf, sheet = "TD_01", skip = 3)
 
 # Wrangling
-aspen <-
-  aspen |>
-  select(Quarter, `Aspen Cards in use`) |>
-  as_tibble() |>
-  drop_na() |>
-  mutate(Date = yq(Quarter)) |>
-  mutate(
-    Year = year(Date),
-    Quarter = quarter(Date)
-  ) |>
-  mutate(`Aspen Cards in use` = as.integer(`Aspen Cards in use`)) |>
-  relocate(Date, Year, Quarter)
-
-aspen_support <-
-  aspen_support |>
-  select(Quarter, `Home Office`, Sodexo, `Migrant Help`) |>
-  as_tibble() |>
-  drop_na() |>
-  mutate(Date = yq(Quarter)) |>
-  mutate(
-    Year = year(Date),
-    Quarter = quarter(Date)
-  ) |>
-  mutate(across(where(is.character), as.integer)) |>
-  relocate(Date, Year, Quarter)
+# aspen <-
+#   aspen |>
+#   select(Quarter, `Aspen Cards in use`) |>
+#   as_tibble() |>
+#   drop_na() |>
+#   mutate(Date = yq(Quarter)) |>
+#   mutate(
+#     Year = year(Date),
+#     Quarter = quarter(Date)
+#   ) |>
+#   mutate(`Aspen Cards in use` = as.integer(`Aspen Cards in use`)) |>
+#   relocate(Date, Year, Quarter)
+#
+# aspen_support <-
+#   aspen_support |>
+#   select(Quarter, `Home Office`, Sodexo, `Migrant Help`) |>
+#   as_tibble() |>
+#   drop_na() |>
+#   mutate(Date = yq(Quarter)) |>
+#   mutate(
+#     Year = year(Date),
+#     Quarter = quarter(Date)
+#   ) |>
+#   mutate(across(where(is.character), as.integer)) |>
+#   relocate(Date, Year, Quarter)
 
 nts <-
   nts |>
@@ -90,7 +90,7 @@ support_applications_rasi <-
 
 travel_documents <-
   travel_documents |>
-  select(Quarter, `TD Raised`, `TD Despatched` = `TD Despatched 5`) |>
+  select(Quarter, `TD Raised`, `TD Despatched` = `TD Despatched5`) |>
   as_tibble() |>
   drop_na() |>
   mutate(Quarter = if_else(Quarter == "2020 Q23", "2020 Q2", Quarter)) |>
@@ -102,11 +102,11 @@ travel_documents <-
   relocate(Date, Year, Quarter)
 
 # Save output to data/ folder
-usethis::use_data(aspen, overwrite = TRUE)
-readr::write_csv(aspen, "data-raw/aspen.csv")
-
-usethis::use_data(aspen_support, overwrite = TRUE)
-readr::write_csv(aspen_support, "data-raw/aspen_support.csv")
+# usethis::use_data(aspen, overwrite = TRUE)
+# readr::write_csv(aspen, "data-raw/aspen.csv")
+#
+# usethis::use_data(aspen_support, overwrite = TRUE)
+# readr::write_csv(aspen_support, "data-raw/aspen_support.csv")
 
 usethis::use_data(nts, overwrite = TRUE)
 readr::write_csv(nts, "data-raw/nts.csv")

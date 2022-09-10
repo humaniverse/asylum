@@ -2035,41 +2035,72 @@ Date,Year,Quarter,Nationality,Region,Initial decisions from designated states,Re
 2021-04-01,2021,2,United States,America North,0,0,0,1,1
 2021-04-01,2021,2,Vietnam,Asia South East,0,0,0,5,5
 2021-07-01,2021,3,Albania,Europe Other,109,52,27,0,27
+2021-07-01,2021,3,Algeria,Africa North,0,0,0,1,1
 2021-07-01,2021,3,Brazil,America Central and South,5,5,3,0,3
 2021-07-01,2021,3,China,Asia East,0,0,0,1,1
-2021-07-01,2021,3,Algeria,Africa North,0,0,0,1,1
-2021-07-01,2021,3,Ghana,Africa Sub-Saharan,3,2,0,0,0
 2021-07-01,2021,3,"Gambia, The",Africa Sub-Saharan,4,4,1,0,1
+2021-07-01,2021,3,Ghana,Africa Sub-Saharan,3,2,0,0,0
 2021-07-01,2021,3,India,Asia South,52,50,22,0,22
 2021-07-01,2021,3,Jamaica,America Central and South,0,0,0,1,1
 2021-07-01,2021,3,Kenya,Africa Sub-Saharan,8,4,0,0,0
+2021-07-01,2021,3,Kosovo,Europe Other,3,2,1,0,1
 2021-07-01,2021,3,Mali,Africa Sub-Saharan,5,3,0,0,0
-2021-07-01,2021,3,Mongolia,Asia East,1,1,0,0,0
 2021-07-01,2021,3,Mauritius,Africa Sub-Saharan,3,2,0,0,0
+2021-07-01,2021,3,Mongolia,Asia East,1,1,0,0,0
 2021-07-01,2021,3,Nigeria,Africa Sub-Saharan,24,18,7,0,7
 2021-07-01,2021,3,Pakistan,Asia South,0,0,0,4,4
 2021-07-01,2021,3,Sierra Leone,Africa Sub-Saharan,4,3,0,0,0
+2021-07-01,2021,3,South Africa,Africa Sub-Saharan,6,5,0,0,0
 2021-07-01,2021,3,Ukraine,Europe Other,7,6,6,0,6
 2021-07-01,2021,3,Vietnam,Asia South East,0,0,0,2,2
-2021-07-01,2021,3,Kosovo,Europe Other,3,2,1,0,1
-2021-07-01,2021,3,South Africa,Africa Sub-Saharan,6,5,0,0,0
 2021-10-01,2021,4,Albania,Europe Other,136,73,34,0,34
 2021-10-01,2021,4,Bangladesh,Asia South,0,0,0,1,1
 2021-10-01,2021,4,Bolivia,America Central and South,3,3,2,0,2
 2021-10-01,2021,4,Brazil,America Central and South,15,12,6,0,6
 2021-10-01,2021,4,Ecuador,America Central and South,1,1,0,0,0
-2021-10-01,2021,4,Ghana,Africa Sub-Saharan,10,8,2,0,2
 2021-10-01,2021,4,"Gambia, The",Africa Sub-Saharan,5,3,0,0,0
+2021-10-01,2021,4,Ghana,Africa Sub-Saharan,10,8,2,0,2
 2021-10-01,2021,4,India,Asia South,54,52,36,0,36
 2021-10-01,2021,4,Kenya,Africa Sub-Saharan,5,2,0,0,0
 2021-10-01,2021,4,Kosovo,Europe Other,7,6,4,0,4
 2021-10-01,2021,4,Liberia,Africa Sub-Saharan,1,1,0,0,0
-2021-10-01,2021,4,Morocco,Africa North,0,0,0,1,1
-2021-10-01,2021,4,Mauritius,Africa Sub-Saharan,2,1,1,0,1
 2021-10-01,2021,4,Malawi,Africa Sub-Saharan,2,2,1,0,1
+2021-10-01,2021,4,Mauritius,Africa Sub-Saharan,2,1,1,0,1
+2021-10-01,2021,4,Morocco,Africa North,0,0,0,1,1
 2021-10-01,2021,4,Nigeria,Africa Sub-Saharan,27,18,3,0,3
 2021-10-01,2021,4,Pakistan,Asia South,0,0,0,1,1
 2021-10-01,2021,4,Philippines,Asia South East,0,0,0,2,2
 2021-10-01,2021,4,Sierra Leone,Africa Sub-Saharan,9,6,0,0,0
-2021-10-01,2021,4,Ukraine,Europe Other,16,15,12,0,12
 2021-10-01,2021,4,South Africa,Africa Sub-Saharan,5,3,0,0,0
+2021-10-01,2021,4,Ukraine,Europe Other,16,15,12,0,12
+2022-01-01,2022,1,Albania,Europe Other,195,71,38,0,38
+2022-01-01,2022,1,Brazil,America Central and South,7,7,6,0,6
+2022-01-01,2022,1,Ecuador,America Central and South,1,1,0,0,0
+2022-01-01,2022,1,"Gambia, The",Africa Sub-Saharan,1,1,0,0,0
+2022-01-01,2022,1,Ghana,Africa Sub-Saharan,7,6,3,0,3
+2022-01-01,2022,1,India,Asia South,59,58,38,0,38
+2022-01-01,2022,1,Kenya,Africa Sub-Saharan,2,2,0,0,0
+2022-01-01,2022,1,Liberia,Africa Sub-Saharan,1,1,0,0,0
+2022-01-01,2022,1,Mauritius,Africa Sub-Saharan,1,1,0,0,0
+2022-01-01,2022,1,Namibia,Africa Sub-Saharan,0,0,0,2,2
+2022-01-01,2022,1,Nigeria,Africa Sub-Saharan,21,15,7,0,7
+2022-01-01,2022,1,Philippines,Asia South East,0,0,0,1,1
+2022-01-01,2022,1,Russia,Europe Other,0,0,0,1,1
+2022-01-01,2022,1,Sierra Leone,Africa Sub-Saharan,4,4,0,0,0
+2022-01-01,2022,1,South Africa,Africa Sub-Saharan,2,1,0,0,0
+2022-01-01,2022,1,Ukraine,Europe Other,2,2,1,0,1
+2022-01-01,2022,1,United States,America North,0,0,0,1,1
+2022-04-01,2022,2,Albania,Europe Other,120,69,28,0,28
+2022-04-01,2022,2,Bolivia,America Central and South,1,0,0,0,0
+2022-04-01,2022,2,Brazil,America Central and South,5,5,4,0,4
+2022-04-01,2022,2,El Salvador,America Central and South,0,0,0,1,1
+2022-04-01,2022,2,"Gambia, The",Africa Sub-Saharan,1,0,0,0,0
+2022-04-01,2022,2,Ghana,Africa Sub-Saharan,2,2,1,0,1
+2022-04-01,2022,2,India,Asia South,63,59,35,0,35
+2022-04-01,2022,2,Kenya,Africa Sub-Saharan,6,3,1,0,1
+2022-04-01,2022,2,Kosovo,Europe Other,1,1,1,0,1
+2022-04-01,2022,2,Mauritius,Africa Sub-Saharan,1,1,0,0,0
+2022-04-01,2022,2,Nigeria,Africa Sub-Saharan,15,10,0,0,0
+2022-04-01,2022,2,Poland,EU 8,0,0,0,1,1
+2022-04-01,2022,2,Sierra Leone,Africa Sub-Saharan,2,1,0,0,0
+2022-04-01,2022,2,United States,America North,0,0,0,1,1

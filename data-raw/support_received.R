@@ -24,7 +24,8 @@ support_received <-
   support_received |>
   rename(Date = `Date (as at…)`) |>
   filter(Date != "End of table") |>
-  mutate(Date = dmy(Date))
+  mutate(Date = dmy(Date)) |>
+  select(-starts_with("..."))
 
 # Save output to data/ folder
 usethis::use_data(support_received, overwrite = TRUE)

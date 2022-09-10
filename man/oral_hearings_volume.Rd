@@ -5,7 +5,7 @@
 \alias{oral_hearings_volume}
 \title{Volume of oral hearings represented by the Home Office}
 \format{
-A data frame with 11 rows and 4 variables:
+A data frame with 12 rows and 4 variables:
 \describe{
   \item{Financial Year}{Financial year}
   \item{Asylum appeals represented at hearing (\%)}{Percent of sylum appeals represented at hearing}

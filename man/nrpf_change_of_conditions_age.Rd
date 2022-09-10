@@ -5,7 +5,7 @@
 \alias{nrpf_change_of_conditions_age}
 \title{NRPF - Destitution Change of Conditions Application by Age Group}
 \format{
-A data frame with 16 rows and 12 variables:
+A data frame with 20 rows and 12 variables:
 \describe{
   \item{Date}{Date}
   \item{Year}{Year}

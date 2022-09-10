@@ -5,7 +5,7 @@
 \alias{asylum_work_in_progress}
 \title{Asylum work in progress}
 \format{
-A data frame with 11 rows and 17 variables:
+A data frame with 12 rows and 17 variables:
 \describe{
   \item{Date}{Date}
   \item{Year}{Year}

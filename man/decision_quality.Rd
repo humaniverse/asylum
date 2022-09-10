@@ -5,7 +5,7 @@
 \alias{decision_quality}
 \title{Decision Quality}
 \format{
-A data frame with 14 rows and 5 variables:
+A data frame with 15 rows and 5 variables:
 \describe{
   \item{Financial Year}{Financial year}
   \item{Assurance}{First line or second line assurance}

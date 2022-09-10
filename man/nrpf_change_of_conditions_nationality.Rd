@@ -5,7 +5,7 @@
 \alias{nrpf_change_of_conditions_nationality}
 \title{NRPF - Destitution Change of Conditions Application by Nationality}
 \format{
-A data frame with 146 rows and 17 variables:
+A data frame with 154 rows and 21 variables:
 \describe{
   \item{Nationality}{Nationality}
   \item{2017 Q3}{2017 Q3}
@@ -24,6 +24,10 @@ A data frame with 146 rows and 17 variables:
   \item{2020 Q4}{2020 Q4}
   \item{2021 Q1}{2021 Q1}
   \item{2021 Q2}{2021 Q2}
+  \item{2021 Q3}{2021 Q3}
+  \item{2021 Q4}{2021 Q4}
+  \item{2022 Q1}{2022 Q1}
+  \item{2022 Q2}{2022 Q2}
   ...
 }
 }

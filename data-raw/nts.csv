@@ -8690,8 +8690,8 @@ Date,Year,Quarter,Region,Local Authority or HSCT (NI),Able to participate in the
 2021-07-01,2021,3,South East,Ashford,No,0,0,0
 2021-07-01,2021,3,South East,Aylesbury Vale,No,0,0,0
 2021-07-01,2021,3,East of England,Babergh,No,0,0,0
-2021-07-01,2021,3,London,Barking and Dagenham,Yes,0,0,5
-2021-07-01,2021,3,London,Barnet,Yes,0,0,0
+2021-07-01,2021,3,London,Barking and Dagenham,Yes,0,1,5
+2021-07-01,2021,3,London,Barnet,Yes,0,1,0
 2021-07-01,2021,3,Yorkshire and The Humber,Barnsley,Yes,0,0,6
 2021-07-01,2021,3,North West,Barrow-in-Furness,No,0,0,0
 2021-07-01,2021,3,East of England,Basildon,Yes,0,0,0
@@ -8735,7 +8735,7 @@ Date,Year,Quarter,Region,Local Authority or HSCT (NI),Able to participate in the
 2021-07-01,2021,3,London,Camden,Yes,0,0,0
 2021-07-01,2021,3,West Midlands,Cannock Chase,No,0,0,0
 2021-07-01,2021,3,South East,Canterbury,No,0,0,0
-2021-07-01,2021,3,Wales,Cardiff,Yes,0,0,6
+2021-07-01,2021,3,Wales,Cardiff,Yes,0,0,7
 2021-07-01,2021,3,North West,Carlisle,No,0,0,0
 2021-07-01,2021,3,Wales,Carmarthenshire,Yes,0,0,0
 2021-07-01,2021,3,East of England,Castle Point,No,0,0,0
@@ -8764,7 +8764,7 @@ Date,Year,Quarter,Region,Local Authority or HSCT (NI),Able to participate in the
 2021-07-01,2021,3,West Midlands,Coventry,Yes,0,0,6
 2021-07-01,2021,3,Yorkshire and The Humber,Craven,No,0,0,0
 2021-07-01,2021,3,South East,Crawley,No,0,0,0
-2021-07-01,2021,3,London,Croydon,Yes,0,0,0
+2021-07-01,2021,3,London,Croydon,Yes,18,0,0
 2021-07-01,2021,3,North West,Cumbria,Yes,0,0,3
 2021-07-01,2021,3,East of England,Dacorum,No,0,0,0
 2021-07-01,2021,3,North East,Darlington,Yes,0,0,0
@@ -8783,7 +8783,7 @@ Date,Year,Quarter,Region,Local Authority or HSCT (NI),Able to participate in the
 2021-07-01,2021,3,West Midlands,Dudley,Yes,0,1,4
 2021-07-01,2021,3,Scotland,Dumfries and Galloway,Yes,0,0,0
 2021-07-01,2021,3,Scotland,Dundee,Yes,0,0,0
-2021-07-01,2021,3,London,Ealing,Yes,0,3,3
+2021-07-01,2021,3,London,Ealing,Yes,0,4,3
 2021-07-01,2021,3,Scotland,East Ayrshire,Yes,0,0,0
 2021-07-01,2021,3,East of England,East Cambridgeshire,No,0,0,0
 2021-07-01,2021,3,South West,East Devon,No,0,0,0
@@ -8830,7 +8830,7 @@ Date,Year,Quarter,Region,Local Authority or HSCT (NI),Able to participate in the
 2021-07-01,2021,3,London,Greenwich,Yes,0,0,0
 2021-07-01,2021,3,South East,Guildford,No,0,0,0
 2021-07-01,2021,3,Wales,Gwynedd,Yes,0,0,0
-2021-07-01,2021,3,London,Hackney,Yes,0,0,0
+2021-07-01,2021,3,London,Hackney,Yes,0,2,0
 2021-07-01,2021,3,North West,Halton,Yes,0,0,0
 2021-07-01,2021,3,Yorkshire and The Humber,Hambleton,No,0,0,0
 2021-07-01,2021,3,London,Hammersmith and Fulham,Yes,0,0,0
@@ -8839,7 +8839,7 @@ Date,Year,Quarter,Region,Local Authority or HSCT (NI),Able to participate in the
 2021-07-01,2021,3,London,Haringey,Yes,0,0,4
 2021-07-01,2021,3,East of England,Harlow,No,0,0,0
 2021-07-01,2021,3,Yorkshire and The Humber,Harrogate,No,0,0,0
-2021-07-01,2021,3,London,Harrow,Yes,0,1,3
+2021-07-01,2021,3,London,Harrow,Yes,0,2,3
 2021-07-01,2021,3,South East,Hart,No,0,0,0
 2021-07-01,2021,3,North East,Hartlepool,Yes,0,0,0
 2021-07-01,2021,3,South East,Hastings,No,0,0,0
@@ -8853,7 +8853,7 @@ Date,Year,Quarter,Region,Local Authority or HSCT (NI),Able to participate in the
 2021-07-01,2021,3,London,Hillingdon,Yes,1,0,0
 2021-07-01,2021,3,East Midlands,Hinckley and Bosworth,No,0,0,0
 2021-07-01,2021,3,South East,Horsham,No,0,0,0
-2021-07-01,2021,3,London,Hounslow,Yes,0,0,4
+2021-07-01,2021,3,London,Hounslow,Yes,0,1,4
 2021-07-01,2021,3,East of England,Huntingdonshire,No,0,0,0
 2021-07-01,2021,3,North West,Hyndburn,No,0,0,0
 2021-07-01,2021,3,Scotland,Inverclyde,Yes,0,0,0
@@ -8863,21 +8863,21 @@ Date,Year,Quarter,Region,Local Authority or HSCT (NI),Able to participate in the
 2021-07-01,2021,3,South West,Isles of Scilly,Yes,0,0,0
 2021-07-01,2021,3,London,Islington,Yes,0,0,2
 2021-07-01,2021,3,London,Kensington and Chelsea,Yes,0,0,0
-2021-07-01,2021,3,South East,Kent,Yes,45,0,2
+2021-07-01,2021,3,South East,Kent,Yes,45,0,1
 2021-07-01,2021,3,East Midlands,Kettering,No,0,0,0
 2021-07-01,2021,3,East of England,King's Lynn and West Norfolk,No,0,0,0
 2021-07-01,2021,3,Yorkshire and The Humber,Kingston upon Hull,Yes,0,0,1
-2021-07-01,2021,3,London,Kingston upon Thames,Yes,0,0,1
+2021-07-01,2021,3,London,Kingston upon Thames,Yes,0,2,1
 2021-07-01,2021,3,Yorkshire and The Humber,Kirklees,Yes,0,0,2
 2021-07-01,2021,3,North West,Knowsley,Yes,0,0,2
-2021-07-01,2021,3,London,Lambeth,Yes,0,0,0
+2021-07-01,2021,3,London,Lambeth,Yes,0,1,0
 2021-07-01,2021,3,North West,Lancashire,Yes,0,0,3
 2021-07-01,2021,3,North West,Lancaster,No,0,0,0
 2021-07-01,2021,3,Yorkshire and The Humber,Leeds,Yes,0,8,3
 2021-07-01,2021,3,East Midlands,Leicester,Yes,0,0,2
 2021-07-01,2021,3,East Midlands,Leicestershire,Yes,0,0,4
 2021-07-01,2021,3,South East,Lewes,No,0,0,0
-2021-07-01,2021,3,London,Lewisham,Yes,0,1,7
+2021-07-01,2021,3,London,Lewisham,Yes,0,2,6
 2021-07-01,2021,3,West Midlands,Lichfield,No,0,0,0
 2021-07-01,2021,3,East Midlands,Lincoln,No,0,0,0
 2021-07-01,2021,3,East Midlands,Lincolnshire,Yes,0,0,3
@@ -8893,7 +8893,7 @@ Date,Year,Quarter,Region,Local Authority or HSCT (NI),Able to participate in the
 2021-07-01,2021,3,East Midlands,Melton,No,0,0,0
 2021-07-01,2021,3,South West,Mendip,No,0,0,0
 2021-07-01,2021,3,Wales,Merthyr Tydfil,Yes,0,0,0
-2021-07-01,2021,3,London,Merton,Yes,0,0,0
+2021-07-01,2021,3,London,Merton,Yes,0,1,0
 2021-07-01,2021,3,Northern Ireland,Mid and East Antrim,No,0,0,0
 2021-07-01,2021,3,South West,Mid Devon,No,0,0,0
 2021-07-01,2021,3,East of England,Mid Suffolk,No,0,0,0
@@ -8910,7 +8910,7 @@ Date,Year,Quarter,Region,Local Authority or HSCT (NI),Able to participate in the
 2021-07-01,2021,3,East Midlands,Newark and Sherwood,No,0,0,0
 2021-07-01,2021,3,North East,Newcastle upon Tyne,Yes,0,0,4
 2021-07-01,2021,3,West Midlands,Newcastle-under-Lyme,No,0,0,0
-2021-07-01,2021,3,London,Newham,Yes,0,0,3
+2021-07-01,2021,3,London,Newham,Yes,0,1,3
 2021-07-01,2021,3,Wales,Newport,Yes,0,0,6
 2021-07-01,2021,3,Northern Ireland,"Newry, Mourne and Down",No,0,0,0
 2021-07-01,2021,3,East of England,Norfolk,Yes,0,3,12
@@ -8951,14 +8951,14 @@ Date,Year,Quarter,Region,Local Authority or HSCT (NI),Able to participate in the
 2021-07-01,2021,3,Wales,Powys,Yes,0,0,0
 2021-07-01,2021,3,North West,Preston,No,0,0,0
 2021-07-01,2021,3,South East,Reading,Yes,0,0,1
-2021-07-01,2021,3,London,Redbridge,Yes,0,1,9
+2021-07-01,2021,3,London,Redbridge,Yes,0,3,9
 2021-07-01,2021,3,North East,Redcar and Cleveland,Yes,0,0,0
 2021-07-01,2021,3,West Midlands,Redditch,No,0,0,0
 2021-07-01,2021,3,South East,Reigate and Banstead,No,0,0,0
 2021-07-01,2021,3,Scotland,Renfrewshire,Yes,0,0,2
 2021-07-01,2021,3,Wales,Rhondda Cynon Taf,Yes,0,0,0
 2021-07-01,2021,3,North West,Ribble Valley,No,0,0,0
-2021-07-01,2021,3,London,Richmond upon Thames,Yes,0,0,3
+2021-07-01,2021,3,London,Richmond upon Thames,Yes,0,1,3
 2021-07-01,2021,3,Yorkshire and The Humber,Richmondshire,No,0,0,0
 2021-07-01,2021,3,North West,Rochdale,Yes,0,0,1
 2021-07-01,2021,3,East of England,Rochford,No,0,0,0
@@ -9002,7 +9002,7 @@ Date,Year,Quarter,Region,Local Authority or HSCT (NI),Able to participate in the
 2021-07-01,2021,3,North West,South Ribble,No,0,0,0
 2021-07-01,2021,3,South West,South Somerset,No,0,0,0
 2021-07-01,2021,3,West Midlands,South Staffordshire,No,0,0,0
-2021-07-01,2021,3,North East,South Tyneside,Yes,0,0,0
+2021-07-01,2021,3,North East,South Tyneside,Yes,0,0,1
 2021-07-01,2021,3,South East,Southampton,Yes,0,0,4
 2021-07-01,2021,3,East of England,Southend-on-Sea,Yes,0,1,4
 2021-07-01,2021,3,London,Southwark,Yes,0,0,0
@@ -9023,7 +9023,7 @@ Date,Year,Quarter,Region,Local Authority or HSCT (NI),Able to participate in the
 2021-07-01,2021,3,North East,Sunderland,Yes,0,0,1
 2021-07-01,2021,3,South East,Surrey Heath,No,0,0,0
 2021-07-01,2021,3,South East,Surrey,Yes,0,0,10
-2021-07-01,2021,3,London,Sutton,Yes,0,0,6
+2021-07-01,2021,3,London,Sutton,Yes,0,1,6
 2021-07-01,2021,3,South East,Swale,No,0,0,0
 2021-07-01,2021,3,Wales,Swansea,Yes,0,2,0
 2021-07-01,2021,3,South West,Swindon,Yes,0,0,3
@@ -9051,7 +9051,7 @@ Date,Year,Quarter,Region,Local Authority or HSCT (NI),Able to participate in the
 2021-07-01,2021,3,Yorkshire and The Humber,Wakefield,Yes,0,0,1
 2021-07-01,2021,3,West Midlands,Walsall,Yes,0,0,3
 2021-07-01,2021,3,London,Waltham Forest,Yes,0,0,1
-2021-07-01,2021,3,London,Wandsworth,Yes,0,0,3
+2021-07-01,2021,3,London,Wandsworth,Yes,0,1,3
 2021-07-01,2021,3,North West,Warrington,Yes,0,0,1
 2021-07-01,2021,3,West Midlands,Warwick,No,0,0,0
 2021-07-01,2021,3,West Midlands,Warwickshire,Yes,0,0,0
@@ -9094,23 +9094,23 @@ Date,Year,Quarter,Region,Local Authority or HSCT (NI),Able to participate in the
 2021-07-01,2021,3,Northern Ireland,Western HSCT,Yes,0,0,0
 2021-07-01,2021,3,*Total East Midlands,*Total,-,0,0,24
 2021-07-01,2021,3,*Total East of England,*Total,-,2,9,76
-2021-07-01,2021,3,*Total London,*Total,-,1,7,69
-2021-07-01,2021,3,*Total North East,*Total,-,0,0,8
+2021-07-01,2021,3,*Total London,*Total,-,19,25,68
+2021-07-01,2021,3,*Total North East,*Total,-,0,0,9
 2021-07-01,2021,3,*Total North West,*Total,-,0,2,42
 2021-07-01,2021,3,*Total Northern Ireland,*Total,-,0,0,0
 2021-07-01,2021,3,*Total Scotland,*Total,-,0,1,5
-2021-07-01,2021,3,*Total South East,*Total,-,45,2,68
+2021-07-01,2021,3,*Total South East,*Total,-,45,2,67
 2021-07-01,2021,3,*Total South West,*Total,-,0,4,31
-2021-07-01,2021,3,*Total Wales,*Total,-,0,5,12
+2021-07-01,2021,3,*Total Wales,*Total,-,0,5,13
 2021-07-01,2021,3,*Total West Midlands,*Total,-,0,7,48
 2021-07-01,2021,3,*Total Yorkshire and The Humber,*Total,-,0,11,38
-2021-07-01,2021,3,*Total,*Total,-,48,48,421
+2021-07-01,2021,3,*Total,*Total,-,66,66,421
 2021-10-01,2021,4,Scotland,Aberdeen,Yes,0,0,2
 2021-10-01,2021,4,Scotland,Aberdeenshire,Yes,0,2,0
 2021-10-01,2021,4,South East,Adur,No,0,0,0
 2021-10-01,2021,4,North West,Allerdale,No,0,0,0
 2021-10-01,2021,4,East Midlands,Amber Valley,No,0,0,0
-2021-10-01,2021,4,Scotland,Angus,Yes,0,0,1
+2021-10-01,2021,4,Scotland,Angus,Yes,0,1,0
 2021-10-01,2021,4,Northern Ireland,Antrim and Newtownabbey,No,0,0,0
 2021-10-01,2021,4,Scotland,Argyll and Bute,Yes,0,0,0
 2021-10-01,2021,4,Northern Ireland,"Armagh, Banbridge and Craigavon",No,0,0,0
@@ -9119,7 +9119,7 @@ Date,Year,Quarter,Region,Local Authority or HSCT (NI),Able to participate in the
 2021-10-01,2021,4,South East,Ashford,No,0,0,0
 2021-10-01,2021,4,South East,Aylesbury Vale,No,0,0,0
 2021-10-01,2021,4,East of England,Babergh,No,0,0,0
-2021-10-01,2021,4,London,Barking and Dagenham,Yes,0,2,3
+2021-10-01,2021,4,London,Barking and Dagenham,Yes,0,3,2
 2021-10-01,2021,4,London,Barnet,Yes,0,1,0
 2021-10-01,2021,4,Yorkshire and The Humber,Barnsley,Yes,0,1,1
 2021-10-01,2021,4,North West,Barrow-in-Furness,No,0,0,0
@@ -9129,10 +9129,10 @@ Date,Year,Quarter,Region,Local Authority or HSCT (NI),Able to participate in the
 2021-10-01,2021,4,South West,Bath and North East Somerset,Yes,0,2,1
 2021-10-01,2021,4,East of England,Bedford,Yes,0,2,2
 2021-10-01,2021,4,Northern Ireland,Belfast,No,0,0,1
-2021-10-01,2021,4,London,Bexley,Yes,0,4,1
+2021-10-01,2021,4,London,Bexley,Yes,0,7,0
 2021-10-01,2021,4,West Midlands,Birmingham,Yes,0,0,0
 2021-10-01,2021,4,East Midlands,Blaby,No,0,0,0
-2021-10-01,2021,4,North West,Blackburn with Darwen,Yes,0,0,3
+2021-10-01,2021,4,North West,Blackburn with Darwen,Yes,0,0,4
 2021-10-01,2021,4,North West,Blackpool,Yes,0,0,0
 2021-10-01,2021,4,Wales,Blaenau Gwent,Yes,0,0,0
 2021-10-01,2021,4,East Midlands,Bolsover,No,0,0,0
@@ -9141,14 +9141,14 @@ Date,Year,Quarter,Region,Local Authority or HSCT (NI),Able to participate in the
 2021-10-01,2021,4,South West,Bournemouth,Yes,0,0,0
 2021-10-01,2021,4,South West,"Bournemouth, Christchurch and Poole",Yes,0,0,0
 2021-10-01,2021,4,South East,Bracknell Forest,Yes,0,4,0
-2021-10-01,2021,4,Yorkshire and The Humber,Bradford,Yes,0,0,5
+2021-10-01,2021,4,Yorkshire and The Humber,Bradford,Yes,0,1,4
 2021-10-01,2021,4,East of England,Braintree,No,0,0,0
 2021-10-01,2021,4,East of England,Breckland,No,0,0,0
 2021-10-01,2021,4,London,Brent,Yes,1,0,0
 2021-10-01,2021,4,East of England,Brentwood,No,0,0,0
 2021-10-01,2021,4,Wales,Bridgend,Yes,0,0,0
 2021-10-01,2021,4,South East,Brighton and Hove,Yes,0,0,2
-2021-10-01,2021,4,South West,Bristol,Yes,0,1,0
+2021-10-01,2021,4,South West,Bristol,Yes,0,0,1
 2021-10-01,2021,4,East of England,Broadland,No,0,0,0
 2021-10-01,2021,4,London,Bromley,Yes,0,1,2
 2021-10-01,2021,4,West Midlands,Bromsgrove,No,0,0,0
@@ -9164,7 +9164,7 @@ Date,Year,Quarter,Region,Local Authority or HSCT (NI),Able to participate in the
 2021-10-01,2021,4,London,Camden,Yes,0,0,0
 2021-10-01,2021,4,West Midlands,Cannock Chase,No,0,0,0
 2021-10-01,2021,4,South East,Canterbury,No,0,0,0
-2021-10-01,2021,4,Wales,Cardiff,Yes,0,5,1
+2021-10-01,2021,4,Wales,Cardiff,Yes,0,6,0
 2021-10-01,2021,4,North West,Carlisle,No,0,0,0
 2021-10-01,2021,4,Wales,Carmarthenshire,Yes,0,0,0
 2021-10-01,2021,4,East of England,Castle Point,No,0,0,0
@@ -9175,8 +9175,8 @@ Date,Year,Quarter,Region,Local Authority or HSCT (NI),Able to participate in the
 2021-10-01,2021,4,East of England,Chelmsford,No,0,0,0
 2021-10-01,2021,4,South West,Cheltenham,No,0,0,0
 2021-10-01,2021,4,South East,Cherwell,No,0,0,0
-2021-10-01,2021,4,North West,Cheshire East,Yes,0,1,1
-2021-10-01,2021,4,North West,Cheshire West and Chester,Yes,0,2,0
+2021-10-01,2021,4,North West,Cheshire East,Yes,0,2,1
+2021-10-01,2021,4,North West,Cheshire West and Chester,Yes,0,2,1
 2021-10-01,2021,4,East Midlands,Chesterfield,No,0,0,0
 2021-10-01,2021,4,South East,Chichester,No,0,0,0
 2021-10-01,2021,4,South East,Chiltern,No,0,0,0
@@ -9187,14 +9187,14 @@ Date,Year,Quarter,Region,Local Authority or HSCT (NI),Able to participate in the
 2021-10-01,2021,4,Wales,Conwy,Yes,0,0,0
 2021-10-01,2021,4,North West,Copeland,No,0,0,0
 2021-10-01,2021,4,East Midlands,Corby,No,0,0,0
-2021-10-01,2021,4,South West,Cornwall,Yes,0,2,2
+2021-10-01,2021,4,South West,Cornwall,Yes,0,2,3
 2021-10-01,2021,4,South West,Cotswold,No,0,0,0
 2021-10-01,2021,4,North East,County Durham,Yes,0,2,0
 2021-10-01,2021,4,West Midlands,Coventry,Yes,0,1,2
 2021-10-01,2021,4,Yorkshire and The Humber,Craven,No,0,0,0
 2021-10-01,2021,4,South East,Crawley,No,0,0,0
-2021-10-01,2021,4,London,Croydon,Yes,9,0,0
-2021-10-01,2021,4,North West,Cumbria,Yes,0,2,3
+2021-10-01,2021,4,London,Croydon,Yes,33,0,0
+2021-10-01,2021,4,North West,Cumbria,Yes,0,2,4
 2021-10-01,2021,4,East of England,Dacorum,No,0,0,0
 2021-10-01,2021,4,North East,Darlington,Yes,0,0,0
 2021-10-01,2021,4,South East,Dartford,No,0,0,0
@@ -9204,16 +9204,16 @@ Date,Year,Quarter,Region,Local Authority or HSCT (NI),Able to participate in the
 2021-10-01,2021,4,East Midlands,Derbyshire Dales,No,0,0,0
 2021-10-01,2021,4,East Midlands,Derbyshire,Yes,0,1,0
 2021-10-01,2021,4,Northern Ireland,Derry and Strabane,No,0,0,0
-2021-10-01,2021,4,South West,Devon,Yes,0,2,1
+2021-10-01,2021,4,South West,Devon,Yes,0,3,2
 2021-10-01,2021,4,Yorkshire and The Humber,Doncaster,Yes,0,0,4
-2021-10-01,2021,4,South West,Dorset,Yes,0,0,1
+2021-10-01,2021,4,South West,Dorset,Yes,0,1,0
 2021-10-01,2021,4,South West,Dorset (U),-,0,1,1
 2021-10-01,2021,4,South East,Dover,No,0,0,0
 2021-10-01,2021,4,West Midlands,Dudley,Yes,0,1,3
 2021-10-01,2021,4,Scotland,Dumfries and Galloway,Yes,0,0,0
-2021-10-01,2021,4,Scotland,Dundee,Yes,0,1,0
-2021-10-01,2021,4,London,Ealing,Yes,0,2,1
-2021-10-01,2021,4,Scotland,East Ayrshire,Yes,0,0,0
+2021-10-01,2021,4,Scotland,Dundee,Yes,0,1,1
+2021-10-01,2021,4,London,Ealing,Yes,0,3,1
+2021-10-01,2021,4,Scotland,East Ayrshire,Yes,0,1,0
 2021-10-01,2021,4,East of England,East Cambridgeshire,No,0,0,0
 2021-10-01,2021,4,South West,East Devon,No,0,0,0
 2021-10-01,2021,4,Scotland,East Dunbartonshire,Yes,0,0,0
@@ -9226,14 +9226,14 @@ Date,Year,Quarter,Region,Local Authority or HSCT (NI),Able to participate in the
 2021-10-01,2021,4,Yorkshire and The Humber,East Riding of Yorkshire,Yes,0,0,4
 2021-10-01,2021,4,West Midlands,East Staffordshire,No,0,0,0
 2021-10-01,2021,4,South East,East Suffolk,No,0,0,0
-2021-10-01,2021,4,South East,East Sussex,Yes,0,2,1
+2021-10-01,2021,4,South East,East Sussex,Yes,0,3,1
 2021-10-01,2021,4,South East,Eastbourne,No,0,0,0
 2021-10-01,2021,4,South East,Eastleigh,No,0,0,0
 2021-10-01,2021,4,North West,Eden,No,0,0,0
 2021-10-01,2021,4,Scotland,Edinburgh,Yes,0,0,0
 2021-10-01,2021,4,Scotland,Eilean Siar,Yes,0,0,0
 2021-10-01,2021,4,South East,Elmbridge,No,0,0,0
-2021-10-01,2021,4,London,Enfield,Yes,0,1,3
+2021-10-01,2021,4,London,Enfield,Yes,0,2,2
 2021-10-01,2021,4,East of England,Epping Forest,No,0,0,0
 2021-10-01,2021,4,South East,Epsom and Ewell,No,0,0,0
 2021-10-01,2021,4,East Midlands,Erewash,No,0,0,0
@@ -9243,7 +9243,7 @@ Date,Year,Quarter,Region,Local Authority or HSCT (NI),Able to participate in the
 2021-10-01,2021,4,South East,Fareham,No,0,0,0
 2021-10-01,2021,4,East of England,Fenland,No,0,0,0
 2021-10-01,2021,4,Northern Ireland,Fermanagh and Omagh,No,0,0,0
-2021-10-01,2021,4,Scotland,Fife,Yes,0,3,1
+2021-10-01,2021,4,Scotland,Fife,Yes,0,5,0
 2021-10-01,2021,4,Wales,Flintshire,Yes,0,0,1
 2021-10-01,2021,4,South East,Folkestone and Hythe,No,0,0,0
 2021-10-01,2021,4,South West,Forest of Dean,No,0,0,0
@@ -9256,57 +9256,57 @@ Date,Year,Quarter,Region,Local Authority or HSCT (NI),Able to participate in the
 2021-10-01,2021,4,South East,Gosport,No,0,0,0
 2021-10-01,2021,4,South East,Gravesham,No,0,0,0
 2021-10-01,2021,4,East of England,Great Yarmouth,No,0,0,0
-2021-10-01,2021,4,London,Greenwich,Yes,1,0,2
+2021-10-01,2021,4,London,Greenwich,Yes,0,2,2
 2021-10-01,2021,4,South East,Guildford,No,0,0,0
 2021-10-01,2021,4,Wales,Gwynedd,Yes,0,0,1
-2021-10-01,2021,4,London,Hackney,Yes,0,1,3
+2021-10-01,2021,4,London,Hackney,Yes,0,3,3
 2021-10-01,2021,4,North West,Halton,Yes,0,0,0
 2021-10-01,2021,4,Yorkshire and The Humber,Hambleton,No,0,0,0
 2021-10-01,2021,4,London,Hammersmith and Fulham,Yes,2,0,0
-2021-10-01,2021,4,South East,Hampshire,Yes,0,4,14
+2021-10-01,2021,4,South East,Hampshire,Yes,0,7,14
 2021-10-01,2021,4,East Midlands,Harborough,No,0,0,0
-2021-10-01,2021,4,London,Haringey,Yes,0,2,2
+2021-10-01,2021,4,London,Haringey,Yes,0,4,1
 2021-10-01,2021,4,East of England,Harlow,No,0,0,0
 2021-10-01,2021,4,Yorkshire and The Humber,Harrogate,No,0,0,0
-2021-10-01,2021,4,London,Harrow,Yes,0,1,3
+2021-10-01,2021,4,London,Harrow,Yes,0,2,3
 2021-10-01,2021,4,South East,Hart,No,0,0,0
 2021-10-01,2021,4,North East,Hartlepool,Yes,0,1,0
 2021-10-01,2021,4,South East,Hastings,No,0,0,0
 2021-10-01,2021,4,South East,Havant,No,0,0,0
 2021-10-01,2021,4,London,Havering,Yes,0,0,2
-2021-10-01,2021,4,West Midlands,Herefordshire,Yes,0,5,2
-2021-10-01,2021,4,East of England,Hertfordshire,Yes,0,9,15
+2021-10-01,2021,4,West Midlands,Herefordshire,Yes,0,7,4
+2021-10-01,2021,4,East of England,Hertfordshire,Yes,0,9,13
 2021-10-01,2021,4,East of England,Hertsmere,No,0,0,0
 2021-10-01,2021,4,East Midlands,High Peak,No,0,0,0
 2021-10-01,2021,4,Scotland,Highland,Yes,0,0,0
 2021-10-01,2021,4,London,Hillingdon,Yes,5,0,0
 2021-10-01,2021,4,East Midlands,Hinckley and Bosworth,No,0,0,0
 2021-10-01,2021,4,South East,Horsham,No,0,0,0
-2021-10-01,2021,4,London,Hounslow,Yes,0,0,1
+2021-10-01,2021,4,London,Hounslow,Yes,0,1,0
 2021-10-01,2021,4,East of England,Huntingdonshire,No,0,0,0
 2021-10-01,2021,4,North West,Hyndburn,No,0,0,0
 2021-10-01,2021,4,Scotland,Inverclyde,Yes,0,0,1
 2021-10-01,2021,4,East of England,Ipswich,No,0,0,0
 2021-10-01,2021,4,Wales,Isle of Anglesey,Yes,0,0,0
-2021-10-01,2021,4,South East,Isle of Wight,Yes,0,1,8
+2021-10-01,2021,4,South East,Isle of Wight,Yes,0,2,9
 2021-10-01,2021,4,South West,Isles of Scilly,Yes,0,0,0
 2021-10-01,2021,4,London,Islington,Yes,0,2,0
 2021-10-01,2021,4,London,Kensington and Chelsea,Yes,4,0,0
-2021-10-01,2021,4,South East,Kent,Yes,204,0,54
+2021-10-01,2021,4,South East,Kent,Yes,242,0,0
 2021-10-01,2021,4,East Midlands,Kettering,No,0,0,0
 2021-10-01,2021,4,East of England,King's Lynn and West Norfolk,No,0,0,0
-2021-10-01,2021,4,Yorkshire and The Humber,Kingston upon Hull,Yes,0,0,0
-2021-10-01,2021,4,London,Kingston upon Thames,Yes,0,0,0
+2021-10-01,2021,4,Yorkshire and The Humber,Kingston upon Hull,Yes,0,1,1
+2021-10-01,2021,4,London,Kingston upon Thames,Yes,0,0,2
 2021-10-01,2021,4,Yorkshire and The Humber,Kirklees,Yes,0,3,3
-2021-10-01,2021,4,North West,Knowsley,Yes,0,0,2
+2021-10-01,2021,4,North West,Knowsley,Yes,0,0,1
 2021-10-01,2021,4,London,Lambeth,Yes,0,0,0
-2021-10-01,2021,4,North West,Lancashire,Yes,0,2,2
+2021-10-01,2021,4,North West,Lancashire,Yes,0,6,1
 2021-10-01,2021,4,North West,Lancaster,No,0,0,0
 2021-10-01,2021,4,Yorkshire and The Humber,Leeds,Yes,0,2,4
 2021-10-01,2021,4,East Midlands,Leicester,Yes,0,3,0
 2021-10-01,2021,4,East Midlands,Leicestershire,Yes,0,3,1
 2021-10-01,2021,4,South East,Lewes,No,0,0,0
-2021-10-01,2021,4,London,Lewisham,Yes,0,2,3
+2021-10-01,2021,4,London,Lewisham,Yes,0,3,3
 2021-10-01,2021,4,West Midlands,Lichfield,No,0,0,0
 2021-10-01,2021,4,East Midlands,Lincoln,No,0,0,0
 2021-10-01,2021,4,East Midlands,Lincolnshire,Yes,0,2,5
@@ -9322,7 +9322,7 @@ Date,Year,Quarter,Region,Local Authority or HSCT (NI),Able to participate in the
 2021-10-01,2021,4,East Midlands,Melton,No,0,0,0
 2021-10-01,2021,4,South West,Mendip,No,0,0,0
 2021-10-01,2021,4,Wales,Merthyr Tydfil,Yes,0,0,0
-2021-10-01,2021,4,London,Merton,Yes,0,0,1
+2021-10-01,2021,4,London,Merton,Yes,0,2,2
 2021-10-01,2021,4,Northern Ireland,Mid and East Antrim,No,0,0,0
 2021-10-01,2021,4,South West,Mid Devon,No,0,0,0
 2021-10-01,2021,4,East of England,Mid Suffolk,No,0,0,0
@@ -9342,7 +9342,7 @@ Date,Year,Quarter,Region,Local Authority or HSCT (NI),Able to participate in the
 2021-10-01,2021,4,London,Newham,Yes,0,0,0
 2021-10-01,2021,4,Wales,Newport,Yes,0,3,3
 2021-10-01,2021,4,Northern Ireland,"Newry, Mourne and Down",No,0,0,0
-2021-10-01,2021,4,East of England,Norfolk,Yes,0,6,9
+2021-10-01,2021,4,East of England,Norfolk,Yes,0,10,7
 2021-10-01,2021,4,Scotland,North Ayrshire,Yes,0,0,0
 2021-10-01,2021,4,South West,North Devon,No,0,0,0
 2021-10-01,2021,4,Northern Ireland,North Down and Ards,No,0,0,0
@@ -9350,16 +9350,16 @@ Date,Year,Quarter,Region,Local Authority or HSCT (NI),Able to participate in the
 2021-10-01,2021,4,Yorkshire and The Humber,North East Lincolnshire,Yes,0,0,1
 2021-10-01,2021,4,East of England,North Hertfordshire,No,0,0,0
 2021-10-01,2021,4,East Midlands,North Kesteven,No,0,0,0
-2021-10-01,2021,4,Scotland,North Lanarkshire,Yes,0,3,1
+2021-10-01,2021,4,Scotland,North Lanarkshire,Yes,0,5,0
 2021-10-01,2021,4,Yorkshire and The Humber,North Lincolnshire,Yes,0,2,1
 2021-10-01,2021,4,East of England,North Norfolk,No,0,0,0
 2021-10-01,2021,4,South West,North Somerset,Yes,0,1,0
 2021-10-01,2021,4,North East,North Tyneside,Yes,0,2,0
 2021-10-01,2021,4,West Midlands,North Warwickshire,No,0,0,0
 2021-10-01,2021,4,East Midlands,North West Leicestershire,No,0,0,0
-2021-10-01,2021,4,Yorkshire and The Humber,North Yorkshire,Yes,0,1,4
+2021-10-01,2021,4,Yorkshire and The Humber,North Yorkshire,Yes,0,2,4
 2021-10-01,2021,4,East Midlands,Northampton,No,0,0,0
-2021-10-01,2021,4,East Midlands,Northamptonshire,Yes,0,1,0
+2021-10-01,2021,4,East Midlands,Northamptonshire,Yes,0,2,0
 2021-10-01,2021,4,North East,Northumberland,Yes,0,2,2
 2021-10-01,2021,4,East of England,Norwich,No,0,0,1
 2021-10-01,2021,4,East Midlands,Nottingham,Yes,0,2,0
@@ -9369,7 +9369,7 @@ Date,Year,Quarter,Region,Local Authority or HSCT (NI),Able to participate in the
 2021-10-01,2021,4,North West,Oldham,Yes,0,1,1
 2021-10-01,2021,4,Scotland,Orkney Islands,Yes,0,0,0
 2021-10-01,2021,4,South East,Oxford,No,0,0,0
-2021-10-01,2021,4,South East,Oxfordshire,Yes,0,9,2
+2021-10-01,2021,4,South East,Oxfordshire,Yes,0,10,0
 2021-10-01,2021,4,Wales,Pembrokeshire,Yes,0,0,0
 2021-10-01,2021,4,North West,Pendle,No,0,0,0
 2021-10-01,2021,4,Scotland,Perth and Kinross,Yes,0,1,1
@@ -9380,16 +9380,16 @@ Date,Year,Quarter,Region,Local Authority or HSCT (NI),Able to participate in the
 2021-10-01,2021,4,Wales,Powys,Yes,0,0,0
 2021-10-01,2021,4,North West,Preston,No,0,0,0
 2021-10-01,2021,4,South East,Reading,Yes,0,1,0
-2021-10-01,2021,4,London,Redbridge,Yes,0,0,3
+2021-10-01,2021,4,London,Redbridge,Yes,0,3,1
 2021-10-01,2021,4,North East,Redcar and Cleveland,Yes,0,0,0
 2021-10-01,2021,4,West Midlands,Redditch,No,0,0,0
 2021-10-01,2021,4,South East,Reigate and Banstead,No,0,0,0
 2021-10-01,2021,4,Scotland,Renfrewshire,Yes,0,0,2
 2021-10-01,2021,4,Wales,Rhondda Cynon Taf,Yes,0,0,0
 2021-10-01,2021,4,North West,Ribble Valley,No,0,0,0
-2021-10-01,2021,4,London,Richmond upon Thames,Yes,0,0,1
+2021-10-01,2021,4,London,Richmond upon Thames,Yes,0,2,0
 2021-10-01,2021,4,Yorkshire and The Humber,Richmondshire,No,0,0,0
-2021-10-01,2021,4,North West,Rochdale,Yes,0,1,1
+2021-10-01,2021,4,North West,Rochdale,Yes,0,2,0
 2021-10-01,2021,4,East of England,Rochford,No,0,0,0
 2021-10-01,2021,4,North West,Rossendale,No,0,0,0
 2021-10-01,2021,4,South East,Rother,No,0,0,0
@@ -9401,16 +9401,16 @@ Date,Year,Quarter,Region,Local Authority or HSCT (NI),Able to participate in the
 2021-10-01,2021,4,East Midlands,Rutland,Yes,0,1,1
 2021-10-01,2021,4,Yorkshire and The Humber,Ryedale,No,0,0,0
 2021-10-01,2021,4,North West,Salford,Yes,0,2,0
-2021-10-01,2021,4,West Midlands,Sandwell,Yes,0,2,2
+2021-10-01,2021,4,West Midlands,Sandwell,Yes,0,3,1
 2021-10-01,2021,4,Yorkshire and The Humber,Scarborough,No,0,0,0
-2021-10-01,2021,4,Scotland,Scottish Borders,Yes,0,0,1
+2021-10-01,2021,4,Scotland,Scottish Borders,Yes,0,1,1
 2021-10-01,2021,4,South West,Sedgemoor,No,0,0,0
 2021-10-01,2021,4,North West,Sefton,Yes,0,1,0
 2021-10-01,2021,4,Yorkshire and The Humber,Selby,No,0,0,0
 2021-10-01,2021,4,South East,Sevenoaks,No,0,0,0
-2021-10-01,2021,4,Yorkshire and The Humber,Sheffield,Yes,0,2,2
+2021-10-01,2021,4,Yorkshire and The Humber,Sheffield,Yes,0,2,3
 2021-10-01,2021,4,Scotland,Shetland Islands,Yes,0,0,0
-2021-10-01,2021,4,West Midlands,Shropshire,Yes,0,8,2
+2021-10-01,2021,4,West Midlands,Shropshire,Yes,0,8,3
 2021-10-01,2021,4,South East,Slough,Yes,0,0,0
 2021-10-01,2021,4,West Midlands,Solihull,Yes,0,0,0
 2021-10-01,2021,4,South West,Somerset,Yes,0,0,3
@@ -9437,26 +9437,26 @@ Date,Year,Quarter,Region,Local Authority or HSCT (NI),Able to participate in the
 2021-10-01,2021,4,London,Southwark,Yes,1,0,0
 2021-10-01,2021,4,South East,Spelthorne,No,0,0,0
 2021-10-01,2021,4,East of England,St. Albans,No,0,0,0
-2021-10-01,2021,4,North West,St. Helens,Yes,0,1,0
+2021-10-01,2021,4,North West,St. Helens,Yes,0,2,0
 2021-10-01,2021,4,West Midlands,Stafford,No,0,0,0
 2021-10-01,2021,4,West Midlands,Staffordshire Moorlands,No,0,0,0
-2021-10-01,2021,4,West Midlands,Staffordshire,Yes,0,1,3
+2021-10-01,2021,4,West Midlands,Staffordshire,Yes,0,2,2
 2021-10-01,2021,4,East of England,Stevenage,No,0,0,0
 2021-10-01,2021,4,Scotland,Stirling,Yes,0,0,1
 2021-10-01,2021,4,North West,Stockport,Yes,0,1,2
-2021-10-01,2021,4,North East,Stockton-on-Tees,Yes,0,0,2
+2021-10-01,2021,4,North East,Stockton-on-Tees,Yes,0,0,3
 2021-10-01,2021,4,West Midlands,Stoke-on-Trent,Yes,0,1,0
 2021-10-01,2021,4,West Midlands,Stratford-on-Avon,No,0,0,0
 2021-10-01,2021,4,South West,Stroud,No,0,0,0
 2021-10-01,2021,4,East of England,Suffolk,Yes,0,5,6
 2021-10-01,2021,4,North East,Sunderland,Yes,0,2,2
 2021-10-01,2021,4,South East,Surrey Heath,No,0,0,0
-2021-10-01,2021,4,South East,Surrey,Yes,0,6,3
-2021-10-01,2021,4,London,Sutton,Yes,0,1,2
+2021-10-01,2021,4,South East,Surrey,Yes,0,6,4
+2021-10-01,2021,4,London,Sutton,Yes,0,2,3
 2021-10-01,2021,4,South East,Swale,No,0,0,0
 2021-10-01,2021,4,Wales,Swansea,Yes,0,2,0
 2021-10-01,2021,4,South West,Swindon,Yes,0,1,2
-2021-10-01,2021,4,North West,Tameside,Yes,0,0,2
+2021-10-01,2021,4,North West,Tameside,Yes,0,1,1
 2021-10-01,2021,4,West Midlands,Tamworth,No,0,0,0
 2021-10-01,2021,4,South East,Tandridge,No,0,0,0
 2021-10-01,2021,4,South West,Teignbridge,No,0,0,0
@@ -9467,20 +9467,20 @@ Date,Year,Quarter,Region,Local Authority or HSCT (NI),Able to participate in the
 2021-10-01,2021,4,South East,Thanet,No,0,0,0
 2021-10-01,2021,4,Wales,The Vale of Glamorgan,Yes,0,0,0
 2021-10-01,2021,4,East of England,Three Rivers,No,0,0,0
-2021-10-01,2021,4,East of England,Thurrock,Yes,7,0,0
+2021-10-01,2021,4,East of England,Thurrock,Yes,8,0,0
 2021-10-01,2021,4,South East,Tonbridge and Malling,No,0,0,0
 2021-10-01,2021,4,South West,Torbay,Yes,0,2,2
 2021-10-01,2021,4,Wales,Torfaen,Yes,0,0,0
 2021-10-01,2021,4,South West,Torridge,No,0,0,0
-2021-10-01,2021,4,London,Tower Hamlets,Yes,0,0,3
-2021-10-01,2021,4,North West,Trafford,Yes,0,0,2
+2021-10-01,2021,4,London,Tower Hamlets,Yes,0,1,2
+2021-10-01,2021,4,North West,Trafford,Yes,0,1,1
 2021-10-01,2021,4,South East,Tunbridge Wells,No,0,0,0
 2021-10-01,2021,4,East of England,Uttlesford,No,0,0,0
 2021-10-01,2021,4,South East,Vale of White Horse,No,0,0,0
 2021-10-01,2021,4,Yorkshire and The Humber,Wakefield,Yes,0,2,2
 2021-10-01,2021,4,West Midlands,Walsall,Yes,0,3,0
 2021-10-01,2021,4,London,Waltham Forest,Yes,0,1,0
-2021-10-01,2021,4,London,Wandsworth,Yes,0,2,5
+2021-10-01,2021,4,London,Wandsworth,Yes,0,3,4
 2021-10-01,2021,4,North West,Warrington,Yes,0,0,3
 2021-10-01,2021,4,West Midlands,Warwick,No,0,0,0
 2021-10-01,2021,4,West Midlands,Warwickshire,Yes,0,0,0
@@ -9499,38 +9499,896 @@ Date,Year,Quarter,Region,Local Authority or HSCT (NI),Able to participate in the
 2021-10-01,2021,4,South East,West Suffolk,No,0,0,0
 2021-10-01,2021,4,South East,West Sussex,Yes,0,4,0
 2021-10-01,2021,4,London,Westminster,Yes,0,0,0
-2021-10-01,2021,4,North West,Wigan,Yes,0,1,3
-2021-10-01,2021,4,South West,Wiltshire,Yes,0,3,1
+2021-10-01,2021,4,North West,Wigan,Yes,0,2,2
+2021-10-01,2021,4,South West,Wiltshire,Yes,0,4,1
 2021-10-01,2021,4,South East,Winchester,No,0,0,0
 2021-10-01,2021,4,South East,Windsor and Maidenhead,Yes,0,0,0
 2021-10-01,2021,4,North West,Wirral,Yes,0,0,2
 2021-10-01,2021,4,South East,Woking,No,0,0,0
 2021-10-01,2021,4,South East,Wokingham,Yes,0,0,0
 2021-10-01,2021,4,West Midlands,Wolverhampton,Yes,0,6,0
-2021-10-01,2021,4,West Midlands,Worcester,No,0,1,0
-2021-10-01,2021,4,West Midlands,Worcestershire,Yes,0,1,2
+2021-10-01,2021,4,West Midlands,Worcester,No,0,0,0
+2021-10-01,2021,4,West Midlands,Worcestershire,Yes,0,2,2
 2021-10-01,2021,4,South East,Worthing,No,0,0,0
 2021-10-01,2021,4,Wales,Wrexham,Yes,0,0,0
 2021-10-01,2021,4,West Midlands,Wychavon,No,0,0,0
 2021-10-01,2021,4,South East,Wycombe,No,0,0,0
 2021-10-01,2021,4,North West,Wyre,No,0,0,0
 2021-10-01,2021,4,West Midlands,Wyre Forest,No,0,0,0
-2021-10-01,2021,4,Yorkshire and The Humber,York,Yes,0,1,0
+2021-10-01,2021,4,Yorkshire and The Humber,York,Yes,0,0,0
 2021-10-01,2021,4,Northern Ireland,Belfast HSCT,Yes,0,0,0
 2021-10-01,2021,4,Northern Ireland,South Eastern HSCT,Yes,0,0,0
 2021-10-01,2021,4,Northern Ireland,Northern HSCT,Yes,0,0,0
 2021-10-01,2021,4,Northern Ireland,Southern HSCT,Yes,0,0,0
 2021-10-01,2021,4,Northern Ireland,Western HSCT,Yes,0,0,0
-2021-10-01,2021,4,*Total East Midlands,*Total,-,0,15,9
-2021-10-01,2021,4,*Total East of England,*Total,-,7,35,48
-2021-10-01,2021,4,*Total London,*Total,-,23,23,41
-2021-10-01,2021,4,*Total North East,*Total,-,0,14,8
-2021-10-01,2021,4,*Total North West,*Total,-,0,20,28
+2021-10-01,2021,4,*Total East Midlands,*Total,-,0,16,9
+2021-10-01,2021,4,*Total East of England,*Total,-,8,39,44
+2021-10-01,2021,4,*Total London,*Total,-,46,48,35
+2021-10-01,2021,4,*Total North East,*Total,-,0,14,9
+2021-10-01,2021,4,*Total North West,*Total,-,0,30,25
 2021-10-01,2021,4,*Total Northern Ireland,*Total,-,0,0,1
-2021-10-01,2021,4,*Total Scotland,*Total,-,0,17,16
-2021-10-01,2021,4,*Total South East,*Total,-,204,34,85
-2021-10-01,2021,4,*Total South West,*Total,-,0,18,22
-2021-10-01,2021,4,*Total Wales,*Total,-,0,10,7
-2021-10-01,2021,4,*Total West Midlands,*Total,-,0,30,16
-2021-10-01,2021,4,*Total Yorkshire and The Humber,*Total,-,0,18,33
-2021-10-01,2021,4,*Total,*Total,-,234,234,314
+2021-10-01,2021,4,*Total Scotland,*Total,-,0,24,14
+2021-10-01,2021,4,*Total South East,*Total,-,242,40,31
+2021-10-01,2021,4,*Total South West,*Total,-,0,20,24
+2021-10-01,2021,4,*Total Wales,*Total,-,0,11,6
+2021-10-01,2021,4,*Total West Midlands,*Total,-,0,34,17
+2021-10-01,2021,4,*Total Yorkshire and The Humber,*Total,-,0,20,34
+2021-10-01,2021,4,*Total,*Total,-,296,296,249
+2022-01-01,2022,1,Scotland,Aberdeen,Yes,0,1,0
+2022-01-01,2022,1,Scotland,Aberdeenshire,Yes,0,0,2
+2022-01-01,2022,1,South East,Adur,No,0,0,0
+2022-01-01,2022,1,North West,Allerdale,No,0,0,0
+2022-01-01,2022,1,East Midlands,Amber Valley,No,0,0,0
+2022-01-01,2022,1,Scotland,Angus,Yes,0,0,0
+2022-01-01,2022,1,Northern Ireland,Antrim and Newtownabbey,No,0,0,0
+2022-01-01,2022,1,Scotland,Argyll and Bute,Yes,0,0,0
+2022-01-01,2022,1,Northern Ireland,"Armagh, Banbridge and Craigavon",No,0,0,0
+2022-01-01,2022,1,South East,Arun,No,0,0,0
+2022-01-01,2022,1,East Midlands,Ashfield,No,0,0,0
+2022-01-01,2022,1,South East,Ashford,No,0,0,0
+2022-01-01,2022,1,South East,Aylesbury Vale,No,0,0,0
+2022-01-01,2022,1,East of England,Babergh,No,0,0,0
+2022-01-01,2022,1,London,Barking and Dagenham,Yes,0,1,3
+2022-01-01,2022,1,London,Barnet,Yes,0,0,0
+2022-01-01,2022,1,Yorkshire and The Humber,Barnsley,Yes,0,1,0
+2022-01-01,2022,1,North West,Barrow-in-Furness,No,0,0,0
+2022-01-01,2022,1,East of England,Basildon,Yes,0,0,0
+2022-01-01,2022,1,South East,Basingstoke and Deane,No,0,0,0
+2022-01-01,2022,1,East Midlands,Bassetlaw,No,0,0,0
+2022-01-01,2022,1,South West,Bath and North East Somerset,Yes,0,4,1
+2022-01-01,2022,1,East of England,Bedford,Yes,0,1,0
+2022-01-01,2022,1,Northern Ireland,Belfast,No,0,0,0
+2022-01-01,2022,1,London,Bexley,Yes,0,3,1
+2022-01-01,2022,1,West Midlands,Birmingham,Yes,0,2,2
+2022-01-01,2022,1,East Midlands,Blaby,No,0,0,0
+2022-01-01,2022,1,North West,Blackburn with Darwen,Yes,0,0,0
+2022-01-01,2022,1,North West,Blackpool,Yes,0,1,1
+2022-01-01,2022,1,Wales,Blaenau Gwent,Yes,0,2,0
+2022-01-01,2022,1,East Midlands,Bolsover,No,0,0,0
+2022-01-01,2022,1,North West,Bolton,Yes,0,1,1
+2022-01-01,2022,1,East Midlands,Boston,No,0,0,0
+2022-01-01,2022,1,South West,Bournemouth,Yes,0,0,0
+2022-01-01,2022,1,South West,"Bournemouth, Christchurch and Poole",Yes,0,0,0
+2022-01-01,2022,1,South East,Bracknell Forest,Yes,0,3,0
+2022-01-01,2022,1,Yorkshire and The Humber,Bradford,Yes,0,1,1
+2022-01-01,2022,1,East of England,Braintree,No,0,0,0
+2022-01-01,2022,1,East of England,Breckland,No,0,0,0
+2022-01-01,2022,1,London,Brent,Yes,1,0,0
+2022-01-01,2022,1,East of England,Brentwood,No,0,0,0
+2022-01-01,2022,1,Wales,Bridgend,Yes,0,1,0
+2022-01-01,2022,1,South East,Brighton and Hove,Yes,0,0,0
+2022-01-01,2022,1,South West,Bristol,Yes,0,2,4
+2022-01-01,2022,1,East of England,Broadland,No,0,0,0
+2022-01-01,2022,1,London,Bromley,Yes,0,0,2
+2022-01-01,2022,1,West Midlands,Bromsgrove,No,0,0,0
+2022-01-01,2022,1,East of England,Broxbourne,No,0,0,0
+2022-01-01,2022,1,East Midlands,Broxtowe,No,0,0,0
+2022-01-01,2022,1,South East,Buckinghamshire,Yes,0,4,0
+2022-01-01,2022,1,North West,Burnley,No,0,0,0
+2022-01-01,2022,1,North West,Bury,Yes,0,0,0
+2022-01-01,2022,1,Wales,Caerphilly,Yes,0,1,2
+2022-01-01,2022,1,Yorkshire and The Humber,Calderdale,Yes,0,0,2
+2022-01-01,2022,1,East of England,Cambridge,No,0,0,0
+2022-01-01,2022,1,East of England,Cambridgeshire,Yes,0,8,3
+2022-01-01,2022,1,London,Camden,Yes,0,0,0
+2022-01-01,2022,1,West Midlands,Cannock Chase,No,0,0,0
+2022-01-01,2022,1,South East,Canterbury,No,0,0,0
+2022-01-01,2022,1,Wales,Cardiff,Yes,0,2,0
+2022-01-01,2022,1,North West,Carlisle,No,0,0,0
+2022-01-01,2022,1,Wales,Carmarthenshire,Yes,0,1,0
+2022-01-01,2022,1,East of England,Castle Point,No,0,0,0
+2022-01-01,2022,1,Northern Ireland,Causeway Coast and Glens,No,0,0,0
+2022-01-01,2022,1,East of England,Central Bedfordshire,Yes,0,6,1
+2022-01-01,2022,1,Wales,Ceredigion,Yes,0,0,1
+2022-01-01,2022,1,East Midlands,Charnwood,No,0,0,0
+2022-01-01,2022,1,East of England,Chelmsford,No,0,0,0
+2022-01-01,2022,1,South West,Cheltenham,No,0,0,0
+2022-01-01,2022,1,South East,Cherwell,No,0,0,0
+2022-01-01,2022,1,North West,Cheshire East,Yes,0,0,1
+2022-01-01,2022,1,North West,Cheshire West and Chester,Yes,0,1,0
+2022-01-01,2022,1,East Midlands,Chesterfield,No,0,0,0
+2022-01-01,2022,1,South East,Chichester,No,0,0,0
+2022-01-01,2022,1,South East,Chiltern,No,0,0,0
+2022-01-01,2022,1,North West,Chorley,No,0,0,0
+2022-01-01,2022,1,London,City of London,Yes,1,0,0
+2022-01-01,2022,1,Scotland,Clackmannanshire,Yes,0,0,1
+2022-01-01,2022,1,East of England,Colchester,No,0,0,0
+2022-01-01,2022,1,Wales,Conwy,Yes,0,1,0
+2022-01-01,2022,1,North West,Copeland,No,0,0,0
+2022-01-01,2022,1,East Midlands,Corby,No,0,0,0
+2022-01-01,2022,1,South West,Cornwall,Yes,0,7,0
+2022-01-01,2022,1,South West,Cotswold,No,0,0,0
+2022-01-01,2022,1,North East,County Durham,Yes,0,5,1
+2022-01-01,2022,1,West Midlands,Coventry,Yes,0,0,0
+2022-01-01,2022,1,Yorkshire and The Humber,Craven,No,0,0,0
+2022-01-01,2022,1,South East,Crawley,No,0,0,0
+2022-01-01,2022,1,London,Croydon,Yes,25,0,0
+2022-01-01,2022,1,North West,Cumbria,Yes,0,0,1
+2022-01-01,2022,1,East of England,Dacorum,No,0,0,0
+2022-01-01,2022,1,North East,Darlington,Yes,0,2,0
+2022-01-01,2022,1,South East,Dartford,No,0,0,0
+2022-01-01,2022,1,East Midlands,Daventry,No,0,0,0
+2022-01-01,2022,1,Wales,Denbighshire,Yes,0,1,1
+2022-01-01,2022,1,East Midlands,Derby,Yes,0,0,1
+2022-01-01,2022,1,East Midlands,Derbyshire Dales,No,0,0,0
+2022-01-01,2022,1,East Midlands,Derbyshire,Yes,0,5,0
+2022-01-01,2022,1,Northern Ireland,Derry and Strabane,No,0,0,0
+2022-01-01,2022,1,South West,Devon,Yes,0,2,1
+2022-01-01,2022,1,Yorkshire and The Humber,Doncaster,Yes,0,2,0
+2022-01-01,2022,1,South West,Dorset,Yes,0,0,0
+2022-01-01,2022,1,South West,Dorset (U),-,0,13,1
+2022-01-01,2022,1,South East,Dover,No,0,0,0
+2022-01-01,2022,1,West Midlands,Dudley,Yes,0,1,0
+2022-01-01,2022,1,Scotland,Dumfries and Galloway,Yes,0,1,0
+2022-01-01,2022,1,Scotland,Dundee,Yes,0,0,1
+2022-01-01,2022,1,London,Ealing,Yes,1,2,1
+2022-01-01,2022,1,Scotland,East Ayrshire,Yes,0,0,0
+2022-01-01,2022,1,East of England,East Cambridgeshire,No,0,0,0
+2022-01-01,2022,1,South West,East Devon,No,0,0,0
+2022-01-01,2022,1,Scotland,East Dunbartonshire,Yes,0,0,1
+2022-01-01,2022,1,South East,East Hampshire,No,0,0,0
+2022-01-01,2022,1,East of England,East Hertfordshire,No,0,0,0
+2022-01-01,2022,1,East Midlands,East Lindsey,No,0,0,0
+2022-01-01,2022,1,Scotland,East Lothian,Yes,0,0,0
+2022-01-01,2022,1,East Midlands,East Northamptonshire,No,0,0,0
+2022-01-01,2022,1,Scotland,East Renfrewshire,Yes,0,0,0
+2022-01-01,2022,1,Yorkshire and The Humber,East Riding of Yorkshire,Yes,0,0,1
+2022-01-01,2022,1,West Midlands,East Staffordshire,No,0,0,0
+2022-01-01,2022,1,South East,East Suffolk,No,0,0,0
+2022-01-01,2022,1,South East,East Sussex,Yes,0,3,9
+2022-01-01,2022,1,South East,Eastbourne,No,0,0,0
+2022-01-01,2022,1,South East,Eastleigh,No,0,0,0
+2022-01-01,2022,1,North West,Eden,No,0,0,0
+2022-01-01,2022,1,Scotland,Edinburgh,Yes,0,0,0
+2022-01-01,2022,1,Scotland,Eilean Siar,Yes,0,0,0
+2022-01-01,2022,1,South East,Elmbridge,No,0,0,0
+2022-01-01,2022,1,London,Enfield,Yes,1,3,0
+2022-01-01,2022,1,East of England,Epping Forest,No,0,0,0
+2022-01-01,2022,1,South East,Epsom and Ewell,No,0,0,0
+2022-01-01,2022,1,East Midlands,Erewash,No,0,0,0
+2022-01-01,2022,1,East of England,Essex,Yes,0,14,9
+2022-01-01,2022,1,South West,Exeter,No,0,0,0
+2022-01-01,2022,1,Scotland,Falkirk,Yes,0,1,1
+2022-01-01,2022,1,South East,Fareham,No,0,0,0
+2022-01-01,2022,1,East of England,Fenland,No,0,0,0
+2022-01-01,2022,1,Northern Ireland,Fermanagh and Omagh,No,0,0,0
+2022-01-01,2022,1,Scotland,Fife,Yes,0,0,0
+2022-01-01,2022,1,Wales,Flintshire,Yes,0,3,0
+2022-01-01,2022,1,South East,Folkestone and Hythe,No,0,0,0
+2022-01-01,2022,1,South West,Forest of Dean,No,0,0,0
+2022-01-01,2022,1,North West,Fylde,No,0,0,0
+2022-01-01,2022,1,North East,Gateshead,Yes,0,3,0
+2022-01-01,2022,1,East Midlands,Gedling,No,0,0,0
+2022-01-01,2022,1,Scotland,Glasgow,Yes,0,0,0
+2022-01-01,2022,1,South West,Gloucester,No,0,0,0
+2022-01-01,2022,1,South West,Gloucestershire,Yes,0,1,1
+2022-01-01,2022,1,South East,Gosport,No,0,0,0
+2022-01-01,2022,1,South East,Gravesham,No,0,0,0
+2022-01-01,2022,1,East of England,Great Yarmouth,No,0,0,0
+2022-01-01,2022,1,London,Greenwich,Yes,1,1,0
+2022-01-01,2022,1,South East,Guildford,No,0,0,0
+2022-01-01,2022,1,Wales,Gwynedd,Yes,0,2,0
+2022-01-01,2022,1,London,Hackney,Yes,0,2,1
+2022-01-01,2022,1,North West,Halton,Yes,0,0,0
+2022-01-01,2022,1,Yorkshire and The Humber,Hambleton,No,0,0,0
+2022-01-01,2022,1,London,Hammersmith and Fulham,Yes,3,0,0
+2022-01-01,2022,1,South East,Hampshire,Yes,0,3,8
+2022-01-01,2022,1,East Midlands,Harborough,No,0,0,0
+2022-01-01,2022,1,London,Haringey,Yes,1,2,0
+2022-01-01,2022,1,East of England,Harlow,No,0,0,0
+2022-01-01,2022,1,Yorkshire and The Humber,Harrogate,No,0,0,0
+2022-01-01,2022,1,London,Harrow,Yes,1,1,1
+2022-01-01,2022,1,South East,Hart,No,0,0,0
+2022-01-01,2022,1,North East,Hartlepool,Yes,0,1,0
+2022-01-01,2022,1,South East,Hastings,No,0,0,0
+2022-01-01,2022,1,South East,Havant,No,0,0,0
+2022-01-01,2022,1,London,Havering,Yes,0,2,1
+2022-01-01,2022,1,West Midlands,Herefordshire,Yes,0,3,0
+2022-01-01,2022,1,East of England,Hertfordshire,Yes,1,6,2
+2022-01-01,2022,1,East of England,Hertsmere,No,0,0,0
+2022-01-01,2022,1,East Midlands,High Peak,No,0,0,0
+2022-01-01,2022,1,Scotland,Highland,Yes,0,2,1
+2022-01-01,2022,1,London,Hillingdon,Yes,49,1,0
+2022-01-01,2022,1,East Midlands,Hinckley and Bosworth,No,0,0,0
+2022-01-01,2022,1,South East,Horsham,No,0,0,0
+2022-01-01,2022,1,London,Hounslow,Yes,0,0,0
+2022-01-01,2022,1,East of England,Huntingdonshire,No,0,0,0
+2022-01-01,2022,1,North West,Hyndburn,No,0,0,0
+2022-01-01,2022,1,Scotland,Inverclyde,Yes,0,0,0
+2022-01-01,2022,1,East of England,Ipswich,No,0,0,0
+2022-01-01,2022,1,Wales,Isle of Anglesey,Yes,0,1,0
+2022-01-01,2022,1,South East,Isle of Wight,Yes,0,1,0
+2022-01-01,2022,1,South West,Isles of Scilly,Yes,0,0,0
+2022-01-01,2022,1,London,Islington,Yes,1,0,0
+2022-01-01,2022,1,London,Kensington and Chelsea,Yes,5,0,0
+2022-01-01,2022,1,South East,Kent,Yes,213,0,0
+2022-01-01,2022,1,East Midlands,Kettering,No,0,0,0
+2022-01-01,2022,1,East of England,King's Lynn and West Norfolk,No,0,0,0
+2022-01-01,2022,1,Yorkshire and The Humber,Kingston upon Hull,Yes,0,1,1
+2022-01-01,2022,1,London,Kingston upon Thames,Yes,0,3,0
+2022-01-01,2022,1,Yorkshire and The Humber,Kirklees,Yes,0,1,1
+2022-01-01,2022,1,North West,Knowsley,Yes,0,2,0
+2022-01-01,2022,1,London,Lambeth,Yes,0,0,0
+2022-01-01,2022,1,North West,Lancashire,Yes,0,0,1
+2022-01-01,2022,1,North West,Lancaster,No,0,0,0
+2022-01-01,2022,1,Yorkshire and The Humber,Leeds,Yes,0,1,1
+2022-01-01,2022,1,East Midlands,Leicester,Yes,0,4,1
+2022-01-01,2022,1,East Midlands,Leicestershire,Yes,0,3,2
+2022-01-01,2022,1,South East,Lewes,No,0,0,0
+2022-01-01,2022,1,London,Lewisham,Yes,0,8,5
+2022-01-01,2022,1,West Midlands,Lichfield,No,0,0,0
+2022-01-01,2022,1,East Midlands,Lincoln,No,0,0,0
+2022-01-01,2022,1,East Midlands,Lincolnshire,Yes,0,5,2
+2022-01-01,2022,1,Northern Ireland,Lisburn and Castlereagh,No,0,0,0
+2022-01-01,2022,1,North West,Liverpool,Yes,0,0,0
+2022-01-01,2022,1,East of England,Luton,Yes,0,0,0
+2022-01-01,2022,1,South East,Maidstone,No,0,0,0
+2022-01-01,2022,1,East of England,Maldon,No,0,0,0
+2022-01-01,2022,1,West Midlands,Malvern Hills,No,0,0,0
+2022-01-01,2022,1,North West,Manchester,Yes,0,0,0
+2022-01-01,2022,1,East Midlands,Mansfield,No,0,0,0
+2022-01-01,2022,1,South East,Medway,Yes,0,0,0
+2022-01-01,2022,1,East Midlands,Melton,No,0,0,0
+2022-01-01,2022,1,South West,Mendip,No,0,0,0
+2022-01-01,2022,1,Wales,Merthyr Tydfil,Yes,0,1,0
+2022-01-01,2022,1,London,Merton,Yes,0,2,0
+2022-01-01,2022,1,Northern Ireland,Mid and East Antrim,No,0,0,0
+2022-01-01,2022,1,South West,Mid Devon,No,0,0,0
+2022-01-01,2022,1,East of England,Mid Suffolk,No,0,0,0
+2022-01-01,2022,1,South East,Mid Sussex,No,0,0,0
+2022-01-01,2022,1,Northern Ireland,Mid Ulster,No,0,0,0
+2022-01-01,2022,1,North East,Middlesbrough,Yes,0,0,0
+2022-01-01,2022,1,Scotland,Midlothian,Yes,0,0,0
+2022-01-01,2022,1,South East,Milton Keynes,Yes,0,5,0
+2022-01-01,2022,1,South East,Mole Valley,No,0,0,0
+2022-01-01,2022,1,Wales,Monmouthshire,Yes,0,1,0
+2022-01-01,2022,1,Scotland,Moray,Yes,0,0,1
+2022-01-01,2022,1,Wales,Neath Port Talbot,Yes,0,1,1
+2022-01-01,2022,1,South East,New Forest,No,0,0,0
+2022-01-01,2022,1,East Midlands,Newark and Sherwood,No,0,0,0
+2022-01-01,2022,1,North East,Newcastle upon Tyne,Yes,0,1,0
+2022-01-01,2022,1,West Midlands,Newcastle-under-Lyme,No,0,0,0
+2022-01-01,2022,1,London,Newham,Yes,0,0,0
+2022-01-01,2022,1,Wales,Newport,Yes,0,0,1
+2022-01-01,2022,1,Northern Ireland,"Newry, Mourne and Down",No,0,0,0
+2022-01-01,2022,1,East of England,Norfolk,Yes,0,5,3
+2022-01-01,2022,1,Scotland,North Ayrshire,Yes,0,1,0
+2022-01-01,2022,1,South West,North Devon,No,0,0,0
+2022-01-01,2022,1,Northern Ireland,North Down and Ards,No,0,0,0
+2022-01-01,2022,1,East Midlands,North East Derbyshire,No,0,0,0
+2022-01-01,2022,1,Yorkshire and The Humber,North East Lincolnshire,Yes,0,0,0
+2022-01-01,2022,1,East of England,North Hertfordshire,No,0,0,0
+2022-01-01,2022,1,East Midlands,North Kesteven,No,0,0,0
+2022-01-01,2022,1,Scotland,North Lanarkshire,Yes,0,0,1
+2022-01-01,2022,1,Yorkshire and The Humber,North Lincolnshire,Yes,0,0,0
+2022-01-01,2022,1,East of England,North Norfolk,No,0,0,0
+2022-01-01,2022,1,South West,North Somerset,Yes,0,2,0
+2022-01-01,2022,1,North East,North Tyneside,Yes,0,2,1
+2022-01-01,2022,1,West Midlands,North Warwickshire,No,0,0,0
+2022-01-01,2022,1,East Midlands,North West Leicestershire,No,0,0,0
+2022-01-01,2022,1,Yorkshire and The Humber,North Yorkshire,Yes,0,0,2
+2022-01-01,2022,1,East Midlands,Northampton,No,0,0,0
+2022-01-01,2022,1,East Midlands,Northamptonshire,Yes,0,3,7
+2022-01-01,2022,1,North East,Northumberland,Yes,0,2,0
+2022-01-01,2022,1,East of England,Norwich,No,0,1,0
+2022-01-01,2022,1,East Midlands,Nottingham,Yes,0,0,3
+2022-01-01,2022,1,East Midlands,Nottinghamshire,Yes,0,7,0
+2022-01-01,2022,1,West Midlands,Nuneaton and Bedworth,No,0,0,0
+2022-01-01,2022,1,East Midlands,Oadby and Wigston,No,0,0,0
+2022-01-01,2022,1,North West,Oldham,Yes,0,2,0
+2022-01-01,2022,1,Scotland,Orkney Islands,Yes,0,0,0
+2022-01-01,2022,1,South East,Oxford,No,0,0,0
+2022-01-01,2022,1,South East,Oxfordshire,Yes,0,8,8
+2022-01-01,2022,1,Wales,Pembrokeshire,Yes,0,1,0
+2022-01-01,2022,1,North West,Pendle,No,0,0,0
+2022-01-01,2022,1,Scotland,Perth and Kinross,Yes,0,1,1
+2022-01-01,2022,1,East of England,Peterborough,Yes,0,9,1
+2022-01-01,2022,1,South West,Plymouth,Yes,0,0,0
+2022-01-01,2022,1,South West,Poole,Yes,0,0,0
+2022-01-01,2022,1,South East,Portsmouth,Yes,0,0,1
+2022-01-01,2022,1,Wales,Powys,Yes,0,2,0
+2022-01-01,2022,1,North West,Preston,No,0,0,0
+2022-01-01,2022,1,South East,Reading,Yes,0,0,2
+2022-01-01,2022,1,London,Redbridge,Yes,0,5,2
+2022-01-01,2022,1,North East,Redcar and Cleveland,Yes,0,5,0
+2022-01-01,2022,1,West Midlands,Redditch,No,0,0,0
+2022-01-01,2022,1,South East,Reigate and Banstead,No,0,0,0
+2022-01-01,2022,1,Scotland,Renfrewshire,Yes,0,0,0
+2022-01-01,2022,1,Wales,Rhondda Cynon Taf,Yes,0,1,0
+2022-01-01,2022,1,North West,Ribble Valley,No,0,0,0
+2022-01-01,2022,1,London,Richmond upon Thames,Yes,0,0,0
+2022-01-01,2022,1,Yorkshire and The Humber,Richmondshire,No,0,0,0
+2022-01-01,2022,1,North West,Rochdale,Yes,0,1,0
+2022-01-01,2022,1,East of England,Rochford,No,0,0,0
+2022-01-01,2022,1,North West,Rossendale,No,0,0,0
+2022-01-01,2022,1,South East,Rother,No,0,0,0
+2022-01-01,2022,1,Yorkshire and The Humber,Rotherham,Yes,0,0,0
+2022-01-01,2022,1,West Midlands,Rugby,No,0,0,0
+2022-01-01,2022,1,South East,Runnymede,No,0,0,0
+2022-01-01,2022,1,East Midlands,Rushcliffe,No,0,0,0
+2022-01-01,2022,1,South East,Rushmoor,No,0,0,0
+2022-01-01,2022,1,East Midlands,Rutland,Yes,0,0,0
+2022-01-01,2022,1,Yorkshire and The Humber,Ryedale,No,0,0,0
+2022-01-01,2022,1,North West,Salford,Yes,0,1,0
+2022-01-01,2022,1,West Midlands,Sandwell,Yes,0,2,0
+2022-01-01,2022,1,Yorkshire and The Humber,Scarborough,No,0,0,0
+2022-01-01,2022,1,Scotland,Scottish Borders,Yes,0,0,2
+2022-01-01,2022,1,South West,Sedgemoor,No,0,0,0
+2022-01-01,2022,1,North West,Sefton,Yes,0,1,0
+2022-01-01,2022,1,Yorkshire and The Humber,Selby,No,0,0,0
+2022-01-01,2022,1,South East,Sevenoaks,No,0,0,0
+2022-01-01,2022,1,Yorkshire and The Humber,Sheffield,Yes,0,2,1
+2022-01-01,2022,1,Scotland,Shetland Islands,Yes,0,0,0
+2022-01-01,2022,1,West Midlands,Shropshire,Yes,0,5,0
+2022-01-01,2022,1,South East,Slough,Yes,0,0,1
+2022-01-01,2022,1,West Midlands,Solihull,Yes,0,0,0
+2022-01-01,2022,1,South West,Somerset,Yes,0,3,0
+2022-01-01,2022,1,South West,Somerset West and Taunton,No,0,0,0
+2022-01-01,2022,1,Scotland,South Ayrshire,Yes,0,2,0
+2022-01-01,2022,1,South East,South Bucks,No,0,0,0
+2022-01-01,2022,1,East of England,South Cambridgeshire,No,0,0,0
+2022-01-01,2022,1,East Midlands,South Derbyshire,No,0,0,0
+2022-01-01,2022,1,South West,South Gloucestershire,Yes,0,0,0
+2022-01-01,2022,1,South West,South Hams,No,0,0,0
+2022-01-01,2022,1,East Midlands,South Holland,No,0,0,0
+2022-01-01,2022,1,East Midlands,South Kesteven,No,0,0,0
+2022-01-01,2022,1,North West,South Lakeland,No,0,0,0
+2022-01-01,2022,1,Scotland,South Lanarkshire,Yes,0,0,0
+2022-01-01,2022,1,East of England,South Norfolk,No,0,0,0
+2022-01-01,2022,1,East Midlands,South Northamptonshire,No,0,0,0
+2022-01-01,2022,1,South East,South Oxfordshire,No,0,0,0
+2022-01-01,2022,1,North West,South Ribble,No,0,0,0
+2022-01-01,2022,1,South West,South Somerset,No,0,0,0
+2022-01-01,2022,1,West Midlands,South Staffordshire,No,0,0,0
+2022-01-01,2022,1,North East,South Tyneside,Yes,0,3,0
+2022-01-01,2022,1,South East,Southampton,Yes,0,2,0
+2022-01-01,2022,1,East of England,Southend-on-Sea,Yes,0,3,1
+2022-01-01,2022,1,London,Southwark,Yes,1,0,0
+2022-01-01,2022,1,South East,Spelthorne,No,0,0,0
+2022-01-01,2022,1,East of England,St. Albans,No,0,0,0
+2022-01-01,2022,1,North West,St. Helens,Yes,0,0,1
+2022-01-01,2022,1,West Midlands,Stafford,No,0,0,0
+2022-01-01,2022,1,West Midlands,Staffordshire Moorlands,No,0,0,0
+2022-01-01,2022,1,West Midlands,Staffordshire,Yes,0,2,2
+2022-01-01,2022,1,East of England,Stevenage,No,0,0,0
+2022-01-01,2022,1,Scotland,Stirling,Yes,0,1,0
+2022-01-01,2022,1,North West,Stockport,Yes,0,1,0
+2022-01-01,2022,1,North East,Stockton-on-Tees,Yes,0,2,1
+2022-01-01,2022,1,West Midlands,Stoke-on-Trent,Yes,0,1,0
+2022-01-01,2022,1,West Midlands,Stratford-on-Avon,No,0,0,0
+2022-01-01,2022,1,South West,Stroud,No,0,0,0
+2022-01-01,2022,1,East of England,Suffolk,Yes,0,8,0
+2022-01-01,2022,1,North East,Sunderland,Yes,0,0,0
+2022-01-01,2022,1,South East,Surrey Heath,No,0,0,0
+2022-01-01,2022,1,South East,Surrey,Yes,0,3,3
+2022-01-01,2022,1,London,Sutton,Yes,0,1,0
+2022-01-01,2022,1,South East,Swale,No,0,0,0
+2022-01-01,2022,1,Wales,Swansea,Yes,0,1,0
+2022-01-01,2022,1,South West,Swindon,Yes,0,1,1
+2022-01-01,2022,1,North West,Tameside,Yes,0,1,0
+2022-01-01,2022,1,West Midlands,Tamworth,No,0,0,0
+2022-01-01,2022,1,South East,Tandridge,No,0,0,0
+2022-01-01,2022,1,South West,Teignbridge,No,0,0,0
+2022-01-01,2022,1,West Midlands,Telford and Wrekin,Yes,0,2,0
+2022-01-01,2022,1,East of England,Tendring,No,0,0,0
+2022-01-01,2022,1,South East,Test Valley,No,0,0,0
+2022-01-01,2022,1,South West,Tewkesbury,No,0,0,0
+2022-01-01,2022,1,South East,Thanet,No,0,0,0
+2022-01-01,2022,1,Wales,The Vale of Glamorgan,Yes,0,1,0
+2022-01-01,2022,1,East of England,Three Rivers,No,0,0,0
+2022-01-01,2022,1,East of England,Thurrock,Yes,4,0,0
+2022-01-01,2022,1,South East,Tonbridge and Malling,No,0,0,0
+2022-01-01,2022,1,South West,Torbay,Yes,0,1,0
+2022-01-01,2022,1,Wales,Torfaen,Yes,0,1,0
+2022-01-01,2022,1,South West,Torridge,No,0,0,0
+2022-01-01,2022,1,London,Tower Hamlets,Yes,0,0,0
+2022-01-01,2022,1,North West,Trafford,Yes,0,1,0
+2022-01-01,2022,1,South East,Tunbridge Wells,No,0,0,0
+2022-01-01,2022,1,East of England,Uttlesford,No,0,0,0
+2022-01-01,2022,1,South East,Vale of White Horse,No,0,0,0
+2022-01-01,2022,1,Yorkshire and The Humber,Wakefield,Yes,0,1,1
+2022-01-01,2022,1,West Midlands,Walsall,Yes,0,0,1
+2022-01-01,2022,1,London,Waltham Forest,Yes,1,0,0
+2022-01-01,2022,1,London,Wandsworth,Yes,0,0,2
+2022-01-01,2022,1,North West,Warrington,Yes,0,0,2
+2022-01-01,2022,1,West Midlands,Warwick,No,0,0,0
+2022-01-01,2022,1,West Midlands,Warwickshire,Yes,0,0,0
+2022-01-01,2022,1,East of England,Watford,No,0,0,0
+2022-01-01,2022,1,South East,Waverley,No,0,0,0
+2022-01-01,2022,1,South East,Wealden,No,0,0,0
+2022-01-01,2022,1,East Midlands,Wellingborough,No,0,0,0
+2022-01-01,2022,1,East of England,Welwyn Hatfield,No,0,0,0
+2022-01-01,2022,1,South East,West Berkshire,Yes,0,0,0
+2022-01-01,2022,1,South West,West Devon,No,0,0,0
+2022-01-01,2022,1,Scotland,West Dunbartonshire,Yes,0,0,0
+2022-01-01,2022,1,North West,West Lancashire,No,0,0,0
+2022-01-01,2022,1,East Midlands,West Lindsey,No,0,0,0
+2022-01-01,2022,1,Scotland,West Lothian,Yes,0,0,0
+2022-01-01,2022,1,South East,West Oxfordshire,No,0,0,0
+2022-01-01,2022,1,South East,West Suffolk,No,0,0,0
+2022-01-01,2022,1,South East,West Sussex,Yes,0,8,3
+2022-01-01,2022,1,London,Westminster,Yes,0,0,0
+2022-01-01,2022,1,North West,Wigan,Yes,0,0,0
+2022-01-01,2022,1,South West,Wiltshire,Yes,0,0,1
+2022-01-01,2022,1,South East,Winchester,No,0,0,0
+2022-01-01,2022,1,South East,Windsor and Maidenhead,Yes,0,4,2
+2022-01-01,2022,1,North West,Wirral,Yes,0,0,0
+2022-01-01,2022,1,South East,Woking,No,0,0,0
+2022-01-01,2022,1,South East,Wokingham,Yes,0,0,6
+2022-01-01,2022,1,West Midlands,Wolverhampton,Yes,0,1,1
+2022-01-01,2022,1,West Midlands,Worcester,No,0,0,0
+2022-01-01,2022,1,West Midlands,Worcestershire,Yes,0,1,0
+2022-01-01,2022,1,South East,Worthing,No,0,0,0
+2022-01-01,2022,1,Wales,Wrexham,Yes,0,0,1
+2022-01-01,2022,1,West Midlands,Wychavon,No,0,0,0
+2022-01-01,2022,1,South East,Wycombe,No,0,0,0
+2022-01-01,2022,1,North West,Wyre,No,0,0,0
+2022-01-01,2022,1,West Midlands,Wyre Forest,No,0,0,0
+2022-01-01,2022,1,Yorkshire and The Humber,York,Yes,0,1,0
+2022-01-01,2022,1,Northern Ireland,Belfast HSCT,Yes,0,0,0
+2022-01-01,2022,1,Northern Ireland,South Eastern HSCT,Yes,0,0,0
+2022-01-01,2022,1,Northern Ireland,Northern HSCT,Yes,0,0,0
+2022-01-01,2022,1,Northern Ireland,Southern HSCT,Yes,0,0,0
+2022-01-01,2022,1,Northern Ireland,Western HSCT,Yes,0,0,0
+2022-01-01,2022,1,*Total East Midlands,*Total,-,0,27,16
+2022-01-01,2022,1,*Total East of England,*Total,-,5,61,20
+2022-01-01,2022,1,*Total London,*Total,-,92,37,19
+2022-01-01,2022,1,*Total North East,*Total,-,0,26,3
+2022-01-01,2022,1,*Total North West,*Total,-,0,13,8
+2022-01-01,2022,1,*Total Northern Ireland,*Total,-,0,0,0
+2022-01-01,2022,1,*Total Scotland,*Total,-,0,10,12
+2022-01-01,2022,1,*Total South East,*Total,-,213,44,43
+2022-01-01,2022,1,*Total South West,*Total,-,0,36,10
+2022-01-01,2022,1,*Total Wales,*Total,-,0,25,7
+2022-01-01,2022,1,*Total West Midlands,*Total,-,0,20,6
+2022-01-01,2022,1,*Total Yorkshire and The Humber,*Total,-,0,11,11
+2022-01-01,2022,1,*Total,*Total,-,310,310,155
+2022-04-01,2022,2,Scotland,Aberdeen,Yes,0,4,0
+2022-04-01,2022,2,Scotland,Aberdeenshire,Yes,0,4,1
+2022-04-01,2022,2,South East,Adur,No,0,0,0
+2022-04-01,2022,2,North West,Allerdale,No,0,0,0
+2022-04-01,2022,2,East Midlands,Amber Valley,No,0,0,0
+2022-04-01,2022,2,Scotland,Angus,Yes,0,0,1
+2022-04-01,2022,2,Northern Ireland,Antrim and Newtownabbey,No,0,0,0
+2022-04-01,2022,2,Scotland,Argyll and Bute,Yes,0,2,0
+2022-04-01,2022,2,Northern Ireland,"Armagh, Banbridge and Craigavon",No,0,0,0
+2022-04-01,2022,2,South East,Arun,No,0,0,0
+2022-04-01,2022,2,East Midlands,Ashfield,No,0,0,0
+2022-04-01,2022,2,South East,Ashford,No,0,0,0
+2022-04-01,2022,2,South East,Aylesbury Vale,No,0,0,0
+2022-04-01,2022,2,East of England,Babergh,No,0,0,0
+2022-04-01,2022,2,London,Barking and Dagenham,Yes,0,3,1
+2022-04-01,2022,2,London,Barnet,Yes,0,0,0
+2022-04-01,2022,2,Yorkshire and The Humber,Barnsley,Yes,0,0,2
+2022-04-01,2022,2,North West,Barrow-in-Furness,No,0,0,0
+2022-04-01,2022,2,East of England,Basildon,Yes,0,0,0
+2022-04-01,2022,2,South East,Basingstoke and Deane,No,0,0,0
+2022-04-01,2022,2,East Midlands,Bassetlaw,No,0,0,0
+2022-04-01,2022,2,South West,Bath and North East Somerset,Yes,0,9,1
+2022-04-01,2022,2,East of England,Bedford,Yes,0,2,1
+2022-04-01,2022,2,Northern Ireland,Belfast,No,0,0,0
+2022-04-01,2022,2,London,Bexley,Yes,0,1,1
+2022-04-01,2022,2,West Midlands,Birmingham,Yes,0,5,2
+2022-04-01,2022,2,East Midlands,Blaby,No,0,0,0
+2022-04-01,2022,2,North West,Blackburn with Darwen,Yes,0,4,0
+2022-04-01,2022,2,North West,Blackpool,Yes,0,3,0
+2022-04-01,2022,2,Wales,Blaenau Gwent,Yes,0,1,0
+2022-04-01,2022,2,East Midlands,Bolsover,No,0,0,0
+2022-04-01,2022,2,North West,Bolton,Yes,0,2,1
+2022-04-01,2022,2,East Midlands,Boston,No,0,0,0
+2022-04-01,2022,2,South West,Bournemouth,Yes,0,0,0
+2022-04-01,2022,2,South West,"Bournemouth, Christchurch and Poole",Yes,0,0,0
+2022-04-01,2022,2,South East,Bracknell Forest,Yes,0,2,3
+2022-04-01,2022,2,Yorkshire and The Humber,Bradford,Yes,0,5,2
+2022-04-01,2022,2,East of England,Braintree,No,0,0,0
+2022-04-01,2022,2,East of England,Breckland,No,0,0,0
+2022-04-01,2022,2,London,Brent,Yes,0,0,0
+2022-04-01,2022,2,East of England,Brentwood,No,0,0,0
+2022-04-01,2022,2,Wales,Bridgend,Yes,0,0,0
+2022-04-01,2022,2,South East,Brighton and Hove,Yes,1,0,0
+2022-04-01,2022,2,South West,Bristol,Yes,0,0,0
+2022-04-01,2022,2,East of England,Broadland,No,0,0,0
+2022-04-01,2022,2,London,Bromley,Yes,0,2,1
+2022-04-01,2022,2,West Midlands,Bromsgrove,No,0,0,0
+2022-04-01,2022,2,East of England,Broxbourne,No,0,0,0
+2022-04-01,2022,2,East Midlands,Broxtowe,No,0,0,0
+2022-04-01,2022,2,South East,Buckinghamshire,Yes,1,3,13
+2022-04-01,2022,2,North West,Burnley,No,0,0,0
+2022-04-01,2022,2,North West,Bury,Yes,0,3,0
+2022-04-01,2022,2,Wales,Caerphilly,Yes,0,3,0
+2022-04-01,2022,2,Yorkshire and The Humber,Calderdale,Yes,0,1,1
+2022-04-01,2022,2,East of England,Cambridge,No,0,0,0
+2022-04-01,2022,2,East of England,Cambridgeshire,Yes,0,12,5
+2022-04-01,2022,2,London,Camden,Yes,0,0,0
+2022-04-01,2022,2,West Midlands,Cannock Chase,No,0,0,0
+2022-04-01,2022,2,South East,Canterbury,No,0,0,0
+2022-04-01,2022,2,Wales,Cardiff,Yes,0,0,1
+2022-04-01,2022,2,North West,Carlisle,No,0,0,0
+2022-04-01,2022,2,Wales,Carmarthenshire,Yes,0,4,0
+2022-04-01,2022,2,East of England,Castle Point,No,0,0,0
+2022-04-01,2022,2,Northern Ireland,Causeway Coast and Glens,No,0,0,0
+2022-04-01,2022,2,East of England,Central Bedfordshire,Yes,0,5,3
+2022-04-01,2022,2,Wales,Ceredigion,Yes,0,2,0
+2022-04-01,2022,2,East Midlands,Charnwood,No,0,0,0
+2022-04-01,2022,2,East of England,Chelmsford,No,0,0,0
+2022-04-01,2022,2,South West,Cheltenham,No,0,0,0
+2022-04-01,2022,2,South East,Cherwell,No,0,0,0
+2022-04-01,2022,2,North West,Cheshire East,Yes,0,2,2
+2022-04-01,2022,2,North West,Cheshire West and Chester,Yes,0,1,2
+2022-04-01,2022,2,East Midlands,Chesterfield,No,0,0,0
+2022-04-01,2022,2,South East,Chichester,No,0,0,0
+2022-04-01,2022,2,South East,Chiltern,No,0,0,0
+2022-04-01,2022,2,North West,Chorley,No,0,0,0
+2022-04-01,2022,2,London,City of London,Yes,1,0,0
+2022-04-01,2022,2,Scotland,Clackmannanshire,Yes,0,0,0
+2022-04-01,2022,2,East of England,Colchester,No,0,0,0
+2022-04-01,2022,2,Wales,Conwy,Yes,0,0,0
+2022-04-01,2022,2,North West,Copeland,No,0,0,0
+2022-04-01,2022,2,East Midlands,Corby,No,0,0,0
+2022-04-01,2022,2,South West,Cornwall,Yes,0,4,1
+2022-04-01,2022,2,South West,Cotswold,No,0,0,0
+2022-04-01,2022,2,North East,County Durham,Yes,0,7,0
+2022-04-01,2022,2,West Midlands,Coventry,Yes,0,3,1
+2022-04-01,2022,2,Yorkshire and The Humber,Craven,No,0,0,0
+2022-04-01,2022,2,South East,Crawley,No,0,0,0
+2022-04-01,2022,2,London,Croydon,Yes,25,0,0
+2022-04-01,2022,2,North West,Cumbria,Yes,0,1,2
+2022-04-01,2022,2,East of England,Dacorum,No,0,0,0
+2022-04-01,2022,2,North East,Darlington,Yes,0,4,0
+2022-04-01,2022,2,South East,Dartford,No,0,0,0
+2022-04-01,2022,2,East Midlands,Daventry,No,0,0,0
+2022-04-01,2022,2,Wales,Denbighshire,Yes,0,1,2
+2022-04-01,2022,2,East Midlands,Derby,Yes,0,4,1
+2022-04-01,2022,2,East Midlands,Derbyshire Dales,No,0,0,0
+2022-04-01,2022,2,East Midlands,Derbyshire,Yes,0,8,2
+2022-04-01,2022,2,Northern Ireland,Derry and Strabane,No,0,0,0
+2022-04-01,2022,2,South West,Devon,Yes,0,3,3
+2022-04-01,2022,2,Yorkshire and The Humber,Doncaster,Yes,0,3,0
+2022-04-01,2022,2,South West,Dorset,Yes,0,0,1
+2022-04-01,2022,2,South West,Dorset (U),-,0,6,7
+2022-04-01,2022,2,South East,Dover,No,0,0,0
+2022-04-01,2022,2,West Midlands,Dudley,Yes,0,0,4
+2022-04-01,2022,2,Scotland,Dumfries and Galloway,Yes,0,1,2
+2022-04-01,2022,2,Scotland,Dundee,Yes,0,3,0
+2022-04-01,2022,2,London,Ealing,Yes,0,2,1
+2022-04-01,2022,2,Scotland,East Ayrshire,Yes,0,0,1
+2022-04-01,2022,2,East of England,East Cambridgeshire,No,0,0,0
+2022-04-01,2022,2,South West,East Devon,No,0,0,0
+2022-04-01,2022,2,Scotland,East Dunbartonshire,Yes,0,2,0
+2022-04-01,2022,2,South East,East Hampshire,No,0,0,0
+2022-04-01,2022,2,East of England,East Hertfordshire,No,0,0,0
+2022-04-01,2022,2,East Midlands,East Lindsey,No,0,0,0
+2022-04-01,2022,2,Scotland,East Lothian,Yes,0,0,1
+2022-04-01,2022,2,East Midlands,East Northamptonshire,No,0,0,0
+2022-04-01,2022,2,Scotland,East Renfrewshire,Yes,0,0,1
+2022-04-01,2022,2,Yorkshire and The Humber,East Riding of Yorkshire,Yes,0,1,1
+2022-04-01,2022,2,West Midlands,East Staffordshire,No,0,0,0
+2022-04-01,2022,2,South East,East Suffolk,No,0,0,0
+2022-04-01,2022,2,South East,East Sussex,Yes,0,5,2
+2022-04-01,2022,2,South East,Eastbourne,No,0,0,0
+2022-04-01,2022,2,South East,Eastleigh,No,0,0,0
+2022-04-01,2022,2,North West,Eden,No,0,0,0
+2022-04-01,2022,2,Scotland,Edinburgh,Yes,0,0,0
+2022-04-01,2022,2,Scotland,Eilean Siar,Yes,0,2,0
+2022-04-01,2022,2,South East,Elmbridge,No,0,0,0
+2022-04-01,2022,2,London,Enfield,Yes,0,0,4
+2022-04-01,2022,2,East of England,Epping Forest,No,0,0,0
+2022-04-01,2022,2,South East,Epsom and Ewell,No,0,0,0
+2022-04-01,2022,2,East Midlands,Erewash,No,0,0,0
+2022-04-01,2022,2,East of England,Essex,Yes,0,17,10
+2022-04-01,2022,2,South West,Exeter,No,0,0,0
+2022-04-01,2022,2,Scotland,Falkirk,Yes,0,0,0
+2022-04-01,2022,2,South East,Fareham,No,0,0,0
+2022-04-01,2022,2,East of England,Fenland,No,0,0,0
+2022-04-01,2022,2,Northern Ireland,Fermanagh and Omagh,No,0,0,0
+2022-04-01,2022,2,Scotland,Fife,Yes,0,1,1
+2022-04-01,2022,2,Wales,Flintshire,Yes,0,2,1
+2022-04-01,2022,2,South East,Folkestone and Hythe,No,0,0,0
+2022-04-01,2022,2,South West,Forest of Dean,No,0,0,0
+2022-04-01,2022,2,North West,Fylde,No,0,0,0
+2022-04-01,2022,2,North East,Gateshead,Yes,0,2,1
+2022-04-01,2022,2,East Midlands,Gedling,No,0,0,0
+2022-04-01,2022,2,Scotland,Glasgow,Yes,0,0,0
+2022-04-01,2022,2,South West,Gloucester,No,0,0,0
+2022-04-01,2022,2,South West,Gloucestershire,Yes,0,4,1
+2022-04-01,2022,2,South East,Gosport,No,0,0,0
+2022-04-01,2022,2,South East,Gravesham,No,0,0,0
+2022-04-01,2022,2,East of England,Great Yarmouth,No,0,0,0
+2022-04-01,2022,2,London,Greenwich,Yes,0,1,2
+2022-04-01,2022,2,South East,Guildford,No,0,0,0
+2022-04-01,2022,2,Wales,Gwynedd,Yes,0,2,1
+2022-04-01,2022,2,London,Hackney,Yes,0,2,2
+2022-04-01,2022,2,North West,Halton,Yes,0,0,0
+2022-04-01,2022,2,Yorkshire and The Humber,Hambleton,No,0,0,0
+2022-04-01,2022,2,London,Hammersmith and Fulham,Yes,2,0,0
+2022-04-01,2022,2,South East,Hampshire,Yes,0,7,37
+2022-04-01,2022,2,East Midlands,Harborough,No,0,0,0
+2022-04-01,2022,2,London,Haringey,Yes,0,2,0
+2022-04-01,2022,2,East of England,Harlow,No,0,0,0
+2022-04-01,2022,2,Yorkshire and The Humber,Harrogate,No,0,0,0
+2022-04-01,2022,2,London,Harrow,Yes,0,0,3
+2022-04-01,2022,2,South East,Hart,No,0,0,0
+2022-04-01,2022,2,North East,Hartlepool,Yes,0,0,1
+2022-04-01,2022,2,South East,Hastings,No,0,0,0
+2022-04-01,2022,2,South East,Havant,No,0,0,0
+2022-04-01,2022,2,London,Havering,Yes,0,2,0
+2022-04-01,2022,2,West Midlands,Herefordshire,Yes,0,4,3
+2022-04-01,2022,2,East of England,Hertfordshire,Yes,0,14,5
+2022-04-01,2022,2,East of England,Hertsmere,No,0,0,0
+2022-04-01,2022,2,East Midlands,High Peak,No,0,0,0
+2022-04-01,2022,2,Scotland,Highland,Yes,0,3,0
+2022-04-01,2022,2,London,Hillingdon,Yes,41,0,0
+2022-04-01,2022,2,East Midlands,Hinckley and Bosworth,No,0,0,0
+2022-04-01,2022,2,South East,Horsham,No,0,0,0
+2022-04-01,2022,2,London,Hounslow,Yes,0,0,0
+2022-04-01,2022,2,East of England,Huntingdonshire,No,0,0,0
+2022-04-01,2022,2,North West,Hyndburn,No,0,0,0
+2022-04-01,2022,2,Scotland,Inverclyde,Yes,0,0,1
+2022-04-01,2022,2,East of England,Ipswich,No,0,0,0
+2022-04-01,2022,2,Wales,Isle of Anglesey,Yes,0,1,0
+2022-04-01,2022,2,South East,Isle of Wight,Yes,0,0,0
+2022-04-01,2022,2,South West,Isles of Scilly,Yes,0,0,0
+2022-04-01,2022,2,London,Islington,Yes,1,0,0
+2022-04-01,2022,2,London,Kensington and Chelsea,Yes,0,0,0
+2022-04-01,2022,2,South East,Kent,Yes,315,2,3
+2022-04-01,2022,2,East Midlands,Kettering,No,0,0,0
+2022-04-01,2022,2,East of England,King's Lynn and West Norfolk,No,0,0,0
+2022-04-01,2022,2,Yorkshire and The Humber,Kingston upon Hull,Yes,0,0,0
+2022-04-01,2022,2,London,Kingston upon Thames,Yes,0,1,0
+2022-04-01,2022,2,Yorkshire and The Humber,Kirklees,Yes,0,3,2
+2022-04-01,2022,2,North West,Knowsley,Yes,0,1,0
+2022-04-01,2022,2,London,Lambeth,Yes,0,0,0
+2022-04-01,2022,2,North West,Lancashire,Yes,0,0,3
+2022-04-01,2022,2,North West,Lancaster,No,0,0,0
+2022-04-01,2022,2,Yorkshire and The Humber,Leeds,Yes,0,4,1
+2022-04-01,2022,2,East Midlands,Leicester,Yes,0,2,2
+2022-04-01,2022,2,East Midlands,Leicestershire,Yes,0,4,1
+2022-04-01,2022,2,South East,Lewes,No,0,0,0
+2022-04-01,2022,2,London,Lewisham,Yes,0,1,1
+2022-04-01,2022,2,West Midlands,Lichfield,No,0,0,0
+2022-04-01,2022,2,East Midlands,Lincoln,No,0,0,0
+2022-04-01,2022,2,East Midlands,Lincolnshire,Yes,0,8,3
+2022-04-01,2022,2,Northern Ireland,Lisburn and Castlereagh,No,0,0,0
+2022-04-01,2022,2,North West,Liverpool,Yes,0,0,0
+2022-04-01,2022,2,East of England,Luton,Yes,0,2,1
+2022-04-01,2022,2,South East,Maidstone,No,0,0,0
+2022-04-01,2022,2,East of England,Maldon,No,0,0,0
+2022-04-01,2022,2,West Midlands,Malvern Hills,No,0,0,0
+2022-04-01,2022,2,North West,Manchester,Yes,0,1,1
+2022-04-01,2022,2,East Midlands,Mansfield,No,0,0,0
+2022-04-01,2022,2,South East,Medway,Yes,0,0,0
+2022-04-01,2022,2,East Midlands,Melton,No,0,0,0
+2022-04-01,2022,2,South West,Mendip,No,0,0,0
+2022-04-01,2022,2,Wales,Merthyr Tydfil,Yes,0,0,1
+2022-04-01,2022,2,London,Merton,Yes,0,1,0
+2022-04-01,2022,2,Northern Ireland,Mid and East Antrim,No,0,0,0
+2022-04-01,2022,2,South West,Mid Devon,No,0,0,0
+2022-04-01,2022,2,East of England,Mid Suffolk,No,0,0,0
+2022-04-01,2022,2,South East,Mid Sussex,No,0,0,0
+2022-04-01,2022,2,Northern Ireland,Mid Ulster,No,0,0,0
+2022-04-01,2022,2,North East,Middlesbrough,Yes,0,1,0
+2022-04-01,2022,2,Scotland,Midlothian,Yes,0,1,1
+2022-04-01,2022,2,South East,Milton Keynes,Yes,0,1,2
+2022-04-01,2022,2,South East,Mole Valley,No,0,0,0
+2022-04-01,2022,2,Wales,Monmouthshire,Yes,0,0,1
+2022-04-01,2022,2,Scotland,Moray,Yes,0,1,0
+2022-04-01,2022,2,Wales,Neath Port Talbot,Yes,0,2,0
+2022-04-01,2022,2,South East,New Forest,No,0,0,0
+2022-04-01,2022,2,East Midlands,Newark and Sherwood,No,0,0,0
+2022-04-01,2022,2,North East,Newcastle upon Tyne,Yes,0,2,1
+2022-04-01,2022,2,West Midlands,Newcastle-under-Lyme,No,0,0,0
+2022-04-01,2022,2,London,Newham,Yes,0,0,0
+2022-04-01,2022,2,Wales,Newport,Yes,0,1,0
+2022-04-01,2022,2,Northern Ireland,"Newry, Mourne and Down",No,0,0,0
+2022-04-01,2022,2,East of England,Norfolk,Yes,0,8,3
+2022-04-01,2022,2,Scotland,North Ayrshire,Yes,0,1,2
+2022-04-01,2022,2,South West,North Devon,No,0,0,0
+2022-04-01,2022,2,Northern Ireland,North Down and Ards,No,0,0,0
+2022-04-01,2022,2,East Midlands,North East Derbyshire,No,0,0,0
+2022-04-01,2022,2,Yorkshire and The Humber,North East Lincolnshire,Yes,0,0,0
+2022-04-01,2022,2,East of England,North Hertfordshire,No,0,0,0
+2022-04-01,2022,2,East Midlands,North Kesteven,No,0,0,0
+2022-04-01,2022,2,Scotland,North Lanarkshire,Yes,0,1,1
+2022-04-01,2022,2,Yorkshire and The Humber,North Lincolnshire,Yes,0,0,1
+2022-04-01,2022,2,East of England,North Norfolk,No,0,0,0
+2022-04-01,2022,2,South West,North Somerset,Yes,0,5,0
+2022-04-01,2022,2,North East,North Tyneside,Yes,0,3,2
+2022-04-01,2022,2,West Midlands,North Warwickshire,No,0,0,0
+2022-04-01,2022,2,East Midlands,North West Leicestershire,No,0,0,0
+2022-04-01,2022,2,Yorkshire and The Humber,North Yorkshire,Yes,0,1,2
+2022-04-01,2022,2,East Midlands,Northampton,No,0,0,0
+2022-04-01,2022,2,East Midlands,Northamptonshire,Yes,0,6,3
+2022-04-01,2022,2,North East,Northumberland,Yes,0,2,0
+2022-04-01,2022,2,East of England,Norwich,No,0,0,0
+2022-04-01,2022,2,East Midlands,Nottingham,Yes,0,2,1
+2022-04-01,2022,2,East Midlands,Nottinghamshire,Yes,0,3,5
+2022-04-01,2022,2,West Midlands,Nuneaton and Bedworth,No,0,0,0
+2022-04-01,2022,2,East Midlands,Oadby and Wigston,No,0,0,0
+2022-04-01,2022,2,North West,Oldham,Yes,0,2,0
+2022-04-01,2022,2,Scotland,Orkney Islands,Yes,0,0,0
+2022-04-01,2022,2,South East,Oxford,No,0,0,0
+2022-04-01,2022,2,South East,Oxfordshire,Yes,0,2,13
+2022-04-01,2022,2,Wales,Pembrokeshire,Yes,0,1,0
+2022-04-01,2022,2,North West,Pendle,No,0,0,0
+2022-04-01,2022,2,Scotland,Perth and Kinross,Yes,0,1,1
+2022-04-01,2022,2,East of England,Peterborough,Yes,0,3,1
+2022-04-01,2022,2,South West,Plymouth,Yes,0,2,1
+2022-04-01,2022,2,South West,Poole,Yes,0,0,0
+2022-04-01,2022,2,South East,Portsmouth,Yes,0,0,0
+2022-04-01,2022,2,Wales,Powys,Yes,0,1,2
+2022-04-01,2022,2,North West,Preston,No,0,0,0
+2022-04-01,2022,2,South East,Reading,Yes,0,0,2
+2022-04-01,2022,2,London,Redbridge,Yes,0,0,0
+2022-04-01,2022,2,North East,Redcar and Cleveland,Yes,0,0,0
+2022-04-01,2022,2,West Midlands,Redditch,No,0,0,0
+2022-04-01,2022,2,South East,Reigate and Banstead,No,0,0,0
+2022-04-01,2022,2,Scotland,Renfrewshire,Yes,0,1,0
+2022-04-01,2022,2,Wales,Rhondda Cynon Taf,Yes,0,1,0
+2022-04-01,2022,2,North West,Ribble Valley,No,0,0,0
+2022-04-01,2022,2,London,Richmond upon Thames,Yes,0,1,0
+2022-04-01,2022,2,Yorkshire and The Humber,Richmondshire,No,0,0,0
+2022-04-01,2022,2,North West,Rochdale,Yes,0,1,0
+2022-04-01,2022,2,East of England,Rochford,No,0,0,0
+2022-04-01,2022,2,North West,Rossendale,No,0,0,0
+2022-04-01,2022,2,South East,Rother,No,0,0,0
+2022-04-01,2022,2,Yorkshire and The Humber,Rotherham,Yes,0,2,2
+2022-04-01,2022,2,West Midlands,Rugby,No,0,0,0
+2022-04-01,2022,2,South East,Runnymede,No,0,0,0
+2022-04-01,2022,2,East Midlands,Rushcliffe,No,0,0,0
+2022-04-01,2022,2,South East,Rushmoor,No,0,0,0
+2022-04-01,2022,2,East Midlands,Rutland,Yes,0,0,0
+2022-04-01,2022,2,Yorkshire and The Humber,Ryedale,No,0,0,0
+2022-04-01,2022,2,North West,Salford,Yes,0,0,1
+2022-04-01,2022,2,West Midlands,Sandwell,Yes,0,1,0
+2022-04-01,2022,2,Yorkshire and The Humber,Scarborough,No,0,0,0
+2022-04-01,2022,2,Scotland,Scottish Borders,Yes,0,0,1
+2022-04-01,2022,2,South West,Sedgemoor,No,0,0,0
+2022-04-01,2022,2,North West,Sefton,Yes,0,1,2
+2022-04-01,2022,2,Yorkshire and The Humber,Selby,No,0,0,0
+2022-04-01,2022,2,South East,Sevenoaks,No,0,0,0
+2022-04-01,2022,2,Yorkshire and The Humber,Sheffield,Yes,0,1,5
+2022-04-01,2022,2,Scotland,Shetland Islands,Yes,0,0,0
+2022-04-01,2022,2,West Midlands,Shropshire,Yes,0,9,0
+2022-04-01,2022,2,South East,Slough,Yes,0,0,1
+2022-04-01,2022,2,West Midlands,Solihull,Yes,0,0,0
+2022-04-01,2022,2,South West,Somerset,Yes,0,3,0
+2022-04-01,2022,2,South West,Somerset West and Taunton,No,0,0,0
+2022-04-01,2022,2,Scotland,South Ayrshire,Yes,0,2,0
+2022-04-01,2022,2,South East,South Bucks,No,0,0,0
+2022-04-01,2022,2,East of England,South Cambridgeshire,No,0,0,0
+2022-04-01,2022,2,East Midlands,South Derbyshire,No,0,0,0
+2022-04-01,2022,2,South West,South Gloucestershire,Yes,0,0,0
+2022-04-01,2022,2,South West,South Hams,No,0,0,0
+2022-04-01,2022,2,East Midlands,South Holland,No,0,0,0
+2022-04-01,2022,2,East Midlands,South Kesteven,No,0,0,0
+2022-04-01,2022,2,North West,South Lakeland,No,0,0,0
+2022-04-01,2022,2,Scotland,South Lanarkshire,Yes,0,1,1
+2022-04-01,2022,2,East of England,South Norfolk,No,0,0,0
+2022-04-01,2022,2,East Midlands,South Northamptonshire,No,0,0,0
+2022-04-01,2022,2,South East,South Oxfordshire,No,0,0,0
+2022-04-01,2022,2,North West,South Ribble,No,0,0,0
+2022-04-01,2022,2,South West,South Somerset,No,0,0,0
+2022-04-01,2022,2,West Midlands,South Staffordshire,No,0,0,0
+2022-04-01,2022,2,North East,South Tyneside,Yes,0,7,1
+2022-04-01,2022,2,South East,Southampton,Yes,0,3,2
+2022-04-01,2022,2,East of England,Southend-on-Sea,Yes,0,2,1
+2022-04-01,2022,2,London,Southwark,Yes,0,0,0
+2022-04-01,2022,2,South East,Spelthorne,No,0,0,0
+2022-04-01,2022,2,East of England,St. Albans,No,0,0,0
+2022-04-01,2022,2,North West,St. Helens,Yes,0,0,0
+2022-04-01,2022,2,West Midlands,Stafford,No,0,0,0
+2022-04-01,2022,2,West Midlands,Staffordshire Moorlands,No,0,0,0
+2022-04-01,2022,2,West Midlands,Staffordshire,Yes,0,2,3
+2022-04-01,2022,2,East of England,Stevenage,No,0,0,0
+2022-04-01,2022,2,Scotland,Stirling,Yes,0,0,1
+2022-04-01,2022,2,North West,Stockport,Yes,0,3,0
+2022-04-01,2022,2,North East,Stockton-on-Tees,Yes,0,7,0
+2022-04-01,2022,2,West Midlands,Stoke-on-Trent,Yes,0,1,0
+2022-04-01,2022,2,West Midlands,Stratford-on-Avon,No,0,0,0
+2022-04-01,2022,2,South West,Stroud,No,0,0,0
+2022-04-01,2022,2,East of England,Suffolk,Yes,1,4,3
+2022-04-01,2022,2,North East,Sunderland,Yes,0,2,3
+2022-04-01,2022,2,South East,Surrey Heath,No,0,0,0
+2022-04-01,2022,2,South East,Surrey,Yes,0,5,5
+2022-04-01,2022,2,London,Sutton,Yes,0,2,1
+2022-04-01,2022,2,South East,Swale,No,0,0,0
+2022-04-01,2022,2,Wales,Swansea,Yes,0,0,0
+2022-04-01,2022,2,South West,Swindon,Yes,0,1,3
+2022-04-01,2022,2,North West,Tameside,Yes,0,0,1
+2022-04-01,2022,2,West Midlands,Tamworth,No,0,0,0
+2022-04-01,2022,2,South East,Tandridge,No,0,0,0
+2022-04-01,2022,2,South West,Teignbridge,No,0,0,0
+2022-04-01,2022,2,West Midlands,Telford and Wrekin,Yes,0,0,3
+2022-04-01,2022,2,East of England,Tendring,No,0,0,0
+2022-04-01,2022,2,South East,Test Valley,No,0,0,0
+2022-04-01,2022,2,South West,Tewkesbury,No,0,0,0
+2022-04-01,2022,2,South East,Thanet,No,0,0,0
+2022-04-01,2022,2,Wales,The Vale of Glamorgan,Yes,0,1,1
+2022-04-01,2022,2,East of England,Three Rivers,No,0,0,0
+2022-04-01,2022,2,East of England,Thurrock,Yes,1,0,0
+2022-04-01,2022,2,South East,Tonbridge and Malling,No,0,0,0
+2022-04-01,2022,2,South West,Torbay,Yes,0,5,1
+2022-04-01,2022,2,Wales,Torfaen,Yes,0,1,0
+2022-04-01,2022,2,South West,Torridge,No,0,0,0
+2022-04-01,2022,2,London,Tower Hamlets,Yes,0,0,0
+2022-04-01,2022,2,North West,Trafford,Yes,0,3,1
+2022-04-01,2022,2,South East,Tunbridge Wells,No,0,0,0
+2022-04-01,2022,2,East of England,Uttlesford,No,0,0,0
+2022-04-01,2022,2,South East,Vale of White Horse,No,0,0,1
+2022-04-01,2022,2,Yorkshire and The Humber,Wakefield,Yes,0,4,0
+2022-04-01,2022,2,West Midlands,Walsall,Yes,0,2,0
+2022-04-01,2022,2,London,Waltham Forest,Yes,0,1,0
+2022-04-01,2022,2,London,Wandsworth,Yes,0,1,2
+2022-04-01,2022,2,North West,Warrington,Yes,0,0,1
+2022-04-01,2022,2,West Midlands,Warwick,No,0,1,0
+2022-04-01,2022,2,West Midlands,Warwickshire,Yes,0,0,8
+2022-04-01,2022,2,East of England,Watford,No,0,0,0
+2022-04-01,2022,2,South East,Waverley,No,0,0,0
+2022-04-01,2022,2,South East,Wealden,No,0,0,0
+2022-04-01,2022,2,East Midlands,Wellingborough,No,0,0,0
+2022-04-01,2022,2,East of England,Welwyn Hatfield,No,0,0,0
+2022-04-01,2022,2,South East,West Berkshire,Yes,0,0,0
+2022-04-01,2022,2,South West,West Devon,No,0,0,0
+2022-04-01,2022,2,Scotland,West Dunbartonshire,Yes,0,0,0
+2022-04-01,2022,2,North West,West Lancashire,No,0,0,0
+2022-04-01,2022,2,East Midlands,West Lindsey,No,0,0,0
+2022-04-01,2022,2,Scotland,West Lothian,Yes,0,0,1
+2022-04-01,2022,2,South East,West Oxfordshire,No,0,0,0
+2022-04-01,2022,2,South East,West Suffolk,No,0,0,0
+2022-04-01,2022,2,South East,West Sussex,Yes,0,3,5
+2022-04-01,2022,2,London,Westminster,Yes,3,0,0
+2022-04-01,2022,2,North West,Wigan,Yes,0,0,3
+2022-04-01,2022,2,South West,Wiltshire,Yes,0,4,1
+2022-04-01,2022,2,South East,Winchester,No,0,0,0
+2022-04-01,2022,2,South East,Windsor and Maidenhead,Yes,0,7,6
+2022-04-01,2022,2,North West,Wirral,Yes,0,0,3
+2022-04-01,2022,2,South East,Woking,No,0,0,0
+2022-04-01,2022,2,South East,Wokingham,Yes,0,0,1
+2022-04-01,2022,2,West Midlands,Wolverhampton,Yes,0,2,0
+2022-04-01,2022,2,West Midlands,Worcester,No,0,0,0
+2022-04-01,2022,2,West Midlands,Worcestershire,Yes,0,0,4
+2022-04-01,2022,2,South East,Worthing,No,0,0,0
+2022-04-01,2022,2,Wales,Wrexham,Yes,0,0,0
+2022-04-01,2022,2,West Midlands,Wychavon,No,0,0,0
+2022-04-01,2022,2,South East,Wycombe,No,0,0,0
+2022-04-01,2022,2,North West,Wyre,No,0,0,0
+2022-04-01,2022,2,West Midlands,Wyre Forest,No,0,0,0
+2022-04-01,2022,2,Yorkshire and The Humber,York,Yes,0,2,0
+2022-04-01,2022,2,Northern Ireland,Belfast HSCT,Yes,0,0,0
+2022-04-01,2022,2,Northern Ireland,South Eastern HSCT,Yes,0,0,0
+2022-04-01,2022,2,Northern Ireland,Northern HSCT,Yes,0,0,0
+2022-04-01,2022,2,Northern Ireland,Southern HSCT,Yes,0,0,0
+2022-04-01,2022,2,Northern Ireland,Western HSCT,Yes,0,0,0
+2022-04-01,2022,2,*Total East Midlands,*Total,-,0,37,18
+2022-04-01,2022,2,*Total East of England,*Total,-,2,69,33
+2022-04-01,2022,2,*Total London,*Total,-,73,23,19
+2022-04-01,2022,2,*Total North East,*Total,-,0,37,9
+2022-04-01,2022,2,*Total North West,*Total,-,0,28,23
+2022-04-01,2022,2,*Total Northern Ireland,*Total,-,0,0,0
+2022-04-01,2022,2,*Total Scotland,*Total,-,0,31,18
+2022-04-01,2022,2,*Total South East,*Total,-,317,40,96
+2022-04-01,2022,2,*Total South West,*Total,-,0,46,20
+2022-04-01,2022,2,*Total Wales,*Total,-,0,24,10
+2022-04-01,2022,2,*Total West Midlands,*Total,-,0,30,28
+2022-04-01,2022,2,*Total Yorkshire and The Humber,*Total,-,0,27,19
+2022-04-01,2022,2,*Total,*Total,-,392,392,293

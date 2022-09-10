@@ -5,7 +5,7 @@
 \alias{decisions_resettlement}
 \title{Initial decisions and resettlement}
 \format{
-A data frame with 95,179 rows and 14 variables:
+A data frame with 100,222 rows and 14 variables:
 \describe{
   \item{Date}{Date}
   \item{Year}{Year}

@@ -27,7 +27,7 @@ GET(
 
 # ---- Appeal representation rate ----
 appeal_representation_rate <-
-  read_excel(tf, sheet = "ALAR_01", skip = 3)
+  read_ods(tf, sheet = "ALAR_01", skip = 5)
 
 appeal_representation_rate <-
   appeal_representation_rate |>
@@ -49,7 +49,7 @@ names(appeal_representation_rate) <-
 
 # ---- Volume of oral hearings represented by the Home Office ----
 oral_hearings_volume <-
-  read_excel(tf, sheet = "ALAR_01A", skip = 3)
+  read_ods(tf, sheet = "ALAR_01A", skip = 5)
 
 oral_hearings_volume <-
   oral_hearings_volume |>
@@ -58,7 +58,7 @@ oral_hearings_volume <-
 
 # ---- Decision quality ----
 decision_quality <-
-  read_excel(tf, sheet = "ADQ_01A", skip = 3)
+  read_ods(tf, sheet = "ADQ_01A", skip = 4)
 
 names(decision_quality)[2] = "Assurance"
 
@@ -76,11 +76,11 @@ names(decision_quality) <-
   str_remove(" $")
 
 # ---- Percentage of Asylum applications processed within 6 months ----
-applications_proccessed_in_6_months <-
-  read_excel(tf, sheet = "Asy_01", skip = 3)
+applications_processed_in_6_months <-
+  read_ods(tf, sheet = "ASY_01", skip = 5)
 
-applications_proccessed_in_6_months <-
-  applications_proccessed_in_6_months |>
+applications_processed_in_6_months <-
+  applications_processed_in_6_months |>
   janitor::remove_empty() |>
   as_tibble() |>
   mutate(Date = yq(`Quarter Application Received`)) |>
@@ -92,17 +92,17 @@ applications_proccessed_in_6_months <-
   select(-`Quarter Application Received`)
 
 # Remove footnotes from column names
-names(applications_proccessed_in_6_months) <-
-  names(applications_proccessed_in_6_months) |>
+names(applications_processed_in_6_months) <-
+  names(applications_processed_in_6_months) |>
   str_remove(",") |>
   str_remove(":") |>
   str_replace("6 Months", "six months") |>
   str_remove_all("[0-9]+") |>
-  str_remove(" $")
+  str_trim()
 
 # ---- Age of Asylum Operations Initial Decision Work In Progress ----
 age_of_asylum_operations <-
-  read_excel(tf, sheet = "ASY_02", skip = 4)
+  read_ods(tf, sheet = "ASY_02", skip = 6)
 
 age_of_asylum_operations <-
   age_of_asylum_operations |>
@@ -117,7 +117,7 @@ age_of_asylum_operations <-
 
 # ---- Asylum work in progress ----
 asylum_work_in_progress <-
-  read_excel(tf, sheet = "Asy_03", skip = 3)
+  read_ods(tf, sheet = "ASY_03", skip = 5)
 
 asylum_work_in_progress <-
   asylum_work_in_progress |>
@@ -139,7 +139,7 @@ names(asylum_work_in_progress) <-
 
 # ---- Breakdown of Asylum costs and productivity ----
 asylum_costs_and_productivity <-
-  read_excel(tf, sheet = "Asy_04", skip = 3)
+  read_ods(tf, sheet = "ASY_04", skip = 5)
 
 asylum_costs_and_productivity <-
   asylum_costs_and_productivity |>
@@ -157,7 +157,7 @@ names(asylum_costs_and_productivity) <-
 
 # ---- NFRP - Destitution Change of Conditions Applications and Outcomes ----
 nrpf_change_of_conditions_decisions <-
-  read_excel(tf, sheet = "CoC_01", skip = 2)
+  read_ods(tf, sheet = "CoC_01", skip = 4)
 
 nrpf_change_of_conditions_decisions <-
   nrpf_change_of_conditions_decisions |>
@@ -180,7 +180,7 @@ names(nrpf_change_of_conditions_decisions) <-
 
 # ---- NRPF - Destitution Change of Conditions Application by Age Group ----
 nrpf_change_of_conditions_age <-
-  read_excel(tf, sheet = "CoC_02", skip = 3)
+  read_ods(tf, sheet = "CoC_02", skip = 4)
 
 nrpf_change_of_conditions_age <-
   nrpf_change_of_conditions_age |>
@@ -195,7 +195,7 @@ nrpf_change_of_conditions_age <-
 
 # ---- NRPF - Destitution Change of Conditions Nationality of Applicants ----
 nrpf_change_of_conditions_nationality <-
-  read_excel(tf, sheet = "CoC_03", skip = 3)
+  read_ods(tf, sheet = "CoC_03", skip = 4)
 
 nrpf_change_of_conditions_nationality <-
   nrpf_change_of_conditions_nationality |>
@@ -204,7 +204,7 @@ nrpf_change_of_conditions_nationality <-
 
 # ---- NRPF - Destitution Change of Conditions Gender of Applicants ----
 nrpf_change_of_conditions_gender <-
-  read_excel(tf, sheet = "CoC_04", skip = 3)
+  read_ods(tf, sheet = "CoC_04", skip = 4)
 
 nrpf_change_of_conditions_gender <-
   nrpf_change_of_conditions_gender |>
@@ -227,8 +227,8 @@ readr::write_csv(oral_hearings_volume, "data-raw/oral_hearings_volume.csv")
 usethis::use_data(decision_quality, overwrite = TRUE)
 readr::write_csv(decision_quality, "data-raw/decision_quality.csv")
 
-usethis::use_data(applications_proccessed_in_6_months, overwrite = TRUE)
-readr::write_csv(applications_proccessed_in_6_months, "data-raw/applications_proccessed_in_6_months.csv")
+usethis::use_data(applications_processed_in_6_months, overwrite = TRUE)
+readr::write_csv(applications_processed_in_6_months, "data-raw/applications_processed_in_6_months.csv")
 
 usethis::use_data(age_of_asylum_operations, overwrite = TRUE)
 readr::write_csv(age_of_asylum_operations, "data-raw/age_of_asylum_operations.csv")
