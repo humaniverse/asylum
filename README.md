@@ -15,7 +15,7 @@ status](https://www.r-pkg.org/badges/version/asylum)](https://cran.r-project.org
 The `asylum` package provides easy access to asylum and resettlement
 datasets for the UK, published by the Home Office.
 
-The current release uses the most recent data from June 2022.
+The current release uses the most recent data from December 2022.
 
 ## Installation
 
@@ -42,7 +42,6 @@ decision, as of the latest quarter:
 ``` r
 library(asylum)
 library(dplyr)
-#> Warning: package 'dplyr' was built under R version 4.1.3
 #> 
 #> Attaching package: 'dplyr'
 #> The following objects are masked from 'package:stats':
@@ -55,10 +54,10 @@ library(dplyr)
 asylum::awaiting_decision |> 
   filter(Nationality == "Afghanistan" & Date == max(Date)) |> 
   summarise(`Total applications awaiting a decision` = sum(Applications))
-#> # A tibble: 1 x 1
+#> # A tibble: 1 × 1
 #>   `Total applications awaiting a decision`
 #>                                      <dbl>
-#> 1                                     6832
+#> 1                                    13179
 ```
 
 ## Getting help

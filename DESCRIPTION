@@ -1,7 +1,7 @@
 Package: asylum
 Type: Package
 Title: Data on Asylum and Resettlement for the UK
-Version: 1.0.2
+Version: 1.0.3
 Authors@R: c(
     person(given = c("Matthew", "Gwynfryn"), 
            family = "Thomas", 
@@ -15,7 +15,7 @@ Authors@R: c(
            role = "cph")
     )
 Description: Data on Asylum and Resettlement for the UK,
-    provided by the Home Office <https://www.gov.uk/government/statistics/immigration-statistics-year-ending-june-2022>.
+    provided by the Home Office <https://www.gov.uk/government/statistical-data-sets/immigration-system-statistics-data-tables-year-ending-december-2022>.
 License: MIT + file LICENSE
 URL: https://github.com/britishredcrosssociety/asylum
 BugReports: https://github.com/britishredcrosssociety/asylum/issues

@@ -1,7 +1,7 @@
 ## Release summary
 This is a minor release in the 1.0.* series:
 
-* Updated all data to the latest datasets.
+* Updated all data to the latest datasets (December 2022).
 
 ## Test environments
 * local Windows 10 install, R 4.1.0
