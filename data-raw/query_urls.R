@@ -4,8 +4,14 @@ query_urls <-
     # Column Names
     ~data_set, ~description, ~query_url, ~source,
 
+    # Main URLs to use:
+    # - https://www.gov.uk/government/collections/migration-statistics
+    # - https://www.gov.uk/government/collections/immigration-statistics-quarterly-release
+    # - https://www.gov.uk/government/statistical-data-sets/asylum-and-resettlement-datasets
+    # - https://www.gov.uk/government/statistical-data-sets/managed-migration-datasets
+
     # Asylum applications, decisions and resettlement
-    "asylum_summary", "Asylum and resettlement summary tables, year ending June 2022", "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1099021/asylum-summary-jun-2022-tables.ods", "https://www.gov.uk/government/statistical-data-sets/immigration-statistics-data-tables-year-ending-june-2022",
+    "asylum_summary", "Asylum and resettlement summary tables, year ending December 2022", "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1099021/asylum-summary-jun-2022-tables.ods", "https://www.gov.uk/government/statistical-data-sets/immigration-statistics-data-tables-year-ending-june-2022",
     "applications_decisions_resettlement", "Asylum applications, initial decisions and resettlement", "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1137286/asylum-applications-datasets-dec-2022.xlsx", "https://www.gov.uk/government/statistical-data-sets/asylum-and-resettlement-datasets",
     "awaiting_decision", "Asylum applications awaiting a decision", "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1136447/asylum-applications-awaiting-decision-datasets-dec-2022.xlsx", "https://www.gov.uk/government/statistical-data-sets/asylum-and-resettlement-datasets",
     "outcomes", "Outcome analysis of asylum applications", "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1098062/outcome-analysis-asylum-applications-datasets-jun-2022.xlsx", "https://www.gov.uk/government/statistical-data-sets/asylum-and-resettlement-datasets",
