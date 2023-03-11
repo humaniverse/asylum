@@ -36,7 +36,7 @@ Alternatively, you can install the development version from [GitHub](https://git
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("britishredcrosssociety/asylum")
+devtools::install_github("humaniverse/asylum")
 ```
 
 ## Example
@@ -56,7 +56,7 @@ asylum::awaiting_decision |>
 
 If you encounter a clear bug, please file an issue with a minimal
 reproducible example on
-[GitHub](https://github.com/britishredcrosssociety/asylum/issues).
+[GitHub](https://github.com/humaniverse/asylum/issues).
 
 ------------------------------------------------------------------------
 

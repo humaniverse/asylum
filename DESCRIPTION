@@ -17,8 +17,8 @@ Authors@R: c(
 Description: Data on Asylum and Resettlement for the UK,
     provided by the Home Office <https://www.gov.uk/government/statistical-data-sets/immigration-system-statistics-data-tables-year-ending-december-2022>.
 License: MIT + file LICENSE
-URL: https://github.com/britishredcrosssociety/asylum
-BugReports: https://github.com/britishredcrosssociety/asylum/issues
+URL: https://github.com/humaniverse/asylum
+BugReports: https://github.com/humaniverse/asylum/issues
 Encoding: UTF-8
 LazyData: true
 Depends: 
