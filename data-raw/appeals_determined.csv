@@ -12817,3 +12817,381 @@ Date,Year,Quarter,Nationality,Region,Outcome,Sex,Appeals determined
 2022-04-01,2022,2,Zimbabwe,Africa Sub-Saharan,Allowed,Female,3
 2022-04-01,2022,2,Zimbabwe,Africa Sub-Saharan,Allowed,Male,2
 2022-04-01,2022,2,Zimbabwe,Africa Sub-Saharan,Withdrawn,Female,1
+2022-07-01,2022,3,Afghanistan,Asia Central,Allowed,Male,2
+2022-07-01,2022,3,Afghanistan,Asia Central,Dismissed,Female,1
+2022-07-01,2022,3,Afghanistan,Asia Central,Dismissed,Male,4
+2022-07-01,2022,3,Afghanistan,Asia Central,Withdrawn,Male,1
+2022-07-01,2022,3,Albania,Europe Other,Allowed,Female,10
+2022-07-01,2022,3,Albania,Europe Other,Allowed,Male,11
+2022-07-01,2022,3,Albania,Europe Other,Dismissed,Female,2
+2022-07-01,2022,3,Albania,Europe Other,Dismissed,Male,13
+2022-07-01,2022,3,Albania,Europe Other,Withdrawn,Female,2
+2022-07-01,2022,3,Albania,Europe Other,Withdrawn,Male,3
+2022-07-01,2022,3,Algeria,Africa North,Allowed,Female,2
+2022-07-01,2022,3,Algeria,Africa North,Allowed,Male,1
+2022-07-01,2022,3,Algeria,Africa North,Dismissed,Female,1
+2022-07-01,2022,3,Algeria,Africa North,Dismissed,Male,3
+2022-07-01,2022,3,Angola,Africa Sub-Saharan,Allowed,Male,3
+2022-07-01,2022,3,Angola,Africa Sub-Saharan,Dismissed,Male,1
+2022-07-01,2022,3,Bangladesh,Asia South,Allowed,Female,1
+2022-07-01,2022,3,Bangladesh,Asia South,Allowed,Male,17
+2022-07-01,2022,3,Bangladesh,Asia South,Dismissed,Female,1
+2022-07-01,2022,3,Bangladesh,Asia South,Dismissed,Male,36
+2022-07-01,2022,3,Bangladesh,Asia South,Withdrawn,Male,5
+2022-07-01,2022,3,British overseas citizens,Other,Allowed,Female,1
+2022-07-01,2022,3,Burma,Asia South East,Withdrawn,Female,1
+2022-07-01,2022,3,Cameroon,Africa Sub-Saharan,Allowed,Female,3
+2022-07-01,2022,3,Cameroon,Africa Sub-Saharan,Allowed,Male,6
+2022-07-01,2022,3,Cameroon,Africa Sub-Saharan,Dismissed,Female,5
+2022-07-01,2022,3,Cameroon,Africa Sub-Saharan,Dismissed,Male,3
+2022-07-01,2022,3,Cameroon,Africa Sub-Saharan,Withdrawn,Male,1
+2022-07-01,2022,3,Central African Republic,Africa Sub-Saharan,Allowed,Male,1
+2022-07-01,2022,3,Chad,Africa Sub-Saharan,Dismissed,Male,1
+2022-07-01,2022,3,China,Asia East,Allowed,Female,1
+2022-07-01,2022,3,China,Asia East,Allowed,Male,3
+2022-07-01,2022,3,China,Asia East,Dismissed,Female,1
+2022-07-01,2022,3,China,Asia East,Dismissed,Male,6
+2022-07-01,2022,3,China,Asia East,Withdrawn,Female,1
+2022-07-01,2022,3,Congo (Democratic Republic),Africa Sub-Saharan,Allowed,Male,1
+2022-07-01,2022,3,Costa Rica,America Central and South,Dismissed,Male,1
+2022-07-01,2022,3,Cyprus (Northern part of),Europe Other,Dismissed,Male,1
+2022-07-01,2022,3,Egypt,Africa North,Allowed,Female,1
+2022-07-01,2022,3,Egypt,Africa North,Allowed,Male,13
+2022-07-01,2022,3,Egypt,Africa North,Dismissed,Male,6
+2022-07-01,2022,3,Egypt,Africa North,Withdrawn,Male,1
+2022-07-01,2022,3,El Salvador,America Central and South,Allowed,Female,12
+2022-07-01,2022,3,El Salvador,America Central and South,Allowed,Male,11
+2022-07-01,2022,3,El Salvador,America Central and South,Dismissed,Female,6
+2022-07-01,2022,3,El Salvador,America Central and South,Dismissed,Male,8
+2022-07-01,2022,3,El Salvador,America Central and South,Withdrawn,Male,1
+2022-07-01,2022,3,Eritrea,Africa Sub-Saharan,Allowed,Female,1
+2022-07-01,2022,3,Eritrea,Africa Sub-Saharan,Allowed,Male,5
+2022-07-01,2022,3,Eritrea,Africa Sub-Saharan,Dismissed,Female,1
+2022-07-01,2022,3,Eritrea,Africa Sub-Saharan,Dismissed,Male,3
+2022-07-01,2022,3,Eritrea,Africa Sub-Saharan,Withdrawn,Male,1
+2022-07-01,2022,3,Ethiopia,Africa Sub-Saharan,Allowed,Female,3
+2022-07-01,2022,3,Ethiopia,Africa Sub-Saharan,Allowed,Male,16
+2022-07-01,2022,3,Ethiopia,Africa Sub-Saharan,Dismissed,Female,1
+2022-07-01,2022,3,Ethiopia,Africa Sub-Saharan,Dismissed,Male,9
+2022-07-01,2022,3,Ethiopia,Africa Sub-Saharan,Withdrawn,Male,3
+2022-07-01,2022,3,"Gambia, The",Africa Sub-Saharan,Allowed,Female,1
+2022-07-01,2022,3,"Gambia, The",Africa Sub-Saharan,Allowed,Male,1
+2022-07-01,2022,3,"Gambia, The",Africa Sub-Saharan,Dismissed,Male,1
+2022-07-01,2022,3,Georgia,Europe Other,Dismissed,Female,1
+2022-07-01,2022,3,Georgia,Europe Other,Withdrawn,Female,1
+2022-07-01,2022,3,Ghana,Africa Sub-Saharan,Allowed,Female,1
+2022-07-01,2022,3,Ghana,Africa Sub-Saharan,Dismissed,Female,1
+2022-07-01,2022,3,Ghana,Africa Sub-Saharan,Dismissed,Male,2
+2022-07-01,2022,3,Grenada,America Central and South,Dismissed,Male,1
+2022-07-01,2022,3,Guinea,Africa Sub-Saharan,Allowed,Male,2
+2022-07-01,2022,3,Guinea,Africa Sub-Saharan,Dismissed,Male,1
+2022-07-01,2022,3,Guyana,America Central and South,Dismissed,Female,1
+2022-07-01,2022,3,Honduras,America Central and South,Allowed,Male,1
+2022-07-01,2022,3,Honduras,America Central and South,Dismissed,Female,1
+2022-07-01,2022,3,Honduras,America Central and South,Dismissed,Male,4
+2022-07-01,2022,3,Hong Kong,Asia East,Allowed,Male,1
+2022-07-01,2022,3,Hong Kong,Asia East,Dismissed,Female,1
+2022-07-01,2022,3,Hong Kong,Asia East,Dismissed,Male,2
+2022-07-01,2022,3,India,Asia South,Allowed,Female,2
+2022-07-01,2022,3,India,Asia South,Allowed,Male,2
+2022-07-01,2022,3,India,Asia South,Dismissed,Female,4
+2022-07-01,2022,3,India,Asia South,Dismissed,Male,12
+2022-07-01,2022,3,India,Asia South,Withdrawn,Male,1
+2022-07-01,2022,3,Iran,Middle East,Allowed,Male,45
+2022-07-01,2022,3,Iran,Middle East,Dismissed,Female,2
+2022-07-01,2022,3,Iran,Middle East,Dismissed,Male,25
+2022-07-01,2022,3,Iran,Middle East,Withdrawn,Female,1
+2022-07-01,2022,3,Iran,Middle East,Withdrawn,Male,10
+2022-07-01,2022,3,Iraq,Middle East,Allowed,Female,6
+2022-07-01,2022,3,Iraq,Middle East,Allowed,Male,77
+2022-07-01,2022,3,Iraq,Middle East,Dismissed,Female,4
+2022-07-01,2022,3,Iraq,Middle East,Dismissed,Male,69
+2022-07-01,2022,3,Iraq,Middle East,Withdrawn,Female,2
+2022-07-01,2022,3,Iraq,Middle East,Withdrawn,Male,10
+2022-07-01,2022,3,Jamaica,America Central and South,Allowed,Female,1
+2022-07-01,2022,3,Jamaica,America Central and South,Dismissed,Male,1
+2022-07-01,2022,3,Jordan,Middle East,Withdrawn,Female,1
+2022-07-01,2022,3,Kenya,Africa Sub-Saharan,Allowed,Female,4
+2022-07-01,2022,3,Kenya,Africa Sub-Saharan,Dismissed,Male,2
+2022-07-01,2022,3,Kenya,Africa Sub-Saharan,Withdrawn,Female,1
+2022-07-01,2022,3,Kosovo,Europe Other,Dismissed,Female,1
+2022-07-01,2022,3,Kuwait,Middle East,Dismissed,Male,1
+2022-07-01,2022,3,Lebanon,Middle East,Allowed,Male,2
+2022-07-01,2022,3,Lebanon,Middle East,Dismissed,Male,1
+2022-07-01,2022,3,Liberia,Africa Sub-Saharan,Allowed,Male,1
+2022-07-01,2022,3,Liberia,Africa Sub-Saharan,Dismissed,Male,1
+2022-07-01,2022,3,Libya,Africa North,Dismissed,Male,1
+2022-07-01,2022,3,Malaysia,Asia South East,Allowed,Female,1
+2022-07-01,2022,3,Malaysia,Asia South East,Allowed,Male,3
+2022-07-01,2022,3,Malaysia,Asia South East,Withdrawn,Male,1
+2022-07-01,2022,3,Maldives,Asia South,Dismissed,Female,1
+2022-07-01,2022,3,Morocco,Africa North,Allowed,Female,2
+2022-07-01,2022,3,Morocco,Africa North,Allowed,Male,4
+2022-07-01,2022,3,Morocco,Africa North,Dismissed,Male,2
+2022-07-01,2022,3,Namibia,Africa Sub-Saharan,Allowed,Female,2
+2022-07-01,2022,3,Namibia,Africa Sub-Saharan,Allowed,Male,3
+2022-07-01,2022,3,Namibia,Africa Sub-Saharan,Dismissed,Female,1
+2022-07-01,2022,3,Namibia,Africa Sub-Saharan,Dismissed,Male,8
+2022-07-01,2022,3,Namibia,Africa Sub-Saharan,Withdrawn,Male,1
+2022-07-01,2022,3,Nepal,Asia South,Allowed,Female,1
+2022-07-01,2022,3,Nepal,Asia South,Allowed,Male,1
+2022-07-01,2022,3,Nepal,Asia South,Dismissed,Male,1
+2022-07-01,2022,3,Nicaragua,America Central and South,Allowed,Female,1
+2022-07-01,2022,3,Nigeria,Africa Sub-Saharan,Allowed,Female,8
+2022-07-01,2022,3,Nigeria,Africa Sub-Saharan,Allowed,Male,4
+2022-07-01,2022,3,Nigeria,Africa Sub-Saharan,Dismissed,Female,15
+2022-07-01,2022,3,Nigeria,Africa Sub-Saharan,Dismissed,Male,9
+2022-07-01,2022,3,Nigeria,Africa Sub-Saharan,Withdrawn,Female,1
+2022-07-01,2022,3,Nigeria,Africa Sub-Saharan,Withdrawn,Male,2
+2022-07-01,2022,3,Occupied Palestinian Territories,Middle East,Allowed,Male,4
+2022-07-01,2022,3,Occupied Palestinian Territories,Middle East,Dismissed,Female,4
+2022-07-01,2022,3,Occupied Palestinian Territories,Middle East,Dismissed,Male,2
+2022-07-01,2022,3,Occupied Palestinian Territories,Middle East,Withdrawn,Male,2
+2022-07-01,2022,3,Pakistan,Asia South,Allowed,Female,5
+2022-07-01,2022,3,Pakistan,Asia South,Allowed,Male,13
+2022-07-01,2022,3,Pakistan,Asia South,Dismissed,Female,4
+2022-07-01,2022,3,Pakistan,Asia South,Dismissed,Male,28
+2022-07-01,2022,3,Pakistan,Asia South,Withdrawn,Female,3
+2022-07-01,2022,3,Pakistan,Asia South,Withdrawn,Male,6
+2022-07-01,2022,3,Philippines,Asia South East,Allowed,Female,1
+2022-07-01,2022,3,Philippines,Asia South East,Dismissed,Female,5
+2022-07-01,2022,3,Philippines,Asia South East,Dismissed,Male,1
+2022-07-01,2022,3,Philippines,Asia South East,Withdrawn,Female,1
+2022-07-01,2022,3,Refugee,Other,Allowed,Male,1
+2022-07-01,2022,3,Russia,Europe Other,Allowed,Female,2
+2022-07-01,2022,3,Russia,Europe Other,Allowed,Male,4
+2022-07-01,2022,3,Russia,Europe Other,Withdrawn,Male,2
+2022-07-01,2022,3,Sierra Leone,Africa Sub-Saharan,Allowed,Female,2
+2022-07-01,2022,3,Sierra Leone,Africa Sub-Saharan,Allowed,Male,2
+2022-07-01,2022,3,Sierra Leone,Africa Sub-Saharan,Dismissed,Female,1
+2022-07-01,2022,3,Sierra Leone,Africa Sub-Saharan,Dismissed,Male,3
+2022-07-01,2022,3,Sierra Leone,Africa Sub-Saharan,Withdrawn,Male,1
+2022-07-01,2022,3,Somalia,Africa Sub-Saharan,Allowed,Male,3
+2022-07-01,2022,3,Somalia,Africa Sub-Saharan,Dismissed,Male,4
+2022-07-01,2022,3,South Africa,Africa Sub-Saharan,Allowed,Female,2
+2022-07-01,2022,3,South Africa,Africa Sub-Saharan,Dismissed,Female,2
+2022-07-01,2022,3,Sri Lanka,Asia South,Allowed,Female,3
+2022-07-01,2022,3,Sri Lanka,Asia South,Allowed,Male,19
+2022-07-01,2022,3,Sri Lanka,Asia South,Dismissed,Female,1
+2022-07-01,2022,3,Sri Lanka,Asia South,Dismissed,Male,3
+2022-07-01,2022,3,Sri Lanka,Asia South,Withdrawn,Female,1
+2022-07-01,2022,3,Sri Lanka,Asia South,Withdrawn,Male,4
+2022-07-01,2022,3,St. Vincent and the Grenadines,America Central and South,Dismissed,Female,1
+2022-07-01,2022,3,Stateless,Other,Allowed,Male,3
+2022-07-01,2022,3,Stateless,Other,Dismissed,Male,1
+2022-07-01,2022,3,Stateless,Other,Withdrawn,Female,1
+2022-07-01,2022,3,Stateless,Other,Withdrawn,Male,1
+2022-07-01,2022,3,Sudan,Africa North,Allowed,Female,1
+2022-07-01,2022,3,Sudan,Africa North,Allowed,Male,12
+2022-07-01,2022,3,Sudan,Africa North,Withdrawn,Male,3
+2022-07-01,2022,3,Syria,Middle East,Dismissed,Male,2
+2022-07-01,2022,3,Tajikistan,Asia Central,Dismissed,Female,1
+2022-07-01,2022,3,Tanzania,Africa Sub-Saharan,Allowed,Male,2
+2022-07-01,2022,3,Thailand,Asia South East,Withdrawn,Female,1
+2022-07-01,2022,3,Trinidad and Tobago,America Central and South,Dismissed,Male,2
+2022-07-01,2022,3,Trinidad and Tobago,America Central and South,Withdrawn,Female,1
+2022-07-01,2022,3,Tunisia,Africa North,Allowed,Female,1
+2022-07-01,2022,3,Tunisia,Africa North,Allowed,Male,1
+2022-07-01,2022,3,Tunisia,Africa North,Dismissed,Female,1
+2022-07-01,2022,3,Turkey,Europe Other,Allowed,Female,1
+2022-07-01,2022,3,Turkey,Europe Other,Allowed,Male,10
+2022-07-01,2022,3,Turkey,Europe Other,Dismissed,Female,1
+2022-07-01,2022,3,Turkey,Europe Other,Dismissed,Male,4
+2022-07-01,2022,3,Turkey,Europe Other,Withdrawn,Male,1
+2022-07-01,2022,3,Uganda,Africa Sub-Saharan,Allowed,Female,2
+2022-07-01,2022,3,Uganda,Africa Sub-Saharan,Dismissed,Female,5
+2022-07-01,2022,3,Uganda,Africa Sub-Saharan,Dismissed,Male,2
+2022-07-01,2022,3,Ukraine,Europe Other,Withdrawn,Female,2
+2022-07-01,2022,3,Ukraine,Europe Other,Withdrawn,Male,3
+2022-07-01,2022,3,Uzbekistan,Asia Central,Dismissed,Male,1
+2022-07-01,2022,3,Uzbekistan,Asia Central,Withdrawn,Male,1
+2022-07-01,2022,3,Venezuela,America Central and South,Allowed,Female,1
+2022-07-01,2022,3,Venezuela,America Central and South,Allowed,Male,1
+2022-07-01,2022,3,Venezuela,America Central and South,Dismissed,Male,2
+2022-07-01,2022,3,Vietnam,Asia South East,Allowed,Female,9
+2022-07-01,2022,3,Vietnam,Asia South East,Allowed,Male,13
+2022-07-01,2022,3,Vietnam,Asia South East,Dismissed,Female,3
+2022-07-01,2022,3,Vietnam,Asia South East,Dismissed,Male,11
+2022-07-01,2022,3,Vietnam,Asia South East,Withdrawn,Female,2
+2022-07-01,2022,3,Vietnam,Asia South East,Withdrawn,Male,4
+2022-07-01,2022,3,Yemen,Middle East,Allowed,Male,5
+2022-07-01,2022,3,Yemen,Middle East,Dismissed,Male,2
+2022-07-01,2022,3,Yemen,Middle East,Withdrawn,Male,3
+2022-07-01,2022,3,Zimbabwe,Africa Sub-Saharan,Allowed,Male,1
+2022-07-01,2022,3,Zimbabwe,Africa Sub-Saharan,Dismissed,Male,1
+2022-07-01,2022,3,Zimbabwe,Africa Sub-Saharan,Withdrawn,Male,1
+2022-10-01,2022,4,Afghanistan,Asia Central,Allowed,Male,4
+2022-10-01,2022,4,Afghanistan,Asia Central,Dismissed,Male,1
+2022-10-01,2022,4,Afghanistan,Asia Central,Withdrawn,Female,1
+2022-10-01,2022,4,Albania,Europe Other,Allowed,Female,8
+2022-10-01,2022,4,Albania,Europe Other,Allowed,Male,9
+2022-10-01,2022,4,Albania,Europe Other,Dismissed,Female,4
+2022-10-01,2022,4,Albania,Europe Other,Dismissed,Male,20
+2022-10-01,2022,4,Albania,Europe Other,Withdrawn,Male,2
+2022-10-01,2022,4,Algeria,Africa North,Allowed,Female,2
+2022-10-01,2022,4,Algeria,Africa North,Dismissed,Female,1
+2022-10-01,2022,4,Algeria,Africa North,Dismissed,Male,5
+2022-10-01,2022,4,Algeria,Africa North,Withdrawn,Male,3
+2022-10-01,2022,4,Angola,Africa Sub-Saharan,Dismissed,Male,1
+2022-10-01,2022,4,Azerbaijan,Europe Other,Allowed,Female,1
+2022-10-01,2022,4,Azerbaijan,Europe Other,Allowed,Male,1
+2022-10-01,2022,4,Bangladesh,Asia South,Allowed,Female,1
+2022-10-01,2022,4,Bangladesh,Asia South,Allowed,Male,12
+2022-10-01,2022,4,Bangladesh,Asia South,Dismissed,Female,2
+2022-10-01,2022,4,Bangladesh,Asia South,Dismissed,Male,36
+2022-10-01,2022,4,Bangladesh,Asia South,Withdrawn,Male,4
+2022-10-01,2022,4,Belize,America Central and South,Dismissed,Male,1
+2022-10-01,2022,4,Botswana,Africa Sub-Saharan,Dismissed,Male,1
+2022-10-01,2022,4,Brazil,America Central and South,Allowed,Female,2
+2022-10-01,2022,4,Brazil,America Central and South,Allowed,Male,1
+2022-10-01,2022,4,Brazil,America Central and South,Withdrawn,Male,1
+2022-10-01,2022,4,Burkina,Africa Sub-Saharan,Dismissed,Male,1
+2022-10-01,2022,4,Cameroon,Africa Sub-Saharan,Allowed,Female,1
+2022-10-01,2022,4,Cameroon,Africa Sub-Saharan,Allowed,Male,3
+2022-10-01,2022,4,Cameroon,Africa Sub-Saharan,Dismissed,Female,3
+2022-10-01,2022,4,Cameroon,Africa Sub-Saharan,Dismissed,Male,2
+2022-10-01,2022,4,Cameroon,Africa Sub-Saharan,Withdrawn,Female,1
+2022-10-01,2022,4,Chad,Africa Sub-Saharan,Allowed,Male,1
+2022-10-01,2022,4,Chad,Africa Sub-Saharan,Dismissed,Male,3
+2022-10-01,2022,4,China,Asia East,Allowed,Female,1
+2022-10-01,2022,4,China,Asia East,Dismissed,Female,2
+2022-10-01,2022,4,China,Asia East,Dismissed,Male,5
+2022-10-01,2022,4,China,Asia East,Withdrawn,Female,1
+2022-10-01,2022,4,China,Asia East,Withdrawn,Male,1
+2022-10-01,2022,4,Congo,Africa Sub-Saharan,Dismissed,Female,1
+2022-10-01,2022,4,Ecuador,America Central and South,Allowed,Male,1
+2022-10-01,2022,4,Egypt,Africa North,Allowed,Male,6
+2022-10-01,2022,4,Egypt,Africa North,Dismissed,Male,8
+2022-10-01,2022,4,El Salvador,America Central and South,Allowed,Female,7
+2022-10-01,2022,4,El Salvador,America Central and South,Allowed,Male,17
+2022-10-01,2022,4,El Salvador,America Central and South,Dismissed,Female,2
+2022-10-01,2022,4,El Salvador,America Central and South,Dismissed,Male,7
+2022-10-01,2022,4,El Salvador,America Central and South,Withdrawn,Female,5
+2022-10-01,2022,4,El Salvador,America Central and South,Withdrawn,Male,5
+2022-10-01,2022,4,Eritrea,Africa Sub-Saharan,Allowed,Female,1
+2022-10-01,2022,4,Eritrea,Africa Sub-Saharan,Allowed,Male,1
+2022-10-01,2022,4,Eritrea,Africa Sub-Saharan,Dismissed,Female,1
+2022-10-01,2022,4,Eritrea,Africa Sub-Saharan,Dismissed,Male,1
+2022-10-01,2022,4,Ethiopia,Africa Sub-Saharan,Allowed,Male,19
+2022-10-01,2022,4,Ethiopia,Africa Sub-Saharan,Dismissed,Female,1
+2022-10-01,2022,4,Ethiopia,Africa Sub-Saharan,Dismissed,Male,8
+2022-10-01,2022,4,Ethiopia,Africa Sub-Saharan,Withdrawn,Male,2
+2022-10-01,2022,4,"Gambia, The",Africa Sub-Saharan,Allowed,Male,1
+2022-10-01,2022,4,Ghana,Africa Sub-Saharan,Dismissed,Female,1
+2022-10-01,2022,4,Ghana,Africa Sub-Saharan,Dismissed,Male,3
+2022-10-01,2022,4,Ghana,Africa Sub-Saharan,Withdrawn,Female,1
+2022-10-01,2022,4,Honduras,America Central and South,Dismissed,Male,1
+2022-10-01,2022,4,Hong Kong,Asia East,Allowed,Male,1
+2022-10-01,2022,4,Hong Kong,Asia East,Dismissed,Female,1
+2022-10-01,2022,4,India,Asia South,Allowed,Female,2
+2022-10-01,2022,4,India,Asia South,Dismissed,Female,1
+2022-10-01,2022,4,India,Asia South,Dismissed,Male,13
+2022-10-01,2022,4,India,Asia South,Withdrawn,Male,2
+2022-10-01,2022,4,Indonesia,Asia South East,Allowed,Male,1
+2022-10-01,2022,4,Iran,Middle East,Allowed,Female,1
+2022-10-01,2022,4,Iran,Middle East,Allowed,Male,63
+2022-10-01,2022,4,Iran,Middle East,Dismissed,Female,1
+2022-10-01,2022,4,Iran,Middle East,Dismissed,Male,32
+2022-10-01,2022,4,Iran,Middle East,Withdrawn,Male,10
+2022-10-01,2022,4,Iraq,Middle East,Allowed,Female,4
+2022-10-01,2022,4,Iraq,Middle East,Allowed,Male,50
+2022-10-01,2022,4,Iraq,Middle East,Dismissed,Female,7
+2022-10-01,2022,4,Iraq,Middle East,Dismissed,Male,73
+2022-10-01,2022,4,Iraq,Middle East,Withdrawn,Male,5
+2022-10-01,2022,4,Ivory Coast,Africa Sub-Saharan,Dismissed,Male,2
+2022-10-01,2022,4,Jamaica,America Central and South,Allowed,Female,1
+2022-10-01,2022,4,Jamaica,America Central and South,Allowed,Male,1
+2022-10-01,2022,4,Jamaica,America Central and South,Withdrawn,Female,1
+2022-10-01,2022,4,Kenya,Africa Sub-Saharan,Allowed,Female,2
+2022-10-01,2022,4,Kenya,Africa Sub-Saharan,Allowed,Male,1
+2022-10-01,2022,4,Kenya,Africa Sub-Saharan,Dismissed,Female,2
+2022-10-01,2022,4,Kosovo,Europe Other,Allowed,Male,2
+2022-10-01,2022,4,Lebanon,Middle East,Allowed,Male,3
+2022-10-01,2022,4,Lebanon,Middle East,Dismissed,Male,3
+2022-10-01,2022,4,Libya,Africa North,Allowed,Male,1
+2022-10-01,2022,4,Malawi,Africa Sub-Saharan,Allowed,Female,1
+2022-10-01,2022,4,Malawi,Africa Sub-Saharan,Dismissed,Male,1
+2022-10-01,2022,4,Malaysia,Asia South East,Allowed,Female,1
+2022-10-01,2022,4,Malaysia,Asia South East,Allowed,Male,4
+2022-10-01,2022,4,Malaysia,Asia South East,Dismissed,Male,1
+2022-10-01,2022,4,Mali,Africa Sub-Saharan,Allowed,Male,1
+2022-10-01,2022,4,Morocco,Africa North,Allowed,Female,2
+2022-10-01,2022,4,Morocco,Africa North,Dismissed,Female,2
+2022-10-01,2022,4,Morocco,Africa North,Dismissed,Male,3
+2022-10-01,2022,4,Morocco,Africa North,Withdrawn,Male,1
+2022-10-01,2022,4,Namibia,Africa Sub-Saharan,Allowed,Female,6
+2022-10-01,2022,4,Namibia,Africa Sub-Saharan,Allowed,Male,2
+2022-10-01,2022,4,Namibia,Africa Sub-Saharan,Dismissed,Female,1
+2022-10-01,2022,4,Namibia,Africa Sub-Saharan,Dismissed,Male,1
+2022-10-01,2022,4,Namibia,Africa Sub-Saharan,Withdrawn,Male,3
+2022-10-01,2022,4,Nicaragua,America Central and South,Allowed,Male,1
+2022-10-01,2022,4,Nicaragua,America Central and South,Dismissed,Female,1
+2022-10-01,2022,4,Nigeria,Africa Sub-Saharan,Allowed,Female,3
+2022-10-01,2022,4,Nigeria,Africa Sub-Saharan,Allowed,Male,6
+2022-10-01,2022,4,Nigeria,Africa Sub-Saharan,Dismissed,Female,14
+2022-10-01,2022,4,Nigeria,Africa Sub-Saharan,Dismissed,Male,3
+2022-10-01,2022,4,Nigeria,Africa Sub-Saharan,Withdrawn,Female,1
+2022-10-01,2022,4,Occupied Palestinian Territories,Middle East,Allowed,Male,2
+2022-10-01,2022,4,Occupied Palestinian Territories,Middle East,Dismissed,Male,2
+2022-10-01,2022,4,Pakistan,Asia South,Allowed,Female,1
+2022-10-01,2022,4,Pakistan,Asia South,Allowed,Male,16
+2022-10-01,2022,4,Pakistan,Asia South,Dismissed,Female,7
+2022-10-01,2022,4,Pakistan,Asia South,Dismissed,Male,23
+2022-10-01,2022,4,Pakistan,Asia South,Withdrawn,Male,4
+2022-10-01,2022,4,Philippines,Asia South East,Allowed,Female,1
+2022-10-01,2022,4,Philippines,Asia South East,Dismissed,Female,4
+2022-10-01,2022,4,Philippines,Asia South East,Withdrawn,Female,1
+2022-10-01,2022,4,Refugee,Other,Allowed,Male,4
+2022-10-01,2022,4,Russia,Europe Other,Allowed,Female,3
+2022-10-01,2022,4,Russia,Europe Other,Allowed,Male,4
+2022-10-01,2022,4,Russia,Europe Other,Dismissed,Female,1
+2022-10-01,2022,4,Rwanda,Africa Sub-Saharan,Allowed,Female,1
+2022-10-01,2022,4,Rwanda,Africa Sub-Saharan,Allowed,Male,3
+2022-10-01,2022,4,Rwanda,Africa Sub-Saharan,Dismissed,Male,1
+2022-10-01,2022,4,Sierra Leone,Africa Sub-Saharan,Dismissed,Female,1
+2022-10-01,2022,4,Somalia,Africa Sub-Saharan,Allowed,Male,3
+2022-10-01,2022,4,Somalia,Africa Sub-Saharan,Dismissed,Male,4
+2022-10-01,2022,4,Somalia,Africa Sub-Saharan,Withdrawn,Male,3
+2022-10-01,2022,4,South Africa,Africa Sub-Saharan,Dismissed,Male,1
+2022-10-01,2022,4,Sri Lanka,Asia South,Allowed,Female,6
+2022-10-01,2022,4,Sri Lanka,Asia South,Allowed,Male,6
+2022-10-01,2022,4,Sri Lanka,Asia South,Dismissed,Male,2
+2022-10-01,2022,4,Sri Lanka,Asia South,Withdrawn,Male,2
+2022-10-01,2022,4,St. Vincent and the Grenadines,America Central and South,Allowed,Female,1
+2022-10-01,2022,4,Stateless,Other,Allowed,Male,2
+2022-10-01,2022,4,Stateless,Other,Dismissed,Male,1
+2022-10-01,2022,4,Stateless,Other,Withdrawn,Male,1
+2022-10-01,2022,4,Sudan,Africa North,Allowed,Male,11
+2022-10-01,2022,4,Sudan,Africa North,Dismissed,Male,4
+2022-10-01,2022,4,Sudan,Africa North,Withdrawn,Male,8
+2022-10-01,2022,4,Sudan (South),Africa Sub-Saharan,Allowed,Female,1
+2022-10-01,2022,4,Sudan (South),Africa Sub-Saharan,Allowed,Male,1
+2022-10-01,2022,4,Syria,Middle East,Allowed,Male,3
+2022-10-01,2022,4,Tanzania,Africa Sub-Saharan,Allowed,Male,1
+2022-10-01,2022,4,Togo,Africa Sub-Saharan,Dismissed,Male,1
+2022-10-01,2022,4,Togo,Africa Sub-Saharan,Withdrawn,Male,1
+2022-10-01,2022,4,Trinidad and Tobago,America Central and South,Dismissed,Female,1
+2022-10-01,2022,4,Trinidad and Tobago,America Central and South,Dismissed,Male,1
+2022-10-01,2022,4,Tunisia,Africa North,Allowed,Male,1
+2022-10-01,2022,4,Turkey,Europe Other,Allowed,Male,2
+2022-10-01,2022,4,Turkey,Europe Other,Dismissed,Female,2
+2022-10-01,2022,4,Turkey,Europe Other,Withdrawn,Male,1
+2022-10-01,2022,4,Uganda,Africa Sub-Saharan,Allowed,Female,1
+2022-10-01,2022,4,Uganda,Africa Sub-Saharan,Allowed,Male,1
+2022-10-01,2022,4,Uganda,Africa Sub-Saharan,Dismissed,Female,1
+2022-10-01,2022,4,Uganda,Africa Sub-Saharan,Dismissed,Male,2
+2022-10-01,2022,4,Ukraine,Europe Other,Allowed,Male,1
+2022-10-01,2022,4,Ukraine,Europe Other,Withdrawn,Male,1
+2022-10-01,2022,4,United States,America North,Dismissed,Female,1
+2022-10-01,2022,4,Vietnam,Asia South East,Allowed,Female,5
+2022-10-01,2022,4,Vietnam,Asia South East,Allowed,Male,14
+2022-10-01,2022,4,Vietnam,Asia South East,Dismissed,Female,5
+2022-10-01,2022,4,Vietnam,Asia South East,Dismissed,Male,12
+2022-10-01,2022,4,Vietnam,Asia South East,Withdrawn,Female,2
+2022-10-01,2022,4,Vietnam,Asia South East,Withdrawn,Male,1
+2022-10-01,2022,4,Yemen,Middle East,Allowed,Male,1
+2022-10-01,2022,4,Yemen,Middle East,Dismissed,Female,3
+2022-10-01,2022,4,Yemen,Middle East,Dismissed,Male,1
+2022-10-01,2022,4,Yemen,Middle East,Withdrawn,Female,1
+2022-10-01,2022,4,Yemen,Middle East,Withdrawn,Male,3
+2022-10-01,2022,4,Zimbabwe,Africa Sub-Saharan,Allowed,Female,2

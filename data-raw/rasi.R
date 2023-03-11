@@ -16,6 +16,7 @@ GET(
   write_disk(tf <- tempfile())
 )
 
+# No longer included in published data
 # aspen <-
 #   read_ods(tf, sheet = "AC_01", skip = 2)
 #
@@ -60,7 +61,7 @@ travel_documents <-
 
 nts <-
   nts |>
-  select(Quarter:`Transfers into to LA from port/intake unit`) |>
+  select(Quarter:`Transfers into LA from port/intake unit`) |>
   as_tibble() |>
   drop_na() |>
   mutate(Date = yq(Quarter)) |>
@@ -73,7 +74,7 @@ nts <-
 
 support_applications_rasi <-
   support_applications_rasi |>
-  select(Quarter:`Section 95(2)`) |>
+  select(Quarter:`Section 95 (2)`) |>
   as_tibble() |>
   drop_na() |>
   mutate(Date = yq(Quarter)) |>
@@ -84,16 +85,16 @@ support_applications_rasi <-
   relocate(Date, Year, Quarter) |>
   # Remove footnote numbers from column names
   rename(
-    `Section 4` = `Section 4(1)`,
-    `Section 95` = `Section 95(2)`
+    `Section 4` = `Section 4  (1)`,
+    `Section 95` = `Section 95 (2)`
   )
 
 travel_documents <-
   travel_documents |>
-  select(Quarter, `TD Raised`, `TD Despatched` = `TD Despatched5`) |>
+  select(Quarter, `TD Raised`, `TD Despatched` = `TD Despatched 5`) |>
   as_tibble() |>
   drop_na() |>
-  mutate(Quarter = if_else(Quarter == "2020 Q23", "2020 Q2", Quarter)) |>
+  mutate(Quarter = if_else(Quarter == "2020 Q2  3", "2020 Q2", Quarter)) |>
   mutate(Date = yq(Quarter)) |>
   mutate(
     Year = year(Date),

@@ -3353,3 +3353,162 @@ Date,Year,Quarter,Nationality,Region,Raised or resolved,Raised type / Resolved o
 2022-04-01,2022,2,Vietnam,Asia South East,Resolved,Less than 18,10
 2022-04-01,2022,2,Yemen,Middle East,Raised,Asylum application raised in quarter,1
 2022-04-01,2022,2,Yemen,Middle East,Resolved,Less than 18,1
+2022-07-01,2022,3,Afghanistan,Asia Central,Raised,Asylum application raised in quarter,297
+2022-07-01,2022,3,Afghanistan,Asia Central,Raised,Existing asylum application,6
+2022-07-01,2022,3,Afghanistan,Asia Central,Resolved,18+,81
+2022-07-01,2022,3,Afghanistan,Asia Central,Resolved,Less than 18,109
+2022-07-01,2022,3,Albania,Europe Other,Raised,Asylum application raised in quarter,57
+2022-07-01,2022,3,Albania,Europe Other,Resolved,18+,4
+2022-07-01,2022,3,Albania,Europe Other,Resolved,Less than 18,17
+2022-07-01,2022,3,Algeria,Africa North,Resolved,Less than 18,1
+2022-07-01,2022,3,Angola,Africa Sub-Saharan,Resolved,Less than 18,1
+2022-07-01,2022,3,Benin,Africa Sub-Saharan,Raised,Asylum application raised in quarter,1
+2022-07-01,2022,3,Benin,Africa Sub-Saharan,Resolved,18+,1
+2022-07-01,2022,3,British overseas citizens,Other,Resolved,Less than 18,1
+2022-07-01,2022,3,Chad,Africa Sub-Saharan,Raised,Asylum application raised in quarter,12
+2022-07-01,2022,3,Chad,Africa Sub-Saharan,Raised,Existing asylum application,1
+2022-07-01,2022,3,Chad,Africa Sub-Saharan,Resolved,18+,7
+2022-07-01,2022,3,Chad,Africa Sub-Saharan,Resolved,Less than 18,1
+2022-07-01,2022,3,China,Asia East,Raised,Existing asylum application,1
+2022-07-01,2022,3,Egypt,Africa North,Raised,Asylum application raised in quarter,31
+2022-07-01,2022,3,Egypt,Africa North,Raised,Existing asylum application,3
+2022-07-01,2022,3,Egypt,Africa North,Resolved,18+,6
+2022-07-01,2022,3,Egypt,Africa North,Resolved,Less than 18,3
+2022-07-01,2022,3,Eritrea,Africa Sub-Saharan,Raised,Asylum application raised in quarter,50
+2022-07-01,2022,3,Eritrea,Africa Sub-Saharan,Raised,Existing asylum application,6
+2022-07-01,2022,3,Eritrea,Africa Sub-Saharan,Resolved,18+,21
+2022-07-01,2022,3,Eritrea,Africa Sub-Saharan,Resolved,Less than 18,35
+2022-07-01,2022,3,Ethiopia,Africa Sub-Saharan,Raised,Asylum application raised in quarter,21
+2022-07-01,2022,3,Ethiopia,Africa Sub-Saharan,Resolved,18+,4
+2022-07-01,2022,3,Ethiopia,Africa Sub-Saharan,Resolved,Less than 18,7
+2022-07-01,2022,3,"Gambia, The",Africa Sub-Saharan,Raised,Existing asylum application,1
+2022-07-01,2022,3,India,Asia South,Raised,Asylum application raised in quarter,3
+2022-07-01,2022,3,India,Asia South,Resolved,18+,3
+2022-07-01,2022,3,Iran,Middle East,Raised,Asylum application raised in quarter,74
+2022-07-01,2022,3,Iran,Middle East,Raised,Existing asylum application,12
+2022-07-01,2022,3,Iran,Middle East,Resolved,18+,20
+2022-07-01,2022,3,Iran,Middle East,Resolved,Less than 18,49
+2022-07-01,2022,3,Iraq,Middle East,Raised,Asylum application raised in quarter,27
+2022-07-01,2022,3,Iraq,Middle East,Raised,Existing asylum application,4
+2022-07-01,2022,3,Iraq,Middle East,Resolved,18+,11
+2022-07-01,2022,3,Iraq,Middle East,Resolved,Less than 18,14
+2022-07-01,2022,3,Ivory Coast,Africa Sub-Saharan,Resolved,Less than 18,1
+2022-07-01,2022,3,Kuwait,Middle East,Raised,Asylum application raised in quarter,5
+2022-07-01,2022,3,Kuwait,Middle East,Resolved,18+,2
+2022-07-01,2022,3,Libya,Africa North,Raised,Asylum application raised in quarter,3
+2022-07-01,2022,3,Libya,Africa North,Resolved,18+,1
+2022-07-01,2022,3,Nigeria,Africa Sub-Saharan,Raised,Asylum application raised in quarter,2
+2022-07-01,2022,3,Nigeria,Africa Sub-Saharan,Resolved,18+,1
+2022-07-01,2022,3,Occupied Palestinian Territories,Middle East,Raised,Asylum application raised in quarter,1
+2022-07-01,2022,3,Occupied Palestinian Territories,Middle East,Resolved,Less than 18,3
+2022-07-01,2022,3,Pakistan,Asia South,Raised,Asylum application raised in quarter,2
+2022-07-01,2022,3,Pakistan,Asia South,Resolved,Less than 18,2
+2022-07-01,2022,3,Sierra Leone,Africa Sub-Saharan,Raised,Asylum application raised in quarter,1
+2022-07-01,2022,3,Sierra Leone,Africa Sub-Saharan,Resolved,Less than 18,1
+2022-07-01,2022,3,Somalia,Africa Sub-Saharan,Raised,Asylum application raised in quarter,6
+2022-07-01,2022,3,Somalia,Africa Sub-Saharan,Raised,Existing asylum application,1
+2022-07-01,2022,3,Somalia,Africa Sub-Saharan,Resolved,Less than 18,3
+2022-07-01,2022,3,Stateless,Other,Raised,Asylum application raised in quarter,5
+2022-07-01,2022,3,Stateless,Other,Resolved,Less than 18,1
+2022-07-01,2022,3,Sudan,Africa North,Raised,Asylum application raised in quarter,110
+2022-07-01,2022,3,Sudan,Africa North,Raised,Existing asylum application,5
+2022-07-01,2022,3,Sudan,Africa North,Resolved,18+,51
+2022-07-01,2022,3,Sudan,Africa North,Resolved,Less than 18,34
+2022-07-01,2022,3,Sudan (South),Africa Sub-Saharan,Raised,Asylum application raised in quarter,8
+2022-07-01,2022,3,Sudan (South),Africa Sub-Saharan,Resolved,18+,1
+2022-07-01,2022,3,Sudan (South),Africa Sub-Saharan,Resolved,Less than 18,4
+2022-07-01,2022,3,Syria,Middle East,Raised,Asylum application raised in quarter,35
+2022-07-01,2022,3,Syria,Middle East,Raised,Existing asylum application,1
+2022-07-01,2022,3,Syria,Middle East,Resolved,18+,9
+2022-07-01,2022,3,Syria,Middle East,Resolved,Less than 18,10
+2022-07-01,2022,3,Tunisia,Africa North,Raised,Asylum application raised in quarter,1
+2022-07-01,2022,3,Turkey,Europe Other,Raised,Asylum application raised in quarter,14
+2022-07-01,2022,3,Turkey,Europe Other,Resolved,18+,2
+2022-07-01,2022,3,Turkey,Europe Other,Resolved,Less than 18,6
+2022-07-01,2022,3,Vietnam,Asia South East,Raised,Asylum application raised in quarter,7
+2022-07-01,2022,3,Vietnam,Asia South East,Raised,Existing asylum application,3
+2022-07-01,2022,3,Vietnam,Asia South East,Resolved,18+,5
+2022-07-01,2022,3,Vietnam,Asia South East,Resolved,Less than 18,9
+2022-07-01,2022,3,Yemen,Middle East,Raised,Asylum application raised in quarter,1
+2022-07-01,2022,3,Yemen,Middle East,Resolved,Less than 18,1
+2022-10-01,2022,4,Afghanistan,Asia Central,Raised,Asylum application raised in quarter,555
+2022-10-01,2022,4,Afghanistan,Asia Central,Raised,Existing asylum application,53
+2022-10-01,2022,4,Afghanistan,Asia Central,Resolved,18+,68
+2022-10-01,2022,4,Afghanistan,Asia Central,Resolved,Less than 18,146
+2022-10-01,2022,4,Albania,Europe Other,Raised,Asylum application raised in quarter,9
+2022-10-01,2022,4,Albania,Europe Other,Resolved,Less than 18,7
+2022-10-01,2022,4,Algeria,Africa North,Raised,Asylum application raised in quarter,1
+2022-10-01,2022,4,Burkina,Africa Sub-Saharan,Raised,Asylum application raised in quarter,5
+2022-10-01,2022,4,Burkina,Africa Sub-Saharan,Resolved,Less than 18,1
+2022-10-01,2022,4,Chad,Africa Sub-Saharan,Raised,Asylum application raised in quarter,6
+2022-10-01,2022,4,Chad,Africa Sub-Saharan,Raised,Existing asylum application,3
+2022-10-01,2022,4,Chad,Africa Sub-Saharan,Resolved,18+,3
+2022-10-01,2022,4,Chad,Africa Sub-Saharan,Resolved,Less than 18,2
+2022-10-01,2022,4,China,Asia East,Resolved,18+,1
+2022-10-01,2022,4,Egypt,Africa North,Raised,Asylum application raised in quarter,17
+2022-10-01,2022,4,Egypt,Africa North,Raised,Existing asylum application,2
+2022-10-01,2022,4,Egypt,Africa North,Resolved,18+,1
+2022-10-01,2022,4,Egypt,Africa North,Resolved,Less than 18,9
+2022-10-01,2022,4,Eritrea,Africa Sub-Saharan,Raised,Asylum application raised in quarter,33
+2022-10-01,2022,4,Eritrea,Africa Sub-Saharan,Raised,Existing asylum application,19
+2022-10-01,2022,4,Eritrea,Africa Sub-Saharan,Resolved,18+,6
+2022-10-01,2022,4,Eritrea,Africa Sub-Saharan,Resolved,Less than 18,39
+2022-10-01,2022,4,Ethiopia,Africa Sub-Saharan,Raised,Asylum application raised in quarter,10
+2022-10-01,2022,4,Ethiopia,Africa Sub-Saharan,Raised,Existing asylum application,4
+2022-10-01,2022,4,Ethiopia,Africa Sub-Saharan,Resolved,18+,1
+2022-10-01,2022,4,Ethiopia,Africa Sub-Saharan,Resolved,Less than 18,10
+2022-10-01,2022,4,Guinea,Africa Sub-Saharan,Raised,Asylum application raised in quarter,3
+2022-10-01,2022,4,Guinea,Africa Sub-Saharan,Resolved,Less than 18,1
+2022-10-01,2022,4,India,Asia South,Raised,Asylum application raised in quarter,1
+2022-10-01,2022,4,Iran,Middle East,Raised,Asylum application raised in quarter,138
+2022-10-01,2022,4,Iran,Middle East,Raised,Existing asylum application,25
+2022-10-01,2022,4,Iran,Middle East,Resolved,18+,22
+2022-10-01,2022,4,Iran,Middle East,Resolved,Less than 18,84
+2022-10-01,2022,4,Iraq,Middle East,Raised,Asylum application raised in quarter,39
+2022-10-01,2022,4,Iraq,Middle East,Raised,Existing asylum application,10
+2022-10-01,2022,4,Iraq,Middle East,Resolved,18+,6
+2022-10-01,2022,4,Iraq,Middle East,Resolved,Less than 18,27
+2022-10-01,2022,4,Ivory Coast,Africa Sub-Saharan,Resolved,Less than 18,1
+2022-10-01,2022,4,Kuwait,Middle East,Raised,Asylum application raised in quarter,3
+2022-10-01,2022,4,Kuwait,Middle East,Raised,Existing asylum application,1
+2022-10-01,2022,4,Lebanon,Middle East,Raised,Asylum application raised in quarter,1
+2022-10-01,2022,4,Lebanon,Middle East,Resolved,18+,1
+2022-10-01,2022,4,Mali,Africa Sub-Saharan,Raised,Asylum application raised in quarter,1
+2022-10-01,2022,4,Niger,Africa Sub-Saharan,Raised,Asylum application raised in quarter,2
+2022-10-01,2022,4,Niger,Africa Sub-Saharan,Resolved,18+,1
+2022-10-01,2022,4,Occupied Palestinian Territories,Middle East,Raised,Existing asylum application,1
+2022-10-01,2022,4,Occupied Palestinian Territories,Middle East,Resolved,18+,1
+2022-10-01,2022,4,Pakistan,Asia South,Raised,Asylum application raised in quarter,2
+2022-10-01,2022,4,Pakistan,Asia South,Resolved,18+,1
+2022-10-01,2022,4,Pakistan,Asia South,Resolved,Less than 18,1
+2022-10-01,2022,4,Saudi Arabia,Middle East,Resolved,Less than 18,1
+2022-10-01,2022,4,Senegal,Africa Sub-Saharan,Raised,Asylum application raised in quarter,1
+2022-10-01,2022,4,Senegal,Africa Sub-Saharan,Resolved,18+,1
+2022-10-01,2022,4,Sierra Leone,Africa Sub-Saharan,Raised,Asylum application raised in quarter,1
+2022-10-01,2022,4,Sierra Leone,Africa Sub-Saharan,Raised,Existing asylum application,2
+2022-10-01,2022,4,Sierra Leone,Africa Sub-Saharan,Resolved,18+,1
+2022-10-01,2022,4,Somalia,Africa Sub-Saharan,Raised,Asylum application raised in quarter,1
+2022-10-01,2022,4,Somalia,Africa Sub-Saharan,Raised,Existing asylum application,5
+2022-10-01,2022,4,Somalia,Africa Sub-Saharan,Resolved,Less than 18,7
+2022-10-01,2022,4,Stateless,Other,Raised,Asylum application raised in quarter,4
+2022-10-01,2022,4,Stateless,Other,Resolved,Less than 18,3
+2022-10-01,2022,4,Sudan,Africa North,Raised,Asylum application raised in quarter,66
+2022-10-01,2022,4,Sudan,Africa North,Raised,Existing asylum application,27
+2022-10-01,2022,4,Sudan,Africa North,Resolved,18+,12
+2022-10-01,2022,4,Sudan,Africa North,Resolved,Less than 18,36
+2022-10-01,2022,4,Sudan (South),Africa Sub-Saharan,Raised,Asylum application raised in quarter,6
+2022-10-01,2022,4,Sudan (South),Africa Sub-Saharan,Raised,Existing asylum application,3
+2022-10-01,2022,4,Sudan (South),Africa Sub-Saharan,Resolved,18+,1
+2022-10-01,2022,4,Sudan (South),Africa Sub-Saharan,Resolved,Less than 18,6
+2022-10-01,2022,4,Syria,Middle East,Raised,Asylum application raised in quarter,25
+2022-10-01,2022,4,Syria,Middle East,Raised,Existing asylum application,4
+2022-10-01,2022,4,Syria,Middle East,Resolved,18+,1
+2022-10-01,2022,4,Syria,Middle East,Resolved,Less than 18,13
+2022-10-01,2022,4,Tunisia,Africa North,Resolved,18+,1
+2022-10-01,2022,4,Turkey,Europe Other,Raised,Asylum application raised in quarter,8
+2022-10-01,2022,4,Turkey,Europe Other,Raised,Existing asylum application,1
+2022-10-01,2022,4,Turkey,Europe Other,Resolved,Less than 18,6
+2022-10-01,2022,4,Vietnam,Asia South East,Raised,Asylum application raised in quarter,12
+2022-10-01,2022,4,Vietnam,Asia South East,Raised,Existing asylum application,4
+2022-10-01,2022,4,Vietnam,Asia South East,Resolved,18+,8
+2022-10-01,2022,4,Vietnam,Asia South East,Resolved,Less than 18,6
