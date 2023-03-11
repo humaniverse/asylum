@@ -616,8 +616,8 @@
 #'   \item{2021 Q4}{2021 Q4}
 #'   \item{2022 Q1}{2022 Q1}
 #'   \item{2022 Q2}{2022 Q2}
-#'   \item{2022 Q2}{2022 Q3}
-#'   \item{2022 Q2}{2022 Q4}
+#'   \item{2022 Q3}{2022 Q3}
+#'   \item{2022 Q4}{2022 Q4}
 #'   ...
 #' }
 #' @source \url{https://www.gov.uk/government/collections/migration-transparency-data#uk-visas-and-immigration}
