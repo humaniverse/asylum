@@ -5,7 +5,7 @@
 \alias{support_received}
 \title{Asylum seekers in receipt of support}
 \format{
-A data frame with 51,746 rows and 7 variables:
+A data frame with 56,864 rows and 7 variables:
 \describe{
   \item{Date}{Date}
   \item{Nationality}{Nationality of people receiving support}

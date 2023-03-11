@@ -5,7 +5,7 @@
 \alias{nrpf_change_of_conditions_gender}
 \title{NFRP - Destitution Change of Conditions Applications by Gender}
 \format{
-A data frame with 20 rows and 6 variables:
+A data frame with 22 rows and 6 variables:
 \describe{
   \item{Date}{Date}
   \item{Year}{Year}

@@ -5,7 +5,7 @@
 \alias{appeals_determined}
 \title{Asylum appeals determined}
 \format{
-A data frame with 12,818 rows and 8 variables:
+A data frame with 13,196 rows and 8 variables:
 \describe{
   \item{Date}{Date}
   \item{Year}{Year}

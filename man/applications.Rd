@@ -5,7 +5,7 @@
 \alias{applications}
 \title{Asylum applications}
 \format{
-A data frame with 62,327 rows and 11 variables:
+A data frame with 65,147 rows and 11 variables:
 \describe{
   \item{Date}{Date}
   \item{Year}{Year}

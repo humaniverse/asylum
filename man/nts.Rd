@@ -5,7 +5,7 @@
 \alias{nts}
 \title{National Transfer Scheme}
 \format{
-A data frame with 10,393 rows and 9 variables:
+A data frame with 11,251 rows and 9 variables:
 \describe{
   \item{Date}{Date}
   \item{Year}{Year}
@@ -15,7 +15,7 @@ A data frame with 10,393 rows and 9 variables:
   \item{Able to participate in the NTS?}{Is this LA/HSCT participating in the National Transfer Scheme?}
   \item{Transfers out of Local Authority}{Number of transfers out of LA}
   \item{Transfers into Local Authority}{Number of transfers into LA}
-  \item{Transfers into to LA from port/intake unit}{Number of transfers into to LA from port/intake unit}
+  \item{Transfers into LA from port/intake unit}{Number of transfers into to LA from port/intake unit}
   ...
 }
 }

@@ -5,7 +5,7 @@
 \alias{nrpf_change_of_conditions_decisions}
 \title{NFRP - Destitution Change of Conditions Applications and Outcomes}
 \format{
-A data frame with 20 rows and 10 variables:
+A data frame with 22 rows and 10 variables:
 \describe{
   \item{Date}{Date}
   \item{Year}{Year}

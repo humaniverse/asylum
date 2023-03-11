@@ -5,7 +5,7 @@
 \alias{support_applications}
 \title{Applications for section 95 support}
 \format{
-A data frame with 4,324 rows and 6 variables:
+A data frame with 4,756 rows and 6 variables:
 \describe{
   \item{Year}{Year}
   \item{Nationality}{Nationality of people receiving support}

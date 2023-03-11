@@ -3,7 +3,7 @@
 #' Asylum seekers in receipt of support at end of period, by nationality,
 #' support type, and UK region.
 #'
-#' @format A data frame with 51,746 rows and 7 variables:
+#' @format A data frame with 56,864 rows and 7 variables:
 #' \describe{
 #'   \item{Date}{Date}
 #'   \item{Nationality}{Nationality of people receiving support}
@@ -22,7 +22,7 @@
 #' Applications for section 95 support, by nationality, support type granted,
 #' and group type.
 #'
-#' @format A data frame with 4,324 rows and 6 variables:
+#' @format A data frame with 4,756 rows and 6 variables:
 #' \describe{
 #'   \item{Year}{Year}
 #'   \item{Nationality}{Nationality of people receiving support}
@@ -40,7 +40,7 @@
 #' Asylum applications awaiting an initial decision or further review, by
 #' nationality and applicant type.
 #'
-#' @format A data frame with 29,381 rows and 7 variables:
+#' @format A data frame with 30,891 rows and 7 variables:
 #' \describe{
 #'   \item{Date}{Date}
 #'   \item{Nationality}{Nationality of people awaiting a decision}
@@ -59,7 +59,7 @@
 #' Asylum applications raised, by nationality, age, sex, UASC, applicant type,
 #' and location of application.
 #'
-#' @format A data frame with 62,327 rows and 11 variables:
+#' @format A data frame with 65,147 rows and 11 variables:
 #' \describe{
 #'   \item{Date}{Date}
 #'   \item{Year}{Year}
@@ -83,7 +83,7 @@
 #' in the UK, by nationality, age, sex, applicant type, and UASC (unaccompanied
 #' asylum-seeking children).
 #'
-#' @format A data frame with 100,222 rows and 14 variables:
+#' @format A data frame with 103,838 rows and 14 variables:
 #' \describe{
 #'   \item{Date}{Date}
 #'   \item{Year}{Year}
@@ -108,7 +108,7 @@
 #'
 #' Asylum appeals raised at the First-Tier Tribunal, by nationality and sex.
 #'
-#' @format A data frame with 7,054 rows and 7 variables:
+#' @format A data frame with 7,286 rows and 7 variables:
 #' \describe{
 #'   \item{Date}{Date}
 #'   \item{Year}{Year}
@@ -127,7 +127,7 @@
 #' Outcomes of asylum appeals raised at the First-Tier Tribunal, by nationality
 #' and sex.
 #'
-#' @format A data frame with 12,818 rows and 8 variables:
+#' @format A data frame with 13,196 rows and 8 variables:
 #' \describe{
 #'   \item{Date}{Date}
 #'   \item{Year}{Year}
@@ -184,7 +184,7 @@
 #'
 #' Age disputes raised and outcomes of age disputes.
 #'
-#' @format A data frame with 3,354 rows and 8 variables:
+#' @format A data frame with 3,513 rows and 8 variables:
 #' \describe{
 #'   \item{Date}{Date}
 #'   \item{Year}{Year}
@@ -245,7 +245,7 @@
 #' Family reunion visas granted to family members of refugees, by nationality,
 #' sex and age.
 #'
-#' @format A data frame with 7,475 rows and 8 variables:
+#' @format A data frame with 7,830 rows and 8 variables:
 #' \describe{
 #'   \item{Date}{The period in which the Family Reunion visa was granted}
 #'   \item{Year}{Year}
@@ -264,7 +264,7 @@
 #'
 #' Refugees resettled by resettlement scheme and local authority.
 #'
-#' @format A data frame with 2,464 rows and 8 variables:
+#' @format A data frame with 2,567 rows and 8 variables:
 #' \describe{
 #'   \item{Date}{The period in which the refugee arrived in the UK}
 #'   \item{Year}{Year}
@@ -283,7 +283,7 @@
 #'
 #' Asylum seekers in receipt of section 95 support by local authority.
 #'
-#' @format A data frame with 13,952 rows and 8 variables:
+#' @format A data frame with 15,456 rows and 8 variables:
 #' \describe{
 #'   \item{Date}{The date at which the number of people in receipt of support refers to}
 #'   \item{Year}{Year}
@@ -337,7 +337,7 @@
 #' Number of individuals transferred between local authorities under the
 #' National Transfer Scheme for unaccompanied asylum seeking children.
 #'
-#' @format A data frame with 10,393 rows and 9 variables:
+#' @format A data frame with 11,251 rows and 9 variables:
 #' \describe{
 #'   \item{Date}{Date}
 #'   \item{Year}{Year}
@@ -347,7 +347,7 @@
 #'   \item{Able to participate in the NTS?}{Is this LA/HSCT participating in the National Transfer Scheme?}
 #'   \item{Transfers out of Local Authority}{Number of transfers out of LA}
 #'   \item{Transfers into Local Authority}{Number of transfers into LA}
-#'   \item{Transfers into to LA from port/intake unit}{Number of transfers into to LA from port/intake unit}
+#'   \item{Transfers into LA from port/intake unit}{Number of transfers into to LA from port/intake unit}
 #'   ...
 #' }
 #' @source \url{https://www.gov.uk/government/collections/migration-transparency-data#uk-visas-and-immigration}
@@ -357,7 +357,7 @@
 #'
 #' Applications for Support Section 4 and Section 95.
 #'
-#' @format A data frame with 50 rows and 5 variables:
+#' @format A data frame with 52 rows and 5 variables:
 #' \describe{
 #'   \item{Date}{Date}
 #'   \item{Year}{Year}
@@ -373,7 +373,7 @@
 #'
 #' Travel documents, applications raised and despatched.
 #'
-#' @format A data frame with 49 rows and 5 variables:
+#' @format A data frame with 51 rows and 5 variables:
 #' \describe{
 #'   \item{Date}{Date}
 #'   \item{Year}{Year}
@@ -389,7 +389,7 @@
 #'
 #' Appeal representation rates.
 #'
-#' @format A data frame with 42 rows and 7 variables:
+#' @format A data frame with 44 rows and 7 variables:
 #' \describe{
 #'   \item{Date}{Date}
 #'   \item{Year}{Year}
@@ -439,7 +439,7 @@
 #'
 #' Percentage of Asylum applications processed within 6 months
 #'
-#' @format A data frame with 31 rows and 16 variables:
+#' @format A data frame with 33 rows and 16 variables:
 #' \describe{
 #'   \item{Date}{Date}
 #'   \item{Year}{Year}
@@ -467,7 +467,7 @@
 #' Age of Asylum Operations Initial Decision Work In Progress - applications
 #' made from 1st Oct 2006.
 #'
-#' @format A data frame with 23 rows and 8 variables:
+#' @format A data frame with 25 rows and 8 variables:
 #' \describe{
 #'   \item{Date}{Date}
 #'   \item{Year}{Year}
@@ -541,7 +541,7 @@
 #' relating to NRPF can be found here:
 #' https://homeofficemedia.blog.gov.uk/2020/05/05/no-recourse-to-public-funds-nrpf/
 #'
-#' @format A data frame with 20 rows and 10 variables:
+#' @format A data frame with 22 rows and 10 variables:
 #' \describe{
 #'   \item{Date}{Date}
 #'   \item{Year}{Year}
@@ -566,7 +566,7 @@
 #' relating to NRPF can be found here:
 #' https://homeofficemedia.blog.gov.uk/2020/05/05/no-recourse-to-public-funds-nrpf/
 #'
-#' @format A data frame with 20 rows and 12 variables:
+#' @format A data frame with 22 rows and 12 variables:
 #' \describe{
 #'   \item{Date}{Date}
 #'   \item{Year}{Year}
@@ -593,7 +593,7 @@
 #' relating to NRPF can be found here:
 #' https://homeofficemedia.blog.gov.uk/2020/05/05/no-recourse-to-public-funds-nrpf/
 #'
-#' @format A data frame with 154 rows and 21 variables:
+#' @format A data frame with 155 rows and 23 variables:
 #' \describe{
 #'   \item{Nationality}{Nationality}
 #'   \item{2017 Q3}{2017 Q3}
@@ -616,6 +616,8 @@
 #'   \item{2021 Q4}{2021 Q4}
 #'   \item{2022 Q1}{2022 Q1}
 #'   \item{2022 Q2}{2022 Q2}
+#'   \item{2022 Q2}{2022 Q3}
+#'   \item{2022 Q2}{2022 Q4}
 #'   ...
 #' }
 #' @source \url{https://www.gov.uk/government/collections/migration-transparency-data#uk-visas-and-immigration}
@@ -629,7 +631,7 @@
 #' relating to NRPF can be found here:
 #' https://homeofficemedia.blog.gov.uk/2020/05/05/no-recourse-to-public-funds-nrpf/
 #'
-#' @format A data frame with 20 rows and 6 variables:
+#' @format A data frame with 22 rows and 6 variables:
 #' \describe{
 #'   \item{Date}{Date}
 #'   \item{Year}{Year}
@@ -641,3 +643,259 @@
 #' }
 #' @source \url{https://www.gov.uk/government/collections/migration-transparency-data#uk-visas-and-immigration}
 "nrpf_change_of_conditions_gender"
+
+#' Asylum claims certified under Section 94
+#'
+#' Initial decisions on asylum applications certified under Section 94, by
+#' nationality
+#'
+#' @format A data frame with 2,142 rows and 10 variables:
+#' \describe{
+#'   \item{Date}{Date}
+#'   \item{Year}{Year}
+#'   \item{Quarter}{Quarter}
+#'   \item{Nationality}{Nationality}
+#'   \item{Region}{Region}
+#'   \item{Initial decisions from designated states}{Initial decisions from designated states}
+#'   \item{Refusals from designated states}{Refusals from designated states}
+#'   \item{Clearly unfounded refusals (designated states)}{Clearly unfounded refusals (designated states)}
+#'   \item{Clearly unfounded refusals (non-designated states)}{Clearly unfounded refusals (non-designated states)}
+#'   \item{Total clearly unfounded refusals}{Total clearly unfounded refusals}
+#'   ...
+#' }
+#' @source \url{https://www.gov.uk/government/statistical-data-sets/asylum-and-resettlement-datasets}
+"claims_certified_section_94"
+
+#' Number of entries into immigration detention
+#'
+#' Number of entries into immigration detention by nationality, age, sex and
+#' initial place of detention.
+#'
+#' @format A data frame with 70,342 rows and 9 variables:
+#' \describe{
+#'   \item{Date}{Date}
+#'   \item{Year}{Year}
+#'   \item{Quarter}{Quarter}
+#'   \item{Nationality}{Nationality}
+#'   \item{Region}{Region}
+#'   \item{Sex}{Sex}
+#'   \item{Age}{Age}
+#'   \item{First place of detention}{First place of detention}
+#'   \item{Entering}{Entering}
+#'   ...
+#' }
+#' @source \url{https://www.gov.uk/government/statistical-data-sets/returns-and-detention-datasets}
+"people_entering_detention"
+
+#' Number of people in immigration detention
+#'
+#' Number of people in immigration detention at the end of each quarter by
+#' nationality, age, sex, current place of detention and length of detention.
+#'
+#' @format A data frame with 77,146 rows and 10 variables:
+#' \describe{
+#'   \item{Date}{Date}
+#'   \item{Year}{Year}
+#'   \item{Quarter}{Quarter}
+#'   \item{Nationality}{Nationality}
+#'   \item{Region}{Region}
+#'   \item{Sex}{Sex}
+#'   \item{Age}{Age}
+#'   \item{Current place of detention}{Current place of detention}
+#'   \item{Length of detention}{Length of detention}
+#'   \item{People}{Number of people in detention}
+#'   ...
+#' }
+#' @source \url{https://www.gov.uk/government/statistical-data-sets/returns-and-detention-datasets}
+"people_in_detention"
+
+#' Number of occurrences of people leaving detention
+#'
+#' Number of occurrences of people leaving detention by nationality, age, sex,
+#' reason for leaving detention and length of detention
+#'
+#' @format A data frame with 100,886 rows and 10 variables:
+#' \describe{
+#'   \item{Date}{Date}
+#'   \item{Year}{Year}
+#'   \item{Quarter}{Quarter}
+#'   \item{Nationality}{Nationality}
+#'   \item{Region}{Region}
+#'   \item{Sex}{Sex}
+#'   \item{Age}{Age}
+#'   \item{Reason for leaving detention}{Reason for leaving detention}
+#'   \item{Length of detention}{Length of detention}
+#'   \item{Leaving}{Number of people leaving detention}
+#'   ...
+#' }
+#' @source \url{https://www.gov.uk/government/statistical-data-sets/returns-and-detention-datasets}
+"people_leaving_detention"
+
+#' Number of returns from the UK
+#'
+#' Number of returns from the UK, by nationality, age, sex, type of return and
+#' return destination group
+#'
+#' @format A data frame with 227,607 rows and 11 variables:
+#' \describe{
+#'   \item{Date}{Date}
+#'   \item{Year}{Year}
+#'   \item{Quarter}{Quarter}
+#'   \item{Nationality}{Nationality}
+#'   \item{Region}{Region}
+#'   \item{Return type group}{Return type group}
+#'   \item{Return type}{Return type}
+#'   \item{Age}{Age}
+#'   \item{Sex}{Sex}
+#'   \item{Return destination group}{Return destination group}
+#'   \item{Number of returns}{Number of returns}
+#'   ...
+#' }
+#' @source \url{https://www.gov.uk/government/statistical-data-sets/returns-and-detention-datasets}
+"returns"
+
+#' Number of returns from the UK, by destination
+#'
+#' Number of returns from the UK, by type of return and country of destination
+#'
+#' @format A data frame with 41,500 rows and 8 variables:
+#' \describe{
+#'   \item{Date}{Date}
+#'   \item{Year}{Year}
+#'   \item{Quarter}{Quarter}
+#'   \item{Return type group}{Return type group}
+#'   \item{Return type}{Return type}
+#'   \item{Return destination}{Return destination}
+#'   \item{Return destination region}{Return destination region}
+#'   \item{Number of returns}{Number of returns}
+#'   ...
+#' }
+#' @source \url{https://www.gov.uk/government/statistical-data-sets/returns-and-detention-datasets}
+"returns_by_destination"
+
+#' Number of foreign national offender returns from the UK, by nationality
+#'
+#' Number of foreign national offender returns from the UK, by nationality and
+#' return destination group.
+#'
+#' @format A data frame with 6,217 rows and 7 variables:
+#' \describe{
+#'   \item{Date}{Date}
+#'   \item{Year}{Year}
+#'   \item{Quarter}{Quarter}
+#'   \item{Nationality}{Nationality}
+#'   \item{Region}{Region}
+#'   \item{Return destination group}{Return destination group}
+#'   \item{Number of foreign national offender returns}{Number of foreign national offender returns}
+#'   ...
+#' }
+#' @source \url{https://www.gov.uk/government/statistical-data-sets/returns-and-detention-datasets}
+"returns_offenders_by_nationality"
+
+#' Number of foreign national offender returns from the UK, by destination
+#'
+#' Number of foreign national offender returns from the UK, by destination.
+#'
+#' @format A data frame with 4,412 rows and 6 variables:
+#' \describe{
+#'   \item{Date}{Date}
+#'   \item{Year}{Year}
+#'   \item{Quarter}{Quarter}
+#'   \item{Return destination}{Return destination}
+#'   \item{Return destination region}{Return destination region}
+#'   \item{Number of foreign national offender returns}{Number of foreign national offender returns}
+#'   ...
+#' }
+#' @source \url{https://www.gov.uk/government/statistical-data-sets/returns-and-detention-datasets}
+"returns_offenders_by_destination"
+
+#' People entering, leaving and in detention by asylum and non-asylum
+#'
+#' People entering, leaving and in detention by asylum and non-asylum, 2010 to 2022.
+#'
+#' @format A data frame with 13 rows and 10 variables:
+#' \describe{
+#'   \item{Date}{Date}
+#'   \item{Entering detention}{Entering detention}
+#'   \item{Entering detention Asylum}{Entering detention Asylum}
+#'   \item{Entering detention Non-asylum}{Entering detention Non-asylum}
+#'   \item{Leaving detention}{Leaving detention}
+#'   \item{Leaving detention Asylum}{Leaving detention Asylum}
+#'   \item{Leaving detention Non-asylum}{Leaving detention Non-asylum}
+#'   \item{In detention (at end of period)}{In detention (at end of period)}
+#'   \item{In detention Asylum}{In detention Asylum}
+#'   \item{In detentionNon-asylum}{In detention Non-asylum}
+#'   ...
+#' }
+#' @source \url{https://www.gov.uk/government/statistical-data-sets/immigration-system-statistics-data-tables-year-ending-december-2022#detention}
+"detention_summary_flow"
+
+#' Children entering detention
+#'
+#' Number of occurrences of children entering detention, 2010 to 2022
+#'
+#' @format A data frame with 13 rows and 7 variables:
+#' \describe{
+#'   \item{Date of entry to detention}{Date of entry to detention}
+#'   \item{Total children}{Total children}
+#'   \item{Children Under 5 yrs}{Children Under 5 yrs}
+#'   \item{Children 5-11 yrs}{Children 5-11 yrs}
+#'   \item{Children 12-16 yrs}{Children 12-16 yrs}
+#'   \item{Children 17 yrs}{Children 17 yrs}
+#'   \item{Total adults (18+)}{Total adults (18+)}
+#'   ...
+#' }
+#' @source \url{https://www.gov.uk/government/statistical-data-sets/immigration-system-statistics-data-tables-year-ending-december-2022#detention}
+"children_entering_detention"
+
+#' Deaths of persons detained under Immigration Act Powers and absconds from
+#' detention, 2017 to 2021
+#'
+#' @format A data frame with 5 rows and 4 variables:
+#' \describe{
+#'   \item{Year}{Year}
+#'   \item{Deaths of persons detained under Immigration Powers}{Deaths of persons detained under Immigration Powers}
+#'   \item{Of which occurred in the detention estate}{Of which occurred in the detention estate}
+#'   \item{Absconds from detention}{Absconds from detention}
+#'   ...
+#' }
+#' @source \url{https://www.gov.uk/government/statistical-data-sets/immigration-system-statistics-data-tables-year-ending-december-2022#detention}
+"detentions_deaths_and_absconds"
+
+#' Deaths of persons detained under Immigration Act Powers, 2017 to 2021
+#'
+#' @format A data frame with 10 rows and 8 variables:
+#' \describe{
+#'   \item{Year}{Year}
+#'   \item{Number}{Number identifying a person within each year}
+#'   \item{Sex}{Sex}
+#'   \item{Age}{Age}
+#'   \item{Nationality}{Nationality}
+#'   \item{Cause of death}{Cause of death}
+#'   \item{Place of incident}{Place of incident}
+#'   \item{Place of death}{Place of death}
+#'   ...
+#' }
+#' @source \url{https://www.gov.uk/government/statistical-data-sets/immigration-system-statistics-data-tables-year-ending-december-2022#detention}
+"detentions_deaths_details"
+
+#' Irregular migration to the UK
+#'
+#' Number of detected attempts to enter the UK irregularly by method of entry,
+#' nationality, region, sex and age group.
+#'
+#' @format A data frame with 6,503 rows and 9 variables:
+#' \describe{
+#'   \item{Date}{Date}
+#'   \item{Year}{Year}
+#'   \item{Quarter}{Quarter}
+#'   \item{Method of entry}{Method of entry}
+#'   \item{Nationality}{Nationality}
+#'   \item{Region}{Region}
+#'   \item{Sex}{Sex}
+#'   \item{Age Group}{Age Group}
+#'   \item{Number of detections}{Number of detections}
+#'   ...
+#' }
+#' @source \url{https://www.gov.uk/government/statistical-data-sets/immigration-system-statistics-data-tables-year-ending-december-2022#detention}
+"irregular_migration"
