@@ -1,0 +1,3183 @@
+Year,Nationality,Region,Grant,Refused,Initial grant rate
+2001,Afghanistan,Asia Central,9819,2544,0.7942247027420529
+2001,Albania,Europe Other,182,1565,0.10417859187178019
+2001,Algeria,Africa North,140,2589,0.05130084279956028
+2001,American Samoa,Oceania,1,0,1
+2001,Andorra,Europe Other,1,0,1
+2001,Angola,Africa Sub-Saharan,615,674,0.47711404189294027
+2001,Argentina,America Central and South,3,1,0.75
+2001,Armenia,Europe Other,15,127,0.1056338028169014
+2001,Australia,Oceania,1,2,0.3333333333333333
+2001,Azerbaijan,Europe Other,22,110,0.16666666666666666
+2001,Bahrain,Middle East,2,2,0.5
+2001,Bangladesh,Asia South,53,921,0.054414784394250515
+2001,Barbados,America Central and South,0,1,0
+2001,Belarus,Europe Other,11,505,0.02131782945736434
+2001,Belgium,EU 14,0,1,0
+2001,Benin,Africa Sub-Saharan,2,12,0.14285714285714285
+2001,Bermuda (British),Other,1,1,0.5
+2001,Bhutan,Asia South,24,69,0.25806451612903225
+2001,Bolivia,America Central and South,5,49,0.09259259259259259
+2001,Bosnia and Herzegovina,Europe Other,31,160,0.16230366492146597
+2001,Botswana,Africa Sub-Saharan,0,7,0
+2001,Brazil,America Central and South,6,65,0.08450704225352113
+2001,British overseas citizens,Other,8,15,0.34782608695652173
+2001,Brunei,Asia South East,1,1,0.5
+2001,Bulgaria,EU 2,15,128,0.1048951048951049
+2001,Burkina,Africa Sub-Saharan,1,21,0.045454545454545456
+2001,Burma,Asia South East,35,89,0.28225806451612906
+2001,Burundi,Africa Sub-Saharan,474,634,0.427797833935018
+2001,Cambodia,Asia South East,0,3,0
+2001,Cameroon,Africa Sub-Saharan,76,498,0.13240418118466898
+2001,Canada,America North,0,2,0
+2001,Central African Republic,Africa Sub-Saharan,2,5,0.2857142857142857
+2001,Chad,Africa Sub-Saharan,27,84,0.24324324324324326
+2001,Chile,America Central and South,2,12,0.14285714285714285
+2001,China,Asia East,180,4160,0.041474654377880185
+2001,Colombia,America Central and South,97,674,0.125810635538262
+2001,Comoros,Africa Sub-Saharan,0,1,0
+2001,Congo,Africa Sub-Saharan,184,714,0.20489977728285078
+2001,Congo (Democratic Republic),Africa Sub-Saharan,664,1813,0.26806620912394025
+2001,Croatia,EU Other,41,370,0.09975669099756691
+2001,Cuba,America Central and South,2,28,0.06666666666666667
+2001,Cyprus,EU Other,4,26,0.13333333333333333
+2001,Cyprus (Northern part of),Europe Other,49,352,0.12219451371571072
+2001,Czech Republic,EU 8,7,887,0.007829977628635347
+2001,Djibouti,Africa Sub-Saharan,0,4,0
+2001,Dominican Republic,America Central and South,1,3,0.25
+2001,Ecuador,America Central and South,23,496,0.04431599229287091
+2001,Egypt,Africa North,12,94,0.11320754716981132
+2001,El Salvador,America Central and South,0,2,0
+2001,Equatorial Guinea,Africa Sub-Saharan,0,4,0
+2001,Eritrea,Africa Sub-Saharan,351,954,0.2689655172413793
+2001,Estonia,EU 8,1,276,0.0036101083032490976
+2001,Ethiopia,Africa Sub-Saharan,330,844,0.28109028960817717
+2001,Fiji,Oceania,0,5,0
+2001,France,EU 14,0,4,0
+2001,Gabon,Africa Sub-Saharan,0,8,0
+2001,"Gambia, The",Africa Sub-Saharan,24,64,0.2727272727272727
+2001,Georgia,Europe Other,14,202,0.06481481481481481
+2001,Ghana,Africa Sub-Saharan,93,330,0.2198581560283688
+2001,Greece,EU 14,0,1,0
+2001,Grenada,America Central and South,1,2,0.3333333333333333
+2001,Guadeloupe,America Central and South,0,1,0
+2001,Guatemala,America Central and South,0,1,0
+2001,Guinea,Africa Sub-Saharan,34,76,0.3090909090909091
+2001,Guinea-Bissau,Africa Sub-Saharan,0,25,0
+2001,Guyana,America Central and South,0,7,0
+2001,Haiti,America Central and South,0,3,0
+2001,Honduras,America Central and South,0,2,0
+2001,Hong Kong,Asia East,0,20,0
+2001,Hungary,EU 8,0,7,0
+2001,India,Asia South,62,2878,0.02108843537414966
+2001,Indonesia,Asia South East,3,364,0.008174386920980926
+2001,Iran,Middle East,880,5122,0.14661779406864378
+2001,Iraq,Middle East,2718,6317,0.3008301051466519
+2001,Israel,Middle East,7,92,0.0707070707070707
+2001,Ivory Coast,Africa Sub-Saharan,41,457,0.0823293172690763
+2001,Jamaica,America Central and South,20,469,0.0408997955010225
+2001,Japan,Asia East,0,5,0
+2001,Jordan,Middle East,9,42,0.17647058823529413
+2001,Kazakhstan,Asia Central,8,36,0.18181818181818182
+2001,Kenya,Africa Sub-Saharan,96,820,0.10480349344978165
+2001,Korea (North),Asia East,0,14,0
+2001,Korea (South),Asia East,0,4,0
+2001,Kuwait,Middle East,19,44,0.30158730158730157
+2001,Kyrgyzstan,Asia Central,2,10,0.16666666666666666
+2001,Latvia,EU 8,7,405,0.01699029126213592
+2001,Lebanon,Middle East,37,423,0.08043478260869565
+2001,Lesotho,Africa Sub-Saharan,0,2,0
+2001,Liberia,Africa Sub-Saharan,98,94,0.5104166666666666
+2001,Libya,Africa North,143,215,0.3994413407821229
+2001,Liechtenstein,Europe Other,0,1,0
+2001,Lithuania,EU 8,31,664,0.04460431654676259
+2001,Macau,Asia East,1,4,0.2
+2001,Macedonia,Europe Other,152,493,0.23565891472868217
+2001,Madagascar,Africa Sub-Saharan,0,1,0
+2001,Malawi,Africa Sub-Saharan,2,54,0.03571428571428571
+2001,Malaysia,Asia South East,1,25,0.038461538461538464
+2001,Maldives,Asia South,0,1,0
+2001,Mali,Africa Sub-Saharan,0,3,0
+2001,Malta,EU Other,0,1,0
+2001,Mauritania,Africa North,0,8,0
+2001,Mauritius,Africa Sub-Saharan,4,19,0.17391304347826086
+2001,Mexico,America Central and South,0,2,0
+2001,Moldova,Europe Other,51,358,0.12469437652811736
+2001,Mongolia,Asia East,2,181,0.01092896174863388
+2001,Morocco,Africa North,1,50,0.0196078431372549
+2001,Mozambique,Africa Sub-Saharan,2,5,0.2857142857142857
+2001,Namibia,Africa Sub-Saharan,1,3,0.25
+2001,Nepal,Asia South,42,971,0.04146100691016782
+2001,Netherlands,EU 14,0,2,0
+2001,Nicaragua,America Central and South,0,2,0
+2001,Niger,Africa Sub-Saharan,1,23,0.041666666666666664
+2001,Nigeria,Africa Sub-Saharan,157,1110,0.1239147592738753
+2001,Occupied Palestinian Territories,Middle East,3,68,0.04225352112676056
+2001,Oman,Middle East,0,4,0
+2001,Other and unknown,Other,108,341,0.24053452115812918
+2001,Pakistan,Asia South,358,3993,0.0822799356469777
+2001,Peru,America Central and South,12,23,0.34285714285714286
+2001,Philippines,Asia South East,5,46,0.09803921568627451
+2001,Poland,EU 8,15,798,0.01845018450184502
+2001,Portugal,EU 14,0,2,0
+2001,Refugee,Other,1,4,0.2
+2001,Romania,EU 2,75,2130,0.034013605442176874
+2001,Russia,Europe Other,59,840,0.06562847608453838
+2001,Rwanda,Africa Sub-Saharan,537,455,0.5413306451612904
+2001,Samoa,Oceania,0,1,0
+2001,Saudi Arabia,Middle East,0,10,0
+2001,Senegal,Africa Sub-Saharan,0,15,0
+2001,Serbia and Montenegro,Europe Other,2420,9011,0.2117050126848045
+2001,Seychelles,Africa Sub-Saharan,2,17,0.10526315789473684
+2001,Sierra Leone,Africa Sub-Saharan,1593,1126,0.5858771607208533
+2001,Singapore,Asia South East,0,3,0
+2001,Slovakia,EU 8,3,92,0.031578947368421054
+2001,Slovenia,EU 8,0,4,0
+2001,Somalia,Africa Sub-Saharan,4906,3524,0.5819691577698695
+2001,South Africa,Africa Sub-Saharan,5,136,0.03546099290780142
+2001,Spain,EU 14,0,7,0
+2001,Sri Lanka,Asia South,1979,8371,0.19120772946859904
+2001,St. Helena (British),Other,0,1,0
+2001,St. Lucia,America Central and South,1,1,0.5
+2001,St. Pierre and Miquelon,America Central and South,0,1,0
+2001,St. Vincent and the Grenadines,America Central and South,1,1,0.5
+2001,Stateless,Other,0,2,0
+2001,Sudan,Africa North,174,596,0.22597402597402597
+2001,Surinam,America Central and South,2,1,0.6666666666666666
+2001,Swaziland,Africa Sub-Saharan,0,1,0
+2001,Switzerland,Europe Other,0,3,0
+2001,Syria,Middle East,35,178,0.1643192488262911
+2001,Taiwan,Asia East,0,5,0
+2001,Tajikistan,Asia Central,1,12,0.07692307692307693
+2001,Tanzania,Africa Sub-Saharan,24,108,0.18181818181818182
+2001,Thailand,Asia South East,0,30,0
+2001,Togo,Africa Sub-Saharan,36,117,0.23529411764705882
+2001,Trinidad and Tobago,America Central and South,1,8,0.1111111111111111
+2001,Tunisia,Africa North,8,40,0.16666666666666666
+2001,Turkey,Europe Other,487,7340,0.06222051871726077
+2001,Turkmenistan,Asia Central,0,3,0
+2001,Turks and Caicos Islands (British),Other,0,1,0
+2001,Uganda,Africa Sub-Saharan,145,957,0.13157894736842105
+2001,Ukraine,Europe Other,36,1142,0.030560271646859084
+2001,United Arab Emirates,Middle East,4,1,0.8
+2001,United States,America North,1,9,0.1
+2001,Uruguay,America Central and South,1,1,0.5
+2001,Uzbekistan,Asia Central,4,24,0.14285714285714285
+2001,Venezuela,America Central and South,2,16,0.1111111111111111
+2001,Vietnam,Asia South East,90,300,0.23076923076923078
+2001,Western Sahara,Africa North,1,3,0.25
+2001,Yemen,Middle East,53,228,0.18861209964412812
+2001,Zambia,Africa Sub-Saharan,5,38,0.11627906976744186
+2001,Zimbabwe,Africa Sub-Saharan,163,1968,0.07648991083998123
+2002,Afghanistan,Asia Central,4879,3298,0.5966735966735967
+2002,Albania,Europe Other,307,946,0.24501197126895452
+2002,Algeria,Africa North,55,1074,0.048715677590788306
+2002,American Samoa,Oceania,0,1,0
+2002,Angola,Africa Sub-Saharan,764,578,0.5692995529061102
+2002,Antigua and Barbuda,America Central and South,0,2,0
+2002,Argentina,America Central and South,1,4,0.2
+2002,Armenia,Europe Other,13,70,0.1566265060240964
+2002,Australia,Oceania,0,1,0
+2002,Azerbaijan,Europe Other,11,131,0.07746478873239436
+2002,Bahrain,Middle East,1,2,0.3333333333333333
+2002,Bangladesh,Asia South,174,446,0.2806451612903226
+2002,Belarus,Europe Other,15,132,0.10204081632653061
+2002,Benin,Africa Sub-Saharan,0,12,0
+2002,Bhutan,Asia South,10,56,0.15151515151515152
+2002,Bolivia,America Central and South,3,45,0.0625
+2002,Bosnia and Herzegovina,Europe Other,10,64,0.13513513513513514
+2002,Botswana,Africa Sub-Saharan,0,6,0
+2002,Brazil,America Central and South,2,27,0.06896551724137931
+2002,British overseas citizens,Other,6,20,0.23076923076923078
+2002,Brunei,Asia South East,1,0,1
+2002,Bulgaria,EU 2,0,82,0
+2002,Burkina,Africa Sub-Saharan,1,13,0.07142857142857142
+2002,Burma,Asia South East,27,56,0.3253012048192771
+2002,Burundi,Africa Sub-Saharan,343,342,0.5007299270072992
+2002,Cambodia,Asia South East,0,2,0
+2002,Cameroon,Africa Sub-Saharan,81,439,0.15576923076923077
+2002,Canada,America North,0,3,0
+2002,Central African Republic,Africa Sub-Saharan,0,1,0
+2002,Chad,Africa Sub-Saharan,15,27,0.35714285714285715
+2002,Chile,America Central and South,3,3,0.5
+2002,China,Asia East,251,3361,0.0694905869324474
+2002,Colombia,America Central and South,64,416,0.13333333333333333
+2002,Comoros,Africa Sub-Saharan,0,3,0
+2002,Congo,Africa Sub-Saharan,96,483,0.16580310880829016
+2002,Congo (Democratic Republic),Africa Sub-Saharan,462,1590,0.22514619883040934
+2002,Costa Rica,America Central and South,0,2,0
+2002,Croatia,EU Other,8,69,0.1038961038961039
+2002,Cuba,America Central and South,1,17,0.05555555555555555
+2002,Cyprus,EU Other,3,40,0.06976744186046512
+2002,Cyprus (Northern part of),Europe Other,11,43,0.2037037037037037
+2002,Czech Republic,EU 8,10,1219,0.008136696501220505
+2002,Djibouti,Africa Sub-Saharan,1,3,0.25
+2002,Dominican Republic,America Central and South,1,1,0.5
+2002,Ecuador,America Central and South,30,292,0.09316770186335403
+2002,Egypt,Africa North,4,70,0.05405405405405406
+2002,Eritrea,Africa Sub-Saharan,352,756,0.3176895306859206
+2002,Estonia,EU 8,1,45,0.021739130434782608
+2002,Ethiopia,Africa Sub-Saharan,220,484,0.3125
+2002,Fiji,Oceania,0,3,0
+2002,France,EU 14,0,6,0
+2002,Gabon,Africa Sub-Saharan,1,1,0.5
+2002,"Gambia, The",Africa Sub-Saharan,5,107,0.044642857142857144
+2002,Georgia,Europe Other,24,130,0.15584415584415584
+2002,Germany,EU 14,0,1,0
+2002,Ghana,Africa Sub-Saharan,24,230,0.09448818897637795
+2002,Guatemala,America Central and South,0,19,0
+2002,Guinea,Africa Sub-Saharan,55,153,0.2644230769230769
+2002,Guinea-Bissau,Africa Sub-Saharan,0,14,0
+2002,Guyana,America Central and South,1,4,0.2
+2002,Honduras,America Central and South,0,2,0
+2002,Hong Kong,Asia East,1,6,0.14285714285714285
+2002,Hungary,EU 8,0,17,0
+2002,India,Asia South,40,1813,0.021586616297895305
+2002,Indonesia,Asia South East,0,46,0
+2002,Iran,Middle East,544,2422,0.18341200269723534
+2002,Iraq,Middle East,8910,2995,0.74842503149937
+2002,Ireland,EU 14,0,1,0
+2002,Israel,Middle East,3,50,0.05660377358490566
+2002,Italy,EU 14,0,2,0
+2002,Ivory Coast,Africa Sub-Saharan,23,200,0.1031390134529148
+2002,Jamaica,America Central and South,23,891,0.02516411378555799
+2002,Japan,Asia East,0,3,0
+2002,Jordan,Middle East,0,14,0
+2002,Kazakhstan,Asia Central,0,33,0
+2002,Kenya,Africa Sub-Saharan,59,301,0.1638888888888889
+2002,Korea (North),Asia East,1,2,0.3333333333333333
+2002,Korea (South),Asia East,0,3,0
+2002,Kuwait,Middle East,8,17,0.32
+2002,Kyrgyzstan,Asia Central,1,13,0.07142857142857142
+2002,Latvia,EU 8,4,233,0.016877637130801686
+2002,Lebanon,Middle East,7,99,0.0660377358490566
+2002,Lesotho,Africa Sub-Saharan,0,4,0
+2002,Liberia,Africa Sub-Saharan,131,224,0.36901408450704226
+2002,Libya,Africa North,111,76,0.5935828877005348
+2002,Lithuania,EU 8,1,341,0.0029239766081871343
+2002,Macau,Asia East,0,3,0
+2002,Macedonia,Europe Other,141,296,0.32265446224256294
+2002,Malawi,Africa Sub-Saharan,6,55,0.09836065573770492
+2002,Malaysia,Asia South East,0,19,0
+2002,Maldives,Asia South,0,9,0
+2002,Mali,Africa Sub-Saharan,1,4,0.2
+2002,Malta,EU Other,0,1,0
+2002,Mauritania,Africa North,0,2,0
+2002,Mauritius,Africa Sub-Saharan,2,7,0.2222222222222222
+2002,Mexico,America Central and South,0,2,0
+2002,Moldova,Europe Other,114,593,0.16124469589816123
+2002,Mongolia,Asia East,8,156,0.04878048780487805
+2002,Morocco,Africa North,2,31,0.06060606060606061
+2002,Mozambique,Africa Sub-Saharan,0,3,0
+2002,Namibia,Africa Sub-Saharan,0,9,0
+2002,Nepal,Asia South,20,561,0.03442340791738382
+2002,Netherlands,EU 14,0,2,0
+2002,Niger,Africa Sub-Saharan,0,6,0
+2002,Nigeria,Africa Sub-Saharan,101,1009,0.09099099099099099
+2002,Norway,Europe Other,0,1,0
+2002,Occupied Palestinian Territories,Middle East,17,224,0.07053941908713693
+2002,Oman,Middle East,0,1,0
+2002,Other and unknown,Other,12,64,0.15789473684210525
+2002,Pakistan,Asia South,211,2309,0.08373015873015872
+2002,Papua New Guinea,Oceania,1,0,1
+2002,Peru,America Central and South,1,11,0.08333333333333333
+2002,Philippines,Asia South East,1,13,0.07142857142857142
+2002,Poland,EU 8,4,906,0.004395604395604396
+2002,Portugal,EU 14,0,1,0
+2002,Refugee,Other,1,21,0.045454545454545456
+2002,Romania,EU 2,74,1095,0.06330196749358426
+2002,Russia,Europe Other,36,321,0.10084033613445378
+2002,Rwanda,Africa Sub-Saharan,367,315,0.5381231671554252
+2002,Sao Tome and Principe,Africa Sub-Saharan,0,1,0
+2002,Saudi Arabia,Middle East,0,1,0
+2002,Senegal,Africa Sub-Saharan,2,23,0.08
+2002,Serbia and Montenegro,Europe Other,1053,2449,0.30068532267275844
+2002,Seychelles,Africa Sub-Saharan,0,21,0
+2002,Sierra Leone,Africa Sub-Saharan,238,1257,0.1591973244147157
+2002,Singapore,Asia South East,0,5,0
+2002,Slovakia,EU 8,3,115,0.025423728813559324
+2002,Slovenia,EU 8,0,3,0
+2002,Somalia,Africa Sub-Saharan,3920,2817,0.5818613626243135
+2002,South Africa,Africa Sub-Saharan,1,191,0.005208333333333333
+2002,Spain,EU 14,0,2,0
+2002,Sri Lanka,Asia South,615,3669,0.14355742296918766
+2002,St. Lucia,America Central and South,0,2,0
+2002,St. Vincent and the Grenadines,America Central and South,0,1,0
+2002,Stateless,Other,1,3,0.25
+2002,Sudan,Africa North,110,453,0.19538188277087035
+2002,Swaziland,Africa Sub-Saharan,0,1,0
+2002,Syria,Middle East,23,73,0.23958333333333334
+2002,Taiwan,Asia East,0,1,0
+2002,Tajikistan,Asia Central,0,11,0
+2002,Tanzania,Africa Sub-Saharan,10,34,0.22727272727272727
+2002,Thailand,Asia South East,0,7,0
+2002,Togo,Africa Sub-Saharan,11,77,0.125
+2002,Tonga,Oceania,0,1,0
+2002,Trinidad and Tobago,America Central and South,0,9,0
+2002,Tunisia,Africa North,2,12,0.14285714285714285
+2002,Turkey,Europe Other,350,3147,0.10008578781812982
+2002,Turkmenistan,Asia Central,2,2,0.5
+2002,Turks and Caicos Islands (British),Other,0,1,0
+2002,Uganda,Africa Sub-Saharan,158,511,0.23617339312406577
+2002,Ukraine,Europe Other,10,299,0.032362459546925564
+2002,United Arab Emirates,Middle East,0,1,0
+2002,United States,America North,0,3,0
+2002,Uzbekistan,Asia Central,1,18,0.05263157894736842
+2002,Venezuela,America Central and South,0,14,0
+2002,Vietnam,Asia South East,161,563,0.2223756906077348
+2002,Western Sahara,Africa North,0,3,0
+2002,Yemen,Middle East,47,126,0.27167630057803466
+2002,Zambia,Africa Sub-Saharan,6,17,0.2608695652173913
+2002,Zimbabwe,Africa Sub-Saharan,2350,3885,0.3769045709703288
+2003,Afghanistan,Asia Central,598,3377,0.15044025157232704
+2003,Albania,Europe Other,199,632,0.2394705174488568
+2003,Algeria,Africa North,37,698,0.050340136054421766
+2003,Angola,Africa Sub-Saharan,410,685,0.3744292237442922
+2003,Antigua and Barbuda,America Central and South,0,1,0
+2003,Argentina,America Central and South,0,3,0
+2003,Armenia,Europe Other,8,49,0.14035087719298245
+2003,Azerbaijan,Europe Other,8,132,0.05714285714285714
+2003,Bahrain,Middle East,0,1,0
+2003,Bangladesh,Asia South,339,501,0.4035714285714286
+2003,Belarus,Europe Other,6,158,0.036585365853658534
+2003,Belize,America Central and South,0,1,0
+2003,Benin,Africa Sub-Saharan,0,10,0
+2003,Bhutan,Asia South,9,58,0.13432835820895522
+2003,Bolivia,America Central and South,7,75,0.08536585365853659
+2003,Bosnia and Herzegovina,Europe Other,4,61,0.06153846153846154
+2003,Botswana,Africa Sub-Saharan,0,16,0
+2003,Brazil,America Central and South,1,21,0.045454545454545456
+2003,British overseas citizens,Other,1,11,0.08333333333333333
+2003,Bulgaria,EU 2,2,37,0.05128205128205128
+2003,Burkina,Africa Sub-Saharan,2,9,0.18181818181818182
+2003,Burma,Asia South East,33,107,0.2357142857142857
+2003,Burundi,Africa Sub-Saharan,341,432,0.4411384217335058
+2003,Cameroon,Africa Sub-Saharan,64,526,0.10847457627118644
+2003,Canada,America North,0,3,0
+2003,Central African Republic,Africa Sub-Saharan,0,13,0
+2003,Chad,Africa Sub-Saharan,8,30,0.21052631578947367
+2003,Chile,America Central and South,0,7,0
+2003,China,Asia East,175,3692,0.045254719420739595
+2003,Colombia,America Central and South,21,314,0.0626865671641791
+2003,Comoros,Africa Sub-Saharan,0,3,0
+2003,Congo,Africa Sub-Saharan,72,340,0.17475728155339806
+2003,Congo (Democratic Republic),Africa Sub-Saharan,287,1684,0.14561136478944697
+2003,Croatia,EU Other,1,83,0.011904761904761904
+2003,Cuba,America Central and South,2,18,0.1
+2003,Cyprus,EU Other,0,18,0
+2003,Cyprus (Northern part of),Europe Other,0,36,0
+2003,Czech Republic,EU 8,1,108,0.009174311926605505
+2003,Dominican Republic,America Central and South,1,0,1
+2003,Ecuador,America Central and South,14,220,0.05982905982905983
+2003,Egypt,Africa North,7,54,0.11475409836065574
+2003,Equatorial Guinea,Africa Sub-Saharan,1,3,0.25
+2003,Eritrea,Africa Sub-Saharan,239,877,0.21415770609318996
+2003,Estonia,EU 8,2,34,0.05555555555555555
+2003,Ethiopia,Africa Sub-Saharan,150,591,0.20242914979757085
+2003,Fiji,Oceania,0,4,0
+2003,France,EU 14,0,1,0
+2003,Gabon,Africa Sub-Saharan,0,2,0
+2003,"Gambia, The",Africa Sub-Saharan,9,101,0.08181818181818182
+2003,Georgia,Europe Other,13,211,0.05803571428571429
+2003,Ghana,Africa Sub-Saharan,16,318,0.04790419161676647
+2003,Guatemala,America Central and South,0,8,0
+2003,Guinea,Africa Sub-Saharan,48,165,0.22535211267605634
+2003,Guinea-Bissau,Africa Sub-Saharan,0,14,0
+2003,Guyana,America Central and South,1,10,0.09090909090909091
+2003,Honduras,America Central and South,0,2,0
+2003,Hong Kong,Asia East,0,3,0
+2003,Hungary,EU 8,0,14,0
+2003,India,Asia South,36,2299,0.015417558886509636
+2003,Indonesia,Asia South East,1,27,0.03571428571428571
+2003,Iran,Middle East,226,2928,0.07165504121750159
+2003,Iraq,Middle East,2224,4582,0.32677049662062885
+2003,Ireland,EU 14,0,1,0
+2003,Israel,Middle East,0,51,0
+2003,Italy,EU 14,0,1,0
+2003,Ivory Coast,Africa Sub-Saharan,44,470,0.08560311284046693
+2003,Jamaica,America Central and South,13,1106,0.01161751563896336
+2003,Jordan,Middle East,0,23,0
+2003,Kazakhstan,Asia Central,0,15,0
+2003,Kenya,Africa Sub-Saharan,57,246,0.18811881188118812
+2003,Korea (North),Asia East,0,1,0
+2003,Korea (South),Asia East,1,1,0.5
+2003,Kuwait,Middle East,11,52,0.1746031746031746
+2003,Kyrgyzstan,Asia Central,3,26,0.10344827586206896
+2003,Laos,Asia South East,0,1,0
+2003,Latvia,EU 8,1,62,0.015873015873015872
+2003,Lebanon,Middle East,21,256,0.07581227436823104
+2003,Lesotho,Africa Sub-Saharan,0,2,0
+2003,Liberia,Africa Sub-Saharan,109,650,0.14361001317523056
+2003,Libya,Africa North,23,183,0.11165048543689321
+2003,Lithuania,EU 8,6,124,0.046153846153846156
+2003,Macau,Asia East,0,1,0
+2003,Macedonia,Europe Other,32,75,0.29906542056074764
+2003,Malawi,Africa Sub-Saharan,2,149,0.013245033112582781
+2003,Malaysia,Asia South East,0,28,0
+2003,Maldives,Asia South,0,2,0
+2003,Mali,Africa Sub-Saharan,1,7,0.125
+2003,Malta,EU Other,0,1,0
+2003,Mauritania,Africa North,0,2,0
+2003,Mauritius,Africa Sub-Saharan,0,9,0
+2003,Mexico,America Central and South,0,3,0
+2003,Moldova,Europe Other,63,417,0.13125
+2003,Mongolia,Asia East,6,168,0.034482758620689655
+2003,Morocco,Africa North,4,25,0.13793103448275862
+2003,Mozambique,Africa Sub-Saharan,0,2,0
+2003,Namibia,Africa Sub-Saharan,0,2,0
+2003,Nepal,Asia South,5,288,0.017064846416382253
+2003,Nicaragua,America Central and South,0,1,0
+2003,Niger,Africa Sub-Saharan,1,9,0.1
+2003,Nigeria,Africa Sub-Saharan,71,1038,0.06402164111812443
+2003,Occupied Palestinian Territories,Middle East,41,1198,0.033091202582728005
+2003,Oman,Middle East,0,1,0
+2003,Other and unknown,Other,42,185,0.18502202643171806
+2003,Pakistan,Asia South,153,2051,0.06941923774954628
+2003,Panama,America Central and South,2,1,0.6666666666666666
+2003,Paraguay,America Central and South,0,3,0
+2003,Peru,America Central and South,2,6,0.25
+2003,Philippines,Asia South East,0,16,0
+2003,Poland,EU 8,12,139,0.07947019867549669
+2003,Portugal,EU 14,0,1,0
+2003,Refugee,Other,2,28,0.06666666666666667
+2003,Romania,EU 2,48,646,0.069164265129683
+2003,Russia,Europe Other,22,339,0.060941828254847646
+2003,Rwanda,Africa Sub-Saharan,95,361,0.20833333333333334
+2003,Senegal,Africa Sub-Saharan,0,32,0
+2003,Serbia and Montenegro,Europe Other,363,1624,0.18268746854554604
+2003,Seychelles,Africa Sub-Saharan,0,8,0
+2003,Sierra Leone,Africa Sub-Saharan,81,612,0.11688311688311688
+2003,Singapore,Asia South East,0,4,0
+2003,Slovakia,EU 8,1,22,0.043478260869565216
+2003,Slovenia,EU 8,0,2,0
+2003,Solomon Islands,Oceania,0,1,0
+2003,Somalia,Africa Sub-Saharan,2216,3833,0.3663415440568689
+2003,South Africa,Africa Sub-Saharan,6,243,0.024096385542168676
+2003,Sri Lanka,Asia South,117,1355,0.07948369565217392
+2003,St. Lucia,America Central and South,0,1,0
+2003,Stateless,Other,1,6,0.14285714285714285
+2003,Sudan,Africa North,155,593,0.2072192513368984
+2003,Swaziland,Africa Sub-Saharan,0,2,0
+2003,Syria,Middle East,9,119,0.0703125
+2003,Tajikistan,Asia Central,0,6,0
+2003,Tanzania,Africa Sub-Saharan,10,42,0.19230769230769232
+2003,Thailand,Asia South East,0,6,0
+2003,Togo,Africa Sub-Saharan,14,81,0.14736842105263157
+2003,Trinidad and Tobago,America Central and South,0,14,0
+2003,Tunisia,Africa North,3,10,0.23076923076923078
+2003,Turkey,Europe Other,231,2998,0.0715391762155466
+2003,Turkmenistan,Asia Central,2,11,0.15384615384615385
+2003,Uganda,Africa Sub-Saharan,196,613,0.242274412855377
+2003,Ukraine,Europe Other,9,341,0.025714285714285714
+2003,United Arab Emirates,Middle East,0,4,0
+2003,United States,America North,0,1,0
+2003,Uzbekistan,Asia Central,4,21,0.16
+2003,Venezuela,America Central and South,0,18,0
+2003,Vietnam,Asia South East,207,968,0.17617021276595746
+2003,Western Sahara,Africa North,1,1,0.5
+2003,Yemen,Middle East,20,85,0.19047619047619047
+2003,Zambia,Africa Sub-Saharan,4,16,0.2
+2003,Zimbabwe,Africa Sub-Saharan,907,3283,0.21646778042959428
+2004,Afghanistan,Asia Central,451,2227,0.16840926064227035
+2004,Albania,Europe Other,110,397,0.21696252465483234
+2004,Algeria,Africa North,34,588,0.05466237942122187
+2004,Angola,Africa Sub-Saharan,111,471,0.19072164948453607
+2004,Armenia,Europe Other,1,45,0.021739130434782608
+2004,Azerbaijan,Europe Other,9,76,0.10588235294117647
+2004,Bahrain,Middle East,0,2,0
+2004,Bangladesh,Asia South,277,307,0.4743150684931507
+2004,Belarus,Europe Other,3,181,0.016304347826086956
+2004,Belgium,EU 14,0,1,0
+2004,Benin,Africa Sub-Saharan,0,7,0
+2004,Bhutan,Asia South,7,66,0.0958904109589041
+2004,Bolivia,America Central and South,1,11,0.08333333333333333
+2004,Bosnia and Herzegovina,Europe Other,2,21,0.08695652173913043
+2004,Botswana,Africa Sub-Saharan,1,7,0.125
+2004,Brazil,America Central and South,0,29,0
+2004,British overseas citizens,Other,0,2,0
+2004,Brunei,Asia South East,0,1,0
+2004,Bulgaria,EU 2,2,19,0.09523809523809523
+2004,Burkina,Africa Sub-Saharan,0,13,0
+2004,Burma,Asia South East,16,80,0.16666666666666666
+2004,Burundi,Africa Sub-Saharan,121,249,0.327027027027027
+2004,Cameroon,Africa Sub-Saharan,70,336,0.1724137931034483
+2004,Canada,America North,0,3,0
+2004,Cape Verde,Africa Sub-Saharan,0,2,0
+2004,Central African Republic,Africa Sub-Saharan,1,3,0.25
+2004,Chad,Africa Sub-Saharan,4,27,0.12903225806451613
+2004,Chile,America Central and South,0,4,0
+2004,China,Asia East,94,2524,0.03590527119938885
+2004,Colombia,America Central and South,8,150,0.05063291139240506
+2004,Congo,Africa Sub-Saharan,36,217,0.1422924901185771
+2004,Congo (Democratic Republic),Africa Sub-Saharan,233,1542,0.13126760563380283
+2004,Costa Rica,America Central and South,0,1,0
+2004,Croatia,EU Other,4,36,0.1
+2004,Cuba,America Central and South,0,19,0
+2004,Cyprus,EU Other,1,4,0.2
+2004,Cyprus (Northern part of),Europe Other,0,18,0
+2004,Czech Republic,EU 8,0,52,0
+2004,Djibouti,Africa Sub-Saharan,0,5,0
+2004,Dominica,America Central and South,0,3,0
+2004,Dominican Republic,America Central and South,1,3,0.25
+2004,Ecuador,America Central and South,3,51,0.05555555555555555
+2004,Egypt,Africa North,4,91,0.042105263157894736
+2004,El Salvador,America Central and South,1,2,0.3333333333333333
+2004,Equatorial Guinea,Africa Sub-Saharan,0,4,0
+2004,Eritrea,Africa Sub-Saharan,259,737,0.2600401606425703
+2004,Estonia,EU 8,0,13,0
+2004,Ethiopia,Africa Sub-Saharan,145,516,0.21936459909228442
+2004,France,EU 14,0,2,0
+2004,Gabon,Africa Sub-Saharan,0,2,0
+2004,"Gambia, The",Africa Sub-Saharan,2,116,0.01694915254237288
+2004,Georgia,Europe Other,10,152,0.06172839506172839
+2004,Ghana,Africa Sub-Saharan,10,314,0.030864197530864196
+2004,Grenada,America Central and South,0,1,0
+2004,Guatemala,America Central and South,0,1,0
+2004,Guinea,Africa Sub-Saharan,54,268,0.16770186335403728
+2004,Guinea-Bissau,Africa Sub-Saharan,2,22,0.08333333333333333
+2004,Guyana,America Central and South,1,4,0.2
+2004,Hungary,EU 8,0,3,0
+2004,India,Asia South,19,1512,0.012410189418680601
+2004,Indonesia,Asia South East,1,27,0.03571428571428571
+2004,Iran,Middle East,300,3589,0.07714065312419645
+2004,Iraq,Middle East,197,4617,0.040922309929372666
+2004,Ireland,EU 14,0,2,0
+2004,Israel,Middle East,1,44,0.022222222222222223
+2004,Italy,EU 14,0,1,0
+2004,Ivory Coast,Africa Sub-Saharan,20,269,0.06920415224913495
+2004,Jamaica,America Central and South,11,500,0.021526418786692758
+2004,Japan,Asia East,0,3,0
+2004,Jordan,Middle East,1,13,0.07142857142857142
+2004,Kazakhstan,Asia Central,2,6,0.25
+2004,Kenya,Africa Sub-Saharan,35,172,0.16908212560386474
+2004,Korea (North),Asia East,10,46,0.17857142857142858
+2004,Korea (South),Asia East,0,1,0
+2004,Kuwait,Middle East,2,37,0.05128205128205128
+2004,Kyrgyzstan,Asia Central,2,16,0.1111111111111111
+2004,Latvia,EU 8,0,17,0
+2004,Lebanon,Middle East,5,141,0.03424657534246575
+2004,Lesotho,Africa Sub-Saharan,0,1,0
+2004,Liberia,Africa Sub-Saharan,67,434,0.13373253493013973
+2004,Libya,Africa North,16,157,0.09248554913294797
+2004,Lithuania,EU 8,1,48,0.02040816326530612
+2004,Macedonia,Europe Other,13,26,0.3333333333333333
+2004,Madagascar,Africa Sub-Saharan,0,2,0
+2004,Malawi,Africa Sub-Saharan,7,150,0.044585987261146494
+2004,Malaysia,Asia South East,1,9,0.1
+2004,Maldives,Asia South,1,1,0.5
+2004,Mali,Africa Sub-Saharan,2,8,0.2
+2004,Malta,EU Other,0,1,0
+2004,Mauritania,Africa North,4,13,0.23529411764705882
+2004,Mauritius,Africa Sub-Saharan,1,21,0.045454545454545456
+2004,Moldova,Europe Other,36,171,0.17391304347826086
+2004,Mongolia,Asia East,10,122,0.07575757575757576
+2004,Morocco,Africa North,3,28,0.0967741935483871
+2004,Mozambique,Africa Sub-Saharan,0,4,0
+2004,Namibia,Africa Sub-Saharan,0,2,0
+2004,Nepal,Asia South,6,194,0.03
+2004,Netherlands,EU 14,0,1,0
+2004,Nicaragua,America Central and South,0,1,0
+2004,Niger,Africa Sub-Saharan,0,7,0
+2004,Nigeria,Africa Sub-Saharan,51,988,0.04908565928777671
+2004,Occupied Palestinian Territories,Middle East,32,513,0.05871559633027523
+2004,Oman,Middle East,1,0,1
+2004,Other and unknown,Other,2,24,0.07692307692307693
+2004,Pakistan,Asia South,167,1797,0.08503054989816701
+2004,Peru,America Central and South,0,9,0
+2004,Philippines,Asia South East,2,22,0.08333333333333333
+2004,Poland,EU 8,0,63,0
+2004,Qatar,Middle East,0,3,0
+2004,Refugee,Other,1,48,0.02040816326530612
+2004,Romania,EU 2,80,298,0.21164021164021163
+2004,Russia,Europe Other,29,215,0.11885245901639344
+2004,Rwanda,Africa Sub-Saharan,37,170,0.178743961352657
+2004,Sao Tome and Principe,Africa Sub-Saharan,0,1,0
+2004,Saudi Arabia,Middle East,0,2,0
+2004,Senegal,Africa Sub-Saharan,1,26,0.037037037037037035
+2004,Serbia and Montenegro,Europe Other,182,961,0.15923009623797024
+2004,Seychelles,Africa Sub-Saharan,0,6,0
+2004,Sierra Leone,Africa Sub-Saharan,53,322,0.14133333333333334
+2004,Singapore,Asia South East,0,1,0
+2004,Slovakia,EU 8,0,14,0
+2004,Slovenia,EU 8,0,1,0
+2004,Somalia,Africa Sub-Saharan,918,2357,0.28030534351145037
+2004,South Africa,Africa Sub-Saharan,2,229,0.008658008658008658
+2004,Sri Lanka,Asia South,98,623,0.13592233009708737
+2004,St. Lucia,America Central and South,0,4,0
+2004,Stateless,Other,0,5,0
+2004,Sudan,Africa North,159,1304,0.10868079289131921
+2004,Swaziland,Africa Sub-Saharan,0,3,0
+2004,Syria,Middle East,28,254,0.09929078014184398
+2004,Tajikistan,Asia Central,0,4,0
+2004,Tanzania,Africa Sub-Saharan,8,20,0.2857142857142857
+2004,Thailand,Asia South East,1,8,0.1111111111111111
+2004,Togo,Africa Sub-Saharan,7,90,0.07216494845360824
+2004,Trinidad and Tobago,America Central and South,1,6,0.14285714285714285
+2004,Tunisia,Africa North,4,12,0.25
+2004,Turkey,Europe Other,178,1985,0.08229311141932501
+2004,Turkmenistan,Asia Central,7,7,0.5
+2004,Uganda,Africa Sub-Saharan,131,353,0.2706611570247934
+2004,Ukraine,Europe Other,13,133,0.08904109589041095
+2004,United States,America North,0,4,0
+2004,Uzbekistan,Asia Central,1,26,0.037037037037037035
+2004,Venezuela,America Central and South,2,6,0.25
+2004,Vietnam,Asia South East,223,673,0.24888392857142858
+2004,Western Sahara,Africa North,0,2,0
+2004,Yemen,Middle East,25,81,0.2358490566037736
+2004,Zambia,Africa Sub-Saharan,2,18,0.1
+2004,Zimbabwe,Africa Sub-Saharan,249,2310,0.09730363423212192
+2005,Afghanistan,Asia Central,499,1052,0.3217279174725983
+2005,Albania,Europe Other,32,149,0.17679558011049723
+2005,Algeria,Africa North,27,269,0.09121621621621621
+2005,Angola,Africa Sub-Saharan,47,158,0.22926829268292684
+2005,Antigua and Barbuda,America Central and South,0,1,0
+2005,Argentina,America Central and South,0,2,0
+2005,Armenia,Europe Other,3,27,0.1
+2005,Azerbaijan,Europe Other,5,43,0.10416666666666667
+2005,Bangladesh,Asia South,143,250,0.3638676844783715
+2005,Belarus,Europe Other,6,50,0.10714285714285714
+2005,Benin,Africa Sub-Saharan,0,11,0
+2005,Bhutan,Asia South,2,15,0.11764705882352941
+2005,Bolivia,America Central and South,3,12,0.2
+2005,Bosnia and Herzegovina,Europe Other,4,22,0.15384615384615385
+2005,Botswana,Africa Sub-Saharan,0,4,0
+2005,Brazil,America Central and South,0,7,0
+2005,British overseas citizens,Other,1,0,1
+2005,Bulgaria,EU 2,4,2,0.6666666666666666
+2005,Burkina,Africa Sub-Saharan,1,9,0.1
+2005,Burma,Asia South East,26,35,0.4262295081967213
+2005,Burundi,Africa Sub-Saharan,43,98,0.3049645390070922
+2005,Cambodia,Asia South East,0,1,0
+2005,Cameroon,Africa Sub-Saharan,53,243,0.17905405405405406
+2005,Canada,America North,0,2,0
+2005,Central African Republic,Africa Sub-Saharan,0,2,0
+2005,Chad,Africa Sub-Saharan,10,9,0.5263157894736842
+2005,Chile,America Central and South,0,1,0
+2005,China,Asia East,87,1684,0.04912478825522304
+2005,Colombia,America Central and South,8,65,0.1095890410958904
+2005,Comoros,Africa Sub-Saharan,0,1,0
+2005,Congo,Africa Sub-Saharan,16,76,0.17391304347826086
+2005,Congo (Democratic Republic),Africa Sub-Saharan,216,983,0.18015012510425354
+2005,Costa Rica,America Central and South,0,1,0
+2005,Croatia,EU Other,5,19,0.20833333333333334
+2005,Cuba,America Central and South,1,13,0.07142857142857142
+2005,Cyprus (Northern part of),Europe Other,1,2,0.3333333333333333
+2005,Czech Republic,EU 8,0,7,0
+2005,Djibouti,Africa Sub-Saharan,1,0,1
+2005,Dominica,America Central and South,0,1,0
+2005,Ecuador,America Central and South,1,20,0.047619047619047616
+2005,Egypt,Africa North,0,51,0
+2005,Equatorial Guinea,Africa Sub-Saharan,0,3,0
+2005,Eritrea,Africa Sub-Saharan,691,963,0.41777509068923824
+2005,Estonia,EU 8,0,2,0
+2005,Ethiopia,Africa Sub-Saharan,50,345,0.12658227848101267
+2005,France,EU 14,0,2,0
+2005,Gabon,Africa Sub-Saharan,0,2,0
+2005,"Gambia, The",Africa Sub-Saharan,5,82,0.05747126436781609
+2005,Georgia,Europe Other,3,94,0.030927835051546393
+2005,Germany,EU 14,0,1,0
+2005,Ghana,Africa Sub-Saharan,15,188,0.07389162561576355
+2005,Grenada,America Central and South,0,1,0
+2005,Guinea,Africa Sub-Saharan,60,129,0.31746031746031744
+2005,Guinea-Bissau,Africa Sub-Saharan,0,1,0
+2005,Guyana,America Central and South,0,4,0
+2005,Haiti,America Central and South,0,2,0
+2005,Hong Kong,Asia East,0,4,0
+2005,Hungary,EU 8,0,1,0
+2005,India,Asia South,20,916,0.021367521367521368
+2005,Indonesia,Asia South East,0,7,0
+2005,Iran,Middle East,457,2848,0.1382753403933434
+2005,Iraq,Middle East,161,1673,0.08778625954198473
+2005,Ireland,EU 14,0,1,0
+2005,Israel,Middle East,0,32,0
+2005,Ivory Coast,Africa Sub-Saharan,37,167,0.18137254901960784
+2005,Jamaica,America Central and South,12,305,0.03785488958990536
+2005,Japan,Asia East,0,1,0
+2005,Jordan,Middle East,0,7,0
+2005,Kazakhstan,Asia Central,0,7,0
+2005,Kenya,Africa Sub-Saharan,13,93,0.12264150943396226
+2005,Korea (North),Asia East,15,9,0.625
+2005,Korea (South),Asia East,0,1,0
+2005,Kuwait,Middle East,15,19,0.4411764705882353
+2005,Kyrgyzstan,Asia Central,0,5,0
+2005,Lebanon,Middle East,7,77,0.08333333333333333
+2005,Lesotho,Africa Sub-Saharan,0,2,0
+2005,Liberia,Africa Sub-Saharan,18,195,0.08450704225352113
+2005,Libya,Africa North,13,132,0.0896551724137931
+2005,Lithuania,EU 8,0,9,0
+2005,Macedonia,Europe Other,0,12,0
+2005,Malawi,Africa Sub-Saharan,2,110,0.017857142857142856
+2005,Malaysia,Asia South East,0,12,0
+2005,Maldives,Asia South,4,0,1
+2005,Mali,Africa Sub-Saharan,1,6,0.14285714285714285
+2005,Mauritania,Africa North,1,8,0.1111111111111111
+2005,Mauritius,Africa Sub-Saharan,1,5,0.16666666666666666
+2005,Moldova,Europe Other,18,86,0.17307692307692307
+2005,Mongolia,Asia East,3,93,0.03125
+2005,Morocco,Africa North,8,29,0.21621621621621623
+2005,Mozambique,Africa Sub-Saharan,1,4,0.2
+2005,Namibia,Africa Sub-Saharan,0,2,0
+2005,Nepal,Asia South,2,68,0.02857142857142857
+2005,Niger,Africa Sub-Saharan,0,7,0
+2005,Nigeria,Africa Sub-Saharan,69,806,0.07885714285714286
+2005,Occupied Palestinian Territories,Middle East,28,411,0.06378132118451026
+2005,Oman,Middle East,0,1,0
+2005,Other and unknown,Other,4,15,0.21052631578947367
+2005,Pakistan,Asia South,122,1041,0.10490111779879621
+2005,Peru,America Central and South,0,6,0
+2005,Philippines,Asia South East,0,8,0
+2005,Poland,EU 8,0,8,0
+2005,Qatar,Middle East,1,1,0.5
+2005,Refugee,Other,27,50,0.35064935064935066
+2005,Romania,EU 2,39,124,0.2392638036809816
+2005,Russia,Europe Other,23,117,0.16428571428571428
+2005,Rwanda,Africa Sub-Saharan,6,48,0.1111111111111111
+2005,Senegal,Africa Sub-Saharan,0,14,0
+2005,Serbia and Montenegro,Europe Other,57,415,0.12076271186440678
+2005,Seychelles,Africa Sub-Saharan,0,3,0
+2005,Sierra Leone,Africa Sub-Saharan,28,145,0.16184971098265896
+2005,Singapore,Asia South East,0,3,0
+2005,Slovakia,EU 8,0,2,0
+2005,Somalia,Africa Sub-Saharan,853,999,0.4605831533477322
+2005,South Africa,Africa Sub-Saharan,0,88,0
+2005,Sri Lanka,Asia South,64,454,0.12355212355212356
+2005,St. Lucia,America Central and South,0,2,0
+2005,St. Vincent and the Grenadines,America Central and South,0,1,0
+2005,Stateless,Other,0,8,0
+2005,Sudan,Africa North,93,901,0.09356136820925554
+2005,Swaziland,Africa Sub-Saharan,0,2,0
+2005,Sweden,EU 14,0,1,0
+2005,Syria,Middle East,41,317,0.11452513966480447
+2005,Taiwan,Asia East,0,1,0
+2005,Tanzania,Africa Sub-Saharan,1,21,0.045454545454545456
+2005,Thailand,Asia South East,1,5,0.16666666666666666
+2005,Togo,Africa Sub-Saharan,6,54,0.1
+2005,Trinidad and Tobago,America Central and South,0,5,0
+2005,Tunisia,Africa North,4,18,0.18181818181818182
+2005,Turkey,Europe Other,100,820,0.10869565217391304
+2005,Turkmenistan,Asia Central,4,6,0.4
+2005,Uganda,Africa Sub-Saharan,42,192,0.1794871794871795
+2005,Ukraine,Europe Other,1,53,0.018518518518518517
+2005,United Arab Emirates,Middle East,0,1,0
+2005,United States,America North,0,2,0
+2005,Uzbekistan,Asia Central,3,13,0.1875
+2005,Venezuela,America Central and South,1,11,0.08333333333333333
+2005,Vietnam,Asia South East,134,293,0.31381733021077285
+2005,Western Sahara,Africa North,1,6,0.14285714285714285
+2005,Yemen,Middle East,13,36,0.2653061224489796
+2005,Zambia,Africa Sub-Saharan,0,13,0
+2005,Zimbabwe,Africa Sub-Saharan,95,944,0.09143407122232916
+2006,Afghanistan,Asia Central,805,1311,0.3804347826086957
+2006,Albania,Europe Other,35,95,0.2692307692307692
+2006,Algeria,Africa North,33,171,0.16176470588235295
+2006,Angola,Africa Sub-Saharan,23,56,0.2911392405063291
+2006,Armenia,Europe Other,0,15,0
+2006,Azerbaijan,Europe Other,2,30,0.0625
+2006,Bahrain,Middle East,1,0,1
+2006,Bangladesh,Asia South,85,260,0.2463768115942029
+2006,Belarus,Europe Other,10,40,0.2
+2006,Benin,Africa Sub-Saharan,2,3,0.4
+2006,Bhutan,Asia South,3,9,0.25
+2006,Bolivia,America Central and South,3,6,0.3333333333333333
+2006,Bosnia and Herzegovina,Europe Other,2,14,0.125
+2006,Botswana,Africa Sub-Saharan,0,1,0
+2006,Brazil,America Central and South,0,4,0
+2006,British overseas citizens,Other,5,2,0.7142857142857143
+2006,Bulgaria,EU 2,2,6,0.25
+2006,Burkina,Africa Sub-Saharan,0,1,0
+2006,Burma,Asia South East,32,31,0.5079365079365079
+2006,Burundi,Africa Sub-Saharan,9,34,0.20930232558139536
+2006,Cameroon,Africa Sub-Saharan,28,187,0.13023255813953488
+2006,Canada,America North,0,2,0
+2006,Central African Republic,Africa Sub-Saharan,1,2,0.3333333333333333
+2006,Chad,Africa Sub-Saharan,2,13,0.13333333333333333
+2006,Chile,America Central and South,0,1,0
+2006,China,Asia East,124,1600,0.07192575406032482
+2006,Colombia,America Central and South,6,46,0.11538461538461539
+2006,Congo,Africa Sub-Saharan,10,33,0.23255813953488372
+2006,Congo (Democratic Republic),Africa Sub-Saharan,128,472,0.21333333333333335
+2006,Croatia,EU Other,0,14,0
+2006,Cuba,America Central and South,1,13,0.07142857142857142
+2006,Czech Republic,EU 8,0,2,0
+2006,Djibouti,Africa Sub-Saharan,0,4,0
+2006,Dominica,America Central and South,0,1,0
+2006,Ecuador,America Central and South,0,11,0
+2006,Egypt,Africa North,3,17,0.15
+2006,El Salvador,America Central and South,0,1,0
+2006,Eritrea,Africa Sub-Saharan,854,1313,0.3940932164282418
+2006,Ethiopia,Africa Sub-Saharan,41,187,0.17982456140350878
+2006,Gabon,Africa Sub-Saharan,0,1,0
+2006,"Gambia, The",Africa Sub-Saharan,10,90,0.1
+2006,Georgia,Europe Other,2,46,0.041666666666666664
+2006,Ghana,Africa Sub-Saharan,3,84,0.034482758620689655
+2006,Grenada,America Central and South,0,2,0
+2006,Guinea,Africa Sub-Saharan,38,82,0.31666666666666665
+2006,Guinea-Bissau,Africa Sub-Saharan,1,3,0.25
+2006,Guyana,America Central and South,1,1,0.5
+2006,Haiti,America Central and South,0,1,0
+2006,Hong Kong,Asia East,0,2,0
+2006,India,Asia South,13,565,0.02249134948096886
+2006,Indonesia,Asia South East,0,3,0
+2006,Iran,Middle East,357,1850,0.1617580425917535
+2006,Iraq,Middle East,90,648,0.12195121951219512
+2006,Ireland,EU 14,0,1,0
+2006,Israel,Middle East,2,14,0.125
+2006,Ivory Coast,Africa Sub-Saharan,27,132,0.16981132075471697
+2006,Jamaica,America Central and South,9,158,0.05389221556886228
+2006,Jordan,Middle East,0,9,0
+2006,Kazakhstan,Asia Central,0,4,0
+2006,Kenya,Africa Sub-Saharan,9,78,0.10344827586206896
+2006,Korea (North),Asia East,23,10,0.696969696969697
+2006,Kuwait,Middle East,53,81,0.39552238805970147
+2006,Kyrgyzstan,Asia Central,1,6,0.14285714285714285
+2006,Laos,Asia South East,0,1,0
+2006,Latvia,EU 8,0,1,0
+2006,Lebanon,Middle East,8,122,0.06153846153846154
+2006,Liberia,Africa Sub-Saharan,7,40,0.14893617021276595
+2006,Libya,Africa North,7,81,0.07954545454545454
+2006,Macedonia,Europe Other,0,3,0
+2006,Malawi,Africa Sub-Saharan,2,52,0.037037037037037035
+2006,Malaysia,Asia South East,0,9,0
+2006,Mali,Africa Sub-Saharan,0,8,0
+2006,Mauritania,Africa North,0,1,0
+2006,Mauritius,Africa Sub-Saharan,1,12,0.07692307692307693
+2006,Mexico,America Central and South,0,1,0
+2006,Moldova,Europe Other,8,42,0.16
+2006,Mongolia,Asia East,6,33,0.15384615384615385
+2006,Morocco,Africa North,0,21,0
+2006,Mozambique,Africa Sub-Saharan,0,3,0
+2006,Namibia,Africa Sub-Saharan,0,10,0
+2006,Nepal,Asia South,0,45,0
+2006,Niger,Africa Sub-Saharan,0,7,0
+2006,Nigeria,Africa Sub-Saharan,54,559,0.08809135399673736
+2006,Occupied Palestinian Territories,Middle East,6,220,0.02654867256637168
+2006,Oman,Middle East,0,1,0
+2006,Other and unknown,Other,5,9,0.35714285714285715
+2006,Pakistan,Asia South,117,691,0.1448019801980198
+2006,Paraguay,America Central and South,0,1,0
+2006,Peru,America Central and South,0,3,0
+2006,Philippines,Asia South East,0,4,0
+2006,Poland,EU 8,1,3,0.25
+2006,Refugee,Other,24,22,0.5217391304347826
+2006,Romania,EU 2,9,46,0.16363636363636364
+2006,Russia,Europe Other,15,84,0.15151515151515152
+2006,Rwanda,Africa Sub-Saharan,3,16,0.15789473684210525
+2006,Senegal,Africa Sub-Saharan,1,11,0.08333333333333333
+2006,Serbia and Montenegro,Europe Other,22,110,0.16666666666666666
+2006,Seychelles,Africa Sub-Saharan,1,1,0.5
+2006,Sierra Leone,Africa Sub-Saharan,21,86,0.19626168224299065
+2006,Slovenia,EU 8,0,1,0
+2006,Somalia,Africa Sub-Saharan,819,905,0.47505800464037123
+2006,South Africa,Africa Sub-Saharan,1,56,0.017543859649122806
+2006,Spain,EU 14,0,1,0
+2006,Sri Lanka,Asia South,62,369,0.14385150812064965
+2006,St. Lucia,America Central and South,0,5,0
+2006,St. Vincent and the Grenadines,America Central and South,0,1,0
+2006,Stateless,Other,1,1,0.5
+2006,Sudan,Africa North,70,509,0.12089810017271158
+2006,Swaziland,Africa Sub-Saharan,1,3,0.25
+2006,Syria,Middle East,31,146,0.1751412429378531
+2006,Taiwan,Asia East,0,1,0
+2006,Tanzania,Africa Sub-Saharan,0,14,0
+2006,Thailand,Asia South East,0,1,0
+2006,Togo,Africa Sub-Saharan,4,22,0.15384615384615385
+2006,Trinidad and Tobago,America Central and South,0,3,0
+2006,Tunisia,Africa North,1,17,0.05555555555555555
+2006,Turkey,Europe Other,49,372,0.1163895486935867
+2006,Turkmenistan,Asia Central,4,6,0.4
+2006,Uganda,Africa Sub-Saharan,21,123,0.14583333333333334
+2006,Ukraine,Europe Other,3,29,0.09375
+2006,United Arab Emirates,Middle East,2,1,0.6666666666666666
+2006,United States,America North,0,3,0
+2006,Uzbekistan,Asia Central,4,14,0.2222222222222222
+2006,Venezuela,America Central and South,0,6,0
+2006,Vietnam,Asia South East,21,58,0.26582278481012656
+2006,Western Sahara,Africa North,0,4,0
+2006,Yemen,Middle East,8,34,0.19047619047619047
+2006,Zambia,Africa Sub-Saharan,0,11,0
+2006,Zimbabwe,Africa Sub-Saharan,171,1508,0.10184633710541989
+2007,Afghanistan,Asia Central,885,1492,0.37231804795961293
+2007,Albania,Europe Other,39,115,0.2532467532467532
+2007,Algeria,Africa North,17,230,0.06882591093117409
+2007,Angola,Africa Sub-Saharan,47,54,0.46534653465346537
+2007,Armenia,Europe Other,3,10,0.23076923076923078
+2007,Azerbaijan,Europe Other,4,21,0.16
+2007,Bahrain,Middle East,1,2,0.3333333333333333
+2007,Bangladesh,Asia South,122,323,0.27415730337078653
+2007,Belarus,Europe Other,12,42,0.2222222222222222
+2007,Belize,America Central and South,0,1,0
+2007,Benin,Africa Sub-Saharan,2,3,0.4
+2007,Bhutan,Asia South,5,18,0.21739130434782608
+2007,Bolivia,America Central and South,0,12,0
+2007,Bosnia and Herzegovina,Europe Other,2,7,0.2222222222222222
+2007,Botswana,Africa Sub-Saharan,0,3,0
+2007,Brazil,America Central and South,1,16,0.058823529411764705
+2007,British overseas citizens,Other,5,4,0.5555555555555556
+2007,Bulgaria,EU 2,1,1,0.5
+2007,Burkina,Africa Sub-Saharan,0,3,0
+2007,Burma,Asia South East,111,40,0.7350993377483444
+2007,Burundi,Africa Sub-Saharan,11,25,0.3055555555555556
+2007,Cameroon,Africa Sub-Saharan,44,166,0.20952380952380953
+2007,Chad,Africa Sub-Saharan,8,2,0.8
+2007,Chile,America Central and South,0,1,0
+2007,China,Asia East,143,1860,0.07139291063404893
+2007,Christmas Island,Oceania,0,2,0
+2007,Colombia,America Central and South,3,30,0.09090909090909091
+2007,Congo,Africa Sub-Saharan,8,24,0.25
+2007,Congo (Democratic Republic),Africa Sub-Saharan,138,314,0.3053097345132743
+2007,Costa Rica,America Central and South,0,1,0
+2007,Croatia,EU Other,1,7,0.125
+2007,Cuba,America Central and South,2,11,0.15384615384615385
+2007,Cyprus (Northern part of),Europe Other,0,1,0
+2007,Czech Republic,EU 8,0,3,0
+2007,Denmark,EU 14,0,1,0
+2007,Djibouti,Africa Sub-Saharan,0,1,0
+2007,Dominica,America Central and South,0,2,0
+2007,Dominican Republic,America Central and South,0,1,0
+2007,Ecuador,America Central and South,0,13,0
+2007,Egypt,Africa North,4,38,0.09523809523809523
+2007,Eritrea,Africa Sub-Saharan,1172,711,0.6224110462028678
+2007,Ethiopia,Africa Sub-Saharan,38,78,0.3275862068965517
+2007,Fiji,Oceania,1,0,1
+2007,Former Yugoslavia,Europe Other,2,10,0.16666666666666666
+2007,France,EU 14,0,1,0
+2007,Gabon,Africa Sub-Saharan,0,1,0
+2007,"Gambia, The",Africa Sub-Saharan,12,73,0.1411764705882353
+2007,Georgia,Europe Other,1,46,0.02127659574468085
+2007,Germany,EU 14,0,1,0
+2007,Ghana,Africa Sub-Saharan,4,97,0.039603960396039604
+2007,Grenada,America Central and South,0,2,0
+2007,Guatemala,America Central and South,0,1,0
+2007,Guinea,Africa Sub-Saharan,47,108,0.3032258064516129
+2007,Guinea-Bissau,Africa Sub-Saharan,3,4,0.42857142857142855
+2007,Guyana,America Central and South,0,6,0
+2007,Hong Kong,Asia East,0,2,0
+2007,Hungary,EU 8,0,1,0
+2007,India,Asia South,14,432,0.03139013452914798
+2007,Indonesia,Asia South East,0,4,0
+2007,Iran,Middle East,424,1666,0.20287081339712917
+2007,Iraq,Middle East,275,1088,0.20176082171680118
+2007,Israel,Middle East,0,14,0
+2007,Ivory Coast,Africa Sub-Saharan,14,130,0.09722222222222222
+2007,Jamaica,America Central and South,13,226,0.05439330543933055
+2007,Japan,Asia East,0,3,0
+2007,Jordan,Middle East,1,14,0.06666666666666667
+2007,Kazakhstan,Asia Central,0,6,0
+2007,Kenya,Africa Sub-Saharan,16,93,0.14678899082568808
+2007,Korea (North),Asia East,151,25,0.8579545454545454
+2007,Korea (South),Asia East,0,12,0
+2007,Kosovo,Europe Other,10,57,0.14925373134328357
+2007,Kuwait,Middle East,71,82,0.46405228758169936
+2007,Kyrgyzstan,Asia Central,2,3,0.4
+2007,Latvia,EU 8,0,3,0
+2007,Lebanon,Middle East,5,52,0.08771929824561403
+2007,Lesotho,Africa Sub-Saharan,0,2,0
+2007,Liberia,Africa Sub-Saharan,3,37,0.075
+2007,Libya,Africa North,8,41,0.16326530612244897
+2007,Lithuania,EU 8,0,6,0
+2007,Macau,Asia East,0,1,0
+2007,Macedonia,Europe Other,0,11,0
+2007,Malawi,Africa Sub-Saharan,3,53,0.05357142857142857
+2007,Malaysia,Asia South East,1,15,0.0625
+2007,Mali,Africa Sub-Saharan,0,1,0
+2007,Mauritania,Africa North,2,1,0.6666666666666666
+2007,Mauritius,Africa Sub-Saharan,0,15,0
+2007,Mexico,America Central and South,0,2,0
+2007,Moldova,Europe Other,3,28,0.0967741935483871
+2007,Mongolia,Asia East,2,21,0.08695652173913043
+2007,Morocco,Africa North,1,20,0.047619047619047616
+2007,Mozambique,Africa Sub-Saharan,0,2,0
+2007,Namibia,Africa Sub-Saharan,0,3,0
+2007,Nepal,Asia South,1,27,0.03571428571428571
+2007,Netherlands,EU 14,0,1,0
+2007,Nicaragua,America Central and South,0,1,0
+2007,Niger,Africa Sub-Saharan,1,5,0.16666666666666666
+2007,Nigeria,Africa Sub-Saharan,37,597,0.0583596214511041
+2007,Occupied Palestinian Territories,Middle East,29,331,0.08055555555555556
+2007,Oman,Middle East,1,0,1
+2007,Other and unknown,Other,5,1,0.8333333333333334
+2007,Pakistan,Asia South,138,773,0.15148188803512624
+2007,Philippines,Asia South East,0,9,0
+2007,Refugee,Other,10,16,0.38461538461538464
+2007,Romania,EU 2,1,13,0.07142857142857142
+2007,Russia,Europe Other,9,83,0.09782608695652174
+2007,Rwanda,Africa Sub-Saharan,4,26,0.13333333333333333
+2007,Senegal,Africa Sub-Saharan,2,16,0.1111111111111111
+2007,Serbia,Europe Other,6,19,0.24
+2007,Seychelles,Africa Sub-Saharan,0,1,0
+2007,Sierra Leone,Africa Sub-Saharan,26,79,0.24761904761904763
+2007,Somalia,Africa Sub-Saharan,910,702,0.5645161290322581
+2007,South Africa,Africa Sub-Saharan,2,85,0.022988505747126436
+2007,Spain,EU 14,0,1,0
+2007,Sri Lanka,Asia South,124,812,0.13247863247863248
+2007,St. Kitts and Nevis,America Central and South,0,1,0
+2007,St. Lucia,America Central and South,0,4,0
+2007,St. Vincent and the Grenadines,America Central and South,0,2,0
+2007,Stateless,Other,10,13,0.43478260869565216
+2007,Sudan,Africa North,83,304,0.2144702842377261
+2007,Swaziland,Africa Sub-Saharan,0,8,0
+2007,Syria,Middle East,39,110,0.26174496644295303
+2007,Tajikistan,Asia Central,1,0,1
+2007,Tanzania,Africa Sub-Saharan,1,18,0.05263157894736842
+2007,Thailand,Asia South East,0,3,0
+2007,Togo,Africa Sub-Saharan,4,20,0.16666666666666666
+2007,Trinidad and Tobago,America Central and South,0,4,0
+2007,Tunisia,Africa North,2,5,0.2857142857142857
+2007,Turkey,Europe Other,54,243,0.18181818181818182
+2007,Turkmenistan,Asia Central,6,3,0.6666666666666666
+2007,Uganda,Africa Sub-Saharan,18,116,0.13432835820895522
+2007,Ukraine,Europe Other,2,37,0.05128205128205128
+2007,United Arab Emirates,Middle East,0,2,0
+2007,United States,America North,0,8,0
+2007,Uzbekistan,Asia Central,2,19,0.09523809523809523
+2007,Venezuela,America Central and South,0,6,0
+2007,Vietnam,Asia South East,15,112,0.11811023622047244
+2007,Western Sahara,Africa North,0,2,0
+2007,Yemen,Middle East,7,22,0.2413793103448276
+2007,Zambia,Africa Sub-Saharan,2,8,0.2
+2007,Zimbabwe,Africa Sub-Saharan,270,1154,0.1896067415730337
+2008,Afghanistan,Asia Central,988,1354,0.4218616567036721
+2008,Albania,Europe Other,38,81,0.31932773109243695
+2008,Algeria,Africa North,18,174,0.09375
+2008,Angola,Africa Sub-Saharan,25,48,0.3424657534246575
+2008,Argentina,America Central and South,0,1,0
+2008,Armenia,Europe Other,0,8,0
+2008,Azerbaijan,Europe Other,2,7,0.2222222222222222
+2008,Bahrain,Middle East,0,1,0
+2008,Bangladesh,Asia South,95,251,0.2745664739884393
+2008,Barbados,America Central and South,0,1,0
+2008,Belarus,Europe Other,23,18,0.5609756097560976
+2008,Benin,Africa Sub-Saharan,0,1,0
+2008,Bhutan,Asia South,11,12,0.4782608695652174
+2008,Bolivia,America Central and South,1,13,0.07142857142857142
+2008,Bosnia and Herzegovina,Europe Other,3,2,0.6
+2008,Botswana,Africa Sub-Saharan,1,4,0.2
+2008,Brazil,America Central and South,0,15,0
+2008,British overseas citizens,Other,0,1,0
+2008,Burkina,Africa Sub-Saharan,0,3,0
+2008,Burma,Asia South East,127,47,0.7298850574712644
+2008,Burundi,Africa Sub-Saharan,4,4,0.5
+2008,Cameroon,Africa Sub-Saharan,20,92,0.17857142857142858
+2008,Central African Republic,Africa Sub-Saharan,0,1,0
+2008,Chad,Africa Sub-Saharan,2,7,0.2222222222222222
+2008,China,Asia East,110,818,0.11853448275862069
+2008,Colombia,America Central and South,3,12,0.2
+2008,Congo,Africa Sub-Saharan,1,18,0.05263157894736842
+2008,Congo (Democratic Republic),Africa Sub-Saharan,77,184,0.2950191570881226
+2008,Croatia,EU Other,0,1,0
+2008,Cuba,America Central and South,1,5,0.16666666666666666
+2008,Cyprus,EU Other,0,1,0
+2008,Cyprus (Northern part of),Europe Other,0,1,0
+2008,Czech Republic,EU 8,0,2,0
+2008,Djibouti,Africa Sub-Saharan,0,1,0
+2008,Dominican Republic,America Central and South,0,1,0
+2008,Ecuador,America Central and South,0,9,0
+2008,Egypt,Africa North,4,29,0.12121212121212122
+2008,Equatorial Guinea,Africa Sub-Saharan,0,1,0
+2008,Eritrea,Africa Sub-Saharan,1231,754,0.6201511335012595
+2008,Ethiopia,Africa Sub-Saharan,25,62,0.28735632183908044
+2008,Fiji,Oceania,0,1,0
+2008,Former Yugoslavia,Europe Other,1,2,0.3333333333333333
+2008,"Gambia, The",Africa Sub-Saharan,18,61,0.22784810126582278
+2008,Georgia,Europe Other,3,42,0.06666666666666667
+2008,Ghana,Africa Sub-Saharan,1,94,0.010526315789473684
+2008,Guinea,Africa Sub-Saharan,27,44,0.38028169014084506
+2008,Guinea-Bissau,Africa Sub-Saharan,0,3,0
+2008,Guyana,America Central and South,0,9,0
+2008,Haiti,America Central and South,0,1,0
+2008,Honduras,America Central and South,0,1,0
+2008,Hong Kong,Asia East,0,1,0
+2008,India,Asia South,17,326,0.04956268221574344
+2008,Indonesia,Asia South East,1,0,1
+2008,Iran,Middle East,450,1353,0.24958402662229617
+2008,Iraq,Middle East,397,1079,0.268970189701897
+2008,Israel,Middle East,1,8,0.1111111111111111
+2008,Ivory Coast,Africa Sub-Saharan,5,50,0.09090909090909091
+2008,Jamaica,America Central and South,10,168,0.056179775280898875
+2008,Japan,Asia East,0,1,0
+2008,Jordan,Middle East,0,15,0
+2008,Kazakhstan,Asia Central,0,2,0
+2008,Kenya,Africa Sub-Saharan,12,109,0.09917355371900827
+2008,Korea (North),Asia East,174,99,0.6373626373626373
+2008,Korea (South),Asia East,1,7,0.125
+2008,Kosovo,Europe Other,14,35,0.2857142857142857
+2008,Kuwait,Middle East,67,73,0.4785714285714286
+2008,Kyrgyzstan,Asia Central,0,2,0
+2008,Latvia,EU 8,0,1,0
+2008,Lebanon,Middle East,5,30,0.14285714285714285
+2008,Liberia,Africa Sub-Saharan,3,16,0.15789473684210525
+2008,Libya,Africa North,5,27,0.15625
+2008,Lithuania,EU 8,0,1,0
+2008,Macedonia,Europe Other,1,8,0.1111111111111111
+2008,Malawi,Africa Sub-Saharan,3,72,0.04
+2008,Malaysia,Asia South East,1,18,0.05263157894736842
+2008,Mali,Africa Sub-Saharan,3,5,0.375
+2008,Mauritania,Africa North,0,1,0
+2008,Mauritius,Africa Sub-Saharan,0,18,0
+2008,Mexico,America Central and South,0,1,0
+2008,Moldova,Europe Other,2,12,0.14285714285714285
+2008,Mongolia,Asia East,2,16,0.1111111111111111
+2008,Morocco,Africa North,4,17,0.19047619047619047
+2008,Mozambique,Africa Sub-Saharan,0,3,0
+2008,Namibia,Africa Sub-Saharan,0,5,0
+2008,Nepal,Asia South,0,18,0
+2008,Nicaragua,America Central and South,0,3,0
+2008,Niger,Africa Sub-Saharan,0,3,0
+2008,Nigeria,Africa Sub-Saharan,45,562,0.07413509060955518
+2008,Occupied Palestinian Territories,Middle East,27,181,0.12980769230769232
+2008,Oman,Middle East,1,1,0.5
+2008,Other and unknown,Other,6,0,1
+2008,Pakistan,Asia South,121,728,0.1425206124852768
+2008,Panama,America Central and South,0,1,0
+2008,Peru,America Central and South,0,1,0
+2008,Philippines,Asia South East,0,5,0
+2008,Poland,EU 8,0,2,0
+2008,Qatar,Middle East,1,0,1
+2008,Refugee,Other,66,12,0.8461538461538461
+2008,Romania,EU 2,0,2,0
+2008,Russia,Europe Other,13,35,0.2708333333333333
+2008,Rwanda,Africa Sub-Saharan,2,11,0.15384615384615385
+2008,Saudi Arabia,Middle East,0,14,0
+2008,Senegal,Africa Sub-Saharan,0,8,0
+2008,Serbia,Europe Other,3,2,0.6
+2008,Seychelles,Africa Sub-Saharan,0,1,0
+2008,Sierra Leone,Africa Sub-Saharan,7,37,0.1590909090909091
+2008,Singapore,Asia South East,0,1,0
+2008,Somalia,Africa Sub-Saharan,562,552,0.5044883303411131
+2008,South Africa,Africa Sub-Saharan,4,76,0.05
+2008,Spain,EU 14,0,1,0
+2008,Sri Lanka,Asia South,206,668,0.23569794050343248
+2008,St. Lucia,America Central and South,0,5,0
+2008,St. Vincent and the Grenadines,America Central and South,0,1,0
+2008,Stateless,Other,2,2,0.5
+2008,Sudan,Africa North,53,138,0.2774869109947644
+2008,Swaziland,Africa Sub-Saharan,4,5,0.4444444444444444
+2008,Syria,Middle East,28,81,0.25688073394495414
+2008,Tajikistan,Asia Central,2,3,0.4
+2008,Tanzania,Africa Sub-Saharan,0,21,0
+2008,Thailand,Asia South East,3,4,0.42857142857142855
+2008,Togo,Africa Sub-Saharan,1,13,0.07142857142857142
+2008,Trinidad and Tobago,America Central and South,1,6,0.14285714285714285
+2008,Tunisia,Africa North,1,12,0.07692307692307693
+2008,Turkey,Europe Other,28,135,0.17177914110429449
+2008,Turkmenistan,Asia Central,0,6,0
+2008,Uganda,Africa Sub-Saharan,13,82,0.1368421052631579
+2008,Ukraine,Europe Other,3,18,0.14285714285714285
+2008,United Arab Emirates,Middle East,0,1,0
+2008,United States,America North,0,7,0
+2008,Uzbekistan,Asia Central,2,7,0.2222222222222222
+2008,Venezuela,America Central and South,0,1,0
+2008,Vietnam,Asia South East,11,97,0.10185185185185185
+2008,Western Sahara,Africa North,0,3,0
+2008,Yemen,Middle East,12,21,0.36363636363636365
+2008,Zambia,Africa Sub-Saharan,1,14,0.06666666666666667
+2008,Zimbabwe,Africa Sub-Saharan,631,2015,0.23847316704459562
+2009,Afghanistan,Asia Central,1381,1854,0.4268933539412674
+2009,Albania,Europe Other,46,104,0.30666666666666664
+2009,Algeria,Africa North,17,147,0.10365853658536585
+2009,Angola,Africa Sub-Saharan,5,44,0.10204081632653061
+2009,Armenia,Europe Other,1,4,0.2
+2009,Azerbaijan,Europe Other,1,14,0.06666666666666667
+2009,Bangladesh,Asia South,44,273,0.138801261829653
+2009,Barbados,America Central and South,0,1,0
+2009,Belarus,Europe Other,12,19,0.3870967741935484
+2009,Benin,Africa Sub-Saharan,0,3,0
+2009,Bhutan,Asia South,9,20,0.3103448275862069
+2009,Bolivia,America Central and South,0,7,0
+2009,Bosnia and Herzegovina,Europe Other,3,3,0.5
+2009,Botswana,Africa Sub-Saharan,0,7,0
+2009,Brazil,America Central and South,1,22,0.043478260869565216
+2009,British overseas citizens,Other,0,5,0
+2009,Bulgaria,EU 2,0,1,0
+2009,Burkina,Africa Sub-Saharan,0,2,0
+2009,Burma,Asia South East,117,91,0.5625
+2009,Burundi,Africa Sub-Saharan,3,14,0.17647058823529413
+2009,Cameroon,Africa Sub-Saharan,13,72,0.15294117647058825
+2009,Canada,America North,0,3,0
+2009,Central African Republic,Africa Sub-Saharan,0,1,0
+2009,Chad,Africa Sub-Saharan,1,11,0.08333333333333333
+2009,Chile,America Central and South,0,2,0
+2009,China,Asia East,93,738,0.11191335740072202
+2009,Christmas Island,Oceania,1,1,0.5
+2009,Colombia,America Central and South,3,11,0.21428571428571427
+2009,Congo,Africa Sub-Saharan,5,22,0.18518518518518517
+2009,Congo (Democratic Republic),Africa Sub-Saharan,61,191,0.24206349206349206
+2009,Croatia,EU Other,0,3,0
+2009,Cuba,America Central and South,2,7,0.2222222222222222
+2009,Djibouti,Africa Sub-Saharan,0,4,0
+2009,Ecuador,America Central and South,0,7,0
+2009,Egypt,Africa North,10,42,0.19230769230769232
+2009,Equatorial Guinea,Africa Sub-Saharan,0,2,0
+2009,Eritrea,Africa Sub-Saharan,898,871,0.5076314301865461
+2009,Ethiopia,Africa Sub-Saharan,39,75,0.34210526315789475
+2009,Fiji,Oceania,0,2,0
+2009,Former Yugoslavia,Europe Other,1,1,0.5
+2009,France,EU 14,1,0,1
+2009,Gabon,Africa Sub-Saharan,0,1,0
+2009,"Gambia, The",Africa Sub-Saharan,27,132,0.16981132075471697
+2009,Georgia,Europe Other,4,61,0.06153846153846154
+2009,Ghana,Africa Sub-Saharan,8,94,0.0784313725490196
+2009,Grenada,America Central and South,0,4,0
+2009,Guatemala,America Central and South,0,3,0
+2009,Guinea,Africa Sub-Saharan,24,69,0.25806451612903225
+2009,Guinea-Bissau,Africa Sub-Saharan,0,2,0
+2009,Guyana,America Central and South,0,8,0
+2009,Honduras,America Central and South,0,1,0
+2009,Hong Kong,Asia East,0,2,0
+2009,India,Asia South,16,279,0.05423728813559322
+2009,Indonesia,Asia South East,1,2,0.3333333333333333
+2009,Iran,Middle East,398,1700,0.18970448045757865
+2009,Iraq,Middle East,253,1061,0.19254185692541856
+2009,Israel,Middle East,0,1,0
+2009,Ivory Coast,Africa Sub-Saharan,11,38,0.22448979591836735
+2009,Jamaica,America Central and South,20,155,0.11428571428571428
+2009,Japan,Asia East,0,1,0
+2009,Jordan,Middle East,2,10,0.16666666666666666
+2009,Kazakhstan,Asia Central,0,2,0
+2009,Kenya,Africa Sub-Saharan,8,75,0.0963855421686747
+2009,Korea (North),Asia East,4,43,0.0851063829787234
+2009,Korea (South),Asia East,0,8,0
+2009,Kosovo,Europe Other,11,26,0.2972972972972973
+2009,Kuwait,Middle East,40,81,0.3305785123966942
+2009,Kyrgyzstan,Asia Central,1,3,0.25
+2009,Latvia,EU 8,0,1,0
+2009,Lebanon,Middle East,3,23,0.11538461538461539
+2009,Lesotho,Africa Sub-Saharan,0,2,0
+2009,Liberia,Africa Sub-Saharan,0,18,0
+2009,Libya,Africa North,16,47,0.25396825396825395
+2009,Macedonia,Europe Other,0,3,0
+2009,Malawi,Africa Sub-Saharan,5,137,0.035211267605633804
+2009,Malaysia,Asia South East,3,20,0.13043478260869565
+2009,Maldives,Asia South,0,1,0
+2009,Mali,Africa Sub-Saharan,0,5,0
+2009,Mauritania,Africa North,0,4,0
+2009,Mauritius,Africa Sub-Saharan,0,9,0
+2009,Mexico,America Central and South,0,1,0
+2009,Moldova,Europe Other,4,7,0.36363636363636365
+2009,Mongolia,Asia East,5,13,0.2777777777777778
+2009,Morocco,Africa North,9,26,0.2571428571428571
+2009,Mozambique,Africa Sub-Saharan,0,3,0
+2009,Namibia,Africa Sub-Saharan,0,11,0
+2009,Nepal,Asia South,1,9,0.1
+2009,New Zealand,Oceania,1,1,0.5
+2009,Nicaragua,America Central and South,0,2,0
+2009,Niger,Africa Sub-Saharan,0,5,0
+2009,Nigeria,Africa Sub-Saharan,39,517,0.07014388489208633
+2009,Occupied Palestinian Territories,Middle East,20,195,0.09302325581395349
+2009,Other and unknown,Other,2,6,0.25
+2009,Pakistan,Asia South,97,1009,0.08770343580470162
+2009,Peru,America Central and South,1,3,0.25
+2009,Philippines,Asia South East,0,7,0
+2009,Portugal,EU 14,0,2,0
+2009,Qatar,Middle East,0,2,0
+2009,Refugee,Other,48,20,0.7058823529411765
+2009,Russia,Europe Other,8,45,0.1509433962264151
+2009,Rwanda,Africa Sub-Saharan,5,16,0.23809523809523808
+2009,Saudi Arabia,Middle East,4,21,0.16
+2009,Senegal,Africa Sub-Saharan,1,22,0.043478260869565216
+2009,Serbia,Europe Other,0,1,0
+2009,Seychelles,Africa Sub-Saharan,0,3,0
+2009,Sierra Leone,Africa Sub-Saharan,11,51,0.1774193548387097
+2009,Somalia,Africa Sub-Saharan,488,566,0.4629981024667932
+2009,South Africa,Africa Sub-Saharan,10,117,0.07874015748031496
+2009,Sri Lanka,Asia South,190,1061,0.1518784972022382
+2009,St. Lucia,America Central and South,0,4,0
+2009,St. Vincent and the Grenadines,America Central and South,0,1,0
+2009,Stateless,Other,6,27,0.18181818181818182
+2009,Sudan,Africa North,91,158,0.3654618473895582
+2009,Swaziland,Africa Sub-Saharan,0,6,0
+2009,Syria,Middle East,38,110,0.25675675675675674
+2009,Tajikistan,Asia Central,1,1,0.5
+2009,Tanzania,Africa Sub-Saharan,6,27,0.18181818181818182
+2009,Thailand,Asia South East,3,8,0.2727272727272727
+2009,Togo,Africa Sub-Saharan,2,9,0.18181818181818182
+2009,Trinidad and Tobago,America Central and South,1,15,0.0625
+2009,Tunisia,Africa North,1,22,0.043478260869565216
+2009,Turkey,Europe Other,21,118,0.1510791366906475
+2009,Turkmenistan,Asia Central,2,5,0.2857142857142857
+2009,Uganda,Africa Sub-Saharan,8,128,0.058823529411764705
+2009,Ukraine,Europe Other,1,25,0.038461538461538464
+2009,United Arab Emirates,Middle East,0,1,0
+2009,United States,America North,0,10,0
+2009,Uzbekistan,Asia Central,2,8,0.2
+2009,Venezuela,America Central and South,0,1,0
+2009,Vietnam,Asia South East,20,124,0.1388888888888889
+2009,Western Sahara,Africa North,1,3,0.25
+2009,Yemen,Middle East,12,29,0.2926829268292683
+2009,Zambia,Africa Sub-Saharan,3,19,0.13636363636363635
+2009,Zimbabwe,Africa Sub-Saharan,1957,4111,0.32251153592617005
+2010,Afghanistan,Asia Central,762,1382,0.355410447761194
+2010,Albania,Europe Other,38,145,0.20765027322404372
+2010,Algeria,Africa North,20,197,0.09216589861751152
+2010,Angola,Africa Sub-Saharan,23,50,0.3150684931506849
+2010,Antigua and Barbuda,America Central and South,0,2,0
+2010,Armenia,Europe Other,1,17,0.05555555555555555
+2010,Australia,Oceania,0,1,0
+2010,Azerbaijan,Europe Other,8,6,0.5714285714285714
+2010,Bangladesh,Asia South,52,358,0.12682926829268293
+2010,Barbados,America Central and South,0,2,0
+2010,Belarus,Europe Other,7,18,0.28
+2010,Belize,America Central and South,1,1,0.5
+2010,Benin,Africa Sub-Saharan,1,5,0.16666666666666666
+2010,Bhutan,Asia South,17,14,0.5483870967741935
+2010,Bolivia,America Central and South,0,17,0
+2010,Bosnia and Herzegovina,Europe Other,3,7,0.3
+2010,Botswana,Africa Sub-Saharan,3,12,0.2
+2010,Brazil,America Central and South,3,30,0.09090909090909091
+2010,British overseas citizens,Other,0,1,0
+2010,Burkina,Africa Sub-Saharan,0,2,0
+2010,Burma,Asia South East,103,176,0.36917562724014336
+2010,Burundi,Africa Sub-Saharan,3,11,0.21428571428571427
+2010,Cambodia,Asia South East,0,1,0
+2010,Cameroon,Africa Sub-Saharan,32,77,0.29357798165137616
+2010,Canada,America North,0,2,0
+2010,Central African Republic,Africa Sub-Saharan,2,0,1
+2010,Chad,Africa Sub-Saharan,0,10,0
+2010,Chile,America Central and South,0,5,0
+2010,China,Asia East,114,965,0.1056533827618165
+2010,Colombia,America Central and South,2,16,0.1111111111111111
+2010,Congo,Africa Sub-Saharan,8,21,0.27586206896551724
+2010,Congo (Democratic Republic),Africa Sub-Saharan,63,181,0.2581967213114754
+2010,Croatia,EU Other,0,2,0
+2010,Cuba,America Central and South,1,8,0.1111111111111111
+2010,Djibouti,Africa Sub-Saharan,0,1,0
+2010,Dominica,America Central and South,0,3,0
+2010,Dominican Republic,America Central and South,0,3,0
+2010,Ecuador,America Central and South,0,4,0
+2010,Egypt,Africa North,6,77,0.07228915662650602
+2010,El Salvador,America Central and South,0,1,0
+2010,Equatorial Guinea,Africa Sub-Saharan,0,1,0
+2010,Eritrea,Africa Sub-Saharan,559,364,0.6056338028169014
+2010,Ethiopia,Africa Sub-Saharan,35,92,0.27559055118110237
+2010,Fiji,Oceania,0,1,0
+2010,Former Yugoslavia,Europe Other,0,2,0
+2010,"Gambia, The",Africa Sub-Saharan,86,179,0.32452830188679244
+2010,Georgia,Europe Other,2,49,0.0392156862745098
+2010,Ghana,Africa Sub-Saharan,6,153,0.03773584905660377
+2010,Grenada,America Central and South,0,2,0
+2010,Guatemala,America Central and South,1,2,0.3333333333333333
+2010,Guinea,Africa Sub-Saharan,33,86,0.2773109243697479
+2010,Guinea-Bissau,Africa Sub-Saharan,1,4,0.2
+2010,Guyana,America Central and South,1,5,0.16666666666666666
+2010,Haiti,America Central and South,0,1,0
+2010,Honduras,America Central and South,0,2,0
+2010,Hong Kong,Asia East,0,2,0
+2010,Hungary,EU 8,0,1,0
+2010,India,Asia South,14,345,0.03899721448467967
+2010,Indonesia,Asia South East,0,3,0
+2010,Iran,Middle East,706,1587,0.3078935891844745
+2010,Iraq,Middle East,128,625,0.1699867197875166
+2010,Israel,Middle East,0,7,0
+2010,Ivory Coast,Africa Sub-Saharan,8,55,0.12698412698412698
+2010,Jamaica,America Central and South,42,196,0.17647058823529413
+2010,Jordan,Middle East,2,14,0.125
+2010,Kazakhstan,Asia Central,0,2,0
+2010,Kenya,Africa Sub-Saharan,15,95,0.13636363636363635
+2010,Korea (North),Asia East,7,86,0.07526881720430108
+2010,Korea (South),Asia East,0,8,0
+2010,Kosovo,Europe Other,5,23,0.17857142857142858
+2010,Kuwait,Middle East,27,51,0.34615384615384615
+2010,Kyrgyzstan,Asia Central,2,14,0.125
+2010,Latvia,EU 8,0,1,0
+2010,Lebanon,Middle East,8,44,0.15384615384615385
+2010,Lesotho,Africa Sub-Saharan,0,1,0
+2010,Liberia,Africa Sub-Saharan,3,11,0.21428571428571427
+2010,Libya,Africa North,12,79,0.13186813186813187
+2010,Lithuania,EU 8,0,4,0
+2010,Macau,Asia East,0,1,0
+2010,Macedonia,Europe Other,0,3,0
+2010,Madagascar,Africa Sub-Saharan,0,1,0
+2010,Malawi,Africa Sub-Saharan,18,139,0.11464968152866242
+2010,Malaysia,Asia South East,4,34,0.10526315789473684
+2010,Maldives,Asia South,0,2,0
+2010,Mali,Africa Sub-Saharan,0,10,0
+2010,Mauritania,Africa North,0,6,0
+2010,Mauritius,Africa Sub-Saharan,0,38,0
+2010,Mexico,America Central and South,1,5,0.16666666666666666
+2010,Moldova,Europe Other,3,6,0.3333333333333333
+2010,Mongolia,Asia East,3,30,0.09090909090909091
+2010,Morocco,Africa North,16,22,0.42105263157894735
+2010,Mozambique,Africa Sub-Saharan,0,2,0
+2010,Namibia,Africa Sub-Saharan,1,17,0.05555555555555555
+2010,Nepal,Asia South,1,19,0.05
+2010,Netherlands,EU 14,0,1,0
+2010,Nicaragua,America Central and South,0,2,0
+2010,Niger,Africa Sub-Saharan,1,6,0.14285714285714285
+2010,Nigeria,Africa Sub-Saharan,57,700,0.07529722589167767
+2010,Occupied Palestinian Territories,Middle East,30,170,0.15
+2010,Oman,Middle East,0,1,0
+2010,Other and unknown,Other,1,4,0.2
+2010,Pakistan,Asia South,126,1254,0.09130434782608696
+2010,Panama,America Central and South,0,1,0
+2010,Philippines,Asia South East,0,9,0
+2010,Poland,EU 8,0,4,0
+2010,Refugee,Other,108,39,0.7346938775510204
+2010,Romania,EU 2,0,5,0
+2010,Russia,Europe Other,21,54,0.28
+2010,Rwanda,Africa Sub-Saharan,6,21,0.2222222222222222
+2010,Saudi Arabia,Middle East,3,7,0.3
+2010,Senegal,Africa Sub-Saharan,7,33,0.175
+2010,Serbia,Europe Other,0,1,0
+2010,Seychelles,Africa Sub-Saharan,0,1,0
+2010,Sierra Leone,Africa Sub-Saharan,12,66,0.15384615384615385
+2010,Singapore,Asia South East,0,1,0
+2010,Slovakia,EU 8,0,1,0
+2010,Somalia,Africa Sub-Saharan,433,408,0.5148632580261593
+2010,South Africa,Africa Sub-Saharan,17,118,0.1259259259259259
+2010,Sri Lanka,Asia South,229,1384,0.14197148171109733
+2010,St. Kitts and Nevis,America Central and South,2,0,1
+2010,St. Lucia,America Central and South,0,3,0
+2010,St. Vincent and the Grenadines,America Central and South,0,5,0
+2010,Stateless,Other,22,59,0.2716049382716049
+2010,Sudan,Africa North,377,210,0.6422487223168655
+2010,Swaziland,Africa Sub-Saharan,2,3,0.4
+2010,Syria,Middle East,34,119,0.2222222222222222
+2010,Taiwan,Asia East,0,2,0
+2010,Tanzania,Africa Sub-Saharan,5,27,0.15625
+2010,Thailand,Asia South East,5,3,0.625
+2010,Togo,Africa Sub-Saharan,2,16,0.1111111111111111
+2010,Trinidad and Tobago,America Central and South,3,18,0.14285714285714285
+2010,Tunisia,Africa North,0,21,0
+2010,Turkey,Europe Other,33,135,0.19642857142857142
+2010,Turkmenistan,Asia Central,0,4,0
+2010,Uganda,Africa Sub-Saharan,47,181,0.20614035087719298
+2010,Ukraine,Europe Other,4,33,0.10810810810810811
+2010,United States,America North,0,14,0
+2010,Uzbekistan,Asia Central,0,12,0
+2010,Venezuela,America Central and South,2,7,0.2222222222222222
+2010,Vietnam,Asia South East,52,183,0.22127659574468084
+2010,Western Sahara,Africa North,1,12,0.07692307692307693
+2010,Yemen,Middle East,6,35,0.14634146341463414
+2010,Zambia,Africa Sub-Saharan,4,13,0.23529411764705882
+2010,Zimbabwe,Africa Sub-Saharan,523,1297,0.28736263736263734
+2011,Afghanistan,Asia Central,388,976,0.2844574780058651
+2011,Albania,Europe Other,66,147,0.30985915492957744
+2011,Algeria,Africa North,28,196,0.125
+2011,Angola,Africa Sub-Saharan,14,20,0.4117647058823529
+2011,Antigua and Barbuda,America Central and South,0,1,0
+2011,Argentina,America Central and South,0,2,0
+2011,Armenia,Europe Other,1,8,0.1111111111111111
+2011,Australia,Oceania,0,2,0
+2011,Azerbaijan,Europe Other,3,8,0.2727272727272727
+2011,Bahrain,Middle East,30,22,0.5769230769230769
+2011,Bangladesh,Asia South,38,395,0.08775981524249422
+2011,Barbados,America Central and South,0,1,0
+2011,Belarus,Europe Other,19,9,0.6785714285714286
+2011,Belize,America Central and South,0,1,0
+2011,Benin,Africa Sub-Saharan,0,3,0
+2011,Bhutan,Asia South,21,5,0.8076923076923077
+2011,Bolivia,America Central and South,2,24,0.07692307692307693
+2011,Bosnia and Herzegovina,Europe Other,1,2,0.3333333333333333
+2011,Botswana,Africa Sub-Saharan,0,9,0
+2011,Brazil,America Central and South,0,14,0
+2011,British overseas citizens,Other,1,2,0.3333333333333333
+2011,Bulgaria,EU 2,0,2,0
+2011,Burkina,Africa Sub-Saharan,0,2,0
+2011,Burma,Asia South East,92,76,0.5476190476190477
+2011,Burundi,Africa Sub-Saharan,4,3,0.5714285714285714
+2011,Cameroon,Africa Sub-Saharan,26,46,0.3611111111111111
+2011,Canada,America North,0,3,0
+2011,Chad,Africa Sub-Saharan,2,7,0.2222222222222222
+2011,Chile,America Central and South,1,2,0.3333333333333333
+2011,China,Asia East,163,566,0.22359396433470508
+2011,Colombia,America Central and South,4,15,0.21052631578947367
+2011,Congo,Africa Sub-Saharan,6,9,0.4
+2011,Congo (Democratic Republic),Africa Sub-Saharan,59,111,0.34705882352941175
+2011,Croatia,EU Other,0,2,0
+2011,Cuba,America Central and South,2,2,0.5
+2011,Djibouti,Africa Sub-Saharan,0,2,0
+2011,Dominica,America Central and South,1,2,0.3333333333333333
+2011,Dominican Republic,America Central and South,0,1,0
+2011,Ecuador,America Central and South,2,3,0.4
+2011,Egypt,Africa North,27,76,0.2621359223300971
+2011,El Salvador,America Central and South,0,1,0
+2011,Eritrea,Africa Sub-Saharan,647,221,0.7453917050691244
+2011,Ethiopia,Africa Sub-Saharan,40,65,0.38095238095238093
+2011,Fiji,Oceania,0,1,0
+2011,Former Yugoslavia,Europe Other,0,2,0
+2011,Gabon,Africa Sub-Saharan,0,1,0
+2011,"Gambia, The",Africa Sub-Saharan,78,152,0.3391304347826087
+2011,Georgia,Europe Other,4,23,0.14814814814814814
+2011,Germany,EU 14,0,1,0
+2011,Ghana,Africa Sub-Saharan,15,109,0.12096774193548387
+2011,Grenada,America Central and South,2,3,0.4
+2011,Guatemala,America Central and South,0,1,0
+2011,Guinea,Africa Sub-Saharan,18,33,0.35294117647058826
+2011,Guyana,America Central and South,1,3,0.25
+2011,Haiti,America Central and South,0,2,0
+2011,Honduras,America Central and South,0,3,0
+2011,Hong Kong,Asia East,1,1,0.5
+2011,India,Asia South,16,327,0.04664723032069971
+2011,Indonesia,Asia South East,0,2,0
+2011,Iran,Middle East,1011,1212,0.45479082321187586
+2011,Iraq,Middle East,80,247,0.24464831804281345
+2011,Israel,Middle East,1,2,0.3333333333333333
+2011,Ivory Coast,Africa Sub-Saharan,21,105,0.16666666666666666
+2011,Jamaica,America Central and South,42,100,0.29577464788732394
+2011,Japan,Asia East,0,2,0
+2011,Jordan,Middle East,2,11,0.15384615384615385
+2011,Kazakhstan,Asia Central,1,2,0.3333333333333333
+2011,Kenya,Africa Sub-Saharan,33,70,0.32038834951456313
+2011,Korea (North),Asia East,5,29,0.14705882352941177
+2011,Korea (South),Asia East,2,3,0.4
+2011,Kosovo,Europe Other,8,10,0.4444444444444444
+2011,Kuwait,Middle East,27,31,0.46551724137931033
+2011,Kyrgyzstan,Asia Central,2,4,0.3333333333333333
+2011,Laos,Asia South East,0,1,0
+2011,Latvia,EU 8,0,1,0
+2011,Lebanon,Middle East,2,28,0.06666666666666667
+2011,Lesotho,Africa Sub-Saharan,0,1,0
+2011,Liberia,Africa Sub-Saharan,1,10,0.09090909090909091
+2011,Libya,Africa North,102,476,0.17647058823529413
+2011,Lithuania,EU 8,0,1,0
+2011,Macedonia,Europe Other,1,3,0.25
+2011,Malawi,Africa Sub-Saharan,21,91,0.1875
+2011,Malaysia,Asia South East,10,40,0.2
+2011,Mali,Africa Sub-Saharan,2,6,0.25
+2011,Mauritania,Africa North,2,0,1
+2011,Mauritius,Africa Sub-Saharan,2,25,0.07407407407407407
+2011,Mexico,America Central and South,0,6,0
+2011,Moldova,Europe Other,3,4,0.42857142857142855
+2011,Mongolia,Asia East,10,25,0.2857142857142857
+2011,Morocco,Africa North,20,39,0.3389830508474576
+2011,Mozambique,Africa Sub-Saharan,0,2,0
+2011,Namibia,Africa Sub-Saharan,0,11,0
+2011,Nauru,Oceania,0,2,0
+2011,Nepal,Asia South,0,33,0
+2011,Nicaragua,America Central and South,1,0,1
+2011,Niger,Africa Sub-Saharan,0,3,0
+2011,Nigeria,Africa Sub-Saharan,82,542,0.13141025641025642
+2011,Occupied Palestinian Territories,Middle East,27,127,0.17532467532467533
+2011,Oman,Middle East,0,3,0
+2011,Other and unknown,Other,1,5,0.16666666666666666
+2011,Pakistan,Asia South,241,1636,0.12839637719765584
+2011,Panama,America Central and South,1,0,1
+2011,Peru,America Central and South,0,1,0
+2011,Philippines,Asia South East,0,8,0
+2011,Poland,EU 8,0,4,0
+2011,Refugee,Other,226,33,0.8725868725868726
+2011,Romania,EU 2,1,0,1
+2011,Russia,Europe Other,16,39,0.2909090909090909
+2011,Rwanda,Africa Sub-Saharan,12,14,0.46153846153846156
+2011,Saudi Arabia,Middle East,6,3,0.6666666666666666
+2011,Senegal,Africa Sub-Saharan,10,29,0.2564102564102564
+2011,Serbia,Europe Other,1,3,0.25
+2011,Sierra Leone,Africa Sub-Saharan,17,47,0.265625
+2011,Singapore,Asia South East,0,2,0
+2011,Somalia,Africa Sub-Saharan,408,173,0.7022375215146299
+2011,South Africa,Africa Sub-Saharan,6,63,0.08695652173913043
+2011,Spain,EU 14,0,1,0
+2011,Sri Lanka,Asia South,323,1281,0.2013715710723192
+2011,St. Kitts and Nevis,America Central and South,0,1,0
+2011,St. Lucia,America Central and South,0,3,0
+2011,St. Vincent and the Grenadines,America Central and South,1,4,0.2
+2011,Stateless,Other,50,76,0.3968253968253968
+2011,Sudan,Africa North,484,165,0.7457627118644068
+2011,Sudan (South),Africa Sub-Saharan,0,1,0
+2011,Surinam,America Central and South,0,1,0
+2011,Swaziland,Africa Sub-Saharan,1,4,0.2
+2011,Syria,Middle East,99,158,0.3852140077821012
+2011,Taiwan,Asia East,0,1,0
+2011,Tajikistan,Asia Central,0,2,0
+2011,Tanzania,Africa Sub-Saharan,7,30,0.1891891891891892
+2011,Thailand,Asia South East,1,6,0.14285714285714285
+2011,Togo,Africa Sub-Saharan,0,3,0
+2011,Trinidad and Tobago,America Central and South,5,8,0.38461538461538464
+2011,Tunisia,Africa North,2,26,0.07142857142857142
+2011,Turkey,Europe Other,40,116,0.2564102564102564
+2011,Turkmenistan,Asia Central,0,1,0
+2011,Tuvalu,Oceania,1,0,1
+2011,Uganda,Africa Sub-Saharan,96,131,0.42290748898678415
+2011,Ukraine,Europe Other,1,22,0.043478260869565216
+2011,United Arab Emirates,Middle East,2,1,0.6666666666666666
+2011,United States,America North,0,6,0
+2011,Uzbekistan,Asia Central,4,10,0.2857142857142857
+2011,Venezuela,America Central and South,2,10,0.16666666666666666
+2011,Vietnam,Asia South East,55,105,0.34375
+2011,Western Sahara,Africa North,1,4,0.2
+2011,Yemen,Middle East,13,23,0.3611111111111111
+2011,Zambia,Africa Sub-Saharan,5,8,0.38461538461538464
+2011,Zimbabwe,Africa Sub-Saharan,168,427,0.2823529411764706
+2012,Afghanistan,Asia Central,288,584,0.3302752293577982
+2012,Albania,Europe Other,161,282,0.36343115124153497
+2012,Algeria,Africa North,20,141,0.12422360248447205
+2012,Angola,Africa Sub-Saharan,12,15,0.4444444444444444
+2012,Antigua and Barbuda,America Central and South,0,2,0
+2012,Argentina,America Central and South,0,3,0
+2012,Armenia,Europe Other,3,3,0.5
+2012,Australia,Oceania,0,1,0
+2012,Azerbaijan,Europe Other,4,4,0.5
+2012,"Bahamas, The",America Central and South,0,2,0
+2012,Bahrain,Middle East,14,7,0.6666666666666666
+2012,Bangladesh,Asia South,45,658,0.06401137980085349
+2012,Barbados,America Central and South,0,2,0
+2012,Belarus,Europe Other,9,5,0.6428571428571429
+2012,Belize,America Central and South,1,0,1
+2012,Benin,Africa Sub-Saharan,0,2,0
+2012,Bhutan,Asia South,6,2,0.75
+2012,Bolivia,America Central and South,0,5,0
+2012,Bosnia and Herzegovina,Europe Other,2,3,0.4
+2012,Botswana,Africa Sub-Saharan,1,10,0.09090909090909091
+2012,Brazil,America Central and South,0,8,0
+2012,British overseas citizens,Other,0,1,0
+2012,Bulgaria,EU 2,0,2,0
+2012,Burkina,Africa Sub-Saharan,0,1,0
+2012,Burma,Asia South East,52,29,0.6419753086419753
+2012,Burundi,Africa Sub-Saharan,0,4,0
+2012,Cameroon,Africa Sub-Saharan,31,65,0.3229166666666667
+2012,Canada,America North,0,4,0
+2012,Central African Republic,Africa Sub-Saharan,0,4,0
+2012,Chad,Africa Sub-Saharan,0,9,0
+2012,China,Asia East,99,443,0.18265682656826568
+2012,Christmas Island,Oceania,0,1,0
+2012,Colombia,America Central and South,0,13,0
+2012,Comoros,Africa Sub-Saharan,2,0,1
+2012,Congo,Africa Sub-Saharan,5,12,0.29411764705882354
+2012,Congo (Democratic Republic),Africa Sub-Saharan,68,100,0.40476190476190477
+2012,Croatia,EU Other,1,2,0.3333333333333333
+2012,Cuba,America Central and South,2,3,0.4
+2012,Djibouti,Africa Sub-Saharan,0,1,0
+2012,Dominica,America Central and South,0,4,0
+2012,Dominican Republic,America Central and South,0,1,0
+2012,Egypt,Africa North,42,117,0.2641509433962264
+2012,El Salvador,America Central and South,0,2,0
+2012,Eritrea,Africa Sub-Saharan,589,118,0.8330975954738331
+2012,Ethiopia,Africa Sub-Saharan,46,69,0.4
+2012,Fiji,Oceania,2,1,0.6666666666666666
+2012,Former Yugoslavia,Europe Other,1,0,1
+2012,Gabon,Africa Sub-Saharan,0,1,0
+2012,"Gambia, The",Africa Sub-Saharan,101,164,0.38113207547169814
+2012,Georgia,Europe Other,2,17,0.10526315789473684
+2012,Ghana,Africa Sub-Saharan,17,112,0.13178294573643412
+2012,Greece,EU 14,0,1,0
+2012,Grenada,America Central and South,2,0,1
+2012,Guatemala,America Central and South,1,0,1
+2012,Guinea,Africa Sub-Saharan,12,34,0.2608695652173913
+2012,Guinea-Bissau,Africa Sub-Saharan,1,3,0.25
+2012,Guyana,America Central and South,4,2,0.6666666666666666
+2012,Haiti,America Central and South,0,1,0
+2012,Honduras,America Central and South,5,3,0.625
+2012,Hong Kong,Asia East,0,5,0
+2012,India,Asia South,9,500,0.01768172888015717
+2012,Iran,Middle East,1193,1069,0.5274093722369585
+2012,Iraq,Middle East,54,164,0.24770642201834864
+2012,Israel,Middle East,0,2,0
+2012,Ivory Coast,Africa Sub-Saharan,18,37,0.32727272727272727
+2012,Jamaica,America Central and South,22,82,0.21153846153846154
+2012,Japan,Asia East,0,1,0
+2012,Jordan,Middle East,2,16,0.1111111111111111
+2012,Kenya,Africa Sub-Saharan,12,61,0.1643835616438356
+2012,Korea (North),Asia East,5,11,0.3125
+2012,Korea (South),Asia East,0,4,0
+2012,Kosovo,Europe Other,1,8,0.1111111111111111
+2012,Kuwait,Middle East,33,33,0.5
+2012,Kyrgyzstan,Asia Central,2,2,0.5
+2012,Latvia,EU 8,0,1,0
+2012,Lebanon,Middle East,4,21,0.16
+2012,Lesotho,Africa Sub-Saharan,1,1,0.5
+2012,Liberia,Africa Sub-Saharan,1,3,0.25
+2012,Libya,Africa North,50,130,0.2777777777777778
+2012,Lithuania,EU 8,0,4,0
+2012,Macedonia,Europe Other,1,1,0.5
+2012,Madagascar,Africa Sub-Saharan,0,1,0
+2012,Malawi,Africa Sub-Saharan,22,75,0.2268041237113402
+2012,Malaysia,Asia South East,11,29,0.275
+2012,Maldives,Asia South,2,0,1
+2012,Mali,Africa Sub-Saharan,0,7,0
+2012,Mauritania,Africa North,0,5,0
+2012,Mauritius,Africa Sub-Saharan,2,27,0.06896551724137931
+2012,Mexico,America Central and South,0,6,0
+2012,Moldova,Europe Other,1,3,0.25
+2012,Mongolia,Asia East,1,11,0.08333333333333333
+2012,Morocco,Africa North,13,31,0.29545454545454547
+2012,Mozambique,Africa Sub-Saharan,1,0,1
+2012,Namibia,Africa Sub-Saharan,0,15,0
+2012,Nepal,Asia South,1,42,0.023255813953488372
+2012,Nigeria,Africa Sub-Saharan,108,602,0.15211267605633802
+2012,Norway,Europe Other,0,1,0
+2012,Occupied Palestinian Territories,Middle East,22,77,0.2222222222222222
+2012,Pakistan,Asia South,378,2075,0.154097024052181
+2012,Philippines,Asia South East,0,15,0
+2012,Poland,EU 8,0,15,0
+2012,Refugee,Other,133,18,0.8807947019867549
+2012,Romania,EU 2,0,4,0
+2012,Russia,Europe Other,26,40,0.3939393939393939
+2012,Rwanda,Africa Sub-Saharan,2,10,0.16666666666666666
+2012,Saudi Arabia,Middle East,6,2,0.75
+2012,Senegal,Africa Sub-Saharan,11,27,0.2894736842105263
+2012,Serbia,Europe Other,0,2,0
+2012,Sierra Leone,Africa Sub-Saharan,13,44,0.22807017543859648
+2012,Slovakia,EU 8,0,2,0
+2012,Somalia,Africa Sub-Saharan,342,141,0.7080745341614907
+2012,South Africa,Africa Sub-Saharan,5,34,0.1282051282051282
+2012,Sri Lanka,Asia South,333,1051,0.24060693641618497
+2012,St. Kitts and Nevis,America Central and South,0,1,0
+2012,St. Lucia,America Central and South,2,3,0.4
+2012,St. Vincent and the Grenadines,America Central and South,4,1,0.8
+2012,Stateless,Other,60,48,0.5555555555555556
+2012,Sudan,Africa North,429,160,0.7283531409168081
+2012,Swaziland,Africa Sub-Saharan,4,3,0.5714285714285714
+2012,Syria,Middle East,661,188,0.7785630153121319
+2012,Taiwan,Asia East,0,2,0
+2012,Tanzania,Africa Sub-Saharan,4,16,0.2
+2012,Thailand,Asia South East,4,3,0.5714285714285714
+2012,Togo,Africa Sub-Saharan,1,8,0.1111111111111111
+2012,Trinidad and Tobago,America Central and South,3,8,0.2727272727272727
+2012,Tunisia,Africa North,4,18,0.18181818181818182
+2012,Turkey,Europe Other,33,88,0.2727272727272727
+2012,Turkmenistan,Asia Central,0,4,0
+2012,Uganda,Africa Sub-Saharan,118,113,0.5108225108225108
+2012,Ukraine,Europe Other,6,20,0.23076923076923078
+2012,United States,America North,2,5,0.2857142857142857
+2012,Uzbekistan,Asia Central,7,6,0.5384615384615384
+2012,Venezuela,America Central and South,3,0,1
+2012,Vietnam,Asia South East,33,130,0.20245398773006135
+2012,Western Sahara,Africa North,1,1,0.5
+2012,Yemen,Middle East,12,22,0.35294117647058826
+2012,Zambia,Africa Sub-Saharan,2,13,0.13333333333333333
+2012,Zimbabwe,Africa Sub-Saharan,174,203,0.46153846153846156
+2013,Afghanistan,Asia Central,334,587,0.36264929424538545
+2013,Albania,Europe Other,282,503,0.3592356687898089
+2013,Algeria,Africa North,24,104,0.1875
+2013,Angola,Africa Sub-Saharan,8,20,0.2857142857142857
+2013,Antigua and Barbuda,America Central and South,0,1,0
+2013,Armenia,Europe Other,3,6,0.3333333333333333
+2013,Australia,Oceania,0,1,0
+2013,Azerbaijan,Europe Other,3,8,0.2727272727272727
+2013,"Bahamas, The",America Central and South,0,2,0
+2013,Bahrain,Middle East,11,2,0.8461538461538461
+2013,Bangladesh,Asia South,50,709,0.06587615283267458
+2013,Belarus,Europe Other,12,6,0.6666666666666666
+2013,Benin,Africa Sub-Saharan,0,4,0
+2013,Bhutan,Asia South,4,3,0.5714285714285714
+2013,Bolivia,America Central and South,1,2,0.3333333333333333
+2013,Botswana,Africa Sub-Saharan,0,3,0
+2013,Brazil,America Central and South,4,8,0.3333333333333333
+2013,Burkina,Africa Sub-Saharan,1,1,0.5
+2013,Burma,Asia South East,19,15,0.5588235294117647
+2013,Burundi,Africa Sub-Saharan,3,5,0.375
+2013,Cameroon,Africa Sub-Saharan,35,77,0.3125
+2013,Canada,America North,0,5,0
+2013,Cape Verde,Africa Sub-Saharan,1,0,1
+2013,Central African Republic,Africa Sub-Saharan,1,3,0.25
+2013,Chad,Africa Sub-Saharan,0,12,0
+2013,China,Asia East,62,432,0.12550607287449392
+2013,Colombia,America Central and South,1,8,0.1111111111111111
+2013,Comoros,Africa Sub-Saharan,0,1,0
+2013,Congo,Africa Sub-Saharan,3,15,0.16666666666666666
+2013,Congo (Democratic Republic),Africa Sub-Saharan,68,87,0.43870967741935485
+2013,Cuba,America Central and South,1,1,0.5
+2013,Czech Republic,EU 8,0,4,0
+2013,Dominica,America Central and South,0,2,0
+2013,Ecuador,America Central and South,0,5,0
+2013,Egypt,Africa North,40,148,0.2127659574468085
+2013,El Salvador,America Central and South,0,1,0
+2013,Equatorial Guinea,Africa Sub-Saharan,0,1,0
+2013,Eritrea,Africa Sub-Saharan,790,173,0.8203530633437176
+2013,Estonia,EU 8,0,1,0
+2013,Ethiopia,Africa Sub-Saharan,56,76,0.42424242424242425
+2013,Fiji,Oceania,0,2,0
+2013,Former Yugoslavia,Europe Other,0,1,0
+2013,France,EU 14,0,1,0
+2013,Gabon,Africa Sub-Saharan,0,1,0
+2013,"Gambia, The",Africa Sub-Saharan,75,124,0.3768844221105528
+2013,Georgia,Europe Other,0,13,0
+2013,Ghana,Africa Sub-Saharan,17,121,0.12318840579710146
+2013,Grenada,America Central and South,0,2,0
+2013,Guinea,Africa Sub-Saharan,22,43,0.3384615384615385
+2013,Guyana,America Central and South,2,2,0.5
+2013,Honduras,America Central and South,0,1,0
+2013,Hungary,EU 8,0,4,0
+2013,India,Asia South,12,577,0.02037351443123939
+2013,Indonesia,Asia South East,2,3,0.4
+2013,Iran,Middle East,1068,856,0.5550935550935551
+2013,Iraq,Middle East,71,162,0.30472103004291845
+2013,Israel,Middle East,0,2,0
+2013,Italy,EU 14,0,2,0
+2013,Ivory Coast,Africa Sub-Saharan,19,40,0.3220338983050847
+2013,Jamaica,America Central and South,15,98,0.13274336283185842
+2013,Japan,Asia East,0,2,0
+2013,Jordan,Middle East,0,16,0
+2013,Kazakhstan,Asia Central,1,2,0.3333333333333333
+2013,Kenya,Africa Sub-Saharan,5,62,0.07462686567164178
+2013,Korea (North),Asia East,8,15,0.34782608695652173
+2013,Korea (South),Asia East,1,2,0.3333333333333333
+2013,Kosovo,Europe Other,5,15,0.25
+2013,Kuwait,Middle East,24,18,0.5714285714285714
+2013,Kyrgyzstan,Asia Central,1,8,0.1111111111111111
+2013,Laos,Asia South East,1,0,1
+2013,Latvia,EU 8,0,7,0
+2013,Lebanon,Middle East,7,29,0.19444444444444445
+2013,Liberia,Africa Sub-Saharan,2,2,0.5
+2013,Libya,Africa North,61,106,0.3652694610778443
+2013,Lithuania,EU 8,0,11,0
+2013,Macedonia,Europe Other,1,0,1
+2013,Malawi,Africa Sub-Saharan,22,71,0.23655913978494625
+2013,Malaysia,Asia South East,7,29,0.19444444444444445
+2013,Maldives,Asia South,1,0,1
+2013,Mali,Africa Sub-Saharan,2,18,0.1
+2013,Mauritania,Africa North,2,2,0.5
+2013,Mauritius,Africa Sub-Saharan,5,20,0.2
+2013,Mexico,America Central and South,1,4,0.2
+2013,Moldova,Europe Other,0,1,0
+2013,Mongolia,Asia East,3,10,0.23076923076923078
+2013,Morocco,Africa North,15,28,0.3488372093023256
+2013,Namibia,Africa Sub-Saharan,0,11,0
+2013,Nepal,Asia South,1,38,0.02564102564102564
+2013,Netherlands,EU 14,0,2,0
+2013,Niger,Africa Sub-Saharan,0,6,0
+2013,Nigeria,Africa Sub-Saharan,105,637,0.14150943396226415
+2013,Occupied Palestinian Territories,Middle East,30,50,0.375
+2013,Other and unknown,Other,1,3,0.25
+2013,Pakistan,Asia South,590,2035,0.22476190476190477
+2013,Peru,America Central and South,0,1,0
+2013,Philippines,Asia South East,1,22,0.043478260869565216
+2013,Poland,EU 8,0,79,0
+2013,Portugal,EU 14,0,1,0
+2013,Qatar,Middle East,0,1,0
+2013,Refugee,Other,159,18,0.8983050847457628
+2013,Romania,EU 2,0,2,0
+2013,Russia,Europe Other,26,35,0.4262295081967213
+2013,Rwanda,Africa Sub-Saharan,6,11,0.35294117647058826
+2013,Saudi Arabia,Middle East,7,4,0.6363636363636364
+2013,Senegal,Africa Sub-Saharan,7,20,0.25925925925925924
+2013,Serbia,Europe Other,0,2,0
+2013,Seychelles,Africa Sub-Saharan,0,1,0
+2013,Sierra Leone,Africa Sub-Saharan,30,36,0.45454545454545453
+2013,Slovakia,EU 8,0,2,0
+2013,Somalia,Africa Sub-Saharan,246,160,0.6059113300492611
+2013,South Africa,Africa Sub-Saharan,7,33,0.175
+2013,Sri Lanka,Asia South,263,1025,0.20419254658385094
+2013,St. Kitts and Nevis,America Central and South,0,3,0
+2013,St. Vincent and the Grenadines,America Central and South,1,3,0.25
+2013,Stateless,Other,22,32,0.4074074074074074
+2013,Sudan,Africa North,433,161,0.7289562289562289
+2013,Swaziland,Africa Sub-Saharan,2,3,0.4
+2013,Syria,Middle East,1119,202,0.8470855412566237
+2013,Taiwan,Asia East,0,1,0
+2013,Tanzania,Africa Sub-Saharan,2,31,0.06060606060606061
+2013,Thailand,Asia South East,0,8,0
+2013,Togo,Africa Sub-Saharan,1,10,0.09090909090909091
+2013,Trinidad and Tobago,America Central and South,1,14,0.06666666666666667
+2013,Tunisia,Africa North,1,19,0.05
+2013,Turkey,Europe Other,39,145,0.21195652173913043
+2013,Turkmenistan,Asia Central,0,3,0
+2013,Uganda,Africa Sub-Saharan,78,95,0.4508670520231214
+2013,Ukraine,Europe Other,3,17,0.15
+2013,United States,America North,0,9,0
+2013,Uzbekistan,Asia Central,5,13,0.2777777777777778
+2013,Venezuela,America Central and South,0,2,0
+2013,Vietnam,Asia South East,59,199,0.22868217054263565
+2013,Western Sahara,Africa North,3,2,0.6
+2013,Yemen,Middle East,17,21,0.4473684210526316
+2013,Zambia,Africa Sub-Saharan,5,10,0.3333333333333333
+2013,Zimbabwe,Africa Sub-Saharan,99,188,0.34494773519163763
+2014,Afghanistan,Asia Central,328,615,0.34782608695652173
+2014,Albania,Europe Other,241,787,0.23443579766536965
+2014,Algeria,Africa North,16,108,0.12903225806451613
+2014,American Samoa,Oceania,0,1,0
+2014,Angola,Africa Sub-Saharan,13,31,0.29545454545454547
+2014,Antigua and Barbuda,America Central and South,1,0,1
+2014,Argentina,America Central and South,0,1,0
+2014,Armenia,Europe Other,3,2,0.6
+2014,Australia,Oceania,1,2,0.3333333333333333
+2014,Azerbaijan,Europe Other,5,2,0.7142857142857143
+2014,Bahrain,Middle East,5,6,0.45454545454545453
+2014,Bangladesh,Asia South,64,527,0.10829103214890017
+2014,Barbados,America Central and South,0,2,0
+2014,Belarus,Europe Other,17,2,0.8947368421052632
+2014,Belize,America Central and South,0,1,0
+2014,Benin,Africa Sub-Saharan,0,3,0
+2014,Bhutan,Asia South,3,3,0.5
+2014,Bolivia,America Central and South,2,5,0.2857142857142857
+2014,Bosnia and Herzegovina,Europe Other,0,6,0
+2014,Botswana,Africa Sub-Saharan,1,6,0.14285714285714285
+2014,Brazil,America Central and South,0,15,0
+2014,British overseas citizens,Other,0,1,0
+2014,Burkina,Africa Sub-Saharan,0,1,0
+2014,Burma,Asia South East,41,45,0.47674418604651164
+2014,Burundi,Africa Sub-Saharan,1,3,0.25
+2014,Cameroon,Africa Sub-Saharan,29,75,0.27884615384615385
+2014,Canada,America North,0,1,0
+2014,Central African Republic,Africa Sub-Saharan,3,3,0.5
+2014,Chad,Africa Sub-Saharan,4,4,0.5
+2014,Chile,America Central and South,0,2,0
+2014,China,Asia East,53,589,0.08255451713395638
+2014,Colombia,America Central and South,1,9,0.1
+2014,Comoros,Africa Sub-Saharan,0,1,0
+2014,Congo,Africa Sub-Saharan,4,12,0.25
+2014,Congo (Democratic Republic),Africa Sub-Saharan,72,130,0.3564356435643564
+2014,Costa Rica,America Central and South,0,2,0
+2014,Cuba,America Central and South,2,1,0.6666666666666666
+2014,Cyprus (Northern part of),Europe Other,1,0,1
+2014,Czech Republic,EU 8,0,2,0
+2014,Djibouti,Africa Sub-Saharan,1,1,0.5
+2014,Dominica,America Central and South,0,1,0
+2014,Ecuador,America Central and South,0,3,0
+2014,Egypt,Africa North,41,127,0.24404761904761904
+2014,El Salvador,America Central and South,1,11,0.08333333333333333
+2014,Equatorial Guinea,Africa Sub-Saharan,0,1,0
+2014,Eritrea,Africa Sub-Saharan,2155,308,0.8749492488834755
+2014,Ethiopia,Africa Sub-Saharan,52,95,0.35374149659863946
+2014,Former Yugoslavia,Europe Other,0,24,0
+2014,France,EU 14,1,1,0.5
+2014,"Gambia, The",Africa Sub-Saharan,79,112,0.41361256544502617
+2014,Georgia,Europe Other,0,21,0
+2014,Ghana,Africa Sub-Saharan,20,109,0.15503875968992248
+2014,Greece,EU 14,0,1,0
+2014,Grenada,America Central and South,0,2,0
+2014,Guatemala,America Central and South,0,1,0
+2014,Guinea,Africa Sub-Saharan,7,27,0.20588235294117646
+2014,Guinea-Bissau,Africa Sub-Saharan,0,1,0
+2014,Guyana,America Central and South,2,1,0.6666666666666666
+2014,Honduras,America Central and South,3,7,0.3
+2014,Hong Kong,Asia East,0,3,0
+2014,Hungary,EU 8,0,2,0
+2014,India,Asia South,16,576,0.02702702702702703
+2014,Indonesia,Asia South East,0,10,0
+2014,Iran,Middle East,993,808,0.5513603553581343
+2014,Iraq,Middle East,117,257,0.31283422459893045
+2014,Israel,Middle East,0,2,0
+2014,Italy,EU 14,0,1,0
+2014,Ivory Coast,Africa Sub-Saharan,11,50,0.18032786885245902
+2014,Jamaica,America Central and South,17,99,0.14655172413793102
+2014,Japan,Asia East,0,3,0
+2014,Jordan,Middle East,1,15,0.0625
+2014,Kazakhstan,Asia Central,1,4,0.2
+2014,Kenya,Africa Sub-Saharan,17,43,0.2833333333333333
+2014,Korea (North),Asia East,6,16,0.2727272727272727
+2014,Korea (South),Asia East,0,6,0
+2014,Kosovo,Europe Other,4,34,0.10526315789473684
+2014,Kuwait,Middle East,14,15,0.4827586206896552
+2014,Kyrgyzstan,Asia Central,2,2,0.5
+2014,Laos,Asia South East,0,1,0
+2014,Latvia,EU 8,0,11,0
+2014,Lebanon,Middle East,9,21,0.3
+2014,Liberia,Africa Sub-Saharan,3,8,0.2727272727272727
+2014,Libya,Africa North,48,115,0.294478527607362
+2014,Lithuania,EU 8,0,15,0
+2014,Macedonia,Europe Other,1,2,0.3333333333333333
+2014,Malawi,Africa Sub-Saharan,10,55,0.15384615384615385
+2014,Malaysia,Asia South East,11,20,0.3548387096774194
+2014,Maldives,Asia South,1,0,1
+2014,Mali,Africa Sub-Saharan,2,14,0.125
+2014,Mauritania,Africa North,0,3,0
+2014,Mauritius,Africa Sub-Saharan,0,25,0
+2014,Mexico,America Central and South,0,3,0
+2014,Moldova,Europe Other,1,6,0.14285714285714285
+2014,Mongolia,Asia East,0,16,0
+2014,Montenegro,Europe Other,0,1,0
+2014,Morocco,Africa North,15,38,0.2830188679245283
+2014,Mozambique,Africa Sub-Saharan,0,1,0
+2014,Namibia,Africa Sub-Saharan,0,14,0
+2014,Nepal,Asia South,1,33,0.029411764705882353
+2014,Nicaragua,America Central and South,0,1,0
+2014,Niger,Africa Sub-Saharan,1,3,0.25
+2014,Nigeria,Africa Sub-Saharan,150,607,0.19815059445178335
+2014,Occupied Palestinian Territories,Middle East,31,56,0.3563218390804598
+2014,Oman,Middle East,2,0,1
+2014,Other and unknown,Other,1,9,0.1
+2014,Pakistan,Asia South,466,1810,0.2047451669595782
+2014,Panama,America Central and South,0,1,0
+2014,Peru,America Central and South,0,2,0
+2014,Philippines,Asia South East,1,19,0.05
+2014,Poland,EU 8,0,108,0
+2014,Portugal,EU 14,0,5,0
+2014,Qatar,Middle East,1,0,1
+2014,Refugee,Other,148,21,0.8757396449704142
+2014,Romania,EU 2,0,29,0
+2014,Russia,Europe Other,19,31,0.38
+2014,Rwanda,Africa Sub-Saharan,9,7,0.5625
+2014,Saudi Arabia,Middle East,4,10,0.2857142857142857
+2014,Senegal,Africa Sub-Saharan,2,19,0.09523809523809523
+2014,Serbia,Europe Other,0,3,0
+2014,Seychelles,Africa Sub-Saharan,0,4,0
+2014,Sierra Leone,Africa Sub-Saharan,18,49,0.26865671641791045
+2014,Singapore,Asia South East,0,2,0
+2014,Somalia,Africa Sub-Saharan,156,179,0.46567164179104475
+2014,South Africa,Africa Sub-Saharan,6,36,0.14285714285714285
+2014,Spain,EU 14,0,1,0
+2014,Sri Lanka,Asia South,157,1060,0.12900575184880855
+2014,St. Kitts and Nevis,America Central and South,0,1,0
+2014,St. Lucia,America Central and South,2,2,0.5
+2014,St. Vincent and the Grenadines,America Central and South,1,2,0.3333333333333333
+2014,Stateless,Other,44,58,0.43137254901960786
+2014,Sudan,Africa North,776,207,0.7894201424211598
+2014,Sudan (South),Africa Sub-Saharan,3,2,0.6
+2014,Swaziland,Africa Sub-Saharan,8,6,0.5714285714285714
+2014,Syria,Middle East,1195,169,0.876099706744868
+2014,Tanzania,Africa Sub-Saharan,6,16,0.2727272727272727
+2014,Thailand,Asia South East,1,7,0.125
+2014,Togo,Africa Sub-Saharan,1,2,0.3333333333333333
+2014,Trinidad and Tobago,America Central and South,2,15,0.11764705882352941
+2014,Tunisia,Africa North,3,33,0.08333333333333333
+2014,Turkey,Europe Other,71,178,0.285140562248996
+2014,Turkmenistan,Asia Central,1,1,0.5
+2014,Uganda,Africa Sub-Saharan,129,114,0.5308641975308642
+2014,Ukraine,Europe Other,6,120,0.047619047619047616
+2014,United Arab Emirates,Middle East,3,0,1
+2014,United States,America North,0,21,0
+2014,Uruguay,America Central and South,0,1,0
+2014,Uzbekistan,Asia Central,0,11,0
+2014,Venezuela,America Central and South,1,17,0.05555555555555555
+2014,Vietnam,Asia South East,75,153,0.32894736842105265
+2014,Western Sahara,Africa North,1,4,0.2
+2014,Yemen,Middle East,9,34,0.20930232558139536
+2014,Zambia,Africa Sub-Saharan,11,12,0.4782608695652174
+2014,Zimbabwe,Africa Sub-Saharan,56,166,0.25225225225225223
+2015,Afghanistan,Asia Central,512,917,0.3582925122463261
+2015,Albania,Europe Other,347,1069,0.24505649717514125
+2015,Algeria,Africa North,18,115,0.13533834586466165
+2015,Angola,Africa Sub-Saharan,12,25,0.32432432432432434
+2015,Antigua and Barbuda,America Central and South,0,2,0
+2015,Argentina,America Central and South,0,1,0
+2015,Armenia,Europe Other,5,22,0.18518518518518517
+2015,Australia,Oceania,0,2,0
+2015,Azerbaijan,Europe Other,3,8,0.2727272727272727
+2015,Bahrain,Middle East,6,4,0.6
+2015,Bangladesh,Asia South,82,678,0.10789473684210527
+2015,Barbados,America Central and South,0,3,0
+2015,Belarus,Europe Other,8,3,0.7272727272727273
+2015,Belgium,EU 14,0,2,0
+2015,Benin,Africa Sub-Saharan,1,0,1
+2015,Bhutan,Asia South,2,1,0.6666666666666666
+2015,Bolivia,America Central and South,1,8,0.1111111111111111
+2015,Bosnia and Herzegovina,Europe Other,0,3,0
+2015,Botswana,Africa Sub-Saharan,4,10,0.2857142857142857
+2015,Brazil,America Central and South,1,11,0.08333333333333333
+2015,British overseas citizens,Other,4,1,0.8
+2015,Bulgaria,EU 2,0,4,0
+2015,Burkina,Africa Sub-Saharan,0,2,0
+2015,Burma,Asia South East,53,130,0.2896174863387978
+2015,Burundi,Africa Sub-Saharan,4,6,0.4
+2015,Cambodia,Asia South East,0,1,0
+2015,Cameroon,Africa Sub-Saharan,49,93,0.34507042253521125
+2015,Canada,America North,0,5,0
+2015,Cape Verde,Africa Sub-Saharan,0,1,0
+2015,Central African Republic,Africa Sub-Saharan,0,3,0
+2015,Chad,Africa Sub-Saharan,8,20,0.2857142857142857
+2015,China,Asia East,60,579,0.09389671361502347
+2015,Colombia,America Central and South,0,9,0
+2015,Congo,Africa Sub-Saharan,5,22,0.18518518518518517
+2015,Congo (Democratic Republic),Africa Sub-Saharan,82,171,0.3241106719367589
+2015,Costa Rica,America Central and South,0,1,0
+2015,Cuba,America Central and South,0,2,0
+2015,Cyprus (Northern part of),Europe Other,0,3,0
+2015,Czech Republic,EU 8,0,3,0
+2015,Denmark,EU 14,0,1,0
+2015,Djibouti,Africa Sub-Saharan,1,0,1
+2015,Dominica,America Central and South,2,1,0.6666666666666666
+2015,Ecuador,America Central and South,0,1,0
+2015,Egypt,Africa North,80,234,0.25477707006369427
+2015,El Salvador,America Central and South,2,12,0.14285714285714285
+2015,Equatorial Guinea,Africa Sub-Saharan,0,2,0
+2015,Eritrea,Africa Sub-Saharan,1531,1660,0.4797869006581009
+2015,Estonia,EU 8,0,1,0
+2015,Ethiopia,Africa Sub-Saharan,348,271,0.5621970920840065
+2015,Fiji,Oceania,0,2,0
+2015,France,EU 14,0,2,0
+2015,Gabon,Africa Sub-Saharan,1,0,1
+2015,"Gambia, The",Africa Sub-Saharan,62,167,0.27074235807860264
+2015,Georgia,Europe Other,2,42,0.045454545454545456
+2015,Germany,EU 14,0,2,0
+2015,Ghana,Africa Sub-Saharan,13,130,0.09090909090909091
+2015,Greece,EU 14,0,2,0
+2015,Grenada,America Central and South,0,3,0
+2015,Guatemala,America Central and South,0,2,0
+2015,Guinea,Africa Sub-Saharan,8,26,0.23529411764705882
+2015,Guinea-Bissau,Africa Sub-Saharan,1,1,0.5
+2015,Guyana,America Central and South,1,6,0.14285714285714285
+2015,Haiti,America Central and South,1,1,0.5
+2015,Honduras,America Central and South,4,5,0.4444444444444444
+2015,Hong Kong,Asia East,0,2,0
+2015,Hungary,EU 8,0,5,0
+2015,India,Asia South,15,637,0.023006134969325152
+2015,Indonesia,Asia South East,0,7,0
+2015,Iran,Middle East,1532,1258,0.5491039426523298
+2015,Iraq,Middle East,216,838,0.2049335863377609
+2015,Ireland,EU 14,0,3,0
+2015,Israel,Middle East,0,9,0
+2015,Ivory Coast,Africa Sub-Saharan,7,38,0.15555555555555556
+2015,Jamaica,America Central and South,20,137,0.12738853503184713
+2015,Jordan,Middle East,4,18,0.18181818181818182
+2015,Kazakhstan,Asia Central,1,6,0.14285714285714285
+2015,Kenya,Africa Sub-Saharan,11,64,0.14666666666666667
+2015,Korea (North),Asia East,0,23,0
+2015,Korea (South),Asia East,1,11,0.08333333333333333
+2015,Kosovo,Europe Other,0,26,0
+2015,Kuwait,Middle East,25,27,0.4807692307692308
+2015,Kyrgyzstan,Asia Central,3,3,0.5
+2015,Laos,Asia South East,0,1,0
+2015,Latvia,EU 8,0,20,0
+2015,Lebanon,Middle East,6,43,0.12244897959183673
+2015,Lesotho,Africa Sub-Saharan,0,1,0
+2015,Liberia,Africa Sub-Saharan,0,5,0
+2015,Libya,Africa North,85,406,0.17311608961303462
+2015,Lithuania,EU 8,0,33,0
+2015,Macedonia,Europe Other,0,1,0
+2015,Madagascar,Africa Sub-Saharan,0,1,0
+2015,Malawi,Africa Sub-Saharan,21,73,0.22340425531914893
+2015,Malaysia,Asia South East,14,32,0.30434782608695654
+2015,Maldives,Asia South,5,0,1
+2015,Mali,Africa Sub-Saharan,0,18,0
+2015,Mauritania,Africa North,0,1,0
+2015,Mauritius,Africa Sub-Saharan,2,36,0.05263157894736842
+2015,Mexico,America Central and South,0,9,0
+2015,Moldova,Europe Other,1,1,0.5
+2015,Mongolia,Asia East,3,10,0.23076923076923078
+2015,Morocco,Africa North,13,49,0.20967741935483872
+2015,Mozambique,Africa Sub-Saharan,0,1,0
+2015,Namibia,Africa Sub-Saharan,5,13,0.2777777777777778
+2015,Nepal,Asia South,1,44,0.022222222222222223
+2015,Niger,Africa Sub-Saharan,1,2,0.3333333333333333
+2015,Nigeria,Africa Sub-Saharan,135,783,0.14705882352941177
+2015,Occupied Palestinian Territories,Middle East,45,89,0.3358208955223881
+2015,Oman,Middle East,1,5,0.16666666666666666
+2015,Other and unknown,Other,1,2,0.3333333333333333
+2015,Pakistan,Asia South,489,1869,0.20737913486005088
+2015,Philippines,Asia South East,0,30,0
+2015,Poland,EU 8,0,82,0
+2015,Portugal,EU 14,0,3,0
+2015,Qatar,Middle East,1,1,0.5
+2015,Refugee,Other,311,37,0.8936781609195402
+2015,Romania,EU 2,0,16,0
+2015,Russia,Europe Other,28,47,0.37333333333333335
+2015,Rwanda,Africa Sub-Saharan,6,13,0.3157894736842105
+2015,Saudi Arabia,Middle East,9,8,0.5294117647058824
+2015,Senegal,Africa Sub-Saharan,8,21,0.27586206896551724
+2015,Serbia,Europe Other,0,1,0
+2015,Seychelles,Africa Sub-Saharan,0,1,0
+2015,Sierra Leone,Africa Sub-Saharan,10,51,0.16393442622950818
+2015,Singapore,Asia South East,0,1,0
+2015,Slovakia,EU 8,0,5,0
+2015,Somalia,Africa Sub-Saharan,198,271,0.42217484008528783
+2015,South Africa,Africa Sub-Saharan,7,52,0.11864406779661017
+2015,Spain,EU 14,0,1,0
+2015,Sri Lanka,Asia South,179,1358,0.11646063760572543
+2015,St. Lucia,America Central and South,1,8,0.1111111111111111
+2015,St. Vincent and the Grenadines,America Central and South,4,6,0.4
+2015,Stateless,Other,124,88,0.5849056603773585
+2015,Sudan,Africa North,2296,399,0.8519480519480519
+2015,Sudan (South),Africa Sub-Saharan,8,2,0.8
+2015,Swaziland,Africa Sub-Saharan,15,6,0.7142857142857143
+2015,Syria,Middle East,1796,285,0.8630466122056704
+2015,Tajikistan,Asia Central,0,3,0
+2015,Tanzania,Africa Sub-Saharan,9,23,0.28125
+2015,Thailand,Asia South East,2,9,0.18181818181818182
+2015,Togo,Africa Sub-Saharan,1,9,0.1
+2015,Tonga,Oceania,0,1,0
+2015,Trinidad and Tobago,America Central and South,5,11,0.3125
+2015,Tunisia,Africa North,4,19,0.17391304347826086
+2015,Turkey,Europe Other,60,192,0.23809523809523808
+2015,Turkmenistan,Asia Central,0,4,0
+2015,Uganda,Africa Sub-Saharan,134,113,0.5425101214574899
+2015,Ukraine,Europe Other,3,166,0.01775147928994083
+2015,United Arab Emirates,Middle East,0,11,0
+2015,United States,America North,0,9,0
+2015,Uzbekistan,Asia Central,1,13,0.07142857142857142
+2015,Venezuela,America Central and South,2,12,0.14285714285714285
+2015,Vietnam,Asia South East,92,223,0.2920634920634921
+2015,Western Sahara,Africa North,0,2,0
+2015,Yemen,Middle East,50,42,0.5434782608695652
+2015,Zambia,Africa Sub-Saharan,2,18,0.1
+2015,Zimbabwe,Africa Sub-Saharan,69,354,0.16312056737588654
+2016,Afghanistan,Asia Central,603,1109,0.3522196261682243
+2016,Albania,Europe Other,222,597,0.27106227106227104
+2016,Algeria,Africa North,13,86,0.13131313131313133
+2016,Angola,Africa Sub-Saharan,8,24,0.25
+2016,Argentina,America Central and South,0,1,0
+2016,Armenia,Europe Other,2,3,0.4
+2016,Azerbaijan,Europe Other,2,8,0.2
+2016,Bahrain,Middle East,3,3,0.5
+2016,Bangladesh,Asia South,70,1160,0.056910569105691054
+2016,Barbados,America Central and South,0,5,0
+2016,Belarus,Europe Other,5,3,0.625
+2016,Belize,America Central and South,0,1,0
+2016,Benin,Africa Sub-Saharan,0,1,0
+2016,Bhutan,Asia South,0,1,0
+2016,Bolivia,America Central and South,0,6,0
+2016,Bosnia and Herzegovina,Europe Other,0,1,0
+2016,Botswana,Africa Sub-Saharan,0,6,0
+2016,Brazil,America Central and South,0,14,0
+2016,British overseas citizens,Other,1,1,0.5
+2016,Bulgaria,EU 2,0,2,0
+2016,Burkina,Africa Sub-Saharan,0,2,0
+2016,Burma,Asia South East,7,61,0.10294117647058823
+2016,Burundi,Africa Sub-Saharan,2,9,0.18181818181818182
+2016,Cameroon,Africa Sub-Saharan,25,76,0.24752475247524752
+2016,Canada,America North,0,2,0
+2016,Central African Republic,Africa Sub-Saharan,1,0,1
+2016,Chad,Africa Sub-Saharan,2,3,0.4
+2016,China,Asia East,21,349,0.05675675675675676
+2016,Colombia,America Central and South,0,2,0
+2016,Congo,Africa Sub-Saharan,0,19,0
+2016,Congo (Democratic Republic),Africa Sub-Saharan,47,94,0.3333333333333333
+2016,Croatia,EU Other,0,1,0
+2016,Cuba,America Central and South,0,1,0
+2016,Czech Republic,EU 8,0,1,0
+2016,Djibouti,Africa Sub-Saharan,0,1,0
+2016,Dominica,America Central and South,2,4,0.3333333333333333
+2016,Dominican Republic,America Central and South,0,1,0
+2016,Ecuador,America Central and South,0,2,0
+2016,Egypt,Africa North,25,181,0.12135922330097088
+2016,El Salvador,America Central and South,5,11,0.3125
+2016,Equatorial Guinea,Africa Sub-Saharan,0,1,0
+2016,Eritrea,Africa Sub-Saharan,1237,601,0.6730141458106638
+2016,Estonia,EU 8,0,2,0
+2016,Ethiopia,Africa Sub-Saharan,188,172,0.5222222222222223
+2016,Fiji,Oceania,0,1,0
+2016,France,EU 14,0,4,0
+2016,French Guiana,America Central and South,1,0,1
+2016,"Gambia, The",Africa Sub-Saharan,17,115,0.12878787878787878
+2016,Georgia,Europe Other,0,27,0
+2016,Germany,EU 14,0,2,0
+2016,Ghana,Africa Sub-Saharan,14,163,0.07909604519774012
+2016,Greece,EU 14,0,1,0
+2016,Grenada,America Central and South,1,3,0.25
+2016,Guinea,Africa Sub-Saharan,9,14,0.391304347826087
+2016,Guinea-Bissau,Africa Sub-Saharan,0,2,0
+2016,Guyana,America Central and South,1,4,0.2
+2016,Honduras,America Central and South,0,4,0
+2016,Hong Kong,Asia East,0,1,0
+2016,Hungary,EU 8,0,2,0
+2016,India,Asia South,6,899,0.0066298342541436465
+2016,Indonesia,Asia South East,1,5,0.16666666666666666
+2016,Iran,Middle East,1456,2446,0.3731419784725782
+2016,Iraq,Middle East,285,2093,0.11984861227922625
+2016,Israel,Middle East,0,2,0
+2016,Italy,EU 14,0,1,0
+2016,Ivory Coast,Africa Sub-Saharan,5,18,0.21739130434782608
+2016,Jamaica,America Central and South,18,178,0.09183673469387756
+2016,Japan,Asia East,0,1,0
+2016,Jordan,Middle East,1,7,0.125
+2016,Kazakhstan,Asia Central,1,0,1
+2016,Kenya,Africa Sub-Saharan,8,51,0.13559322033898305
+2016,Korea (North),Asia East,0,10,0
+2016,Korea (South),Asia East,0,3,0
+2016,Kosovo,Europe Other,1,6,0.14285714285714285
+2016,Kuwait,Middle East,9,24,0.2727272727272727
+2016,Kyrgyzstan,Asia Central,1,3,0.25
+2016,Laos,Asia South East,1,0,1
+2016,Latvia,EU 8,0,6,0
+2016,Lebanon,Middle East,2,30,0.0625
+2016,Liberia,Africa Sub-Saharan,0,3,0
+2016,Libya,Africa North,38,163,0.1890547263681592
+2016,Lithuania,EU 8,0,19,0
+2016,Macedonia,Europe Other,1,1,0.5
+2016,Malawi,Africa Sub-Saharan,7,50,0.12280701754385964
+2016,Malaysia,Asia South East,13,38,0.2549019607843137
+2016,Maldives,Asia South,2,0,1
+2016,Mali,Africa Sub-Saharan,0,8,0
+2016,Mauritius,Africa Sub-Saharan,2,37,0.05128205128205128
+2016,Mexico,America Central and South,2,8,0.2
+2016,Moldova,Europe Other,0,1,0
+2016,Mongolia,Asia East,1,7,0.125
+2016,Morocco,Africa North,1,42,0.023255813953488372
+2016,Mozambique,Africa Sub-Saharan,0,1,0
+2016,Namibia,Africa Sub-Saharan,4,8,0.3333333333333333
+2016,Nepal,Asia South,0,77,0
+2016,Netherlands,EU 14,0,3,0
+2016,Nicaragua,America Central and South,0,1,0
+2016,Niger,Africa Sub-Saharan,0,1,0
+2016,Nigeria,Africa Sub-Saharan,78,698,0.10051546391752578
+2016,Occupied Palestinian Territories,Middle East,11,55,0.16666666666666666
+2016,Oman,Middle East,2,0,1
+2016,Other and unknown,Other,1,6,0.14285714285714285
+2016,Pakistan,Asia South,292,1731,0.14434008897676717
+2016,Panama,America Central and South,0,1,0
+2016,Papua New Guinea,Oceania,0,1,0
+2016,Philippines,Asia South East,1,42,0.023255813953488372
+2016,Poland,EU 8,0,30,0
+2016,Portugal,EU 14,0,5,0
+2016,Qatar,Middle East,1,0,1
+2016,Refugee,Other,299,139,0.682648401826484
+2016,Romania,EU 2,0,17,0
+2016,Russia,Europe Other,16,27,0.37209302325581395
+2016,Rwanda,Africa Sub-Saharan,1,13,0.07142857142857142
+2016,Sao Tome and Principe,Africa Sub-Saharan,0,1,0
+2016,Saudi Arabia,Middle East,19,8,0.7037037037037037
+2016,Senegal,Africa Sub-Saharan,3,15,0.16666666666666666
+2016,Serbia,Europe Other,0,2,0
+2016,Seychelles,Africa Sub-Saharan,1,1,0.5
+2016,Sierra Leone,Africa Sub-Saharan,15,31,0.32608695652173914
+2016,Slovakia,EU 8,0,2,0
+2016,Somalia,Africa Sub-Saharan,103,159,0.3931297709923664
+2016,South Africa,Africa Sub-Saharan,4,30,0.11764705882352941
+2016,Spain,EU 14,0,1,0
+2016,Sri Lanka,Asia South,44,687,0.060191518467852256
+2016,St. Kitts and Nevis,America Central and South,0,3,0
+2016,St. Lucia,America Central and South,3,8,0.2727272727272727
+2016,St. Vincent and the Grenadines,America Central and South,0,4,0
+2016,Stateless,Other,74,116,0.3894736842105263
+2016,Sudan,Africa North,1173,211,0.8475433526011561
+2016,Sudan (South),Africa Sub-Saharan,2,0,1
+2016,Swaziland,Africa Sub-Saharan,3,6,0.3333333333333333
+2016,Syria,Middle East,1590,256,0.8613217768147345
+2016,Tajikistan,Asia Central,2,0,1
+2016,Tanzania,Africa Sub-Saharan,4,30,0.11764705882352941
+2016,Thailand,Asia South East,0,7,0
+2016,Togo,Africa Sub-Saharan,0,2,0
+2016,Trinidad and Tobago,America Central and South,2,24,0.07692307692307693
+2016,Tunisia,Africa North,4,21,0.16
+2016,Turkey,Europe Other,32,172,0.1568627450980392
+2016,Turkmenistan,Asia Central,0,5,0
+2016,Uganda,Africa Sub-Saharan,110,115,0.4888888888888889
+2016,Ukraine,Europe Other,0,72,0
+2016,United States,America North,1,15,0.0625
+2016,Uzbekistan,Asia Central,4,10,0.2857142857142857
+2016,Venezuela,America Central and South,2,6,0.25
+2016,Vietnam,Asia South East,102,181,0.36042402826855124
+2016,Western Sahara,Africa North,0,1,0
+2016,Yemen,Middle East,34,34,0.5
+2016,Zambia,Africa Sub-Saharan,1,16,0.058823529411764705
+2016,Zimbabwe,Africa Sub-Saharan,31,191,0.13963963963963963
+2017,Afghanistan,Asia Central,525,797,0.397125567322239
+2017,Albania,Europe Other,73,547,0.11774193548387096
+2017,Algeria,Africa North,7,92,0.0707070707070707
+2017,Angola,Africa Sub-Saharan,8,23,0.25806451612903225
+2017,Armenia,Europe Other,5,14,0.2631578947368421
+2017,Australia,Oceania,0,1,0
+2017,Azerbaijan,Europe Other,2,13,0.13333333333333333
+2017,Bahrain,Middle East,2,1,0.6666666666666666
+2017,Bangladesh,Asia South,53,1325,0.038461538461538464
+2017,Barbados,America Central and South,1,1,0.5
+2017,Belarus,Europe Other,3,5,0.375
+2017,Belize,America Central and South,0,1,0
+2017,Benin,Africa Sub-Saharan,0,3,0
+2017,Bhutan,Asia South,2,0,1
+2017,Bolivia,America Central and South,0,3,0
+2017,Bosnia and Herzegovina,Europe Other,0,1,0
+2017,Botswana,Africa Sub-Saharan,1,10,0.09090909090909091
+2017,Brazil,America Central and South,0,10,0
+2017,British overseas citizens,Other,1,2,0.3333333333333333
+2017,Bulgaria,EU 2,0,1,0
+2017,Burkina,Africa Sub-Saharan,0,5,0
+2017,Burma,Asia South East,5,18,0.21739130434782608
+2017,Burundi,Africa Sub-Saharan,6,9,0.4
+2017,Cambodia,Asia South East,0,1,0
+2017,Cameroon,Africa Sub-Saharan,38,124,0.2345679012345679
+2017,Canada,America North,0,1,0
+2017,Chad,Africa Sub-Saharan,0,3,0
+2017,Chile,America Central and South,0,1,0
+2017,China,Asia East,12,293,0.03934426229508197
+2017,Colombia,America Central and South,0,8,0
+2017,Comoros,Africa Sub-Saharan,0,1,0
+2017,Congo,Africa Sub-Saharan,6,20,0.23076923076923078
+2017,Congo (Democratic Republic),Africa Sub-Saharan,33,122,0.2129032258064516
+2017,Costa Rica,America Central and South,0,1,0
+2017,Croatia,EU Other,0,1,0
+2017,Cuba,America Central and South,0,3,0
+2017,Czech Republic,EU 8,0,4,0
+2017,Denmark,EU 14,0,1,0
+2017,Djibouti,Africa Sub-Saharan,0,2,0
+2017,Dominica,America Central and South,4,1,0.8
+2017,Dominican Republic,America Central and South,0,1,0
+2017,Egypt,Africa North,43,262,0.14098360655737704
+2017,El Salvador,America Central and South,18,19,0.4864864864864865
+2017,Eritrea,Africa Sub-Saharan,1145,279,0.8040730337078652
+2017,Estonia,EU 8,0,1,0
+2017,Ethiopia,Africa Sub-Saharan,156,150,0.5098039215686274
+2017,France,EU 14,0,1,0
+2017,Gabon,Africa Sub-Saharan,0,2,0
+2017,"Gambia, The",Africa Sub-Saharan,13,75,0.14772727272727273
+2017,Georgia,Europe Other,0,31,0
+2017,Ghana,Africa Sub-Saharan,16,184,0.08
+2017,Greece,EU 14,0,1,0
+2017,Grenada,America Central and South,4,6,0.4
+2017,Guatemala,America Central and South,0,5,0
+2017,Guinea,Africa Sub-Saharan,6,16,0.2727272727272727
+2017,Guinea-Bissau,Africa Sub-Saharan,1,1,0.5
+2017,Honduras,America Central and South,2,3,0.4
+2017,Hong Kong,Asia East,0,1,0
+2017,Hungary,EU 8,0,3,0
+2017,India,Asia South,12,881,0.013437849944008958
+2017,Indonesia,Asia South East,0,4,0
+2017,Iran,Middle East,1260,1429,0.46857567869096317
+2017,Iraq,Middle East,369,1477,0.19989165763813652
+2017,Ireland,EU 14,0,1,0
+2017,Israel,Middle East,0,8,0
+2017,Italy,EU 14,0,2,0
+2017,Ivory Coast,Africa Sub-Saharan,4,30,0.11764705882352941
+2017,Jamaica,America Central and South,12,167,0.0670391061452514
+2017,Japan,Asia East,0,1,0
+2017,Jordan,Middle East,3,18,0.14285714285714285
+2017,Kazakhstan,Asia Central,1,5,0.16666666666666666
+2017,Kenya,Africa Sub-Saharan,7,59,0.10606060606060606
+2017,Korea (North),Asia East,0,6,0
+2017,Korea (South),Asia East,0,3,0
+2017,Kosovo,Europe Other,1,13,0.07142857142857142
+2017,Kuwait,Middle East,16,22,0.42105263157894735
+2017,Kyrgyzstan,Asia Central,0,3,0
+2017,Latvia,EU 8,0,6,0
+2017,Lebanon,Middle East,7,39,0.15217391304347827
+2017,Liberia,Africa Sub-Saharan,2,5,0.2857142857142857
+2017,Libya,Africa North,88,90,0.4943820224719101
+2017,Lithuania,EU 8,0,13,0
+2017,Macedonia,Europe Other,0,1,0
+2017,Malawi,Africa Sub-Saharan,5,37,0.11904761904761904
+2017,Malaysia,Asia South East,15,40,0.2727272727272727
+2017,Maldives,Asia South,5,4,0.5555555555555556
+2017,Mali,Africa Sub-Saharan,3,3,0.5
+2017,Mauritania,Africa North,0,1,0
+2017,Mauritius,Africa Sub-Saharan,0,34,0
+2017,Mexico,America Central and South,0,6,0
+2017,Moldova,Europe Other,0,1,0
+2017,Mongolia,Asia East,1,7,0.125
+2017,Morocco,Africa North,8,55,0.12698412698412698
+2017,Mozambique,Africa Sub-Saharan,2,3,0.4
+2017,Namibia,Africa Sub-Saharan,2,21,0.08695652173913043
+2017,Nepal,Asia South,1,101,0.00980392156862745
+2017,Netherlands,EU 14,0,2,0
+2017,New Zealand,Oceania,0,1,0
+2017,Niger,Africa Sub-Saharan,1,1,0.5
+2017,Nigeria,Africa Sub-Saharan,100,723,0.12150668286755771
+2017,Occupied Palestinian Territories,Middle East,13,47,0.21666666666666667
+2017,Oman,Middle East,1,4,0.2
+2017,Other and unknown,Other,0,4,0
+2017,Pakistan,Asia South,285,1748,0.14018691588785046
+2017,Papua New Guinea,Oceania,1,1,0.5
+2017,Peru,America Central and South,0,3,0
+2017,Philippines,Asia South East,1,56,0.017543859649122806
+2017,Poland,EU 8,0,18,0
+2017,Portugal,EU 14,0,6,0
+2017,Qatar,Middle East,2,1,0.6666666666666666
+2017,Refugee,Other,126,70,0.6428571428571429
+2017,Romania,EU 2,0,9,0
+2017,Russia,Europe Other,30,48,0.38461538461538464
+2017,Rwanda,Africa Sub-Saharan,1,17,0.05555555555555555
+2017,Saudi Arabia,Middle East,18,17,0.5142857142857142
+2017,Senegal,Africa Sub-Saharan,2,18,0.1
+2017,Serbia,Europe Other,1,0,1
+2017,Seychelles,Africa Sub-Saharan,0,1,0
+2017,Sierra Leone,Africa Sub-Saharan,7,23,0.23333333333333334
+2017,Singapore,Asia South East,1,1,0.5
+2017,Slovakia,EU 8,0,2,0
+2017,Somalia,Africa Sub-Saharan,130,163,0.44368600682593856
+2017,South Africa,Africa Sub-Saharan,3,46,0.061224489795918366
+2017,Spain,EU 14,0,2,0
+2017,Sri Lanka,Asia South,49,596,0.07596899224806201
+2017,St. Kitts and Nevis,America Central and South,0,3,0
+2017,St. Lucia,America Central and South,0,10,0
+2017,St. Vincent and the Grenadines,America Central and South,1,7,0.125
+2017,Stateless,Other,79,83,0.4876543209876543
+2017,Sudan,Africa North,816,510,0.6153846153846154
+2017,Sudan (South),Africa Sub-Saharan,6,3,0.6666666666666666
+2017,Swaziland,Africa Sub-Saharan,1,1,0.5
+2017,Sweden,EU 14,0,4,0
+2017,Syria,Middle East,689,147,0.8241626794258373
+2017,Taiwan,Asia East,0,2,0
+2017,Tajikistan,Asia Central,1,0,1
+2017,Tanzania,Africa Sub-Saharan,8,26,0.23529411764705882
+2017,Thailand,Asia South East,2,16,0.1111111111111111
+2017,Togo,Africa Sub-Saharan,0,3,0
+2017,Trinidad and Tobago,America Central and South,12,20,0.375
+2017,Tunisia,Africa North,3,26,0.10344827586206896
+2017,Turkey,Europe Other,34,171,0.16585365853658537
+2017,Turkmenistan,Asia Central,0,2,0
+2017,Uganda,Africa Sub-Saharan,63,53,0.5431034482758621
+2017,Ukraine,Europe Other,5,66,0.07042253521126761
+2017,United States,America North,0,8,0
+2017,Uzbekistan,Asia Central,2,5,0.2857142857142857
+2017,Venezuela,America Central and South,0,16,0
+2017,Vietnam,Asia South East,185,320,0.36633663366336633
+2017,Western Sahara,Africa North,0,1,0
+2017,Yemen,Middle East,58,33,0.6373626373626373
+2017,Zambia,Africa Sub-Saharan,3,13,0.1875
+2017,Zimbabwe,Africa Sub-Saharan,24,207,0.1038961038961039
+2018,Afghanistan,Asia Central,546,687,0.44282238442822386
+2018,Albania,Europe Other,66,771,0.07885304659498207
+2018,Algeria,Africa North,10,106,0.08620689655172414
+2018,Angola,Africa Sub-Saharan,8,29,0.21621621621621623
+2018,Antigua and Barbuda,America Central and South,0,3,0
+2018,Argentina,America Central and South,0,3,0
+2018,Armenia,Europe Other,2,17,0.10526315789473684
+2018,Australia,Oceania,0,3,0
+2018,Azerbaijan,Europe Other,21,25,0.45652173913043476
+2018,Bahrain,Middle East,3,7,0.3
+2018,Bangladesh,Asia South,81,1104,0.06835443037974684
+2018,Barbados,America Central and South,8,3,0.7272727272727273
+2018,Belarus,Europe Other,4,7,0.36363636363636365
+2018,Belgium,EU 14,0,1,0
+2018,Belize,America Central and South,0,1,0
+2018,Benin,Africa Sub-Saharan,1,5,0.16666666666666666
+2018,Bolivia,America Central and South,0,5,0
+2018,Botswana,Africa Sub-Saharan,3,13,0.1875
+2018,Brazil,America Central and South,3,19,0.13636363636363635
+2018,British overseas citizens,Other,2,1,0.6666666666666666
+2018,Bulgaria,EU 2,0,1,0
+2018,Burkina,Africa Sub-Saharan,1,6,0.14285714285714285
+2018,Burma,Asia South East,6,41,0.1276595744680851
+2018,Burundi,Africa Sub-Saharan,4,15,0.21052631578947367
+2018,Cameroon,Africa Sub-Saharan,64,146,0.3047619047619048
+2018,Canada,America North,0,3,0
+2018,Central African Republic,Africa Sub-Saharan,0,1,0
+2018,Chad,Africa Sub-Saharan,4,11,0.26666666666666666
+2018,Chile,America Central and South,1,3,0.25
+2018,China,Asia East,18,328,0.05202312138728324
+2018,Colombia,America Central and South,1,10,0.09090909090909091
+2018,Comoros,Africa Sub-Saharan,0,3,0
+2018,Congo,Africa Sub-Saharan,5,17,0.22727272727272727
+2018,Congo (Democratic Republic),Africa Sub-Saharan,52,138,0.2736842105263158
+2018,Costa Rica,America Central and South,0,1,0
+2018,Cuba,America Central and South,0,2,0
+2018,Cyprus (Northern part of),Europe Other,0,1,0
+2018,Dominica,America Central and South,3,5,0.375
+2018,Dominican Republic,America Central and South,0,1,0
+2018,Ecuador,America Central and South,0,2,0
+2018,Egypt,Africa North,23,227,0.092
+2018,El Salvador,America Central and South,11,30,0.2682926829268293
+2018,Equatorial Guinea,Africa Sub-Saharan,1,0,1
+2018,Eritrea,Africa Sub-Saharan,820,464,0.6386292834890965
+2018,Ethiopia,Africa Sub-Saharan,172,317,0.35173824130879344
+2018,France,EU 14,0,2,0
+2018,Gabon,Africa Sub-Saharan,1,1,0.5
+2018,"Gambia, The",Africa Sub-Saharan,20,58,0.2564102564102564
+2018,Georgia,Europe Other,6,29,0.17142857142857143
+2018,Germany,EU 14,0,1,0
+2018,Ghana,Africa Sub-Saharan,19,144,0.1165644171779141
+2018,Greece,EU 14,0,1,0
+2018,Grenada,America Central and South,3,8,0.2727272727272727
+2018,Guatemala,America Central and South,2,5,0.2857142857142857
+2018,Guinea,Africa Sub-Saharan,12,23,0.34285714285714286
+2018,Guinea-Bissau,Africa Sub-Saharan,0,1,0
+2018,Guyana,America Central and South,1,3,0.25
+2018,Honduras,America Central and South,2,8,0.2
+2018,Hong Kong,Asia East,0,2,0
+2018,Hungary,EU 8,0,3,0
+2018,India,Asia South,18,538,0.03237410071942446
+2018,Indonesia,Asia South East,3,10,0.23076923076923078
+2018,Iran,Middle East,971,1282,0.4309809143364403
+2018,Iraq,Middle East,440,1597,0.21600392734413354
+2018,Israel,Middle East,0,2,0
+2018,Italy,EU 14,0,4,0
+2018,Ivory Coast,Africa Sub-Saharan,5,35,0.125
+2018,Jamaica,America Central and South,22,102,0.1774193548387097
+2018,Japan,Asia East,0,3,0
+2018,Jordan,Middle East,5,19,0.20833333333333334
+2018,Kazakhstan,Asia Central,4,9,0.3076923076923077
+2018,Kenya,Africa Sub-Saharan,10,65,0.13333333333333333
+2018,Korea (North),Asia East,3,5,0.375
+2018,Korea (South),Asia East,0,2,0
+2018,Kosovo,Europe Other,3,5,0.375
+2018,Kuwait,Middle East,44,49,0.4731182795698925
+2018,Kyrgyzstan,Asia Central,4,7,0.36363636363636365
+2018,Laos,Asia South East,1,0,1
+2018,Latvia,EU 8,0,7,0
+2018,Lebanon,Middle East,12,36,0.25
+2018,Lesotho,Africa Sub-Saharan,0,2,0
+2018,Liberia,Africa Sub-Saharan,0,2,0
+2018,Libya,Africa North,489,21,0.9588235294117647
+2018,Lithuania,EU 8,0,5,0
+2018,Macedonia,Europe Other,0,1,0
+2018,Malawi,Africa Sub-Saharan,6,42,0.125
+2018,Malaysia,Asia South East,62,75,0.45255474452554745
+2018,Maldives,Asia South,6,0,1
+2018,Mali,Africa Sub-Saharan,0,5,0
+2018,Mauritania,Africa North,0,1,0
+2018,Mauritius,Africa Sub-Saharan,2,23,0.08
+2018,Mexico,America Central and South,3,7,0.3
+2018,Mongolia,Asia East,0,6,0
+2018,Morocco,Africa North,21,57,0.2692307692307692
+2018,Mozambique,Africa Sub-Saharan,0,5,0
+2018,Namibia,Africa Sub-Saharan,11,82,0.11827956989247312
+2018,Nepal,Asia South,5,50,0.09090909090909091
+2018,Nicaragua,America Central and South,0,2,0
+2018,Nigeria,Africa Sub-Saharan,133,570,0.1891891891891892
+2018,Occupied Palestinian Territories,Middle East,34,116,0.22666666666666666
+2018,Oman,Middle East,3,3,0.5
+2018,Other and unknown,Other,1,5,0.16666666666666666
+2018,Pakistan,Asia South,313,1382,0.18466076696165193
+2018,Panama,America Central and South,0,1,0
+2018,Philippines,Asia South East,6,52,0.10344827586206896
+2018,Poland,EU 8,0,22,0
+2018,Portugal,EU 14,0,1,0
+2018,Refugee,Other,172,85,0.669260700389105
+2018,Romania,EU 2,0,8,0
+2018,Russia,Europe Other,53,50,0.5145631067961165
+2018,Rwanda,Africa Sub-Saharan,5,19,0.20833333333333334
+2018,Sao Tome and Principe,Africa Sub-Saharan,1,0,1
+2018,Saudi Arabia,Middle East,22,13,0.6285714285714286
+2018,Senegal,Africa Sub-Saharan,7,15,0.3181818181818182
+2018,Serbia,Europe Other,0,2,0
+2018,Seychelles,Africa Sub-Saharan,1,1,0.5
+2018,Sierra Leone,Africa Sub-Saharan,16,31,0.3404255319148936
+2018,Singapore,Asia South East,1,2,0.3333333333333333
+2018,Slovakia,EU 8,0,3,0
+2018,Somalia,Africa Sub-Saharan,113,107,0.5136363636363637
+2018,South Africa,Africa Sub-Saharan,4,37,0.0975609756097561
+2018,Sri Lanka,Asia South,49,504,0.08860759493670886
+2018,St. Kitts and Nevis,America Central and South,2,2,0.5
+2018,St. Lucia,America Central and South,2,10,0.16666666666666666
+2018,St. Vincent and the Grenadines,America Central and South,8,7,0.5333333333333333
+2018,Stateless,Other,64,104,0.38095238095238093
+2018,Sudan,Africa North,561,726,0.4358974358974359
+2018,Sudan (South),Africa Sub-Saharan,9,9,0.5
+2018,Swaziland,Africa Sub-Saharan,3,2,0.6
+2018,Syria,Middle East,500,88,0.8503401360544217
+2018,Tanzania,Africa Sub-Saharan,5,34,0.1282051282051282
+2018,Thailand,Asia South East,3,20,0.13043478260869565
+2018,Togo,Africa Sub-Saharan,1,5,0.16666666666666666
+2018,Trinidad and Tobago,America Central and South,9,18,0.3333333333333333
+2018,Tunisia,Africa North,7,24,0.22580645161290322
+2018,Turkey,Europe Other,178,285,0.38444924406047515
+2018,Turkmenistan,Asia Central,1,2,0.3333333333333333
+2018,Uganda,Africa Sub-Saharan,70,61,0.5343511450381679
+2018,Ukraine,Europe Other,5,103,0.046296296296296294
+2018,United Arab Emirates,Middle East,1,1,0.5
+2018,United States,America North,0,10,0
+2018,Uzbekistan,Asia Central,1,13,0.07142857142857142
+2018,Venezuela,America Central and South,3,15,0.16666666666666666
+2018,Vietnam,Asia South East,273,379,0.4187116564417178
+2018,Western Sahara,Africa North,0,1,0
+2018,Yemen,Middle East,110,28,0.7971014492753623
+2018,Zambia,Africa Sub-Saharan,5,13,0.2777777777777778
+2018,Zimbabwe,Africa Sub-Saharan,16,129,0.1103448275862069
+2019,Afghanistan,Asia Central,710,424,0.6261022927689595
+2019,Albania,Europe Other,249,853,0.22595281306715065
+2019,Algeria,Africa North,9,79,0.10227272727272728
+2019,Angola,Africa Sub-Saharan,6,21,0.2222222222222222
+2019,Antigua and Barbuda,America Central and South,0,1,0
+2019,Armenia,Europe Other,2,3,0.4
+2019,Austria,EU 14,0,1,0
+2019,Azerbaijan,Europe Other,11,14,0.44
+2019,"Bahamas, The",America Central and South,0,2,0
+2019,Bahrain,Middle East,2,3,0.4
+2019,Bangladesh,Asia South,92,471,0.16341030195381884
+2019,Barbados,America Central and South,2,2,0.5
+2019,Belarus,Europe Other,2,2,0.5
+2019,Benin,Africa Sub-Saharan,0,3,0
+2019,Bhutan,Asia South,2,0,1
+2019,Bolivia,America Central and South,1,16,0.058823529411764705
+2019,Bosnia and Herzegovina,Europe Other,0,1,0
+2019,Botswana,Africa Sub-Saharan,5,9,0.35714285714285715
+2019,Brazil,America Central and South,5,46,0.09803921568627451
+2019,British overseas citizens,Other,6,2,0.75
+2019,Bulgaria,EU 2,0,3,0
+2019,Burkina,Africa Sub-Saharan,0,4,0
+2019,Burma,Asia South East,7,8,0.4666666666666667
+2019,Burundi,Africa Sub-Saharan,5,1,0.8333333333333334
+2019,Cameroon,Africa Sub-Saharan,47,53,0.47
+2019,Canada,America North,0,2,0
+2019,Central African Republic,Africa Sub-Saharan,1,0,1
+2019,Chad,Africa Sub-Saharan,9,7,0.5625
+2019,China,Asia East,38,271,0.12297734627831715
+2019,Colombia,America Central and South,0,4,0
+2019,Congo,Africa Sub-Saharan,3,6,0.3333333333333333
+2019,Congo (Democratic Republic),Africa Sub-Saharan,29,50,0.3670886075949367
+2019,Costa Rica,America Central and South,0,1,0
+2019,Cyprus (Northern part of),Europe Other,0,1,0
+2019,Czech Republic,EU 8,0,2,0
+2019,Djibouti,Africa Sub-Saharan,1,0,1
+2019,Dominica,America Central and South,1,4,0.2
+2019,East Timor,Asia South East,2,1,0.6666666666666666
+2019,Ecuador,America Central and South,0,7,0
+2019,Egypt,Africa North,36,119,0.23225806451612904
+2019,El Salvador,America Central and South,68,141,0.3253588516746411
+2019,Eritrea,Africa Sub-Saharan,1743,264,0.8684603886397608
+2019,Estonia,EU 8,0,1,0
+2019,Ethiopia,Africa Sub-Saharan,112,248,0.3111111111111111
+2019,Fiji,Oceania,1,0,1
+2019,France,EU 14,0,1,0
+2019,"Gambia, The",Africa Sub-Saharan,15,36,0.29411764705882354
+2019,Georgia,Europe Other,2,23,0.08
+2019,Germany,EU 14,0,1,0
+2019,Ghana,Africa Sub-Saharan,25,122,0.17006802721088435
+2019,Greece,EU 14,0,2,0
+2019,Grenada,America Central and South,2,5,0.2857142857142857
+2019,Guatemala,America Central and South,1,0,1
+2019,Guinea,Africa Sub-Saharan,14,14,0.5
+2019,Guinea-Bissau,Africa Sub-Saharan,0,1,0
+2019,Guyana,America Central and South,0,1,0
+2019,Honduras,America Central and South,4,24,0.14285714285714285
+2019,Hong Kong,Asia East,0,2,0
+2019,Hungary,EU 8,0,6,0
+2019,India,Asia South,28,578,0.0462046204620462
+2019,Indonesia,Asia South East,3,3,0.5
+2019,Iran,Middle East,2253,1207,0.6511560693641618
+2019,Iraq,Middle East,648,1539,0.2962962962962963
+2019,Israel,Middle East,0,1,0
+2019,Italy,EU 14,0,7,0
+2019,Ivory Coast,Africa Sub-Saharan,13,21,0.38235294117647056
+2019,Jamaica,America Central and South,8,59,0.11940298507462686
+2019,Japan,Asia East,0,2,0
+2019,Jordan,Middle East,3,16,0.15789473684210525
+2019,Kazakhstan,Asia Central,0,8,0
+2019,Kenya,Africa Sub-Saharan,24,53,0.3116883116883117
+2019,Korea (North),Asia East,0,4,0
+2019,Korea (South),Asia East,0,2,0
+2019,Kosovo,Europe Other,4,9,0.3076923076923077
+2019,Kuwait,Middle East,21,19,0.525
+2019,Kyrgyzstan,Asia Central,3,4,0.42857142857142855
+2019,Latvia,EU 8,0,5,0
+2019,Lebanon,Middle East,3,15,0.16666666666666666
+2019,Liberia,Africa Sub-Saharan,1,1,0.5
+2019,Libya,Africa North,280,16,0.9459459459459459
+2019,Lithuania,EU 8,0,7,0
+2019,Malawi,Africa Sub-Saharan,13,19,0.40625
+2019,Malaysia,Asia South East,29,35,0.453125
+2019,Maldives,Asia South,1,1,0.5
+2019,Mali,Africa Sub-Saharan,2,5,0.2857142857142857
+2019,Mauritania,Africa North,0,1,0
+2019,Mauritius,Africa Sub-Saharan,2,33,0.05714285714285714
+2019,Mexico,America Central and South,1,2,0.3333333333333333
+2019,Moldova,Europe Other,0,1,0
+2019,Mongolia,Asia East,2,9,0.18181818181818182
+2019,Morocco,Africa North,16,31,0.3404255319148936
+2019,Mozambique,Africa Sub-Saharan,0,3,0
+2019,Namibia,Africa Sub-Saharan,15,128,0.1048951048951049
+2019,Nepal,Asia South,3,32,0.08571428571428572
+2019,Netherlands,EU 14,0,2,0
+2019,Nicaragua,America Central and South,5,13,0.2777777777777778
+2019,Niger,Africa Sub-Saharan,1,4,0.2
+2019,Nigeria,Africa Sub-Saharan,200,465,0.3007518796992481
+2019,Occupied Palestinian Territories,Middle East,41,49,0.45555555555555555
+2019,Oman,Middle East,1,2,0.3333333333333333
+2019,Other and unknown,Other,4,0,1
+2019,Pakistan,Asia South,293,557,0.3447058823529412
+2019,Paraguay,America Central and South,0,1,0
+2019,Philippines,Asia South East,3,32,0.08571428571428572
+2019,Poland,EU 8,0,13,0
+2019,Portugal,EU 14,0,4,0
+2019,Refugee,Other,287,58,0.8318840579710145
+2019,Romania,EU 2,0,8,0
+2019,Russia,Europe Other,70,35,0.6666666666666666
+2019,Rwanda,Africa Sub-Saharan,4,3,0.5714285714285714
+2019,Saudi Arabia,Middle East,44,12,0.7857142857142857
+2019,Senegal,Africa Sub-Saharan,1,10,0.09090909090909091
+2019,Seychelles,Africa Sub-Saharan,0,1,0
+2019,Sierra Leone,Africa Sub-Saharan,19,25,0.4318181818181818
+2019,Singapore,Asia South East,0,1,0
+2019,Slovakia,EU 8,0,3,0
+2019,Somalia,Africa Sub-Saharan,138,70,0.6634615384615384
+2019,South Africa,Africa Sub-Saharan,9,47,0.16071428571428573
+2019,Spain,EU 14,0,1,0
+2019,Sri Lanka,Asia South,82,154,0.3474576271186441
+2019,St. Kitts and Nevis,America Central and South,0,4,0
+2019,St. Lucia,America Central and South,2,10,0.16666666666666666
+2019,St. Vincent and the Grenadines,America Central and South,6,1,0.8571428571428571
+2019,Stateless,Other,75,74,0.5033557046979866
+2019,Sudan,Africa North,1428,247,0.8525373134328358
+2019,Sudan (South),Africa Sub-Saharan,9,5,0.6428571428571429
+2019,Sweden,EU 14,0,2,0
+2019,Syria,Middle East,539,62,0.8968386023294509
+2019,Taiwan,Asia East,0,1,0
+2019,Tajikistan,Asia Central,0,4,0
+2019,Tanzania,Africa Sub-Saharan,4,27,0.12903225806451613
+2019,Thailand,Asia South East,2,9,0.18181818181818182
+2019,Togo,Africa Sub-Saharan,1,6,0.14285714285714285
+2019,Trinidad and Tobago,America Central and South,6,10,0.375
+2019,Tunisia,Africa North,4,11,0.26666666666666666
+2019,Turkey,Europe Other,317,159,0.6659663865546218
+2019,Turkmenistan,Asia Central,0,1,0
+2019,Uganda,Africa Sub-Saharan,33,24,0.5789473684210527
+2019,Ukraine,Europe Other,6,94,0.06
+2019,United Arab Emirates,Middle East,3,1,0.75
+2019,United States,America North,0,3,0
+2019,Uzbekistan,Asia Central,3,1,0.75
+2019,Venezuela,America Central and South,4,6,0.4
+2019,Vietnam,Asia South East,330,286,0.5357142857142857
+2019,Western Sahara,Africa North,1,1,0.5
+2019,Yemen,Middle East,149,19,0.8869047619047619
+2019,Zambia,Africa Sub-Saharan,5,3,0.625
+2019,Zimbabwe,Africa Sub-Saharan,21,64,0.24705882352941178
+2020,Afghanistan,Asia Central,355,376,0.4856361149110807
+2020,Albania,Europe Other,231,410,0.36037441497659906
+2020,Algeria,Africa North,9,36,0.2
+2020,Angola,Africa Sub-Saharan,2,19,0.09523809523809523
+2020,Argentina,America Central and South,0,1,0
+2020,Australia,Oceania,0,1,0
+2020,Azerbaijan,Europe Other,1,5,0.16666666666666666
+2020,Bahrain,Middle East,3,2,0.6
+2020,Bangladesh,Asia South,57,273,0.17272727272727273
+2020,Barbados,America Central and South,1,1,0.5
+2020,Belarus,Europe Other,2,2,0.5
+2020,Benin,Africa Sub-Saharan,0,3,0
+2020,Bolivia,America Central and South,1,3,0.25
+2020,Botswana,Africa Sub-Saharan,2,2,0.5
+2020,Brazil,America Central and South,3,47,0.06
+2020,British overseas citizens,Other,1,0,1
+2020,Bulgaria,EU 2,0,1,0
+2020,Burkina,Africa Sub-Saharan,1,1,0.5
+2020,Burma,Asia South East,2,6,0.25
+2020,Burundi,Africa Sub-Saharan,2,4,0.3333333333333333
+2020,Cameroon,Africa Sub-Saharan,48,35,0.5783132530120482
+2020,Canada,America North,0,1,0
+2020,Central African Republic,Africa Sub-Saharan,0,2,0
+2020,Chad,Africa Sub-Saharan,5,42,0.10638297872340426
+2020,Chile,America Central and South,0,1,0
+2020,China,Asia East,33,132,0.2
+2020,Colombia,America Central and South,2,4,0.3333333333333333
+2020,Congo,Africa Sub-Saharan,2,2,0.5
+2020,Congo (Democratic Republic),Africa Sub-Saharan,14,24,0.3684210526315789
+2020,Costa Rica,America Central and South,0,1,0
+2020,Croatia,EU Other,0,1,0
+2020,Cuba,America Central and South,2,4,0.3333333333333333
+2020,Denmark,EU 14,0,1,0
+2020,Dominica,America Central and South,1,2,0.3333333333333333
+2020,Dominican Republic,America Central and South,0,1,0
+2020,Egypt,Africa North,40,70,0.36363636363636365
+2020,El Salvador,America Central and South,98,84,0.5384615384615384
+2020,Eritrea,Africa Sub-Saharan,786,279,0.7380281690140845
+2020,Ethiopia,Africa Sub-Saharan,34,162,0.17346938775510204
+2020,"Gambia, The",Africa Sub-Saharan,17,27,0.38636363636363635
+2020,Georgia,Europe Other,3,18,0.14285714285714285
+2020,Germany,EU 14,0,1,0
+2020,Ghana,Africa Sub-Saharan,17,59,0.2236842105263158
+2020,Greece,EU 14,0,1,0
+2020,Grenada,America Central and South,1,5,0.16666666666666666
+2020,Guatemala,America Central and South,0,2,0
+2020,Guinea,Africa Sub-Saharan,6,14,0.3
+2020,Guyana,America Central and South,1,1,0.5
+2020,Honduras,America Central and South,12,20,0.375
+2020,Hong Kong,Asia East,3,2,0.6
+2020,Hungary,EU 8,0,2,0
+2020,India,Asia South,19,420,0.04328018223234624
+2020,Indonesia,Asia South East,3,2,0.6
+2020,Iran,Middle East,1180,994,0.5427782888684453
+2020,Iraq,Middle East,368,1131,0.24549699799866578
+2020,Israel,Middle East,0,2,0
+2020,Italy,EU 14,0,3,0
+2020,Ivory Coast,Africa Sub-Saharan,2,9,0.18181818181818182
+2020,Jamaica,America Central and South,3,20,0.13043478260869565
+2020,Jordan,Middle East,6,14,0.3
+2020,Kazakhstan,Asia Central,1,6,0.14285714285714285
+2020,Kenya,Africa Sub-Saharan,17,36,0.32075471698113206
+2020,Korea (South),Asia East,0,1,0
+2020,Kosovo,Europe Other,2,4,0.3333333333333333
+2020,Kuwait,Middle East,40,45,0.47058823529411764
+2020,Kyrgyzstan,Asia Central,1,3,0.25
+2020,Latvia,EU 8,0,2,0
+2020,Lebanon,Middle East,6,8,0.42857142857142855
+2020,Lesotho,Africa Sub-Saharan,0,1,0
+2020,Liberia,Africa Sub-Saharan,0,6,0
+2020,Libya,Africa North,246,18,0.9318181818181818
+2020,Lithuania,EU 8,0,3,0
+2020,Malawi,Africa Sub-Saharan,5,10,0.3333333333333333
+2020,Malaysia,Asia South East,36,31,0.5373134328358209
+2020,Maldives,Asia South,1,0,1
+2020,Mali,Africa Sub-Saharan,5,9,0.35714285714285715
+2020,Mauritania,Africa North,1,1,0.5
+2020,Mauritius,Africa Sub-Saharan,2,12,0.14285714285714285
+2020,Mexico,America Central and South,1,4,0.2
+2020,Mongolia,Asia East,2,8,0.2
+2020,Morocco,Africa North,17,27,0.38636363636363635
+2020,Mozambique,Africa Sub-Saharan,1,1,0.5
+2020,Namibia,Africa Sub-Saharan,13,109,0.10655737704918032
+2020,Nepal,Asia South,2,17,0.10526315789473684
+2020,Netherlands,EU 14,0,2,0
+2020,Nicaragua,America Central and South,7,9,0.4375
+2020,Niger,Africa Sub-Saharan,0,4,0
+2020,Nigeria,Africa Sub-Saharan,139,280,0.3317422434367542
+2020,Occupied Palestinian Territories,Middle East,44,35,0.5569620253164557
+2020,Oman,Middle East,1,2,0.3333333333333333
+2020,Other and unknown,Other,0,1,0
+2020,Pakistan,Asia South,231,409,0.3609375
+2020,Philippines,Asia South East,4,14,0.2222222222222222
+2020,Poland,EU 8,0,3,0
+2020,Qatar,Middle East,3,0,1
+2020,Refugee,Other,164,29,0.8497409326424871
+2020,Romania,EU 2,0,8,0
+2020,Russia,Europe Other,59,38,0.6082474226804123
+2020,Rwanda,Africa Sub-Saharan,4,4,0.5
+2020,Saudi Arabia,Middle East,37,4,0.9024390243902439
+2020,Senegal,Africa Sub-Saharan,4,15,0.21052631578947367
+2020,Sierra Leone,Africa Sub-Saharan,10,25,0.2857142857142857
+2020,Slovakia,EU 8,0,4,0
+2020,Somalia,Africa Sub-Saharan,78,48,0.6190476190476191
+2020,South Africa,Africa Sub-Saharan,4,32,0.1111111111111111
+2020,Spain,EU 14,0,1,0
+2020,Sri Lanka,Asia South,42,147,0.2222222222222222
+2020,St. Kitts and Nevis,America Central and South,0,1,0
+2020,St. Lucia,America Central and South,2,4,0.3333333333333333
+2020,St. Vincent and the Grenadines,America Central and South,1,2,0.3333333333333333
+2020,Stateless,Other,65,227,0.2226027397260274
+2020,Sudan,Africa North,706,522,0.5749185667752443
+2020,Sudan (South),Africa Sub-Saharan,10,15,0.4
+2020,Surinam,America Central and South,0,1,0
+2020,Swaziland,Africa Sub-Saharan,1,1,0.5
+2020,Sweden,EU 14,0,1,0
+2020,Syria,Middle East,425,148,0.7417102966841187
+2020,Tajikistan,Asia Central,2,3,0.4
+2020,Tanzania,Africa Sub-Saharan,7,12,0.3684210526315789
+2020,Thailand,Asia South East,0,6,0
+2020,Togo,Africa Sub-Saharan,0,6,0
+2020,Trinidad and Tobago,America Central and South,11,13,0.4583333333333333
+2020,Tunisia,Africa North,2,7,0.2222222222222222
+2020,Turkey,Europe Other,158,100,0.6124031007751938
+2020,Turkmenistan,Asia Central,3,0,1
+2020,Uganda,Africa Sub-Saharan,49,30,0.620253164556962
+2020,Ukraine,Europe Other,6,59,0.09230769230769231
+2020,United Arab Emirates,Middle East,2,0,1
+2020,United States,America North,3,4,0.42857142857142855
+2020,Uzbekistan,Asia Central,2,3,0.4
+2020,Venezuela,America Central and South,8,6,0.5714285714285714
+2020,Vietnam,Asia South East,317,145,0.6861471861471862
+2020,Yemen,Middle East,125,128,0.49407114624505927
+2020,Zambia,Africa Sub-Saharan,4,3,0.5714285714285714
+2020,Zimbabwe,Africa Sub-Saharan,20,55,0.26666666666666666
+2021,Afghanistan,Asia Central,644,151,0.810062893081761
+2021,Albania,Europe Other,235,277,0.458984375
+2021,Algeria,Africa North,13,46,0.22033898305084745
+2021,Angola,Africa Sub-Saharan,3,14,0.17647058823529413
+2021,Antigua and Barbuda,America Central and South,0,1,0
+2021,Argentina,America Central and South,0,1,0
+2021,Azerbaijan,Europe Other,3,6,0.3333333333333333
+2021,Bahrain,Middle East,1,0,1
+2021,Bangladesh,Asia South,105,260,0.2876712328767123
+2021,Barbados,America Central and South,1,1,0.5
+2021,Belarus,Europe Other,3,1,0.75
+2021,Belize,America Central and South,0,1,0
+2021,Benin,Africa Sub-Saharan,0,1,0
+2021,Bolivia,America Central and South,0,5,0
+2021,Botswana,Africa Sub-Saharan,4,6,0.4
+2021,Brazil,America Central and South,6,30,0.16666666666666666
+2021,British overseas citizens,Other,0,1,0
+2021,Bulgaria,EU 2,0,2,0
+2021,Burkina,Africa Sub-Saharan,1,1,0.5
+2021,Burma,Asia South East,16,1,0.9411764705882353
+2021,Burundi,Africa Sub-Saharan,3,2,0.6
+2021,Cameroon,Africa Sub-Saharan,71,41,0.6339285714285714
+2021,Central African Republic,Africa Sub-Saharan,1,2,0.3333333333333333
+2021,Chad,Africa Sub-Saharan,40,7,0.851063829787234
+2021,Chile,America Central and South,0,4,0
+2021,China,Asia East,28,82,0.2545454545454545
+2021,Colombia,America Central and South,1,4,0.2
+2021,Congo,Africa Sub-Saharan,4,4,0.5
+2021,Congo (Democratic Republic),Africa Sub-Saharan,16,13,0.5517241379310345
+2021,Cuba,America Central and South,2,0,1
+2021,Cyprus,EU Other,0,1,0
+2021,Cyprus (Northern part of),Europe Other,0,1,0
+2021,Czech Republic,EU 8,0,4,0
+2021,Djibouti,Africa Sub-Saharan,2,0,1
+2021,Dominican Republic,America Central and South,0,1,0
+2021,Ecuador,America Central and South,0,2,0
+2021,Egypt,Africa North,54,73,0.4251968503937008
+2021,El Salvador,America Central and South,109,103,0.5141509433962265
+2021,Eritrea,Africa Sub-Saharan,1427,48,0.967457627118644
+2021,Ethiopia,Africa Sub-Saharan,84,87,0.49122807017543857
+2021,Gabon,Africa Sub-Saharan,1,0,1
+2021,"Gambia, The",Africa Sub-Saharan,8,15,0.34782608695652173
+2021,Georgia,Europe Other,5,23,0.17857142857142858
+2021,Ghana,Africa Sub-Saharan,17,44,0.2786885245901639
+2021,Grenada,America Central and South,1,6,0.14285714285714285
+2021,Guatemala,America Central and South,1,0,1
+2021,Guinea,Africa Sub-Saharan,17,7,0.7083333333333334
+2021,Guinea-Bissau,Africa Sub-Saharan,0,1,0
+2021,Guyana,America Central and South,0,1,0
+2021,Honduras,America Central and South,20,18,0.5263157894736842
+2021,Hong Kong,Asia East,11,20,0.3548387096774194
+2021,Hungary,EU 8,0,4,0
+2021,India,Asia South,9,198,0.043478260869565216
+2021,Indonesia,Asia South East,5,4,0.5555555555555556
+2021,Iran,Middle East,2252,266,0.8943606036536934
+2021,Iraq,Middle East,550,611,0.4737295434969854
+2021,Israel,Middle East,0,1,0
+2021,Ivory Coast,Africa Sub-Saharan,8,9,0.47058823529411764
+2021,Jamaica,America Central and South,10,33,0.23255813953488372
+2021,Jordan,Middle East,11,6,0.6470588235294118
+2021,Kazakhstan,Asia Central,5,3,0.625
+2021,Kenya,Africa Sub-Saharan,40,29,0.5797101449275363
+2021,Korea (North),Asia East,1,1,0.5
+2021,Kosovo,Europe Other,5,8,0.38461538461538464
+2021,Kuwait,Middle East,43,7,0.86
+2021,Kyrgyzstan,Asia Central,3,0,1
+2021,Latvia,EU 8,0,2,0
+2021,Lebanon,Middle East,18,15,0.5454545454545454
+2021,Liberia,Africa Sub-Saharan,0,3,0
+2021,Libya,Africa North,161,1,0.9938271604938271
+2021,Lithuania,EU 8,0,1,0
+2021,Luxembourg,EU 14,0,1,0
+2021,Macau,Asia East,0,2,0
+2021,Malawi,Africa Sub-Saharan,5,4,0.5555555555555556
+2021,Malaysia,Asia South East,22,28,0.44
+2021,Maldives,Asia South,3,2,0.6
+2021,Mali,Africa Sub-Saharan,3,3,0.5
+2021,Mauritania,Africa North,2,0,1
+2021,Mauritius,Africa Sub-Saharan,4,5,0.4444444444444444
+2021,Mexico,America Central and South,1,3,0.25
+2021,Mongolia,Asia East,1,4,0.2
+2021,Morocco,Africa North,20,29,0.40816326530612246
+2021,Namibia,Africa Sub-Saharan,23,62,0.27058823529411763
+2021,Nepal,Asia South,4,23,0.14814814814814814
+2021,Netherlands,EU 14,0,1,0
+2021,Nicaragua,America Central and South,9,2,0.8181818181818182
+2021,Niger,Africa Sub-Saharan,3,0,1
+2021,Nigeria,Africa Sub-Saharan,107,140,0.4331983805668016
+2021,Occupied Palestinian Territories,Middle East,61,15,0.8026315789473685
+2021,Oman,Middle East,2,0,1
+2021,Other and unknown,Other,2,0,1
+2021,Pakistan,Asia South,334,294,0.5318471337579618
+2021,Philippines,Asia South East,6,39,0.13333333333333333
+2021,Poland,EU 8,0,22,0
+2021,Qatar,Middle East,8,0,1
+2021,Refugee,Other,354,12,0.9672131147540983
+2021,Romania,EU 2,0,11,0
+2021,Russia,Europe Other,46,20,0.696969696969697
+2021,Rwanda,Africa Sub-Saharan,2,2,0.5
+2021,Saudi Arabia,Middle East,31,3,0.9117647058823529
+2021,Senegal,Africa Sub-Saharan,3,3,0.5
+2021,Seychelles,Africa Sub-Saharan,1,0,1
+2021,Sierra Leone,Africa Sub-Saharan,23,32,0.41818181818181815
+2021,Slovakia,EU 8,0,1,0
+2021,Slovenia,EU 8,0,1,0
+2021,Somalia,Africa Sub-Saharan,165,35,0.825
+2021,South Africa,Africa Sub-Saharan,3,18,0.14285714285714285
+2021,Spain,EU 14,0,2,0
+2021,Sri Lanka,Asia South,90,100,0.47368421052631576
+2021,St. Vincent and the Grenadines,America Central and South,3,4,0.42857142857142855
+2021,Stateless,Other,41,15,0.7321428571428571
+2021,Sudan,Africa North,820,37,0.9568261376896149
+2021,Sudan (South),Africa Sub-Saharan,10,1,0.9090909090909091
+2021,Syria,Middle East,983,14,0.9859578736208626
+2021,Tajikistan,Asia Central,0,1,0
+2021,Tanzania,Africa Sub-Saharan,6,5,0.5454545454545454
+2021,Thailand,Asia South East,2,10,0.16666666666666666
+2021,Togo,Africa Sub-Saharan,1,0,1
+2021,Trinidad and Tobago,America Central and South,4,9,0.3076923076923077
+2021,Tunisia,Africa North,4,7,0.36363636363636365
+2021,Turkey,Europe Other,297,88,0.7714285714285715
+2021,Turkmenistan,Asia Central,4,0,1
+2021,Uganda,Africa Sub-Saharan,54,31,0.6352941176470588
+2021,Ukraine,Europe Other,6,43,0.12244897959183673
+2021,United Arab Emirates,Middle East,2,0,1
+2021,United States,America North,0,1,0
+2021,Uzbekistan,Asia Central,0,7,0
+2021,Venezuela,America Central and South,8,4,0.6666666666666666
+2021,Vietnam,Asia South East,508,211,0.7065368567454798
+2021,Western Sahara,Africa North,4,0,1
+2021,Yemen,Middle East,267,4,0.985239852398524
+2021,Zambia,Africa Sub-Saharan,5,1,0.8333333333333334
+2021,Zimbabwe,Africa Sub-Saharan,22,30,0.4230769230769231
+2022,Afghanistan,Asia Central,1803,39,0.9788273615635179
+2022,Albania,Europe Other,357,376,0.4870395634379263
+2022,Algeria,Africa North,11,46,0.19298245614035087
+2022,Angola,Africa Sub-Saharan,9,7,0.5625
+2022,Antigua and Barbuda,America Central and South,2,0,1
+2022,Argentina,America Central and South,0,1,0
+2022,Armenia,Europe Other,0,1,0
+2022,Azerbaijan,Europe Other,6,2,0.75
+2022,Bahrain,Middle East,1,0,1
+2022,Bangladesh,Asia South,104,195,0.34782608695652173
+2022,Barbados,America Central and South,1,0,1
+2022,Belarus,Europe Other,6,2,0.75
+2022,Benin,Africa Sub-Saharan,3,1,0.75
+2022,Bolivia,America Central and South,1,1,0.5
+2022,Botswana,Africa Sub-Saharan,5,5,0.5
+2022,Brazil,America Central and South,2,37,0.05128205128205128
+2022,British overseas citizens,Other,1,1,0.5
+2022,Bulgaria,EU 2,0,4,0
+2022,Burkina,Africa Sub-Saharan,2,0,1
+2022,Burma,Asia South East,13,2,0.8666666666666667
+2022,Burundi,Africa Sub-Saharan,2,3,0.4
+2022,Cameroon,Africa Sub-Saharan,67,29,0.6979166666666666
+2022,Central African Republic,Africa Sub-Saharan,3,0,1
+2022,Chad,Africa Sub-Saharan,58,17,0.7733333333333333
+2022,China,Asia East,46,246,0.15753424657534246
+2022,Colombia,America Central and South,1,4,0.2
+2022,Congo,Africa Sub-Saharan,6,1,0.8571428571428571
+2022,Congo (Democratic Republic),Africa Sub-Saharan,34,10,0.7727272727272727
+2022,Costa Rica,America Central and South,0,1,0
+2022,Cuba,America Central and South,4,0,1
+2022,Dominica,America Central and South,0,2,0
+2022,Ecuador,America Central and South,0,1,0
+2022,Egypt,Africa North,73,86,0.4591194968553459
+2022,El Salvador,America Central and South,131,161,0.4486301369863014
+2022,Equatorial Guinea,Africa Sub-Saharan,1,0,1
+2022,Eritrea,Africa Sub-Saharan,2426,39,0.9841784989858012
+2022,Ethiopia,Africa Sub-Saharan,243,107,0.6942857142857143
+2022,Finland,EU 14,0,1,0
+2022,Gabon,Africa Sub-Saharan,1,0,1
+2022,"Gambia, The",Africa Sub-Saharan,11,9,0.55
+2022,Georgia,Europe Other,7,21,0.25
+2022,Germany,EU 14,0,2,0
+2022,Ghana,Africa Sub-Saharan,14,26,0.35
+2022,Greece,EU 14,0,2,0
+2022,Grenada,America Central and South,2,3,0.4
+2022,Guatemala,America Central and South,0,3,0
+2022,Guinea,Africa Sub-Saharan,22,21,0.5116279069767442
+2022,Guinea-Bissau,Africa Sub-Saharan,3,1,0.75
+2022,Guyana,America Central and South,2,0,1
+2022,Honduras,America Central and South,23,31,0.42592592592592593
+2022,Hong Kong,Asia East,8,9,0.47058823529411764
+2022,Hungary,EU 8,0,4,0
+2022,India,Asia South,9,216,0.04
+2022,Indonesia,Asia South East,7,0,1
+2022,Iran,Middle East,2510,622,0.801404853128991
+2022,Iraq,Middle East,597,474,0.5574229691876751
+2022,Ireland,EU 14,0,1,0
+2022,Israel,Middle East,0,1,0
+2022,Italy,EU 14,0,1,0
+2022,Ivory Coast,Africa Sub-Saharan,4,13,0.23529411764705882
+2022,Jamaica,America Central and South,4,11,0.26666666666666666
+2022,Jordan,Middle East,6,5,0.5454545454545454
+2022,Kazakhstan,Asia Central,3,1,0.75
+2022,Kenya,Africa Sub-Saharan,28,21,0.5714285714285714
+2022,Korea (North),Asia East,0,1,0
+2022,Korea (South),Asia East,1,0,1
+2022,Kosovo,Europe Other,0,2,0
+2022,Kuwait,Middle East,57,10,0.8507462686567164
+2022,Kyrgyzstan,Asia Central,2,4,0.3333333333333333
+2022,Latvia,EU 8,0,3,0
+2022,Lebanon,Middle East,13,11,0.5416666666666666
+2022,Liberia,Africa Sub-Saharan,1,4,0.2
+2022,Libya,Africa North,148,2,0.9866666666666667
+2022,Lithuania,EU 8,0,3,0
+2022,Malawi,Africa Sub-Saharan,1,1,0.5
+2022,Malaysia,Asia South East,25,41,0.3787878787878788
+2022,Maldives,Asia South,1,0,1
+2022,Mali,Africa Sub-Saharan,8,3,0.7272727272727273
+2022,Mauritius,Africa Sub-Saharan,1,4,0.2
+2022,Mexico,America Central and South,0,3,0
+2022,Mongolia,Asia East,0,2,0
+2022,Morocco,Africa North,25,30,0.45454545454545453
+2022,Namibia,Africa Sub-Saharan,16,116,0.12121212121212122
+2022,Nepal,Asia South,3,24,0.1111111111111111
+2022,Nicaragua,America Central and South,8,8,0.5
+2022,Niger,Africa Sub-Saharan,1,0,1
+2022,Nigeria,Africa Sub-Saharan,155,121,0.5615942028985508
+2022,Occupied Palestinian Territories,Middle East,96,37,0.7218045112781954
+2022,Oman,Middle East,0,1,0
+2022,Other and unknown,Other,3,0,1
+2022,Pakistan,Asia South,349,225,0.60801393728223
+2022,Philippines,Asia South East,2,60,0.03225806451612903
+2022,Poland,EU 8,0,6,0
+2022,Portugal,EU 14,0,3,0
+2022,Qatar,Middle East,0,1,0
+2022,Refugee,Other,253,7,0.9730769230769231
+2022,Romania,EU 2,0,9,0
+2022,Russia,Europe Other,93,22,0.808695652173913
+2022,Rwanda,Africa Sub-Saharan,4,4,0.5
+2022,Saudi Arabia,Middle East,33,3,0.9166666666666666
+2022,Senegal,Africa Sub-Saharan,8,3,0.7272727272727273
+2022,Sierra Leone,Africa Sub-Saharan,27,24,0.5294117647058824
+2022,Singapore,Asia South East,0,1,0
+2022,Somalia,Africa Sub-Saharan,230,56,0.8041958041958042
+2022,South Africa,Africa Sub-Saharan,3,9,0.25
+2022,Spain,EU 14,0,6,0
+2022,Sri Lanka,Asia South,175,63,0.7352941176470589
+2022,St. Kitts and Nevis,America Central and South,1,2,0.3333333333333333
+2022,St. Lucia,America Central and South,7,2,0.7777777777777778
+2022,St. Vincent and the Grenadines,America Central and South,3,0,1
+2022,Stateless,Other,173,12,0.9351351351351351
+2022,Sudan,Africa North,969,186,0.8389610389610389
+2022,Sudan (South),Africa Sub-Saharan,43,0,1
+2022,Sweden,EU 14,0,1,0
+2022,Syria,Middle East,1400,20,0.9859154929577465
+2022,Tajikistan,Asia Central,4,9,0.3076923076923077
+2022,Tanzania,Africa Sub-Saharan,11,4,0.7333333333333333
+2022,Thailand,Asia South East,1,12,0.07692307692307693
+2022,Togo,Africa Sub-Saharan,3,3,0.5
+2022,Trinidad and Tobago,America Central and South,6,6,0.5
+2022,Tunisia,Africa North,5,2,0.7142857142857143
+2022,Turkey,Europe Other,269,68,0.798219584569733
+2022,Turkmenistan,Asia Central,0,2,0
+2022,Uganda,Africa Sub-Saharan,74,5,0.9367088607594937
+2022,Ukraine,Europe Other,2,2,0.5
+2022,United Arab Emirates,Middle East,2,0,1
+2022,United States,America North,1,5,0.16666666666666666
+2022,Uzbekistan,Asia Central,3,2,0.6
+2022,Venezuela,America Central and South,3,2,0.6
+2022,Vietnam,Asia South East,527,188,0.737062937062937
+2022,Yemen,Middle East,312,3,0.9904761904761905
+2022,Zambia,Africa Sub-Saharan,2,2,0.5
+2022,Zimbabwe,Africa Sub-Saharan,29,27,0.5178571428571429

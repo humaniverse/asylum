@@ -899,3 +899,41 @@
 #' }
 #' @source \url{https://www.gov.uk/government/statistical-data-sets/immigration-system-statistics-data-tables-year-ending-december-2022#detention}
 "irregular_migration"
+
+#' Grant rates at initial decision (quarterly)
+#'
+#' Grant rate is the proportion of initial decisions which resulted in a grant
+#' of protection or other leave.
+#'
+#' @format A data frame with 9,768 rows and 8 variables:
+#' \describe{
+#'   \item{Date}{Date}
+#'   \item{Year}{Year}
+#'   \item{Quarter}{Quarter}
+#'   \item{Nationality}{Nationality}
+#'   \item{Region}{Region}
+#'   \item{Grant}{Total number of grants at initial decision}
+#'   \item{Refused}{Total number of refusals at initial decision}
+#'   \item{Initial grant rate}{Initial grant rate - percentage}
+#'   ...
+#' }
+#' @source \url{https://www.gov.uk/government/statistical-data-sets/immigration-system-statistics-data-tables-year-ending-december-2022}
+"grant_rates_initial_quarterly"
+
+#' Grant rates at initial decision (annual)
+#'
+#' Grant rate is the proportion of initial decisions which resulted in a grant
+#' of protection or other leave.
+#'
+#' @format A data frame with 3,182 rows and 6 variables:
+#' \describe{
+#'   \item{Year}{Year}
+#'   \item{Nationality}{Nationality}
+#'   \item{Region}{Region}
+#'   \item{Grant}{Total number of grants at initial decision}
+#'   \item{Refused}{Total number of refusals at initial decision}
+#'   \item{Initial grant rate}{Initial grant rate - percentage}
+#'   ...
+#' }
+#' @source \url{https://www.gov.uk/government/statistical-data-sets/immigration-system-statistics-data-tables-year-ending-december-2022}
+"grant_rates_initial_annual"
