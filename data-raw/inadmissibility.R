@@ -1,0 +1,44 @@
+library(tidyverse)
+library(lubridate)
+library(devtools)
+library(readODS)
+library(httr)
+
+load_all()
+
+query_url <-
+  query_urls |>
+  filter(data_set == "asylum_summary") |>
+  pull(query_url)
+
+GET(
+  query_url,
+  write_disk(tf <- tempfile())
+)
+
+# ---- Cases considered under inadmissibility rules, 1 January 2021 - 30 September 2022 ----
+inadmissibility_cases_considered <-
+  read_ods(tf, sheet = "Asy_09a", skip = 1)
+
+inadmissibility_cases_considered <-
+  inadmissibility_cases_considered |>
+  # Only keep relevant rows
+  slice(1:5) |>
+  as_tibble() |>
+
+  # Reshape the data
+  select(-Total) |>
+  rename(Stage = Date) |>
+  pivot_longer(cols = -Stage, names_to = "Date", values_to = "Cases") |>
+
+  # Separate 'Date' column into separate 'Quarter' and 'Year' columns, then calculate a lubridate Date
+  separate_wider_delim(Date, " ", names = c("Quarter", "Year")) |>
+  mutate(Date = yq(paste(Year, Quarter))) |>
+
+  relocate(Date, Quarter, Year) |>
+
+  mutate(Stage = if_else(str_detect(Stage, "Removals"), "Removals", Stage))
+
+# ---- Save output to data/ folder ----
+usethis::use_data(inadmissibility_cases_considered, overwrite = TRUE)
+readr::write_csv(inadmissibility_cases_considered, "data-raw/inadmissibility_cases_considered.csv")
