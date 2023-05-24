@@ -39,6 +39,18 @@ inadmissibility_cases_considered <-
 
   mutate(Stage = if_else(str_detect(Stage, "Removals"), "Removals", Stage))
 
+# ---- Notices of intent issued, by nationality ----
+notices_of_intent <-
+  read_ods(tf, sheet = "Asy_09b", skip = 1)
+
+notices_of_intent <-
+  notices_of_intent |>
+  slice(1:11) |>
+  as_tibble()
+
 # ---- Save output to data/ folder ----
 usethis::use_data(inadmissibility_cases_considered, overwrite = TRUE)
 readr::write_csv(inadmissibility_cases_considered, "data-raw/inadmissibility_cases_considered.csv")
+
+usethis::use_data(notices_of_intent, overwrite = TRUE)
+readr::write_csv(notices_of_intent, "data-raw/notices_of_intent.csv")
