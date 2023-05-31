@@ -45,6 +45,12 @@ children_entering_detention <-
   mutate(`Date of entry to detention` = as.integer(`Date of entry to detention`)) |>
   drop_na()
 
+names(children_entering_detention) <-
+  names(children_entering_detention) |>
+  str_remove("\\n") |>
+  str_remove("\\(") |>
+  str_remove("\\)")
+
 # Deaths of persons detained under Immigration Act Powers and absconds from detention
 names(detentions_deaths_and_absconds) <-
   str_remove(names(detentions_deaths_and_absconds), " \\[.*\\]| \\[.*\\)")

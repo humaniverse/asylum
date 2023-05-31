@@ -9,16 +9,16 @@ A data frame with 13 rows and 7 variables:
 \describe{
   \item{Date of entry to detention}{Date of entry to detention}
   \item{Total children}{Total children}
-  \item{Children Under 5 yrs}{Children Under 5 yrs}
-  \item{Children 5-11 yrs}{Children 5-11 yrs}
-  \item{Children 12-16 yrs}{Children 12-16 yrs}
-  \item{Children 17 yrs}{Children 17 yrs}
-  \item{Total adults (18+)}{Total adults (18+)}
+  \item{Children 4 and under}{Children 4 and under}
+  \item{Children 5 to 11 years}{Children 5 to 11 years}
+  \item{Children 12 to 16 years}{Children 12 to 16 years}
+  \item{Children 17 years}{Children 17 years}
+  \item{Total adults 18 and over}{Total adults (18 and over)}
   ...
 }
 }
 \source{
-\url{https://www.gov.uk/government/statistical-data-sets/immigration-system-statistics-data-tables-year-ending-december-2022#detention}
+\url{https://www.gov.uk/government/statistical-data-sets/immigration-system-statistics-data-tables-year-ending-march-2023#detention}
 }
 \usage{
 children_entering_detention

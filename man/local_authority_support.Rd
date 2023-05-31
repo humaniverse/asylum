@@ -14,7 +14,7 @@ A data frame with 16,471 rows and 8 variables:
   \item{UK Region}{The UK region of the individual's registered address}
   \item{Local Authority}{The Local Authority of the individual's registered address}
   \item{LAD Code}{Local Authority (district) code as supplied by ONS}
-  \item{Support sub-type}{Whether the support provided is subsistence only, or includes provision of accommodation}
+  \item{Accommodation Type}{Whether the support provided is subsistence only, or includes provision of accommodation}
   \item{People}{Number of people in receipt of section 95 support}
   ...
 }

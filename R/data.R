@@ -9,7 +9,7 @@
 #'   \item{Nationality}{Nationality of people receiving support}
 #'   \item{Region}{World region the nation is in}
 #'   \item{Support Type}{Section 95, Section 98, or Section 4 support}
-#'   \item{Support Sub-Type}{'Dispersed Accommodation' or 'Subsistence Only' for Section 95 support}
+#'   \item{Accommodation Type}{'Dispersed Accommodation' or 'Subsistence Only' for Section 95 support}
 #'   \item{UK Region}{Where the people are currently living}
 #'   \item{People}{Number of people receiving support}
 #'   ...
@@ -292,7 +292,7 @@
 #'   \item{UK Region}{The UK region of the individual's registered address}
 #'   \item{Local Authority}{The Local Authority of the individual's registered address}
 #'   \item{LAD Code}{Local Authority (district) code as supplied by ONS}
-#'   \item{Support sub-type}{Whether the support provided is subsistence only, or includes provision of accommodation}
+#'   \item{Accommodation Type}{Whether the support provided is subsistence only, or includes provision of accommodation}
 #'   \item{People}{Number of people in receipt of section 95 support}
 #'   ...
 #' }
@@ -828,7 +828,7 @@
 #'   \item{In detentionNon-asylum}{In detention Non-asylum}
 #'   ...
 #' }
-#' @source \url{https://www.gov.uk/government/statistical-data-sets/immigration-system-statistics-data-tables-year-ending-december-2022#detention}
+#' @source \url{https://www.gov.uk/government/statistical-data-sets/immigration-system-statistics-data-tables-year-ending-march-2023#detention}
 "detention_summary_flow"
 
 #' Children entering detention
@@ -839,14 +839,14 @@
 #' \describe{
 #'   \item{Date of entry to detention}{Date of entry to detention}
 #'   \item{Total children}{Total children}
-#'   \item{Children Under 5 yrs}{Children Under 5 yrs}
-#'   \item{Children 5-11 yrs}{Children 5-11 yrs}
-#'   \item{Children 12-16 yrs}{Children 12-16 yrs}
-#'   \item{Children 17 yrs}{Children 17 yrs}
-#'   \item{Total adults (18+)}{Total adults (18+)}
+#'   \item{Children 4 and under}{Children 4 and under}
+#'   \item{Children 5 to 11 years}{Children 5 to 11 years}
+#'   \item{Children 12 to 16 years}{Children 12 to 16 years}
+#'   \item{Children 17 years}{Children 17 years}
+#'   \item{Total adults 18 and over}{Total adults (18 and over)}
 #'   ...
 #' }
-#' @source \url{https://www.gov.uk/government/statistical-data-sets/immigration-system-statistics-data-tables-year-ending-december-2022#detention}
+#' @source \url{https://www.gov.uk/government/statistical-data-sets/immigration-system-statistics-data-tables-year-ending-march-2023#detention}
 "children_entering_detention"
 
 #' Deaths of persons detained under Immigration Act Powers and absconds from
