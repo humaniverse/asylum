@@ -1095,3 +1095,29 @@
 #' }
 #' @source \url{https://www.gov.uk/government/statistical-data-sets/immigration-system-statistics-data-tables-year-ending-december-2022}
 "notices_of_intent"
+
+#' Number of pregnant women detained in the immigration detention estate
+#'
+#' @format A data frame with 27 rows and 4 variables:
+#' \describe{
+#'   \item{Date}{Date}
+#'   \item{Year}{Year}
+#'   \item{Quarter}{Quarter}
+#'   \item{Number of pregnant women detained in the immigration detention estate}{Number of pregnant women detained in the immigration detention estate}
+#'   ...
+#' }
+#' @source \url{https://www.gov.uk/government/collections/migration-transparency-data#immigration-enforcement}
+"detention_pregnant_women"
+
+#' Average cost per day to hold an individual in immigration detention
+#'
+#' @format A data frame with 41 rows and 4 variables:
+#' \describe{
+#'   \item{Date}{Date}
+#'   \item{Year}{Year}
+#'   \item{Quarter}{Quarter}
+#'   \item{Cost}{Cost}
+#'   ...
+#' }
+#' @source \url{https://www.gov.uk/government/collections/migration-transparency-data#immigration-enforcement}
+"detention_cost_per_day"

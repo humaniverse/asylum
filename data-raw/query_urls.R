@@ -9,6 +9,7 @@ query_urls <-
     # - https://www.gov.uk/government/collections/immigration-statistics-quarterly-release
     # - https://www.gov.uk/government/statistical-data-sets/asylum-and-resettlement-datasets
     # - https://www.gov.uk/government/statistical-data-sets/managed-migration-datasets
+    # - https://www.gov.uk/government/collections/migration-transparency-data#immigration-enforcement
 
     # Asylum applications, decisions and resettlement
     "asylum_summary", "Asylum and resettlement summary tables, year ending December 2022", "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1137644/asylum-summary-dec-2022-tables.ods", "https://www.gov.uk/government/statistical-data-sets/immigration-system-statistics-data-tables-year-ending-december-2022",
@@ -50,7 +51,10 @@ query_urls <-
     "returns", "Returns", "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1136463/returns-datasets-dec-2022.xlsx", "https://www.gov.uk/government/statistical-data-sets/returns-and-detention-datasets",
 
     # Irregular migration
-    "irrgular_migration", "Irregular migration detailed dataset", "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1158730/irregular-migration-to-the-UK-detailed-dataset-year-ending-march-2023.xlsx", "https://www.gov.uk/government/statistical-data-sets/irregular-migration-detailed-dataset-and-summary-tables"
+    "irrgular_migration", "Irregular migration detailed dataset", "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1158730/irregular-migration-to-the-UK-detailed-dataset-year-ending-march-2023.xlsx", "https://www.gov.uk/government/statistical-data-sets/irregular-migration-detailed-dataset-and-summary-tables",
+
+    # Immigration enforcement
+    "immigration_enforcement", "Immigration Enforcement data: Q1 2023", "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1158618/IE_Q1_2023_Published.ods", "https://www.gov.uk/government/collections/migration-transparency-data#immigration-enforcement"
   )
 
 usethis::use_data(query_urls, internal = TRUE, overwrite = TRUE)
