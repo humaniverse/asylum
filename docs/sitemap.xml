@@ -76,6 +76,12 @@
     <loc>/reference/detentions_deaths_details.html</loc>
   </url>
   <url>
+    <loc>/reference/detention_cost_per_day.html</loc>
+  </url>
+  <url>
+    <loc>/reference/detention_pregnant_women.html</loc>
+  </url>
+  <url>
     <loc>/reference/detention_summary_flow.html</loc>
   </url>
   <url>
@@ -83,6 +89,15 @@
   </url>
   <url>
     <loc>/reference/family_reunion.html</loc>
+  </url>
+  <url>
+    <loc>/reference/grant_rates_initial_annual.html</loc>
+  </url>
+  <url>
+    <loc>/reference/grant_rates_initial_quarterly.html</loc>
+  </url>
+  <url>
+    <loc>/reference/inadmissibility_cases_considered.html</loc>
   </url>
   <url>
     <loc>/reference/index.html</loc>
@@ -95,6 +110,9 @@
   </url>
   <url>
     <loc>/reference/local_authority_support.html</loc>
+  </url>
+  <url>
+    <loc>/reference/notices_of_intent.html</loc>
   </url>
   <url>
     <loc>/reference/nrpf_change_of_conditions_age.html</loc>
@@ -137,6 +155,18 @@
   </url>
   <url>
     <loc>/reference/returns_offenders_by_nationality.html</loc>
+  </url>
+  <url>
+    <loc>/reference/small_boat_asylum_applications.html</loc>
+  </url>
+  <url>
+    <loc>/reference/small_boat_initial_decisions.html</loc>
+  </url>
+  <url>
+    <loc>/reference/small_boat_NRM_outcomes.html</loc>
+  </url>
+  <url>
+    <loc>/reference/small_boat_NRM_referrals.html</loc>
   </url>
   <url>
     <loc>/reference/support_applications.html</loc>
