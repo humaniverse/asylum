@@ -2164,8 +2164,8 @@ Date,Year,Quarter,UK Region,LAD Code,Local Authority,Resettlement Scheme,Persons
 2021-01-01,2021,1,London,E09000026,Redbridge,Vulnerable Persons Resettlement Scheme,4
 2021-01-01,2021,1,London,E09000030,Tower Hamlets,Vulnerable Persons Resettlement Scheme,5
 2021-01-01,2021,1,London,E09000031,Waltham Forest,Vulnerable Persons Resettlement Scheme,5
-2021-01-01,2021,1,North East,E06000047,County Durham,Vulnerable Persons Resettlement Scheme,16
 2021-01-01,2021,1,North East,E06000047,County Durham,UK Resettlement Scheme,5
+2021-01-01,2021,1,North East,E06000047,County Durham,Vulnerable Persons Resettlement Scheme,16
 2021-01-01,2021,1,North East,E06000005,Darlington,Vulnerable Persons Resettlement Scheme,5
 2021-01-01,2021,1,North West,E07000117,Burnley,Vulnerable Persons Resettlement Scheme,16
 2021-01-01,2021,1,North West,E08000012,Liverpool,Vulnerable Persons Resettlement Scheme,4
@@ -2197,12 +2197,12 @@ Date,Year,Quarter,UK Region,LAD Code,Local Authority,Resettlement Scheme,Persons
 2021-01-01,2021,1,Yorkshire and The Humber,E08000032,Bradford,Vulnerable Persons Resettlement Scheme,21
 2021-01-01,2021,1,Yorkshire and The Humber,E06000011,East Riding of Yorkshire,Vulnerable Persons Resettlement Scheme,11
 2021-01-01,2021,1,Yorkshire and The Humber,E07000164,Hambleton,Vulnerable Persons Resettlement Scheme,14
-2021-01-01,2021,1,Yorkshire and The Humber,E08000035,Leeds,Vulnerable Persons Resettlement Scheme,11
 2021-01-01,2021,1,Yorkshire and The Humber,E08000035,Leeds,UK Resettlement Scheme,6
+2021-01-01,2021,1,Yorkshire and The Humber,E08000035,Leeds,Vulnerable Persons Resettlement Scheme,11
 2021-01-01,2021,1,Yorkshire and The Humber,E07000166,Richmondshire,Vulnerable Persons Resettlement Scheme,10
 2021-01-01,2021,1,Yorkshire and The Humber,E08000018,Rotherham,Vulnerable Persons Resettlement Scheme,4
-2021-01-01,2021,1,Yorkshire and The Humber,E08000019,Sheffield,Vulnerable Persons Resettlement Scheme,37
 2021-01-01,2021,1,Yorkshire and The Humber,E08000019,Sheffield,UK Resettlement Scheme,4
+2021-01-01,2021,1,Yorkshire and The Humber,E08000019,Sheffield,Vulnerable Persons Resettlement Scheme,37
 2021-04-01,2021,2,East Midlands,E07000035,Derbyshire Dales,UK Resettlement Scheme,4
 2021-04-01,2021,2,East of England,E06000056,Central Bedfordshire,UK Resettlement Scheme,5
 2021-04-01,2021,2,East of England,E07000148,Norwich,UK Resettlement Scheme,10
@@ -2228,6 +2228,9 @@ Date,Year,Quarter,UK Region,LAD Code,Local Authority,Resettlement Scheme,Persons
 2021-04-01,2021,2,South West,E07000043,North Devon,Community Sponsorship Scheme,4
 2021-04-01,2021,2,South West,E06000024,North Somerset,UK Resettlement Scheme,5
 2021-04-01,2021,2,South West,E06000026,Plymouth,UK Resettlement Scheme,11
+2021-04-01,2021,2,Unknown,Unknown,Unknown,ACRS Pathway 1,5
+2021-04-01,2021,2,Unknown,Unknown,Unknown,Afghan route not recorded,7
+2021-04-01,2021,2,Unknown,Unknown,Unknown,ARAP,133
 2021-04-01,2021,2,Wales,W06000010,Carmarthenshire,UK Resettlement Scheme,9
 2021-04-01,2021,2,Wales,W06000014,Vale of Glamorgan,UK Resettlement Scheme,4
 2021-04-01,2021,2,West Midlands,E08000025,Birmingham,Community Sponsorship Scheme,6
@@ -2288,6 +2291,9 @@ Date,Year,Quarter,UK Region,LAD Code,Local Authority,Resettlement Scheme,Persons
 2021-07-01,2021,3,South West,E06000026,Plymouth,UK Resettlement Scheme,6
 2021-07-01,2021,3,South West,E06000025,South Gloucestershire,UK Resettlement Scheme,6
 2021-07-01,2021,3,South West,E06000054,Wiltshire,UK Resettlement Scheme,5
+2021-07-01,2021,3,Unknown,Unknown,Unknown,ACRS Pathway 1,7875
+2021-07-01,2021,3,Unknown,Unknown,Unknown,Afghan route not recorded,471
+2021-07-01,2021,3,Unknown,Unknown,Unknown,ARAP,6261
 2021-07-01,2021,3,Wales,W06000015,Cardiff,UK Resettlement Scheme,5
 2021-07-01,2021,3,Wales,W06000004,Denbighshire,UK Resettlement Scheme,4
 2021-07-01,2021,3,Wales,W06000011,Swansea,UK Resettlement Scheme,3
@@ -2342,6 +2348,9 @@ Date,Year,Quarter,UK Region,LAD Code,Local Authority,Resettlement Scheme,Persons
 2021-10-01,2021,4,South West,E07000043,North Devon,Community Sponsorship Scheme,6
 2021-10-01,2021,4,South West,E07000246,Somerset West and Taunton,Community Sponsorship Scheme,3
 2021-10-01,2021,4,South West,E06000054,Wiltshire,UK Resettlement Scheme,9
+2021-10-01,2021,4,Unknown,Unknown,Unknown,ACRS Pathway 1,664
+2021-10-01,2021,4,Unknown,Unknown,Unknown,Afghan route not recorded,8
+2021-10-01,2021,4,Unknown,Unknown,Unknown,ARAP,788
 2021-10-01,2021,4,Wales,W06000013,Bridgend,UK Resettlement Scheme,5
 2021-10-01,2021,4,Wales,W06000014,Vale of Glamorgan,Community Sponsorship Scheme,6
 2021-10-01,2021,4,Wales,W06000014,Vale of Glamorgan,UK Resettlement Scheme,5
@@ -2410,9 +2419,12 @@ Date,Year,Quarter,UK Region,LAD Code,Local Authority,Resettlement Scheme,Persons
 2022-01-01,2022,1,South West,E07000078,Cheltenham,UK Resettlement Scheme,7
 2022-01-01,2022,1,South West,E06000059,Dorset,Community Sponsorship Scheme,4
 2022-01-01,2022,1,South West,E07000081,Gloucester,UK Resettlement Scheme,4
+2022-01-01,2022,1,Unknown,Unknown,Unknown,ACRS Pathway 1,288
+2022-01-01,2022,1,Unknown,Unknown,Unknown,Afghan route not recorded,3
+2022-01-01,2022,1,Unknown,Unknown,Unknown,ARAP,1049
 2022-01-01,2022,1,Wales,W06000008,Ceredigion,Community Sponsorship Scheme,3
-2022-01-01,2022,1,West Midlands,E08000025,Birmingham,UK Resettlement Scheme,9
 2022-01-01,2022,1,West Midlands,E08000025,Birmingham,Mandate Scheme,1
+2022-01-01,2022,1,West Midlands,E08000025,Birmingham,UK Resettlement Scheme,9
 2022-01-01,2022,1,West Midlands,E08000026,Coventry,UK Resettlement Scheme,8
 2022-01-01,2022,1,Yorkshire and The Humber,E08000032,Bradford,UK Resettlement Scheme,25
 2022-01-01,2022,1,Yorkshire and The Humber,E07000165,Harrogate,UK Resettlement Scheme,7
@@ -2452,6 +2464,8 @@ Date,Year,Quarter,UK Region,LAD Code,Local Authority,Resettlement Scheme,Persons
 2022-04-01,2022,2,South West,E06000059,Dorset,Community Sponsorship Scheme,10
 2022-04-01,2022,2,South West,E07000040,East Devon,Community Sponsorship Scheme,5
 2022-04-01,2022,2,South West,E07000046,Torridge,Community Sponsorship Scheme,5
+2022-04-01,2022,2,Unknown,Unknown,Unknown,ACRS Pathway 1,114
+2022-04-01,2022,2,Unknown,Unknown,Unknown,ARAP,853
 2022-04-01,2022,2,West Midlands,E08000025,Birmingham,UK Resettlement Scheme,10
 2022-04-01,2022,2,West Midlands,E08000026,Coventry,UK Resettlement Scheme,20
 2022-04-01,2022,2,West Midlands,E07000221,Stratford-on-Avon,UK Resettlement Scheme,2
@@ -2491,6 +2505,9 @@ Date,Year,Quarter,UK Region,LAD Code,Local Authority,Resettlement Scheme,Persons
 2022-07-01,2022,3,South West,E07000043,North Devon,Community Sponsorship Scheme,5
 2022-07-01,2022,3,South West,E07000044,South Hams,Community Sponsorship Scheme,3
 2022-07-01,2022,3,South West,E06000054,Wiltshire,UK Resettlement Scheme,3
+2022-07-01,2022,3,Unknown,Unknown,Unknown,ACRS Pathway 1,48
+2022-07-01,2022,3,Unknown,Unknown,Unknown,Afghan route not recorded,3
+2022-07-01,2022,3,Unknown,Unknown,Unknown,ARAP,1515
 2022-07-01,2022,3,Wales,W06000001,Isle of Anglesey,UK Resettlement Scheme,2
 2022-07-01,2022,3,West Midlands,E08000025,Birmingham,Community Sponsorship Scheme,5
 2022-07-01,2022,3,West Midlands,E08000025,Birmingham,UK Resettlement Scheme,5
@@ -2522,8 +2539,8 @@ Date,Year,Quarter,UK Region,LAD Code,Local Authority,Resettlement Scheme,Persons
 2022-10-01,2022,4,London,E09000031,Waltham Forest,UK Resettlement Scheme,3
 2022-10-01,2022,4,North East,E08000037,Gateshead,Community Sponsorship Scheme,5
 2022-10-01,2022,4,North East,E08000022,North Tyneside,Community Sponsorship Scheme,7
-2022-10-01,2022,4,North East,E06000003,Redcar and Cleveland,UK Resettlement Scheme,9
 2022-10-01,2022,4,North East,E06000003,Redcar and Cleveland,ACRS Pathway 2,5
+2022-10-01,2022,4,North East,E06000003,Redcar and Cleveland,UK Resettlement Scheme,9
 2022-10-01,2022,4,North West,E07000026,Allerdale,UK Resettlement Scheme,8
 2022-10-01,2022,4,North West,E07000029,Copeland,ACRS Pathway 2,4
 2022-10-01,2022,4,North West,E07000030,Eden,Community Sponsorship Scheme,5
@@ -2536,33 +2553,63 @@ Date,Year,Quarter,UK Region,LAD Code,Local Authority,Resettlement Scheme,Persons
 2022-10-01,2022,4,South East,E07000209,Guildford,Community Sponsorship Scheme,3
 2022-10-01,2022,4,South East,E07000178,Oxford,UK Resettlement Scheme,6
 2022-10-01,2022,4,South West,E06000059,Dorset,Community Sponsorship Scheme,5
+2022-10-01,2022,4,Unknown,Unknown,Unknown,ACRS Pathway 1,62
+2022-10-01,2022,4,Unknown,Unknown,Unknown,Afghan route not recorded,1
+2022-10-01,2022,4,Unknown,Unknown,Unknown,ARAP,744
 2022-10-01,2022,4,West Midlands,E08000025,Birmingham,Community Sponsorship Scheme,5
 2022-10-01,2022,4,West Midlands,E08000026,Coventry,UK Resettlement Scheme,7
 2022-10-01,2022,4,West Midlands,E07000239,Wyre Forest,UK Resettlement Scheme,4
 2022-10-01,2022,4,Yorkshire and The Humber,E08000032,Bradford,UK Resettlement Scheme,9
-2022-10-01,2022,4,Yorkshire and The Humber,E06000010,"Kingston upon Hull, City of",UK Resettlement Scheme,10
 2022-10-01,2022,4,Yorkshire and The Humber,E06000010,"Kingston upon Hull, City of",ACRS Pathway 2,5
+2022-10-01,2022,4,Yorkshire and The Humber,E06000010,"Kingston upon Hull, City of",UK Resettlement Scheme,10
 2022-10-01,2022,4,Yorkshire and The Humber,E08000034,Kirklees,UK Resettlement Scheme,2
 2022-10-01,2022,4,Yorkshire and The Humber,E07000169,Selby,UK Resettlement Scheme,3
 2022-10-01,2022,4,Yorkshire and The Humber,E08000036,Wakefield,UK Resettlement Scheme,11
-2021-04-01,2021,2,Unknown,Unknown,Unknown,ACRS Pathway 1,5
-2021-04-01,2021,2,Unknown,Unknown,Unknown,Afghan route not recorded,3
-2021-04-01,2021,2,Unknown,Unknown,Unknown,ARAP,127
-2021-07-01,2021,3,Unknown,Unknown,Unknown,ACRS Pathway 1,6520
-2021-07-01,2021,3,Unknown,Unknown,Unknown,Afghan route not recorded,2484
-2021-07-01,2021,3,Unknown,Unknown,Unknown,ARAP,6259
-2021-10-01,2021,4,Unknown,Unknown,Unknown,ACRS Pathway 1,616
-2021-10-01,2021,4,Unknown,Unknown,Unknown,Afghan route not recorded,12
-2021-10-01,2021,4,Unknown,Unknown,Unknown,ARAP,732
-2022-01-01,2022,1,Unknown,Unknown,Unknown,ACRS Pathway 1,258
-2022-01-01,2022,1,Unknown,Unknown,Unknown,Afghan route not recorded,19
-2022-01-01,2022,1,Unknown,Unknown,Unknown,ARAP,1033
-2022-04-01,2022,2,Unknown,Unknown,Unknown,ACRS Pathway 1,86
-2022-04-01,2022,2,Unknown,Unknown,Unknown,Afghan route not recorded,16
-2022-04-01,2022,2,Unknown,Unknown,Unknown,ARAP,834
-2022-07-01,2022,3,Unknown,Unknown,Unknown,ACRS Pathway 1,63
-2022-07-01,2022,3,Unknown,Unknown,Unknown,Afghan route not recorded,8
-2022-07-01,2022,3,Unknown,Unknown,Unknown,ARAP,1484
-2022-10-01,2022,4,Unknown,Unknown,Unknown,ACRS Pathway 1,61
-2022-10-01,2022,4,Unknown,Unknown,Unknown,Afghan route not recorded,2
-2022-10-01,2022,4,Unknown,Unknown,Unknown,ARAP,743
+2023-01-01,2023,1,East of England,E07000008,Cambridge,Community Sponsorship Scheme,9
+2023-01-01,2023,1,East of England,E06000056,Central Bedfordshire,UK Resettlement Scheme,4
+2023-01-01,2023,1,East of England,E07000202,Ipswich,UK Resettlement Scheme,7
+2023-01-01,2023,1,East of England,E07000148,Norwich,UK Resettlement Scheme,11
+2023-01-01,2023,1,East of England,E06000031,Peterborough,UK Resettlement Scheme,2
+2023-01-01,2023,1,London,E09000010,Enfield,Mandate Scheme,2
+2023-01-01,2023,1,London,E09000023,Lewisham,UK Resettlement Scheme,3
+2023-01-01,2023,1,London,E09000028,Southwark,Community Sponsorship Scheme,4
+2023-01-01,2023,1,North East,E06000003,Redcar and Cleveland,UK Resettlement Scheme,6
+2023-01-01,2023,1,North West,E06000009,Blackpool,UK Resettlement Scheme,4
+2023-01-01,2023,1,North West,E07000117,Burnley,UK Resettlement Scheme,3
+2023-01-01,2023,1,North West,E07000118,Chorley,UK Resettlement Scheme,4
+2023-01-01,2023,1,North West,E07000029,Copeland,UK Resettlement Scheme,4
+2023-01-01,2023,1,North West,E07000031,South Lakeland,Community Sponsorship Scheme,3
+2023-01-01,2023,1,Northern Ireland,N09000001,Antrim and Newtonabbey,ACRS Pathway 3,3
+2023-01-01,2023,1,Northern Ireland,N09000001,Antrim and Newtownabbey,ACRS Pathway 2,7
+2023-01-01,2023,1,Northern Ireland,N09000011,Ards and North Down,ACRS Pathway 2,2
+2023-01-01,2023,1,Northern Ireland,N09000011,Ards and North Down,ACRS Pathway 3,3
+2023-01-01,2023,1,Northern Ireland,N09000007,Lisburn and Castlereagh,ACRS Pathway 2,5
+2023-01-01,2023,1,Scotland,S12000036,City of Edinburgh,Community Sponsorship Scheme,2
+2023-01-01,2023,1,Scotland,S12000036,City of Edinburgh,UK Resettlement Scheme,4
+2023-01-01,2023,1,Scotland,S12000049,Glasgow City,Community Sponsorship Scheme,3
+2023-01-01,2023,1,Scotland,S12000013,Na h-Eileanan Siar,ACRS Pathway 2,3
+2023-01-01,2023,1,Scotland,S12000029,South Lanarkshire,UK Resettlement Scheme,6
+2023-01-01,2023,1,South East,E07000177,Cherwell,UK Resettlement Scheme,7
+2023-01-01,2023,1,South East,E07000178,Oxford,Community Sponsorship Scheme,6
+2023-01-01,2023,1,South East,E07000178,Oxford,UK Resettlement Scheme,7
+2023-01-01,2023,1,South East,E07000180,Vale of White Horse,UK Resettlement Scheme,8
+2023-01-01,2023,1,South West,E06000058,"Bournemouth, Christchurch and Poole",ACRS Pathway 3,8
+2023-01-01,2023,1,South West,E07000081,Gloucester,UK Resettlement Scheme,5
+2023-01-01,2023,1,South West,E07000246,Somerset West and Taunton,Community Sponsorship Scheme,6
+2023-01-01,2023,1,South West,E06000025,South Gloucestershire,UK Resettlement Scheme,5
+2023-01-01,2023,1,South West,E07000045,Teignbridge,UK Resettlement Scheme,3
+2023-01-01,2023,1,South West,E06000054,Wiltshire,UK Resettlement Scheme,8
+2023-01-01,2023,1,Unknown,Unknown,Unknown,ACRS Pathway 1,3
+2023-01-01,2023,1,Unknown,Unknown,Unknown,ARAP,55
+2023-01-01,2023,1,Wales,W06000002,Gwynedd,Community Sponsorship Scheme,4
+2023-01-01,2023,1,Wales,W06000022,Newport,UK Resettlement Scheme,5
+2023-01-01,2023,1,Wales,W06000016,Rhondda Cynon Taf,UK Resettlement Scheme,3
+2023-01-01,2023,1,West Midlands,E08000026,Coventry,UK Resettlement Scheme,8
+2023-01-01,2023,1,Yorkshire and The Humber,E08000032,Bradford,UK Resettlement Scheme,8
+2023-01-01,2023,1,Yorkshire and The Humber,E08000033,Calderdale,UK Resettlement Scheme,8
+2023-01-01,2023,1,Yorkshire and The Humber,E08000035,Leeds,ACRS Pathway 2,1
+2023-01-01,2023,1,Yorkshire and The Humber,E08000018,Rotherham,UK Resettlement Scheme,3
+2023-01-01,2023,1,Yorkshire and The Humber,E07000168,Scarborough,UK Resettlement Scheme,5
+2023-01-01,2023,1,Yorkshire and The Humber,E07000169,Selby,UK Resettlement Scheme,10
+2023-01-01,2023,1,Yorkshire and The Humber,E08000019,Sheffield,UK Resettlement Scheme,16
+2023-01-01,2023,1,Yorkshire and The Humber,E08000036,Wakefield,UK Resettlement Scheme,2

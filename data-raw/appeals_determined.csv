@@ -13195,3 +13195,233 @@ Date,Year,Quarter,Nationality,Region,Outcome,Sex,Appeals determined
 2022-10-01,2022,4,Yemen,Middle East,Withdrawn,Female,1
 2022-10-01,2022,4,Yemen,Middle East,Withdrawn,Male,3
 2022-10-01,2022,4,Zimbabwe,Africa Sub-Saharan,Allowed,Female,2
+2023-01-01,2023,1,Afghanistan,Asia Central,Allowed,Male,9
+2023-01-01,2023,1,Afghanistan,Asia Central,Withdrawn,Male,5
+2023-01-01,2023,1,Albania,Europe Other,Allowed,Female,9
+2023-01-01,2023,1,Albania,Europe Other,Allowed,Male,11
+2023-01-01,2023,1,Albania,Europe Other,Dismissed,Female,2
+2023-01-01,2023,1,Albania,Europe Other,Dismissed,Male,17
+2023-01-01,2023,1,Albania,Europe Other,Withdrawn,Male,2
+2023-01-01,2023,1,Albania,Europe Other,Withdrawn,Unknown Sex,1
+2023-01-01,2023,1,Algeria,Africa North,Allowed,Male,1
+2023-01-01,2023,1,Algeria,Africa North,Dismissed,Male,6
+2023-01-01,2023,1,Algeria,Africa North,Withdrawn,Female,2
+2023-01-01,2023,1,Algeria,Africa North,Withdrawn,Male,1
+2023-01-01,2023,1,Angola,Africa Sub-Saharan,Allowed,Male,3
+2023-01-01,2023,1,Angola,Africa Sub-Saharan,Dismissed,Female,1
+2023-01-01,2023,1,Argentina,America Central and South,Dismissed,Female,1
+2023-01-01,2023,1,Azerbaijan,Europe Other,Allowed,Male,1
+2023-01-01,2023,1,Azerbaijan,Europe Other,Dismissed,Male,2
+2023-01-01,2023,1,Bangladesh,Asia South,Allowed,Female,3
+2023-01-01,2023,1,Bangladesh,Asia South,Allowed,Male,29
+2023-01-01,2023,1,Bangladesh,Asia South,Dismissed,Female,5
+2023-01-01,2023,1,Bangladesh,Asia South,Dismissed,Male,36
+2023-01-01,2023,1,Bangladesh,Asia South,Withdrawn,Female,3
+2023-01-01,2023,1,Bangladesh,Asia South,Withdrawn,Male,7
+2023-01-01,2023,1,Bangladesh,Asia South,Withdrawn,Unknown Sex,1
+2023-01-01,2023,1,Botswana,Africa Sub-Saharan,Dismissed,Female,1
+2023-01-01,2023,1,Brazil,America Central and South,Allowed,Female,2
+2023-01-01,2023,1,Brazil,America Central and South,Allowed,Male,1
+2023-01-01,2023,1,Brazil,America Central and South,Dismissed,Male,2
+2023-01-01,2023,1,Brazil,America Central and South,Withdrawn,Male,2
+2023-01-01,2023,1,Burma,Asia South East,Withdrawn,Male,1
+2023-01-01,2023,1,Burundi,Africa Sub-Saharan,Dismissed,Male,1
+2023-01-01,2023,1,Cameroon,Africa Sub-Saharan,Allowed,Male,2
+2023-01-01,2023,1,Cameroon,Africa Sub-Saharan,Dismissed,Female,1
+2023-01-01,2023,1,Cameroon,Africa Sub-Saharan,Dismissed,Male,1
+2023-01-01,2023,1,Cameroon,Africa Sub-Saharan,Withdrawn,Female,1
+2023-01-01,2023,1,Cameroon,Africa Sub-Saharan,Withdrawn,Male,1
+2023-01-01,2023,1,Chad,Africa Sub-Saharan,Allowed,Male,3
+2023-01-01,2023,1,Chad,Africa Sub-Saharan,Dismissed,Male,4
+2023-01-01,2023,1,Chile,America Central and South,Dismissed,Female,1
+2023-01-01,2023,1,China,Asia East,Allowed,Female,1
+2023-01-01,2023,1,China,Asia East,Allowed,Male,2
+2023-01-01,2023,1,China,Asia East,Allowed,Unknown Sex,1
+2023-01-01,2023,1,China,Asia East,Dismissed,Female,4
+2023-01-01,2023,1,China,Asia East,Dismissed,Male,6
+2023-01-01,2023,1,China,Asia East,Withdrawn,Female,2
+2023-01-01,2023,1,China,Asia East,Withdrawn,Male,2
+2023-01-01,2023,1,Colombia,America Central and South,Withdrawn,Male,1
+2023-01-01,2023,1,Congo (Democratic Republic),Africa Sub-Saharan,Allowed,Female,3
+2023-01-01,2023,1,Congo (Democratic Republic),Africa Sub-Saharan,Allowed,Male,2
+2023-01-01,2023,1,Congo (Democratic Republic),Africa Sub-Saharan,Dismissed,Female,2
+2023-01-01,2023,1,Congo (Democratic Republic),Africa Sub-Saharan,Withdrawn,Female,1
+2023-01-01,2023,1,Congo (Democratic Republic),Africa Sub-Saharan,Withdrawn,Unknown Sex,1
+2023-01-01,2023,1,Ecuador,America Central and South,Dismissed,Male,1
+2023-01-01,2023,1,Egypt,Africa North,Allowed,Male,7
+2023-01-01,2023,1,Egypt,Africa North,Dismissed,Male,7
+2023-01-01,2023,1,Egypt,Africa North,Withdrawn,Male,2
+2023-01-01,2023,1,El Salvador,America Central and South,Allowed,Female,3
+2023-01-01,2023,1,El Salvador,America Central and South,Allowed,Male,22
+2023-01-01,2023,1,El Salvador,America Central and South,Dismissed,Female,7
+2023-01-01,2023,1,El Salvador,America Central and South,Dismissed,Male,10
+2023-01-01,2023,1,El Salvador,America Central and South,Withdrawn,Female,1
+2023-01-01,2023,1,El Salvador,America Central and South,Withdrawn,Male,7
+2023-01-01,2023,1,Eritrea,Africa Sub-Saharan,Allowed,Female,4
+2023-01-01,2023,1,Eritrea,Africa Sub-Saharan,Allowed,Male,3
+2023-01-01,2023,1,Eritrea,Africa Sub-Saharan,Dismissed,Female,1
+2023-01-01,2023,1,Eritrea,Africa Sub-Saharan,Dismissed,Male,1
+2023-01-01,2023,1,Ethiopia,Africa Sub-Saharan,Allowed,Female,5
+2023-01-01,2023,1,Ethiopia,Africa Sub-Saharan,Allowed,Male,16
+2023-01-01,2023,1,Ethiopia,Africa Sub-Saharan,Dismissed,Female,1
+2023-01-01,2023,1,Ethiopia,Africa Sub-Saharan,Dismissed,Male,6
+2023-01-01,2023,1,Ethiopia,Africa Sub-Saharan,Withdrawn,Male,3
+2023-01-01,2023,1,"Gambia, The",Africa Sub-Saharan,Allowed,Male,1
+2023-01-01,2023,1,"Gambia, The",Africa Sub-Saharan,Dismissed,Female,1
+2023-01-01,2023,1,"Gambia, The",Africa Sub-Saharan,Dismissed,Male,1
+2023-01-01,2023,1,"Gambia, The",Africa Sub-Saharan,Withdrawn,Female,1
+2023-01-01,2023,1,Georgia,Europe Other,Allowed,Female,1
+2023-01-01,2023,1,Georgia,Europe Other,Dismissed,Female,1
+2023-01-01,2023,1,Georgia,Europe Other,Withdrawn,Female,1
+2023-01-01,2023,1,Ghana,Africa Sub-Saharan,Allowed,Female,1
+2023-01-01,2023,1,Ghana,Africa Sub-Saharan,Allowed,Male,2
+2023-01-01,2023,1,Ghana,Africa Sub-Saharan,Dismissed,Male,4
+2023-01-01,2023,1,Grenada,America Central and South,Allowed,Male,1
+2023-01-01,2023,1,Guatemala,America Central and South,Dismissed,Female,1
+2023-01-01,2023,1,Guinea,Africa Sub-Saharan,Allowed,Male,3
+2023-01-01,2023,1,Guinea,Africa Sub-Saharan,Dismissed,Male,2
+2023-01-01,2023,1,Guinea,Africa Sub-Saharan,Dismissed,Unknown Sex,1
+2023-01-01,2023,1,Honduras,America Central and South,Allowed,Female,2
+2023-01-01,2023,1,Honduras,America Central and South,Allowed,Male,2
+2023-01-01,2023,1,Honduras,America Central and South,Dismissed,Male,1
+2023-01-01,2023,1,Honduras,America Central and South,Withdrawn,Male,2
+2023-01-01,2023,1,Hong Kong,Asia East,Allowed,Male,1
+2023-01-01,2023,1,Hong Kong,Asia East,Dismissed,Female,1
+2023-01-01,2023,1,India,Asia South,Allowed,Female,4
+2023-01-01,2023,1,India,Asia South,Allowed,Male,1
+2023-01-01,2023,1,India,Asia South,Dismissed,Female,5
+2023-01-01,2023,1,India,Asia South,Dismissed,Male,15
+2023-01-01,2023,1,India,Asia South,Withdrawn,Male,2
+2023-01-01,2023,1,Iran,Middle East,Allowed,Female,3
+2023-01-01,2023,1,Iran,Middle East,Allowed,Male,111
+2023-01-01,2023,1,Iran,Middle East,Dismissed,Male,53
+2023-01-01,2023,1,Iran,Middle East,Withdrawn,Female,2
+2023-01-01,2023,1,Iran,Middle East,Withdrawn,Male,11
+2023-01-01,2023,1,Iraq,Middle East,Allowed,Female,12
+2023-01-01,2023,1,Iraq,Middle East,Allowed,Male,79
+2023-01-01,2023,1,Iraq,Middle East,Dismissed,Female,6
+2023-01-01,2023,1,Iraq,Middle East,Dismissed,Male,68
+2023-01-01,2023,1,Iraq,Middle East,Dismissed,Unknown Sex,1
+2023-01-01,2023,1,Iraq,Middle East,Withdrawn,Female,3
+2023-01-01,2023,1,Iraq,Middle East,Withdrawn,Male,3
+2023-01-01,2023,1,Ivory Coast,Africa Sub-Saharan,Allowed,Male,1
+2023-01-01,2023,1,Ivory Coast,Africa Sub-Saharan,Dismissed,Female,1
+2023-01-01,2023,1,Jamaica,America Central and South,Allowed,Male,1
+2023-01-01,2023,1,Jordan,Middle East,Dismissed,Male,1
+2023-01-01,2023,1,Kenya,Africa Sub-Saharan,Allowed,Female,6
+2023-01-01,2023,1,Kenya,Africa Sub-Saharan,Allowed,Male,1
+2023-01-01,2023,1,Kenya,Africa Sub-Saharan,Dismissed,Female,4
+2023-01-01,2023,1,Kenya,Africa Sub-Saharan,Dismissed,Male,1
+2023-01-01,2023,1,Kenya,Africa Sub-Saharan,Withdrawn,Male,1
+2023-01-01,2023,1,Korea (North),Asia East,Withdrawn,Female,1
+2023-01-01,2023,1,Kuwait,Middle East,Allowed,Male,1
+2023-01-01,2023,1,Kuwait,Middle East,Dismissed,Female,1
+2023-01-01,2023,1,Kuwait,Middle East,Dismissed,Male,2
+2023-01-01,2023,1,Kuwait,Middle East,Withdrawn,Male,1
+2023-01-01,2023,1,Lebanon,Middle East,Withdrawn,Male,1
+2023-01-01,2023,1,Liberia,Africa Sub-Saharan,Dismissed,Female,1
+2023-01-01,2023,1,Libya,Africa North,Dismissed,Male,1
+2023-01-01,2023,1,Malawi,Africa Sub-Saharan,Allowed,Female,1
+2023-01-01,2023,1,Malawi,Africa Sub-Saharan,Dismissed,Female,1
+2023-01-01,2023,1,Malaysia,Asia South East,Allowed,Male,7
+2023-01-01,2023,1,Malaysia,Asia South East,Dismissed,Female,1
+2023-01-01,2023,1,Malaysia,Asia South East,Dismissed,Male,1
+2023-01-01,2023,1,Malaysia,Asia South East,Withdrawn,Female,1
+2023-01-01,2023,1,Mauritius,Africa Sub-Saharan,Allowed,Female,2
+2023-01-01,2023,1,Mauritius,Africa Sub-Saharan,Dismissed,Female,2
+2023-01-01,2023,1,Mauritius,Africa Sub-Saharan,Dismissed,Male,1
+2023-01-01,2023,1,Mongolia,Asia East,Withdrawn,Female,1
+2023-01-01,2023,1,Morocco,Africa North,Dismissed,Female,1
+2023-01-01,2023,1,Morocco,Africa North,Dismissed,Male,2
+2023-01-01,2023,1,Namibia,Africa Sub-Saharan,Allowed,Female,11
+2023-01-01,2023,1,Namibia,Africa Sub-Saharan,Allowed,Male,6
+2023-01-01,2023,1,Namibia,Africa Sub-Saharan,Dismissed,Female,9
+2023-01-01,2023,1,Namibia,Africa Sub-Saharan,Dismissed,Male,7
+2023-01-01,2023,1,Namibia,Africa Sub-Saharan,Withdrawn,Female,1
+2023-01-01,2023,1,Namibia,Africa Sub-Saharan,Withdrawn,Male,1
+2023-01-01,2023,1,Nepal,Asia South,Dismissed,Female,1
+2023-01-01,2023,1,Nepal,Asia South,Dismissed,Male,5
+2023-01-01,2023,1,Nicaragua,America Central and South,Allowed,Female,1
+2023-01-01,2023,1,Nicaragua,America Central and South,Allowed,Male,3
+2023-01-01,2023,1,Nigeria,Africa Sub-Saharan,Allowed,Female,11
+2023-01-01,2023,1,Nigeria,Africa Sub-Saharan,Allowed,Male,3
+2023-01-01,2023,1,Nigeria,Africa Sub-Saharan,Dismissed,Female,10
+2023-01-01,2023,1,Nigeria,Africa Sub-Saharan,Dismissed,Male,8
+2023-01-01,2023,1,Nigeria,Africa Sub-Saharan,Withdrawn,Female,2
+2023-01-01,2023,1,Nigeria,Africa Sub-Saharan,Withdrawn,Male,2
+2023-01-01,2023,1,Occupied Palestinian Territories,Middle East,Allowed,Female,1
+2023-01-01,2023,1,Occupied Palestinian Territories,Middle East,Allowed,Male,3
+2023-01-01,2023,1,Occupied Palestinian Territories,Middle East,Dismissed,Male,3
+2023-01-01,2023,1,Occupied Palestinian Territories,Middle East,Withdrawn,Male,1
+2023-01-01,2023,1,Pakistan,Asia South,Allowed,Female,3
+2023-01-01,2023,1,Pakistan,Asia South,Allowed,Male,28
+2023-01-01,2023,1,Pakistan,Asia South,Allowed,Unknown Sex,1
+2023-01-01,2023,1,Pakistan,Asia South,Dismissed,Female,8
+2023-01-01,2023,1,Pakistan,Asia South,Dismissed,Male,43
+2023-01-01,2023,1,Pakistan,Asia South,Withdrawn,Female,2
+2023-01-01,2023,1,Pakistan,Asia South,Withdrawn,Male,8
+2023-01-01,2023,1,Philippines,Asia South East,Allowed,Female,4
+2023-01-01,2023,1,Philippines,Asia South East,Dismissed,Female,5
+2023-01-01,2023,1,Philippines,Asia South East,Withdrawn,Female,1
+2023-01-01,2023,1,Qatar,Middle East,Allowed,Female,1
+2023-01-01,2023,1,Refugee,Other,Allowed,Female,3
+2023-01-01,2023,1,Refugee,Other,Allowed,Male,5
+2023-01-01,2023,1,Russia,Europe Other,Allowed,Male,2
+2023-01-01,2023,1,Saudi Arabia,Middle East,Dismissed,Male,1
+2023-01-01,2023,1,Senegal,Africa Sub-Saharan,Dismissed,Male,1
+2023-01-01,2023,1,Sierra Leone,Africa Sub-Saharan,Allowed,Male,1
+2023-01-01,2023,1,Sierra Leone,Africa Sub-Saharan,Dismissed,Female,3
+2023-01-01,2023,1,Sierra Leone,Africa Sub-Saharan,Dismissed,Male,5
+2023-01-01,2023,1,Somalia,Africa Sub-Saharan,Allowed,Male,4
+2023-01-01,2023,1,Somalia,Africa Sub-Saharan,Dismissed,Female,1
+2023-01-01,2023,1,Somalia,Africa Sub-Saharan,Dismissed,Male,6
+2023-01-01,2023,1,Somalia,Africa Sub-Saharan,Withdrawn,Female,1
+2023-01-01,2023,1,Somalia,Africa Sub-Saharan,Withdrawn,Male,1
+2023-01-01,2023,1,South Africa,Africa Sub-Saharan,Dismissed,Female,1
+2023-01-01,2023,1,South Africa,Africa Sub-Saharan,Dismissed,Male,2
+2023-01-01,2023,1,Sri Lanka,Asia South,Allowed,Female,2
+2023-01-01,2023,1,Sri Lanka,Asia South,Allowed,Male,11
+2023-01-01,2023,1,Sri Lanka,Asia South,Dismissed,Male,6
+2023-01-01,2023,1,Sri Lanka,Asia South,Withdrawn,Male,2
+2023-01-01,2023,1,St. Vincent and the Grenadines,America Central and South,Dismissed,Female,1
+2023-01-01,2023,1,Stateless,Other,Allowed,Male,3
+2023-01-01,2023,1,Stateless,Other,Dismissed,Male,4
+2023-01-01,2023,1,Stateless,Other,Withdrawn,Female,1
+2023-01-01,2023,1,Stateless,Other,Withdrawn,Male,2
+2023-01-01,2023,1,Sudan,Africa North,Allowed,Female,1
+2023-01-01,2023,1,Sudan,Africa North,Allowed,Male,23
+2023-01-01,2023,1,Sudan,Africa North,Dismissed,Male,5
+2023-01-01,2023,1,Sudan,Africa North,Withdrawn,Male,5
+2023-01-01,2023,1,Syria,Middle East,Allowed,Male,3
+2023-01-01,2023,1,Tanzania,Africa Sub-Saharan,Allowed,Male,1
+2023-01-01,2023,1,Thailand,Asia South East,Allowed,Female,1
+2023-01-01,2023,1,Thailand,Asia South East,Withdrawn,Female,1
+2023-01-01,2023,1,Togo,Africa Sub-Saharan,Allowed,Male,1
+2023-01-01,2023,1,Togo,Africa Sub-Saharan,Dismissed,Male,2
+2023-01-01,2023,1,Turkey,Europe Other,Allowed,Female,3
+2023-01-01,2023,1,Turkey,Europe Other,Allowed,Male,19
+2023-01-01,2023,1,Turkey,Europe Other,Dismissed,Male,9
+2023-01-01,2023,1,Turkey,Europe Other,Withdrawn,Male,2
+2023-01-01,2023,1,Uganda,Africa Sub-Saharan,Allowed,Female,1
+2023-01-01,2023,1,Uganda,Africa Sub-Saharan,Allowed,Male,2
+2023-01-01,2023,1,Uganda,Africa Sub-Saharan,Dismissed,Female,3
+2023-01-01,2023,1,Uganda,Africa Sub-Saharan,Withdrawn,Female,1
+2023-01-01,2023,1,Ukraine,Europe Other,Allowed,Male,4
+2023-01-01,2023,1,Ukraine,Europe Other,Withdrawn,Male,1
+2023-01-01,2023,1,Uzbekistan,Asia Central,Dismissed,Male,1
+2023-01-01,2023,1,Vietnam,Asia South East,Allowed,Female,17
+2023-01-01,2023,1,Vietnam,Asia South East,Allowed,Male,21
+2023-01-01,2023,1,Vietnam,Asia South East,Allowed,Unknown Sex,1
+2023-01-01,2023,1,Vietnam,Asia South East,Dismissed,Female,7
+2023-01-01,2023,1,Vietnam,Asia South East,Dismissed,Male,17
+2023-01-01,2023,1,Vietnam,Asia South East,Withdrawn,Female,2
+2023-01-01,2023,1,Vietnam,Asia South East,Withdrawn,Male,4
+2023-01-01,2023,1,Yemen,Middle East,Allowed,Male,7
+2023-01-01,2023,1,Yemen,Middle East,Dismissed,Male,4
+2023-01-01,2023,1,Yemen,Middle East,Withdrawn,Male,2
+2023-01-01,2023,1,Zambia,Africa Sub-Saharan,Dismissed,Female,1
+2023-01-01,2023,1,Zimbabwe,Africa Sub-Saharan,Allowed,Female,3
+2023-01-01,2023,1,Zimbabwe,Africa Sub-Saharan,Allowed,Male,1
+2023-01-01,2023,1,Zimbabwe,Africa Sub-Saharan,Dismissed,Female,3
+2023-01-01,2023,1,Zimbabwe,Africa Sub-Saharan,Dismissed,Male,4
+2023-01-01,2023,1,Zimbabwe,Africa Sub-Saharan,Withdrawn,Female,1

@@ -3995,7 +3995,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2020-10-01,2020,4,United States,America North,3
 2020-10-01,2020,4,Vietnam,Asia South East,6
 2020-10-01,2020,4,Zimbabwe,Africa Sub-Saharan,2
-2021-01-01,2021,1,Afghanistan,Asia Central,5
+2021-01-01,2021,1,Afghanistan,Asia Central,6
 2021-01-01,2021,1,Albania,Europe Other,6
 2021-01-01,2021,1,Australia,Oceania,1
 2021-01-01,2021,1,Barbados,America Central and South,1
@@ -4008,7 +4008,6 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2021-01-01,2021,1,Chile,America Central and South,1
 2021-01-01,2021,1,Colombia,America Central and South,1
 2021-01-01,2021,1,Czech Republic,EU 8,4
-2021-01-01,2021,1,Denmark,EU 14,1
 2021-01-01,2021,1,Estonia,EU 8,1
 2021-01-01,2021,1,France,EU 14,7
 2021-01-01,2021,1,"Gambia, The",Africa Sub-Saharan,1
@@ -4021,7 +4020,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2021-01-01,2021,1,Italy,EU 14,7
 2021-01-01,2021,1,Latvia,EU 8,13
 2021-01-01,2021,1,Lithuania,EU 8,71
-2021-01-01,2021,1,Macedonia,Europe Other,1
+2021-01-01,2021,1,Macedonia,Europe Other,2
 2021-01-01,2021,1,Moldova,Europe Other,1
 2021-01-01,2021,1,Namibia,Africa Sub-Saharan,2
 2021-01-01,2021,1,Netherlands,EU 14,5
@@ -4041,11 +4040,11 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2021-01-01,2021,1,Sudan,Africa North,2
 2021-01-01,2021,1,Sweden,EU 14,3
 2021-01-01,2021,1,Trinidad and Tobago,America Central and South,1
-2021-01-01,2021,1,Turkey,Europe Other,1
+2021-01-01,2021,1,Turkey,Europe Other,2
 2021-01-01,2021,1,United States,America North,2
 2021-01-01,2021,1,Zimbabwe,Africa Sub-Saharan,1
 2021-04-01,2021,2,Afghanistan,Asia Central,2
-2021-04-01,2021,2,Albania,Europe Other,218
+2021-04-01,2021,2,Albania,Europe Other,219
 2021-04-01,2021,2,Bangladesh,Asia South,6
 2021-04-01,2021,2,Barbados,America Central and South,3
 2021-04-01,2021,2,Belgium,EU 14,2
@@ -4100,13 +4099,13 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2021-04-01,2021,2,Switzerland,Europe Other,1
 2021-04-01,2021,2,Tanzania,Africa Sub-Saharan,1
 2021-04-01,2021,2,Trinidad and Tobago,America Central and South,1
-2021-04-01,2021,2,Turkey,Europe Other,8
+2021-04-01,2021,2,Turkey,Europe Other,10
 2021-04-01,2021,2,Ukraine,Europe Other,5
 2021-04-01,2021,2,United States,America North,4
 2021-04-01,2021,2,Vietnam,Asia South East,16
 2021-04-01,2021,2,Zimbabwe,Africa Sub-Saharan,1
 2021-07-01,2021,3,Afghanistan,Asia Central,2
-2021-07-01,2021,3,Albania,Europe Other,224
+2021-07-01,2021,3,Albania,Europe Other,226
 2021-07-01,2021,3,Angola,Africa Sub-Saharan,1
 2021-07-01,2021,3,Austria,EU 14,2
 2021-07-01,2021,3,Bangladesh,Asia South,2
@@ -4122,7 +4121,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2021-07-01,2021,3,Cyprus,EU Other,1
 2021-07-01,2021,3,Czech Republic,EU 8,9
 2021-07-01,2021,3,Estonia,EU 8,1
-2021-07-01,2021,3,France,EU 14,7
+2021-07-01,2021,3,France,EU 14,8
 2021-07-01,2021,3,Germany,EU 14,3
 2021-07-01,2021,3,Ghana,Africa Sub-Saharan,1
 2021-07-01,2021,3,Greece,EU 14,9
@@ -4132,7 +4131,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2021-07-01,2021,3,Iran,Middle East,2
 2021-07-01,2021,3,Iraq,Middle East,5
 2021-07-01,2021,3,Israel,Middle East,1
-2021-07-01,2021,3,Italy,EU 14,10
+2021-07-01,2021,3,Italy,EU 14,11
 2021-07-01,2021,3,Jamaica,America Central and South,11
 2021-07-01,2021,3,Jordan,Middle East,1
 2021-07-01,2021,3,Kenya,Africa Sub-Saharan,1
@@ -4168,11 +4167,12 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2021-07-01,2021,3,United States,America North,2
 2021-07-01,2021,3,Vietnam,Asia South East,8
 2021-07-01,2021,3,Zimbabwe,Africa Sub-Saharan,22
-2021-10-01,2021,4,Albania,Europe Other,169
+2021-10-01,2021,4,Albania,Europe Other,170
 2021-10-01,2021,4,Algeria,Africa North,4
 2021-10-01,2021,4,Australia,Oceania,1
 2021-10-01,2021,4,Azerbaijan,Europe Other,1
 2021-10-01,2021,4,Bangladesh,Asia South,2
+2021-10-01,2021,4,Barbados,America Central and South,1
 2021-10-01,2021,4,Belarus,Europe Other,2
 2021-10-01,2021,4,Belize,America Central and South,1
 2021-10-01,2021,4,Brazil,America Central and South,14
@@ -4184,10 +4184,10 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2021-10-01,2021,4,Cyprus,EU Other,1
 2021-10-01,2021,4,Czech Republic,EU 8,7
 2021-10-01,2021,4,Denmark,EU 14,2
-2021-10-01,2021,4,France,EU 14,11
+2021-10-01,2021,4,France,EU 14,12
 2021-10-01,2021,4,Germany,EU 14,5
 2021-10-01,2021,4,Ghana,Africa Sub-Saharan,1
-2021-10-01,2021,4,Greece,EU 14,9
+2021-10-01,2021,4,Greece,EU 14,10
 2021-10-01,2021,4,Grenada,America Central and South,2
 2021-10-01,2021,4,Hong Kong,Asia East,1
 2021-10-01,2021,4,Hungary,EU 8,5
@@ -4221,10 +4221,11 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2021-10-01,2021,4,Syria,Middle East,1
 2021-10-01,2021,4,Turkey,Europe Other,2
 2021-10-01,2021,4,Ukraine,Europe Other,2
-2021-10-01,2021,4,United States,America North,5
+2021-10-01,2021,4,United States,America North,6
 2021-10-01,2021,4,Vietnam,Asia South East,2
 2021-10-01,2021,4,Zambia,Africa Sub-Saharan,1
-2022-01-01,2022,1,Albania,Europe Other,252
+2021-10-01,2021,4,Zimbabwe,Africa Sub-Saharan,1
+2022-01-01,2022,1,Albania,Europe Other,254
 2022-01-01,2022,1,Algeria,Africa North,2
 2022-01-01,2022,1,Armenia,Europe Other,1
 2022-01-01,2022,1,Australia,Oceania,2
@@ -4266,9 +4267,9 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2022-01-01,2022,1,Other and unknown,Other,15
 2022-01-01,2022,1,Pakistan,Asia South,4
 2022-01-01,2022,1,Peru,America Central and South,1
-2022-01-01,2022,1,Poland,EU 8,75
+2022-01-01,2022,1,Poland,EU 8,76
 2022-01-01,2022,1,Portugal,EU 14,12
-2022-01-01,2022,1,Romania,EU 2,158
+2022-01-01,2022,1,Romania,EU 2,159
 2022-01-01,2022,1,Russia,Europe Other,1
 2022-01-01,2022,1,Senegal,Africa Sub-Saharan,1
 2022-01-01,2022,1,Serbia,Europe Other,1
@@ -4288,7 +4289,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2022-01-01,2022,1,United States,America North,3
 2022-01-01,2022,1,Vietnam,Asia South East,25
 2022-01-01,2022,1,Zimbabwe,Africa Sub-Saharan,24
-2022-04-01,2022,2,Albania,Europe Other,162
+2022-04-01,2022,2,Albania,Europe Other,168
 2022-04-01,2022,2,Algeria,Africa North,5
 2022-04-01,2022,2,Austria,EU 14,1
 2022-04-01,2022,2,Belarus,Europe Other,1
@@ -4303,7 +4304,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2022-04-01,2022,2,Croatia,EU Other,3
 2022-04-01,2022,2,Czech Republic,EU 8,6
 2022-04-01,2022,2,Eritrea,Africa Sub-Saharan,1
-2022-04-01,2022,2,France,EU 14,8
+2022-04-01,2022,2,France,EU 14,9
 2022-04-01,2022,2,"Gambia, The",Africa Sub-Saharan,1
 2022-04-01,2022,2,Germany,EU 14,5
 2022-04-01,2022,2,Ghana,Africa Sub-Saharan,4
@@ -4321,7 +4322,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2022-04-01,2022,2,Kosovo,Europe Other,1
 2022-04-01,2022,2,Latvia,EU 8,11
 2022-04-01,2022,2,Libya,Africa North,2
-2022-04-01,2022,2,Lithuania,EU 8,71
+2022-04-01,2022,2,Lithuania,EU 8,72
 2022-04-01,2022,2,Macedonia,Europe Other,1
 2022-04-01,2022,2,Malaysia,Asia South East,2
 2022-04-01,2022,2,Mauritius,Africa Sub-Saharan,1
@@ -4333,9 +4334,9 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2022-04-01,2022,2,Other and unknown,Other,11
 2022-04-01,2022,2,Pakistan,Asia South,3
 2022-04-01,2022,2,Philippines,Asia South East,1
-2022-04-01,2022,2,Poland,EU 8,65
+2022-04-01,2022,2,Poland,EU 8,66
 2022-04-01,2022,2,Portugal,EU 14,15
-2022-04-01,2022,2,Romania,EU 2,137
+2022-04-01,2022,2,Romania,EU 2,138
 2022-04-01,2022,2,Russia,Europe Other,1
 2022-04-01,2022,2,Rwanda,Africa Sub-Saharan,1
 2022-04-01,2022,2,Saudi Arabia,Middle East,1
@@ -4352,7 +4353,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2022-04-01,2022,2,Turkey,Europe Other,2
 2022-04-01,2022,2,Vietnam,Asia South East,16
 2022-07-01,2022,3,Afghanistan,Asia Central,1
-2022-07-01,2022,3,Albania,Europe Other,210
+2022-07-01,2022,3,Albania,Europe Other,217
 2022-07-01,2022,3,Algeria,Africa North,1
 2022-07-01,2022,3,Angola,Africa Sub-Saharan,1
 2022-07-01,2022,3,Australia,Oceania,1
@@ -4372,10 +4373,10 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2022-07-01,2022,3,Ecuador,America Central and South,1
 2022-07-01,2022,3,Egypt,Africa North,2
 2022-07-01,2022,3,Estonia,EU 8,2
-2022-07-01,2022,3,France,EU 14,3
+2022-07-01,2022,3,France,EU 14,4
 2022-07-01,2022,3,"Gambia, The",Africa Sub-Saharan,4
 2022-07-01,2022,3,Georgia,Europe Other,1
-2022-07-01,2022,3,Germany,EU 14,4
+2022-07-01,2022,3,Germany,EU 14,5
 2022-07-01,2022,3,Ghana,Africa Sub-Saharan,1
 2022-07-01,2022,3,Greece,EU 14,14
 2022-07-01,2022,3,Guinea,Africa Sub-Saharan,1
@@ -4388,7 +4389,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2022-07-01,2022,3,Jamaica,America Central and South,4
 2022-07-01,2022,3,Korea (South),Asia East,1
 2022-07-01,2022,3,Latvia,EU 8,17
-2022-07-01,2022,3,Lithuania,EU 8,62
+2022-07-01,2022,3,Lithuania,EU 8,63
 2022-07-01,2022,3,Macedonia,Europe Other,2
 2022-07-01,2022,3,Malaysia,Asia South East,1
 2022-07-01,2022,3,Moldova,Europe Other,1
@@ -4397,17 +4398,78 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2022-07-01,2022,3,Other and unknown,Other,12
 2022-07-01,2022,3,Pakistan,Asia South,2
 2022-07-01,2022,3,Philippines,Asia South East,1
-2022-07-01,2022,3,Poland,EU 8,72
+2022-07-01,2022,3,Poland,EU 8,75
 2022-07-01,2022,3,Portugal,EU 14,28
-2022-07-01,2022,3,Romania,EU 2,180
+2022-07-01,2022,3,Romania,EU 2,181
 2022-07-01,2022,3,Russia,Europe Other,1
 2022-07-01,2022,3,Serbia,Europe Other,2
-2022-07-01,2022,3,Slovakia,EU 8,17
+2022-07-01,2022,3,Slovakia,EU 8,18
 2022-07-01,2022,3,Somalia,Africa Sub-Saharan,1
 2022-07-01,2022,3,Spain,EU 14,10
 2022-07-01,2022,3,Sweden,EU 14,3
 2022-07-01,2022,3,Tanzania,Africa Sub-Saharan,1
-2022-07-01,2022,3,Turkey,Europe Other,4
+2022-07-01,2022,3,Turkey,Europe Other,5
 2022-07-01,2022,3,United States,America North,4
 2022-07-01,2022,3,Vietnam,Asia South East,19
 2022-07-01,2022,3,Zimbabwe,Africa Sub-Saharan,8
+2022-10-01,2022,4,Albania,Europe Other,183
+2022-10-01,2022,4,Algeria,Africa North,4
+2022-10-01,2022,4,Bangladesh,Asia South,4
+2022-10-01,2022,4,Barbados,America Central and South,1
+2022-10-01,2022,4,Belgium,EU 14,2
+2022-10-01,2022,4,Bosnia and Herzegovina,Europe Other,1
+2022-10-01,2022,4,Brazil,America Central and South,6
+2022-10-01,2022,4,Bulgaria,EU 2,16
+2022-10-01,2022,4,Canada,America North,1
+2022-10-01,2022,4,Chile,America Central and South,2
+2022-10-01,2022,4,China,Asia East,2
+2022-10-01,2022,4,Colombia,America Central and South,3
+2022-10-01,2022,4,Croatia,EU Other,1
+2022-10-01,2022,4,Cyprus,EU Other,1
+2022-10-01,2022,4,Cyprus (Northern part of),Europe Other,2
+2022-10-01,2022,4,Czech Republic,EU 8,8
+2022-10-01,2022,4,Denmark,EU 14,1
+2022-10-01,2022,4,Estonia,EU 8,1
+2022-10-01,2022,4,France,EU 14,21
+2022-10-01,2022,4,"Gambia, The",Africa Sub-Saharan,1
+2022-10-01,2022,4,Georgia,Europe Other,2
+2022-10-01,2022,4,Germany,EU 14,5
+2022-10-01,2022,4,Ghana,Africa Sub-Saharan,1
+2022-10-01,2022,4,Greece,EU 14,13
+2022-10-01,2022,4,Guinea,Africa Sub-Saharan,1
+2022-10-01,2022,4,Honduras,America Central and South,1
+2022-10-01,2022,4,Hungary,EU 8,6
+2022-10-01,2022,4,India,Asia South,9
+2022-10-01,2022,4,Iran,Middle East,2
+2022-10-01,2022,4,Iraq,Middle East,9
+2022-10-01,2022,4,Italy,EU 14,14
+2022-10-01,2022,4,Jamaica,America Central and South,6
+2022-10-01,2022,4,Japan,Asia East,1
+2022-10-01,2022,4,Latvia,EU 8,22
+2022-10-01,2022,4,Lithuania,EU 8,62
+2022-10-01,2022,4,Malaysia,Asia South East,2
+2022-10-01,2022,4,Mauritius,Africa Sub-Saharan,1
+2022-10-01,2022,4,Moldova,Europe Other,1
+2022-10-01,2022,4,Montenegro,Europe Other,1
+2022-10-01,2022,4,Netherlands,EU 14,13
+2022-10-01,2022,4,New Zealand,Oceania,1
+2022-10-01,2022,4,Nigeria,Africa Sub-Saharan,5
+2022-10-01,2022,4,Other and unknown,Other,2
+2022-10-01,2022,4,Pakistan,Asia South,6
+2022-10-01,2022,4,Philippines,Asia South East,1
+2022-10-01,2022,4,Poland,EU 8,65
+2022-10-01,2022,4,Portugal,EU 14,15
+2022-10-01,2022,4,Romania,EU 2,172
+2022-10-01,2022,4,Slovakia,EU 8,15
+2022-10-01,2022,4,Somalia,Africa Sub-Saharan,2
+2022-10-01,2022,4,South Africa,Africa Sub-Saharan,2
+2022-10-01,2022,4,Spain,EU 14,6
+2022-10-01,2022,4,Sri Lanka,Asia South,1
+2022-10-01,2022,4,Sudan,Africa North,1
+2022-10-01,2022,4,Sweden,EU 14,4
+2022-10-01,2022,4,Turkey,Europe Other,2
+2022-10-01,2022,4,Ukraine,Europe Other,1
+2022-10-01,2022,4,United States,America North,3
+2022-10-01,2022,4,Venezuela,America Central and South,1
+2022-10-01,2022,4,Vietnam,Asia South East,29
+2022-10-01,2022,4,Zimbabwe,Africa Sub-Saharan,4

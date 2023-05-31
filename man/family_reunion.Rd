@@ -5,7 +5,7 @@
 \alias{family_reunion}
 \title{Family reunion visa grants}
 \format{
-A data frame with 7,830 rows and 8 variables:
+A data frame with 8,036 rows and 8 variables:
 \describe{
   \item{Date}{The period in which the Family Reunion visa was granted}
   \item{Year}{Year}

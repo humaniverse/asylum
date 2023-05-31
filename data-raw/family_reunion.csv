@@ -7829,3 +7829,209 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2022-10-01,2022,4,Zimbabwe,Africa Sub-Saharan,Male,30-49,1
 2022-10-01,2022,4,Zimbabwe,Africa Sub-Saharan,Male,50-69,1
 2022-10-01,2022,4,Zimbabwe,Africa Sub-Saharan,Male,Under 18,4
+2023-01-01,2023,1,Other and unknown,Other,Female,18-29,3
+2023-01-01,2023,1,Other and unknown,Other,Female,Under 18,8
+2023-01-01,2023,1,Other and unknown,Other,Male,Under 18,5
+2023-01-01,2023,1,Afghanistan,Asia Central,Female,18-29,14
+2023-01-01,2023,1,Afghanistan,Asia Central,Female,30-49,18
+2023-01-01,2023,1,Afghanistan,Asia Central,Female,50-69,2
+2023-01-01,2023,1,Afghanistan,Asia Central,Female,Under 18,21
+2023-01-01,2023,1,Afghanistan,Asia Central,Male,18-29,6
+2023-01-01,2023,1,Afghanistan,Asia Central,Male,30-49,1
+2023-01-01,2023,1,Afghanistan,Asia Central,Male,Under 18,39
+2023-01-01,2023,1,Albania,Europe Other,Female,Under 18,1
+2023-01-01,2023,1,Albania,Europe Other,Male,Under 18,1
+2023-01-01,2023,1,Bahrain,Middle East,Female,30-49,1
+2023-01-01,2023,1,Bangladesh,Asia South,Female,30-49,1
+2023-01-01,2023,1,Bangladesh,Asia South,Female,50-69,1
+2023-01-01,2023,1,Bangladesh,Asia South,Male,Under 18,1
+2023-01-01,2023,1,Belarus,Europe Other,Female,30-49,1
+2023-01-01,2023,1,Belarus,Europe Other,Male,Under 18,1
+2023-01-01,2023,1,Botswana,Africa Sub-Saharan,Female,18-29,1
+2023-01-01,2023,1,Botswana,Africa Sub-Saharan,Male,Under 18,3
+2023-01-01,2023,1,Brazil,America Central and South,Female,Under 18,1
+2023-01-01,2023,1,Burundi,Africa Sub-Saharan,Male,30-49,1
+2023-01-01,2023,1,Burundi,Africa Sub-Saharan,Male,50-69,1
+2023-01-01,2023,1,Burundi,Africa Sub-Saharan,Male,Under 18,1
+2023-01-01,2023,1,Cameroon,Africa Sub-Saharan,Female,18-29,2
+2023-01-01,2023,1,Cameroon,Africa Sub-Saharan,Female,30-49,2
+2023-01-01,2023,1,Cameroon,Africa Sub-Saharan,Female,Under 18,5
+2023-01-01,2023,1,Cameroon,Africa Sub-Saharan,Male,18-29,1
+2023-01-01,2023,1,Cameroon,Africa Sub-Saharan,Male,Under 18,9
+2023-01-01,2023,1,Chad,Africa Sub-Saharan,Female,18-29,1
+2023-01-01,2023,1,China,Asia East,Male,18-29,1
+2023-01-01,2023,1,Congo,Africa Sub-Saharan,Female,30-49,1
+2023-01-01,2023,1,Congo,Africa Sub-Saharan,Female,Under 18,3
+2023-01-01,2023,1,Congo,Africa Sub-Saharan,Male,Under 18,1
+2023-01-01,2023,1,Congo (Democratic Republic),Africa Sub-Saharan,Female,30-49,2
+2023-01-01,2023,1,Congo (Democratic Republic),Africa Sub-Saharan,Female,Under 18,4
+2023-01-01,2023,1,Congo (Democratic Republic),Africa Sub-Saharan,Male,18-29,3
+2023-01-01,2023,1,Congo (Democratic Republic),Africa Sub-Saharan,Male,30-49,1
+2023-01-01,2023,1,Congo (Democratic Republic),Africa Sub-Saharan,Male,50-69,2
+2023-01-01,2023,1,Congo (Democratic Republic),Africa Sub-Saharan,Male,Under 18,3
+2023-01-01,2023,1,Denmark,EU 14,Female,30-49,1
+2023-01-01,2023,1,Denmark,EU 14,Female,Under 18,1
+2023-01-01,2023,1,Denmark,EU 14,Male,Under 18,4
+2023-01-01,2023,1,Dominica,America Central and South,Male,Under 18,1
+2023-01-01,2023,1,Egypt,Africa North,Female,30-49,1
+2023-01-01,2023,1,Egypt,Africa North,Female,Under 18,2
+2023-01-01,2023,1,Egypt,Africa North,Male,Under 18,1
+2023-01-01,2023,1,El Salvador,America Central and South,Female,18-29,1
+2023-01-01,2023,1,El Salvador,America Central and South,Female,30-49,2
+2023-01-01,2023,1,El Salvador,America Central and South,Female,Under 18,1
+2023-01-01,2023,1,Eritrea,Africa Sub-Saharan,Female,18-29,69
+2023-01-01,2023,1,Eritrea,Africa Sub-Saharan,Female,30-49,25
+2023-01-01,2023,1,Eritrea,Africa Sub-Saharan,Female,50-69,1
+2023-01-01,2023,1,Eritrea,Africa Sub-Saharan,Female,Under 18,29
+2023-01-01,2023,1,Eritrea,Africa Sub-Saharan,Male,18-29,6
+2023-01-01,2023,1,Eritrea,Africa Sub-Saharan,Male,30-49,20
+2023-01-01,2023,1,Eritrea,Africa Sub-Saharan,Male,50-69,2
+2023-01-01,2023,1,Eritrea,Africa Sub-Saharan,Male,Under 18,18
+2023-01-01,2023,1,Ethiopia,Africa Sub-Saharan,Female,18-29,10
+2023-01-01,2023,1,Ethiopia,Africa Sub-Saharan,Female,30-49,4
+2023-01-01,2023,1,Ethiopia,Africa Sub-Saharan,Female,Under 18,6
+2023-01-01,2023,1,Ethiopia,Africa Sub-Saharan,Male,18-29,1
+2023-01-01,2023,1,Ethiopia,Africa Sub-Saharan,Male,30-49,2
+2023-01-01,2023,1,Ethiopia,Africa Sub-Saharan,Male,Under 18,4
+2023-01-01,2023,1,"Gambia, The",Africa Sub-Saharan,Male,Under 18,1
+2023-01-01,2023,1,Germany,EU 14,Male,30-49,1
+2023-01-01,2023,1,India,Asia South,Female,30-49,1
+2023-01-01,2023,1,India,Asia South,Female,Under 18,1
+2023-01-01,2023,1,India,Asia South,Male,Under 18,1
+2023-01-01,2023,1,Iran,Middle East,Female,18-29,17
+2023-01-01,2023,1,Iran,Middle East,Female,30-49,66
+2023-01-01,2023,1,Iran,Middle East,Female,50-69,3
+2023-01-01,2023,1,Iran,Middle East,Female,Under 18,47
+2023-01-01,2023,1,Iran,Middle East,Male,18-29,6
+2023-01-01,2023,1,Iran,Middle East,Male,30-49,10
+2023-01-01,2023,1,Iran,Middle East,Male,50-69,8
+2023-01-01,2023,1,Iran,Middle East,Male,70+,1
+2023-01-01,2023,1,Iran,Middle East,Male,Under 18,52
+2023-01-01,2023,1,Iraq,Middle East,Female,18-29,5
+2023-01-01,2023,1,Iraq,Middle East,Female,30-49,3
+2023-01-01,2023,1,Iraq,Middle East,Female,50-69,2
+2023-01-01,2023,1,Iraq,Middle East,Female,Under 18,6
+2023-01-01,2023,1,Iraq,Middle East,Male,18-29,2
+2023-01-01,2023,1,Iraq,Middle East,Male,30-49,1
+2023-01-01,2023,1,Iraq,Middle East,Male,Under 18,4
+2023-01-01,2023,1,Ivory Coast,Africa Sub-Saharan,Female,30-49,2
+2023-01-01,2023,1,Ivory Coast,Africa Sub-Saharan,Female,Under 18,1
+2023-01-01,2023,1,Ivory Coast,Africa Sub-Saharan,Male,Under 18,1
+2023-01-01,2023,1,Jamaica,America Central and South,Female,18-29,1
+2023-01-01,2023,1,Kenya,Africa Sub-Saharan,Male,18-29,1
+2023-01-01,2023,1,Kenya,Africa Sub-Saharan,Male,Under 18,1
+2023-01-01,2023,1,Lebanon,Middle East,Female,Under 18,1
+2023-01-01,2023,1,Lebanon,Middle East,Male,Under 18,1
+2023-01-01,2023,1,Libya,Africa North,Female,18-29,1
+2023-01-01,2023,1,Libya,Africa North,Female,30-49,3
+2023-01-01,2023,1,Libya,Africa North,Female,Under 18,3
+2023-01-01,2023,1,Libya,Africa North,Male,30-49,1
+2023-01-01,2023,1,Libya,Africa North,Male,Under 18,2
+2023-01-01,2023,1,Malawi,Africa Sub-Saharan,Female,18-29,1
+2023-01-01,2023,1,Mauritania,Africa North,Female,Under 18,2
+2023-01-01,2023,1,Mauritania,Africa North,Male,Under 18,1
+2023-01-01,2023,1,Moldova,Europe Other,Female,18-29,1
+2023-01-01,2023,1,Moldova,Europe Other,Female,Under 18,1
+2023-01-01,2023,1,Morocco,Africa North,Female,30-49,1
+2023-01-01,2023,1,Namibia,Africa Sub-Saharan,Female,Under 18,2
+2023-01-01,2023,1,Namibia,Africa Sub-Saharan,Male,Under 18,2
+2023-01-01,2023,1,Nigeria,Africa Sub-Saharan,Female,30-49,1
+2023-01-01,2023,1,Nigeria,Africa Sub-Saharan,Female,Under 18,5
+2023-01-01,2023,1,Nigeria,Africa Sub-Saharan,Male,18-29,1
+2023-01-01,2023,1,Nigeria,Africa Sub-Saharan,Male,50-69,1
+2023-01-01,2023,1,Nigeria,Africa Sub-Saharan,Male,Under 18,6
+2023-01-01,2023,1,Occupied Palestinian Territories,Middle East,Female,18-29,1
+2023-01-01,2023,1,Occupied Palestinian Territories,Middle East,Female,30-49,1
+2023-01-01,2023,1,Occupied Palestinian Territories,Middle East,Female,Under 18,2
+2023-01-01,2023,1,Occupied Palestinian Territories,Middle East,Male,18-29,1
+2023-01-01,2023,1,Occupied Palestinian Territories,Middle East,Male,30-49,2
+2023-01-01,2023,1,Occupied Palestinian Territories,Middle East,Male,Under 18,2
+2023-01-01,2023,1,Other and unknown,Other,Female,30-49,3
+2023-01-01,2023,1,Other and unknown,Other,Female,50-69,1
+2023-01-01,2023,1,Other and unknown,Other,Female,70+,2
+2023-01-01,2023,1,Other and unknown,Other,Male,18-29,2
+2023-01-01,2023,1,Pakistan,Asia South,Female,18-29,6
+2023-01-01,2023,1,Pakistan,Asia South,Female,30-49,5
+2023-01-01,2023,1,Pakistan,Asia South,Female,50-69,1
+2023-01-01,2023,1,Pakistan,Asia South,Female,Under 18,6
+2023-01-01,2023,1,Pakistan,Asia South,Male,18-29,4
+2023-01-01,2023,1,Pakistan,Asia South,Male,30-49,5
+2023-01-01,2023,1,Pakistan,Asia South,Male,50-69,2
+2023-01-01,2023,1,Pakistan,Asia South,Male,Under 18,7
+2023-01-01,2023,1,Philippines,Asia South East,Female,50-69,1
+2023-01-01,2023,1,Philippines,Asia South East,Female,Under 18,2
+2023-01-01,2023,1,Refugee,Other,Female,18-29,6
+2023-01-01,2023,1,Refugee,Other,Female,30-49,11
+2023-01-01,2023,1,Refugee,Other,Female,50-69,1
+2023-01-01,2023,1,Refugee,Other,Female,Under 18,14
+2023-01-01,2023,1,Refugee,Other,Male,18-29,2
+2023-01-01,2023,1,Refugee,Other,Male,30-49,1
+2023-01-01,2023,1,Refugee,Other,Male,70+,1
+2023-01-01,2023,1,Refugee,Other,Male,Under 18,13
+2023-01-01,2023,1,Rwanda,Africa Sub-Saharan,Female,Under 18,1
+2023-01-01,2023,1,Sierra Leone,Africa Sub-Saharan,Female,18-29,1
+2023-01-01,2023,1,Sierra Leone,Africa Sub-Saharan,Male,30-49,1
+2023-01-01,2023,1,Somalia,Africa Sub-Saharan,Female,18-29,4
+2023-01-01,2023,1,Somalia,Africa Sub-Saharan,Female,30-49,1
+2023-01-01,2023,1,Somalia,Africa Sub-Saharan,Female,Under 18,9
+2023-01-01,2023,1,Somalia,Africa Sub-Saharan,Male,18-29,2
+2023-01-01,2023,1,Somalia,Africa Sub-Saharan,Male,30-49,3
+2023-01-01,2023,1,Somalia,Africa Sub-Saharan,Male,50-69,1
+2023-01-01,2023,1,Somalia,Africa Sub-Saharan,Male,70+,1
+2023-01-01,2023,1,Somalia,Africa Sub-Saharan,Male,Under 18,10
+2023-01-01,2023,1,Sri Lanka,Asia South,Female,18-29,2
+2023-01-01,2023,1,Sri Lanka,Asia South,Female,30-49,8
+2023-01-01,2023,1,Sri Lanka,Asia South,Female,50-69,3
+2023-01-01,2023,1,Sri Lanka,Asia South,Female,Under 18,8
+2023-01-01,2023,1,Sri Lanka,Asia South,Male,18-29,1
+2023-01-01,2023,1,Sri Lanka,Asia South,Male,Under 18,3
+2023-01-01,2023,1,Stateless,Other,Female,18-29,14
+2023-01-01,2023,1,Stateless,Other,Female,30-49,19
+2023-01-01,2023,1,Stateless,Other,Female,50-69,6
+2023-01-01,2023,1,Stateless,Other,Female,Under 18,33
+2023-01-01,2023,1,Stateless,Other,Male,18-29,7
+2023-01-01,2023,1,Stateless,Other,Male,70+,1
+2023-01-01,2023,1,Stateless,Other,Male,Under 18,20
+2023-01-01,2023,1,Sudan,Africa North,Female,18-29,74
+2023-01-01,2023,1,Sudan,Africa North,Female,30-49,18
+2023-01-01,2023,1,Sudan,Africa North,Female,50-69,1
+2023-01-01,2023,1,Sudan,Africa North,Female,Under 18,11
+2023-01-01,2023,1,Sudan,Africa North,Male,18-29,3
+2023-01-01,2023,1,Sudan,Africa North,Male,30-49,5
+2023-01-01,2023,1,Sudan,Africa North,Male,50-69,2
+2023-01-01,2023,1,Sudan,Africa North,Male,Under 18,19
+2023-01-01,2023,1,Syria,Middle East,Female,18-29,86
+2023-01-01,2023,1,Syria,Middle East,Female,30-49,40
+2023-01-01,2023,1,Syria,Middle East,Female,50-69,2
+2023-01-01,2023,1,Syria,Middle East,Female,70+,1
+2023-01-01,2023,1,Syria,Middle East,Female,Under 18,103
+2023-01-01,2023,1,Syria,Middle East,Male,18-29,8
+2023-01-01,2023,1,Syria,Middle East,Male,30-49,6
+2023-01-01,2023,1,Syria,Middle East,Male,Under 18,108
+2023-01-01,2023,1,Tunisia,Africa North,Female,30-49,1
+2023-01-01,2023,1,Tunisia,Africa North,Female,Under 18,1
+2023-01-01,2023,1,Tunisia,Africa North,Male,Under 18,1
+2023-01-01,2023,1,Turkey,Europe Other,Female,18-29,2
+2023-01-01,2023,1,Turkey,Europe Other,Female,30-49,14
+2023-01-01,2023,1,Turkey,Europe Other,Female,Under 18,10
+2023-01-01,2023,1,Turkey,Europe Other,Male,18-29,1
+2023-01-01,2023,1,Turkey,Europe Other,Male,30-49,1
+2023-01-01,2023,1,Turkey,Europe Other,Male,50-69,2
+2023-01-01,2023,1,Turkey,Europe Other,Male,Under 18,16
+2023-01-01,2023,1,Turkmenistan,Asia Central,Female,Under 18,1
+2023-01-01,2023,1,Turkmenistan,Asia Central,Male,Under 18,1
+2023-01-01,2023,1,Uganda,Africa Sub-Saharan,Female,Under 18,6
+2023-01-01,2023,1,Uganda,Africa Sub-Saharan,Male,Under 18,7
+2023-01-01,2023,1,United States,America North,Female,Under 18,1
+2023-01-01,2023,1,Vietnam,Asia South East,Female,30-49,1
+2023-01-01,2023,1,Vietnam,Asia South East,Female,Under 18,1
+2023-01-01,2023,1,Vietnam,Asia South East,Male,18-29,1
+2023-01-01,2023,1,Vietnam,Asia South East,Male,Under 18,7
+2023-01-01,2023,1,Yemen,Middle East,Female,18-29,14
+2023-01-01,2023,1,Yemen,Middle East,Female,30-49,7
+2023-01-01,2023,1,Yemen,Middle East,Female,Under 18,11
+2023-01-01,2023,1,Yemen,Middle East,Male,18-29,4
+2023-01-01,2023,1,Yemen,Middle East,Male,30-49,2
+2023-01-01,2023,1,Yemen,Middle East,Male,Under 18,19
+2023-01-01,2023,1,Zimbabwe,Africa Sub-Saharan,Female,Under 18,3
+2023-01-01,2023,1,Zimbabwe,Africa Sub-Saharan,Male,18-29,2

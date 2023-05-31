@@ -1,18 +1,22 @@
 Date,Quarter,Year,Stage,Cases
-2021-01-01,Q1,2021,Total identified for consideration on inadmissibility grounds,1918
-2021-04-01,Q2,2021,Total identified for consideration on inadmissibility grounds,3220
-2021-07-01,Q3,2021,Total identified for consideration on inadmissibility grounds,1975
-2021-10-01,Q4,2021,Total identified for consideration on inadmissibility grounds,2926
-2022-01-01,Q1,2022,Total identified for consideration on inadmissibility grounds,4262
-2022-04-01,Q2,2022,Total identified for consideration on inadmissibility grounds,4591
-2022-07-01,Q3,2022,Total identified for consideration on inadmissibility grounds,1713
+2021-01-01,Q1,2021,Total identified for consideration on inadmissibility grounds,2007
+2021-04-01,Q2,2021,Total identified for consideration on inadmissibility grounds,3373
+2021-07-01,Q3,2021,Total identified for consideration on inadmissibility grounds,2089
+2021-10-01,Q4,2021,Total identified for consideration on inadmissibility grounds,3128
+2022-01-01,Q1,2022,Total identified for consideration on inadmissibility grounds,4642
+2022-04-01,Q2,2022,Total identified for consideration on inadmissibility grounds,6051
+2022-07-01,Q3,2022,Total identified for consideration on inadmissibility grounds,9942
+2022-10-01,Q4,2022,Total identified for consideration on inadmissibility grounds,14558
+2023-01-01,Q1,2023,Total identified for consideration on inadmissibility grounds,9657
 2021-01-01,Q1,2021,Notice of intent issued,1510
 2021-04-01,Q2,2021,Notice of intent issued,3079
 2021-07-01,Q3,2021,Notice of intent issued,2007
 2021-10-01,Q4,2021,Notice of intent issued,1992
-2022-01-01,Q1,2022,Notice of intent issued,3698
-2022-04-01,Q2,2022,Notice of intent issued,3620
-2022-07-01,Q3,2022,Notice of intent issued,2588
+2022-01-01,Q1,2022,Notice of intent issued,3700
+2022-04-01,Q2,2022,Notice of intent issued,3627
+2022-07-01,Q3,2022,Notice of intent issued,2591
+2022-10-01,Q4,2022,Notice of intent issued,3026
+2023-01-01,Q1,2023,Notice of intent issued,2551
 2021-01-01,Q1,2021,Inadmissibility decision served,2
 2021-04-01,Q2,2021,Inadmissibility decision served,0
 2021-07-01,Q3,2021,Inadmissibility decision served,46
@@ -20,17 +24,23 @@ Date,Quarter,Year,Stage,Cases
 2022-01-01,Q1,2022,Inadmissibility decision served,12
 2022-04-01,Q2,2022,Inadmissibility decision served,7
 2022-07-01,Q3,2022,Inadmissibility decision served,0
+2022-10-01,Q4,2022,Inadmissibility decision served,0
+2023-01-01,Q1,2023,Inadmissibility decision served,0
 2021-01-01,Q1,2021,Removals,0
 2021-04-01,Q2,2021,Removals,0
 2021-07-01,Q3,2021,Removals,7
 2021-10-01,Q4,2021,Removals,4
-2022-01-01,Q1,2022,Removals,4
-2022-04-01,Q2,2022,Removals,5
+2022-01-01,Q1,2022,Removals,6
+2022-04-01,Q2,2022,Removals,4
 2022-07-01,Q3,2022,Removals,1
+2022-10-01,Q4,2022,Removals,1
+2023-01-01,Q1,2023,Removals,0
 2021-01-01,Q1,2021,Subsequently admitted into UK asylum process,116
 2021-04-01,Q2,2021,Subsequently admitted into UK asylum process,152
 2021-07-01,Q3,2021,Subsequently admitted into UK asylum process,1860
 2021-10-01,Q4,2021,Subsequently admitted into UK asylum process,3145
 2022-01-01,Q1,2022,Subsequently admitted into UK asylum process,1305
-2022-04-01,Q2,2022,Subsequently admitted into UK asylum process,1399
+2022-04-01,Q2,2022,Subsequently admitted into UK asylum process,1403
 2022-07-01,Q3,2022,Subsequently admitted into UK asylum process,1795
+2022-10-01,Q4,2022,Subsequently admitted into UK asylum process,3843
+2023-01-01,Q1,2023,Subsequently admitted into UK asylum process,14025

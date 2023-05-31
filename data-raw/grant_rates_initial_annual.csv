@@ -3181,3 +3181,102 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2022,Yemen,Middle East,312,3,0.9904761904761905
 2022,Zambia,Africa Sub-Saharan,2,2,0.5
 2022,Zimbabwe,Africa Sub-Saharan,29,27,0.5178571428571429
+2023,Afghanistan,Asia Central,525,13,0.9758364312267658
+2023,Albania,Europe Other,113,375,0.23155737704918034
+2023,Algeria,Africa North,3,7,0.3
+2023,Angola,Africa Sub-Saharan,1,4,0.2
+2023,Antigua and Barbuda,America Central and South,1,0,1
+2023,Bahrain,Middle East,1,1,0.5
+2023,Bangladesh,Asia South,32,88,0.26666666666666666
+2023,Belarus,Europe Other,0,1,0
+2023,Bolivia,America Central and South,1,1,0.5
+2023,Botswana,Africa Sub-Saharan,0,5,0
+2023,Brazil,America Central and South,0,22,0
+2023,British overseas citizens,Other,1,0,1
+2023,Burundi,Africa Sub-Saharan,1,1,0.5
+2023,Cameroon,Africa Sub-Saharan,9,5,0.6428571428571429
+2023,Central African Republic,Africa Sub-Saharan,1,0,1
+2023,Chad,Africa Sub-Saharan,17,4,0.8095238095238095
+2023,China,Asia East,9,73,0.10975609756097561
+2023,Colombia,America Central and South,0,1,0
+2023,Congo (Democratic Republic),Africa Sub-Saharan,3,2,0.6
+2023,Cuba,America Central and South,0,1,0
+2023,Dominica,America Central and South,0,1,0
+2023,Ecuador,America Central and South,0,1,0
+2023,Egypt,Africa North,22,17,0.5641025641025641
+2023,El Salvador,America Central and South,52,7,0.8813559322033898
+2023,Eritrea,Africa Sub-Saharan,544,3,0.9945155393053017
+2023,Ethiopia,Africa Sub-Saharan,32,15,0.6808510638297872
+2023,France,EU 14,0,2,0
+2023,Gabon,Africa Sub-Saharan,1,0,1
+2023,"Gambia, The",Africa Sub-Saharan,8,3,0.7272727272727273
+2023,Georgia,Europe Other,3,4,0.42857142857142855
+2023,Ghana,Africa Sub-Saharan,3,8,0.2727272727272727
+2023,Guatemala,America Central and South,0,1,0
+2023,Guinea,Africa Sub-Saharan,8,3,0.7272727272727273
+2023,Honduras,America Central and South,8,9,0.47058823529411764
+2023,Hong Kong,Asia East,1,1,0.5
+2023,India,Asia South,3,72,0.04
+2023,Iran,Middle East,419,167,0.7150170648464164
+2023,Iraq,Middle East,149,167,0.47151898734177217
+2023,Jamaica,America Central and South,1,1,0.5
+2023,Jordan,Middle East,0,1,0
+2023,Kazakhstan,Asia Central,2,1,0.6666666666666666
+2023,Kenya,Africa Sub-Saharan,4,6,0.4
+2023,Kosovo,Europe Other,1,0,1
+2023,Kuwait,Middle East,9,2,0.8181818181818182
+2023,Lebanon,Middle East,3,3,0.5
+2023,Libya,Africa North,26,0,1
+2023,Lithuania,EU 8,0,4,0
+2023,Malawi,Africa Sub-Saharan,0,1,0
+2023,Malaysia,Asia South East,3,11,0.21428571428571427
+2023,Mali,Africa Sub-Saharan,1,0,1
+2023,Mauritius,Africa Sub-Saharan,0,2,0
+2023,Mexico,America Central and South,0,1,0
+2023,Morocco,Africa North,3,11,0.21428571428571427
+2023,Namibia,Africa Sub-Saharan,3,24,0.1111111111111111
+2023,Nepal,Asia South,0,25,0
+2023,Nicaragua,America Central and South,2,1,0.6666666666666666
+2023,Nigeria,Africa Sub-Saharan,26,34,0.43333333333333335
+2023,Occupied Palestinian Territories,Middle East,11,4,0.7333333333333333
+2023,Other and Unknown,Other,6,3,0.6666666666666666
+2023,Other and unknown,Other,0,2,0
+2023,Pakistan,Asia South,99,84,0.5409836065573771
+2023,Philippines,Asia South East,3,25,0.10714285714285714
+2023,Poland,EU 8,0,1,0
+2023,Portugal,EU 14,0,1,0
+2023,Qatar,Middle East,3,0,1
+2023,Refugee,Other,49,0,1
+2023,Romania,EU 2,0,2,0
+2023,Russia,Europe Other,15,7,0.6818181818181818
+2023,Saudi Arabia,Middle East,11,1,0.9166666666666666
+2023,Senegal,Africa Sub-Saharan,1,0,1
+2023,Sierra Leone,Africa Sub-Saharan,6,4,0.6
+2023,Somalia,Africa Sub-Saharan,43,17,0.7166666666666667
+2023,South Africa,Africa Sub-Saharan,1,4,0.2
+2023,Sri Lanka,Asia South,34,31,0.5230769230769231
+2023,St. Kitts and Nevis,America Central and South,0,1,0
+2023,St. Lucia,America Central and South,0,1,0
+2023,Stateless,Other,21,2,0.9130434782608695
+2023,Sudan,Africa North,288,58,0.8323699421965318
+2023,Sudan (South),Africa Sub-Saharan,7,0,1
+2023,Surinam,America Central and South,0,1,0
+2023,Syria,Middle East,438,4,0.9909502262443439
+2023,Tajikistan,Asia Central,5,4,0.5555555555555556
+2023,Tanzania,Africa Sub-Saharan,4,1,0.8
+2023,Thailand,Asia South East,2,6,0.25
+2023,Togo,Africa Sub-Saharan,0,2,0
+2023,Trinidad and Tobago,America Central and South,2,2,0.5
+2023,Tunisia,Africa North,1,2,0.3333333333333333
+2023,Turkey,Europe Other,74,20,0.7872340425531915
+2023,Uganda,Africa Sub-Saharan,4,2,0.6666666666666666
+2023,Ukraine,Europe Other,2,0,1
+2023,United Arab Emirates,Middle East,1,0,1
+2023,United States,America North,1,2,0.3333333333333333
+2023,Uruguay,America Central and South,0,2,0
+2023,Uzbekistan,Asia Central,1,0,1
+2023,Venezuela,America Central and South,1,0,1
+2023,Vietnam,Asia South East,87,44,0.6641221374045801
+2023,Yemen,Middle East,40,1,0.975609756097561
+2023,Zambia,Africa Sub-Saharan,1,1,0.5
+2023,Zimbabwe,Africa Sub-Saharan,8,5,0.6153846153846154

@@ -5625,594 +5625,674 @@ Date,Year,Quarter,Nationality,Region,Return destination group,Number of foreign 
 2020-07-01,2020,3,Ukraine,Europe Other,Home country,3
 2020-07-01,2020,3,United States,America North,Home country,1
 2020-10-01,2020,4,Albania,Europe Other,EU Member State,2
-2020-10-01,2020,4,Algeria,Africa North,EU Member State,1
-2020-10-01,2020,4,Brazil,America Central and South,Home country,12
-2020-10-01,2020,4,Czech Republic,EU 8,Home country,9
-2020-10-01,2020,4,India,Asia South,Other country,1
-2020-10-01,2020,4,Latvia,EU 8,Home country,10
-2020-10-01,2020,4,Lebanon,Middle East,Home country,1
-2020-10-01,2020,4,Libya,Africa North,Home country,2
-2020-10-01,2020,4,Norway,Europe Other,Home country,1
-2020-10-01,2020,4,Poland,EU 8,Other country,2
-2020-10-01,2020,4,Portugal,EU 14,EU Member State,1
-2020-10-01,2020,4,Romania,EU 2,Other country,12
-2020-10-01,2020,4,South Africa,Africa Sub-Saharan,Home country,3
-2020-10-01,2020,4,Spain,EU 14,Home country,4
-2020-10-01,2020,4,Thailand,Asia South East,Home country,3
 2020-10-01,2020,4,Albania,Europe Other,Home country,140
-2020-10-01,2020,4,Canada,America North,Home country,1
-2020-10-01,2020,4,China,Asia East,Home country,6
-2020-10-01,2020,4,Croatia,EU Other,Home country,1
-2020-10-01,2020,4,Hungary,EU 8,Home country,11
-2020-10-01,2020,4,Lithuania,EU 8,Other country,4
-2020-10-01,2020,4,Nigeria,Africa Sub-Saharan,EU Member State,1
-2020-10-01,2020,4,Nigeria,Africa Sub-Saharan,Other country,1
-2020-10-01,2020,4,Peru,America Central and South,Home country,1
-2020-10-01,2020,4,Sudan,Africa North,Home country,1
-2020-10-01,2020,4,Tanzania,Africa Sub-Saharan,Home country,1
+2020-10-01,2020,4,Albania,Europe Other,Other country,2
+2020-10-01,2020,4,Algeria,Africa North,EU Member State,1
+2020-10-01,2020,4,Argentina,America Central and South,Home country,2
+2020-10-01,2020,4,Belgium,EU 14,Home country,3
+2020-10-01,2020,4,Brazil,America Central and South,Home country,12
 2020-10-01,2020,4,Bulgaria,EU 2,Home country,13
+2020-10-01,2020,4,Canada,America North,Home country,1
+2020-10-01,2020,4,Chile,America Central and South,Home country,5
+2020-10-01,2020,4,China,Asia East,Home country,6
+2020-10-01,2020,4,Colombia,America Central and South,Home country,4
+2020-10-01,2020,4,Croatia,EU Other,Home country,1
+2020-10-01,2020,4,Czech Republic,EU 8,Home country,9
+2020-10-01,2020,4,Denmark,EU 14,Home country,1
 2020-10-01,2020,4,Dominican Republic,America Central and South,Home country,1
+2020-10-01,2020,4,Ecuador,America Central and South,Home country,1
+2020-10-01,2020,4,Egypt,Africa North,Home country,2
+2020-10-01,2020,4,France,EU 14,Home country,8
+2020-10-01,2020,4,"Gambia, The",Africa Sub-Saharan,Home country,1
 2020-10-01,2020,4,Germany,EU 14,Home country,2
 2020-10-01,2020,4,Ghana,Africa Sub-Saharan,Home country,8
 2020-10-01,2020,4,Greece,EU 14,Home country,2
-2020-10-01,2020,4,Lithuania,EU 8,EU Member State,1
-2020-10-01,2020,4,Lithuania,EU 8,Home country,67
-2020-10-01,2020,4,Paraguay,America Central and South,Home country,1
-2020-10-01,2020,4,Romania,EU 2,Home country,148
-2020-10-01,2020,4,Slovakia,EU 8,Other country,1
-2020-10-01,2020,4,Slovenia,EU 8,Home country,1
-2020-10-01,2020,4,Turkey,Europe Other,Home country,3
-2020-10-01,2020,4,Vietnam,Asia South East,Home country,6
-2020-10-01,2020,4,Albania,Europe Other,Other country,2
-2020-10-01,2020,4,Egypt,Africa North,Home country,2
-2020-10-01,2020,4,France,EU 14,Home country,8
+2020-10-01,2020,4,Grenada,America Central and South,Home country,2
+2020-10-01,2020,4,Guinea-Bissau,Africa Sub-Saharan,Home country,1
+2020-10-01,2020,4,Hungary,EU 8,Home country,11
 2020-10-01,2020,4,India,Asia South,Home country,5
+2020-10-01,2020,4,India,Asia South,Other country,1
+2020-10-01,2020,4,Iran,Middle East,Home country,1
 2020-10-01,2020,4,Iraq,Middle East,Home country,6
 2020-10-01,2020,4,Italy,EU 14,Home country,11
-2020-10-01,2020,4,Malaysia,Asia South East,Other country,1
-2020-10-01,2020,4,Netherlands,EU 14,Home country,12
-2020-10-01,2020,4,Netherlands,EU 14,Other country,1
-2020-10-01,2020,4,Pakistan,Asia South,EU Member State,1
-2020-10-01,2020,4,Pakistan,Asia South,Home country,7
-2020-10-01,2020,4,Romania,EU 2,EU Member State,5
-2020-10-01,2020,4,Sweden,EU 14,Home country,5
-2020-10-01,2020,4,Belgium,EU 14,Home country,3
-2020-10-01,2020,4,Chile,America Central and South,Home country,5
-2020-10-01,2020,4,Colombia,America Central and South,Home country,4
-2020-10-01,2020,4,Ecuador,America Central and South,Home country,1
-2020-10-01,2020,4,Iran,Middle East,Home country,1
 2020-10-01,2020,4,Jamaica,America Central and South,Home country,14
 2020-10-01,2020,4,Kosovo,Europe Other,Home country,2
+2020-10-01,2020,4,Latvia,EU 8,Home country,10
+2020-10-01,2020,4,Lebanon,Middle East,Home country,1
+2020-10-01,2020,4,Libya,Africa North,Home country,2
+2020-10-01,2020,4,Lithuania,EU 8,EU Member State,1
+2020-10-01,2020,4,Lithuania,EU 8,Home country,67
+2020-10-01,2020,4,Lithuania,EU 8,Other country,4
 2020-10-01,2020,4,Malaysia,Asia South East,Home country,5
+2020-10-01,2020,4,Malaysia,Asia South East,Other country,1
 2020-10-01,2020,4,Moldova,Europe Other,Home country,2
+2020-10-01,2020,4,Netherlands,EU 14,Home country,12
+2020-10-01,2020,4,Netherlands,EU 14,Other country,1
+2020-10-01,2020,4,Nigeria,Africa Sub-Saharan,EU Member State,1
+2020-10-01,2020,4,Nigeria,Africa Sub-Saharan,Home country,9
+2020-10-01,2020,4,Nigeria,Africa Sub-Saharan,Other country,1
+2020-10-01,2020,4,Norway,Europe Other,Home country,1
+2020-10-01,2020,4,Pakistan,Asia South,EU Member State,1
+2020-10-01,2020,4,Pakistan,Asia South,Home country,7
+2020-10-01,2020,4,Paraguay,America Central and South,Home country,1
+2020-10-01,2020,4,Peru,America Central and South,Home country,1
 2020-10-01,2020,4,Philippines,Asia South East,Home country,1
 2020-10-01,2020,4,Poland,EU 8,EU Member State,2
 2020-10-01,2020,4,Poland,EU 8,Home country,112
+2020-10-01,2020,4,Poland,EU 8,Other country,2
+2020-10-01,2020,4,Portugal,EU 14,EU Member State,1
 2020-10-01,2020,4,Portugal,EU 14,Home country,20
+2020-10-01,2020,4,Romania,EU 2,EU Member State,5
+2020-10-01,2020,4,Romania,EU 2,Home country,148
+2020-10-01,2020,4,Romania,EU 2,Other country,12
 2020-10-01,2020,4,Serbia,Europe Other,Home country,1
-2020-10-01,2020,4,Somalia,Africa Sub-Saharan,Home country,1
-2020-10-01,2020,4,Uganda,Africa Sub-Saharan,Other country,1
-2020-10-01,2020,4,United States,America North,Home country,3
-2020-10-01,2020,4,Zimbabwe,Africa Sub-Saharan,Home country,2
-2020-10-01,2020,4,Argentina,America Central and South,Home country,2
-2020-10-01,2020,4,Denmark,EU 14,Home country,1
-2020-10-01,2020,4,"Gambia, The",Africa Sub-Saharan,Home country,1
-2020-10-01,2020,4,Grenada,America Central and South,Home country,2
-2020-10-01,2020,4,Guinea-Bissau,Africa Sub-Saharan,Home country,1
-2020-10-01,2020,4,Nigeria,Africa Sub-Saharan,Home country,9
 2020-10-01,2020,4,Slovakia,EU 8,Home country,14
+2020-10-01,2020,4,Slovakia,EU 8,Other country,1
+2020-10-01,2020,4,Slovenia,EU 8,Home country,1
+2020-10-01,2020,4,Somalia,Africa Sub-Saharan,Home country,1
+2020-10-01,2020,4,South Africa,Africa Sub-Saharan,Home country,3
+2020-10-01,2020,4,Spain,EU 14,Home country,4
+2020-10-01,2020,4,Sudan,Africa North,Home country,1
+2020-10-01,2020,4,Sweden,EU 14,Home country,5
+2020-10-01,2020,4,Tanzania,Africa Sub-Saharan,Home country,1
+2020-10-01,2020,4,Thailand,Asia South East,Home country,3
+2020-10-01,2020,4,Turkey,Europe Other,Home country,3
+2020-10-01,2020,4,Uganda,Africa Sub-Saharan,Other country,1
 2020-10-01,2020,4,Ukraine,Europe Other,Home country,2
+2020-10-01,2020,4,United States,America North,Home country,3
+2020-10-01,2020,4,Vietnam,Asia South East,Home country,6
+2020-10-01,2020,4,Zimbabwe,Africa Sub-Saharan,Home country,2
+2021-01-01,2021,1,Afghanistan,Asia Central,Home country,6
 2021-01-01,2021,1,Albania,Europe Other,Home country,6
-2021-01-01,2021,1,Denmark,EU 14,Home country,1
-2021-01-01,2021,1,Ghana,Africa Sub-Saharan,Home country,2
-2021-01-01,2021,1,Hungary,EU 8,Home country,13
-2021-01-01,2021,1,Lithuania,EU 8,EU Member State,2
-2021-01-01,2021,1,Pakistan,Asia South,Home country,2
-2021-01-01,2021,1,Poland,EU 8,Home country,62
-2021-01-01,2021,1,Romania,EU 2,Home country,160
-2021-01-01,2021,1,St. Lucia,America Central and South,Home country,1
-2021-01-01,2021,1,Bosnia and Herzegovina,Europe Other,Home country,1
-2021-01-01,2021,1,Bulgaria,EU 2,Home country,10
-2021-01-01,2021,1,Colombia,America Central and South,Home country,1
-2021-01-01,2021,1,Macedonia,Europe Other,Home country,1
-2021-01-01,2021,1,Portugal,EU 14,Other country,1
-2021-01-01,2021,1,Spain,EU 14,Home country,4
-2021-01-01,2021,1,Trinidad and Tobago,America Central and South,Home country,1
-2021-01-01,2021,1,United States,America North,Home country,2
-2021-01-01,2021,1,Zimbabwe,Africa Sub-Saharan,Home country,1
-2021-01-01,2021,1,Albania,Europe Other,Other country,1
-2021-01-01,2021,1,Belarus,Europe Other,Home country,1
-2021-01-01,2021,1,Brazil,America Central and South,Home country,1
-2021-01-01,2021,1,India,Asia South,Home country,6
-2021-01-01,2021,1,India,Asia South,Other country,1
-2021-01-01,2021,1,Latvia,EU 8,EU Member State,1
-2021-01-01,2021,1,Lithuania,EU 8,Home country,71
-2021-01-01,2021,1,Netherlands,EU 14,Other country,1
-2021-01-01,2021,1,Portugal,EU 14,EU Member State,1
-2021-01-01,2021,1,Romania,EU 2,EU Member State,2
-2021-01-01,2021,1,Romania,EU 2,Other country,1
-2021-01-01,2021,1,Serbia,Europe Other,Home country,1
-2021-01-01,2021,1,Sierra Leone,Africa Sub-Saharan,Home country,2
-2021-01-01,2021,1,Somalia,Africa Sub-Saharan,Home country,2
-2021-01-01,2021,1,Turkey,Europe Other,Home country,1
-2021-01-01,2021,1,Afghanistan,Asia Central,Home country,5
-2021-01-01,2021,1,"Gambia, The",Africa Sub-Saharan,Home country,1
-2021-01-01,2021,1,Nigeria,Africa Sub-Saharan,Home country,1
-2021-01-01,2021,1,Slovakia,EU 8,Home country,6
+2021-01-01,2021,1,Albania,Europe Other,Other country,3
 2021-01-01,2021,1,Australia,Oceania,Home country,1
 2021-01-01,2021,1,Barbados,America Central and South,Home country,1
+2021-01-01,2021,1,Belarus,Europe Other,Home country,1
+2021-01-01,2021,1,Belgium,EU 14,Home country,2
+2021-01-01,2021,1,Bosnia and Herzegovina,Europe Other,Home country,1
+2021-01-01,2021,1,Brazil,America Central and South,Home country,1
+2021-01-01,2021,1,Bulgaria,EU 2,Home country,10
+2021-01-01,2021,1,Canada,America North,Home country,3
+2021-01-01,2021,1,Chile,America Central and South,Home country,1
+2021-01-01,2021,1,Colombia,America Central and South,Home country,1
 2021-01-01,2021,1,Czech Republic,EU 8,Home country,4
+2021-01-01,2021,1,Czech Republic,EU 8,Other country,1
 2021-01-01,2021,1,France,EU 14,Home country,5
+2021-01-01,2021,1,"Gambia, The",Africa Sub-Saharan,Home country,1
 2021-01-01,2021,1,Germany,EU 14,Home country,2
+2021-01-01,2021,1,Ghana,Africa Sub-Saharan,Home country,2
 2021-01-01,2021,1,Greece,EU 14,Home country,3
+2021-01-01,2021,1,Hungary,EU 8,Home country,13
+2021-01-01,2021,1,India,Asia South,Home country,6
+2021-01-01,2021,1,India,Asia South,Other country,1
 2021-01-01,2021,1,Iraq,Middle East,Other country,1
+2021-01-01,2021,1,Italy,EU 14,Home country,7
+2021-01-01,2021,1,Latvia,EU 8,EU Member State,1
+2021-01-01,2021,1,Latvia,EU 8,Home country,13
+2021-01-01,2021,1,Lithuania,EU 8,EU Member State,2
+2021-01-01,2021,1,Lithuania,EU 8,Home country,71
 2021-01-01,2021,1,Lithuania,EU 8,Other country,2
+2021-01-01,2021,1,Macedonia,Europe Other,Home country,1
 2021-01-01,2021,1,Moldova,Europe Other,Home country,1
 2021-01-01,2021,1,Namibia,Africa Sub-Saharan,Home country,2
 2021-01-01,2021,1,Netherlands,EU 14,Home country,5
+2021-01-01,2021,1,Netherlands,EU 14,Other country,1
 2021-01-01,2021,1,Nigeria,Africa Sub-Saharan,EU Member State,1
-2021-01-01,2021,1,Spain,EU 14,Other country,1
-2021-01-01,2021,1,Sudan,Africa North,Home country,2
-2021-01-01,2021,1,Sweden,EU 14,Home country,3
-2021-01-01,2021,1,Belgium,EU 14,Home country,2
-2021-01-01,2021,1,Canada,America North,Home country,3
-2021-01-01,2021,1,Chile,America Central and South,Home country,1
-2021-01-01,2021,1,Czech Republic,EU 8,Other country,1
-2021-01-01,2021,1,Italy,EU 14,Home country,7
-2021-01-01,2021,1,Latvia,EU 8,Home country,13
+2021-01-01,2021,1,Nigeria,Africa Sub-Saharan,Home country,1
+2021-01-01,2021,1,Pakistan,Asia South,Home country,2
+2021-01-01,2021,1,Poland,EU 8,Home country,62
+2021-01-01,2021,1,Portugal,EU 14,EU Member State,1
 2021-01-01,2021,1,Portugal,EU 14,Home country,1
-2021-04-01,2021,2,Denmark,EU 14,Home country,3
-2021-04-01,2021,2,Egypt,Africa North,Home country,1
-2021-04-01,2021,2,Greece,EU 14,Home country,11
-2021-04-01,2021,2,Italy,EU 14,Home country,5
-2021-04-01,2021,2,Netherlands,EU 14,Home country,12
-2021-04-01,2021,2,Romania,EU 2,EU Member State,3
-2021-04-01,2021,2,Somalia,Africa Sub-Saharan,Home country,3
-2021-04-01,2021,2,St. Lucia,America Central and South,Home country,3
-2021-04-01,2021,2,Switzerland,Europe Other,Home country,1
-2021-04-01,2021,2,Tanzania,Africa Sub-Saharan,Home country,1
-2021-04-01,2021,2,Albania,Europe Other,Home country,217
-2021-04-01,2021,2,Albania,Europe Other,Other country,8
+2021-01-01,2021,1,Portugal,EU 14,Other country,1
+2021-01-01,2021,1,Romania,EU 2,EU Member State,3
+2021-01-01,2021,1,Romania,EU 2,Home country,160
+2021-01-01,2021,1,Romania,EU 2,Other country,1
+2021-01-01,2021,1,Serbia,Europe Other,Home country,1
+2021-01-01,2021,1,Sierra Leone,Africa Sub-Saharan,Home country,2
+2021-01-01,2021,1,Slovakia,EU 8,Home country,6
+2021-01-01,2021,1,Somalia,Africa Sub-Saharan,Home country,2
+2021-01-01,2021,1,Spain,EU 14,Home country,4
+2021-01-01,2021,1,Spain,EU 14,Other country,1
+2021-01-01,2021,1,St. Lucia,America Central and South,Home country,1
+2021-01-01,2021,1,Sudan,Africa North,Home country,2
+2021-01-01,2021,1,Sweden,EU 14,Home country,2
+2021-01-01,2021,1,Trinidad and Tobago,America Central and South,Home country,1
+2021-01-01,2021,1,Turkey,Europe Other,Home country,1
+2021-01-01,2021,1,United States,America North,Home country,2
+2021-01-01,2021,1,Zimbabwe,Africa Sub-Saharan,Home country,1
+2021-04-01,2021,2,Afghanistan,Asia Central,EU Member State,1
+2021-04-01,2021,2,Afghanistan,Asia Central,Home country,2
+2021-04-01,2021,2,Albania,Europe Other,EU Member State,2
+2021-04-01,2021,2,Albania,Europe Other,Home country,218
+2021-04-01,2021,2,Albania,Europe Other,Other country,10
+2021-04-01,2021,2,Bangladesh,Asia South,Home country,6
+2021-04-01,2021,2,Barbados,America Central and South,Home country,3
+2021-04-01,2021,2,Belgium,EU 14,Home country,2
+2021-04-01,2021,2,Bosnia and Herzegovina,Europe Other,Home country,1
 2021-04-01,2021,2,Brazil,America Central and South,EU Member State,1
+2021-04-01,2021,2,Brazil,America Central and South,Home country,9
+2021-04-01,2021,2,Bulgaria,EU 2,EU Member State,1
+2021-04-01,2021,2,Bulgaria,EU 2,Home country,18
 2021-04-01,2021,2,Bulgaria,EU 2,Other country,1
 2021-04-01,2021,2,Canada,America North,Home country,4
 2021-04-01,2021,2,Chile,America Central and South,EU Member State,2
 2021-04-01,2021,2,Chile,America Central and South,Home country,8
+2021-04-01,2021,2,Colombia,America Central and South,EU Member State,1
+2021-04-01,2021,2,Colombia,America Central and South,Home country,2
+2021-04-01,2021,2,Czech Republic,EU 8,Home country,9
+2021-04-01,2021,2,Denmark,EU 14,Home country,3
+2021-04-01,2021,2,Ecuador,America Central and South,EU Member State,1
+2021-04-01,2021,2,Egypt,Africa North,Home country,1
+2021-04-01,2021,2,Eritrea,Africa Sub-Saharan,Home country,1
+2021-04-01,2021,2,Estonia,EU 8,Home country,2
+2021-04-01,2021,2,Finland,EU 14,Home country,1
 2021-04-01,2021,2,France,EU 14,Home country,5
+2021-04-01,2021,2,Germany,EU 14,Home country,4
+2021-04-01,2021,2,Greece,EU 14,Home country,11
+2021-04-01,2021,2,Greece,EU 14,Other country,1
+2021-04-01,2021,2,Hungary,EU 8,EU Member State,2
+2021-04-01,2021,2,Hungary,EU 8,Home country,12
+2021-04-01,2021,2,India,Asia South,EU Member State,1
+2021-04-01,2021,2,India,Asia South,Home country,4
 2021-04-01,2021,2,Iran,Middle East,Home country,5
+2021-04-01,2021,2,Iraq,Middle East,Home country,2
+2021-04-01,2021,2,Israel,Middle East,Home country,1
 2021-04-01,2021,2,Italy,EU 14,EU Member State,1
+2021-04-01,2021,2,Italy,EU 14,Home country,5
+2021-04-01,2021,2,Italy,EU 14,Other country,1
+2021-04-01,2021,2,Jamaica,America Central and South,Home country,6
+2021-04-01,2021,2,Kosovo,Europe Other,Home country,2
+2021-04-01,2021,2,Latvia,EU 8,Home country,8
+2021-04-01,2021,2,Latvia,EU 8,Other country,1
 2021-04-01,2021,2,Libya,Africa North,Home country,1
+2021-04-01,2021,2,Lithuania,EU 8,Home country,56
+2021-04-01,2021,2,Lithuania,EU 8,Other country,3
 2021-04-01,2021,2,Malta,EU Other,Home country,1
+2021-04-01,2021,2,Mexico,America Central and South,Home country,1
+2021-04-01,2021,2,Moldova,Europe Other,Home country,1
+2021-04-01,2021,2,Netherlands,EU 14,Home country,12
 2021-04-01,2021,2,Nigeria,Africa Sub-Saharan,Home country,7
 2021-04-01,2021,2,Pakistan,Asia South,EU Member State,1
-2021-04-01,2021,2,Serbia,Europe Other,Home country,2
-2021-04-01,2021,2,Sierra Leone,Africa Sub-Saharan,Other country,1
-2021-04-01,2021,2,South Africa,Africa Sub-Saharan,Home country,2
-2021-04-01,2021,2,Western Sahara,Africa North,EU Member State,1
-2021-04-01,2021,2,India,Asia South,EU Member State,1
-2021-04-01,2021,2,Moldova,Europe Other,Home country,1
+2021-04-01,2021,2,Pakistan,Asia South,Home country,2
+2021-04-01,2021,2,Paraguay,America Central and South,Home country,1
+2021-04-01,2021,2,Peru,America Central and South,Home country,1
 2021-04-01,2021,2,Poland,EU 8,EU Member State,1
 2021-04-01,2021,2,Poland,EU 8,Home country,89
 2021-04-01,2021,2,Portugal,EU 14,EU Member State,1
-2021-04-01,2021,2,Sri Lanka,Asia South,Home country,1
-2021-04-01,2021,2,Togo,Africa Sub-Saharan,Other country,1
-2021-04-01,2021,2,Belgium,EU 14,Home country,2
-2021-04-01,2021,2,Bosnia and Herzegovina,Europe Other,Home country,1
-2021-04-01,2021,2,Brazil,America Central and South,Home country,9
-2021-04-01,2021,2,Czech Republic,EU 8,Home country,9
-2021-04-01,2021,2,Eritrea,Africa Sub-Saharan,Home country,1
-2021-04-01,2021,2,Greece,EU 14,Other country,1
-2021-04-01,2021,2,Hungary,EU 8,Home country,12
-2021-04-01,2021,2,Israel,Middle East,Home country,1
-2021-04-01,2021,2,Latvia,EU 8,Other country,1
-2021-04-01,2021,2,Lithuania,EU 8,Other country,3
+2021-04-01,2021,2,Portugal,EU 14,Home country,17
+2021-04-01,2021,2,Romania,EU 2,EU Member State,3
 2021-04-01,2021,2,Romania,EU 2,Home country,186
 2021-04-01,2021,2,Romania,EU 2,Other country,7
+2021-04-01,2021,2,Serbia,Europe Other,Home country,2
+2021-04-01,2021,2,Sierra Leone,Africa Sub-Saharan,Other country,1
 2021-04-01,2021,2,Slovakia,EU 8,Home country,7
-2021-04-01,2021,2,Sudan,Africa North,Home country,1
-2021-04-01,2021,2,Afghanistan,Asia Central,EU Member State,1
-2021-04-01,2021,2,Colombia,America Central and South,Home country,2
-2021-04-01,2021,2,Finland,EU 14,Home country,1
-2021-04-01,2021,2,India,Asia South,Home country,4
-2021-04-01,2021,2,Jamaica,America Central and South,Home country,6
-2021-04-01,2021,2,Kosovo,Europe Other,Home country,2
-2021-04-01,2021,2,Paraguay,America Central and South,Home country,1
-2021-04-01,2021,2,Peru,America Central and South,Home country,1
-2021-04-01,2021,2,Portugal,EU 14,Home country,17
+2021-04-01,2021,2,Somalia,Africa Sub-Saharan,Home country,3
+2021-04-01,2021,2,South Africa,Africa Sub-Saharan,Home country,2
 2021-04-01,2021,2,Spain,EU 14,Home country,4
+2021-04-01,2021,2,Sri Lanka,Asia South,Home country,1
+2021-04-01,2021,2,St. Lucia,America Central and South,Home country,3
+2021-04-01,2021,2,Sudan,Africa North,Home country,1
 2021-04-01,2021,2,Sweden,EU 14,Home country,6
+2021-04-01,2021,2,Switzerland,Europe Other,Home country,1
+2021-04-01,2021,2,Tanzania,Africa Sub-Saharan,Home country,1
+2021-04-01,2021,2,Togo,Africa Sub-Saharan,Other country,1
+2021-04-01,2021,2,Trinidad and Tobago,America Central and South,Home country,1
 2021-04-01,2021,2,Turkey,Europe Other,Home country,8
+2021-04-01,2021,2,Ukraine,Europe Other,Home country,5
 2021-04-01,2021,2,United States,America North,Home country,4
+2021-04-01,2021,2,Vietnam,Asia South East,Home country,16
+2021-04-01,2021,2,Western Sahara,Africa North,EU Member State,1
 2021-04-01,2021,2,Zambia,Africa Sub-Saharan,Other country,1
 2021-04-01,2021,2,Zimbabwe,Africa Sub-Saharan,Home country,1
-2021-04-01,2021,2,Afghanistan,Asia Central,Home country,2
-2021-04-01,2021,2,Albania,Europe Other,EU Member State,2
-2021-04-01,2021,2,Bangladesh,Asia South,Home country,6
-2021-04-01,2021,2,Barbados,America Central and South,Home country,3
-2021-04-01,2021,2,Bulgaria,EU 2,EU Member State,1
-2021-04-01,2021,2,Bulgaria,EU 2,Home country,18
-2021-04-01,2021,2,Colombia,America Central and South,EU Member State,1
-2021-04-01,2021,2,Ecuador,America Central and South,EU Member State,1
-2021-04-01,2021,2,Estonia,EU 8,Home country,2
-2021-04-01,2021,2,Germany,EU 14,Home country,4
-2021-04-01,2021,2,Hungary,EU 8,EU Member State,2
-2021-04-01,2021,2,Iraq,Middle East,Home country,2
-2021-04-01,2021,2,Italy,EU 14,Other country,1
-2021-04-01,2021,2,Latvia,EU 8,Home country,8
-2021-04-01,2021,2,Lithuania,EU 8,Home country,56
-2021-04-01,2021,2,Mexico,America Central and South,Home country,1
-2021-04-01,2021,2,Pakistan,Asia South,Home country,2
-2021-04-01,2021,2,Trinidad and Tobago,America Central and South,Home country,1
-2021-04-01,2021,2,Ukraine,Europe Other,Home country,5
-2021-04-01,2021,2,Vietnam,Asia South East,Home country,16
-2021-07-01,2021,3,Belize,America Central and South,Home country,1
-2021-07-01,2021,3,Chile,America Central and South,EU Member State,1
-2021-07-01,2021,3,Czech Republic,EU 8,Home country,9
-2021-07-01,2021,3,Greece,EU 14,Home country,9
-2021-07-01,2021,3,Latvia,EU 8,EU Member State,1
-2021-07-01,2021,3,Latvia,EU 8,Other country,1
-2021-07-01,2021,3,Lithuania,EU 8,Other country,1
-2021-07-01,2021,3,Mozambique,Africa Sub-Saharan,Home country,1
-2021-07-01,2021,3,Netherlands,EU 14,Home country,6
-2021-07-01,2021,3,Romania,EU 2,Home country,149
-2021-07-01,2021,3,Spain,EU 14,Home country,6
-2021-07-01,2021,3,Switzerland,Europe Other,Home country,1
-2021-07-01,2021,3,Turkey,Europe Other,Home country,2
 2021-07-01,2021,3,Afghanistan,Asia Central,Home country,2
-2021-07-01,2021,3,Albania,Europe Other,EU Member State,2
+2021-07-01,2021,3,Albania,Europe Other,EU Member State,3
+2021-07-01,2021,3,Albania,Europe Other,Home country,226
+2021-07-01,2021,3,Albania,Europe Other,Other country,3
 2021-07-01,2021,3,Algeria,Africa North,Other country,2
-2021-07-01,2021,3,Austria,EU 14,Home country,2
-2021-07-01,2021,3,Barbados,America Central and South,Home country,1
-2021-07-01,2021,3,Cyprus,EU Other,Home country,1
-2021-07-01,2021,3,"Gambia, The",Africa Sub-Saharan,Other country,1
-2021-07-01,2021,3,Germany,EU 14,Home country,2
-2021-07-01,2021,3,Italy,EU 14,Other country,1
-2021-07-01,2021,3,Lithuania,EU 8,Home country,58
-2021-07-01,2021,3,Malaysia,Asia South East,Home country,1
-2021-07-01,2021,3,Netherlands,EU 14,Other country,1
-2021-07-01,2021,3,Pakistan,Asia South,Home country,4
-2021-07-01,2021,3,Poland,EU 8,Other country,3
-2021-07-01,2021,3,Sri Lanka,Asia South,Home country,1
-2021-07-01,2021,3,Ukraine,Europe Other,Home country,2
-2021-07-01,2021,3,United States,America North,Home country,2
-2021-07-01,2021,3,Albania,Europe Other,Home country,224
 2021-07-01,2021,3,Angola,Africa Sub-Saharan,Home country,1
-2021-07-01,2021,3,Bulgaria,EU 2,Home country,5
-2021-07-01,2021,3,Canada,America North,Home country,2
-2021-07-01,2021,3,France,EU 14,Home country,5
-2021-07-01,2021,3,Iraq,Middle East,Home country,5
-2021-07-01,2021,3,Kenya,Africa Sub-Saharan,Home country,1
-2021-07-01,2021,3,Nepal,Asia South,Home country,2
-2021-07-01,2021,3,Netherlands,EU 14,EU Member State,1
-2021-07-01,2021,3,Norway,Europe Other,Home country,1
-2021-07-01,2021,3,Vietnam,Asia South East,Home country,8
+2021-07-01,2021,3,Austria,EU 14,Home country,2
 2021-07-01,2021,3,Bangladesh,Asia South,Home country,2
-2021-07-01,2021,3,Hungary,EU 8,Home country,2
-2021-07-01,2021,3,India,Asia South,Home country,3
-2021-07-01,2021,3,Israel,Middle East,Home country,1
-2021-07-01,2021,3,Italy,EU 14,Home country,9
-2021-07-01,2021,3,Jamaica,America Central and South,Home country,11
-2021-07-01,2021,3,Nigeria,Africa Sub-Saharan,Home country,6
-2021-07-01,2021,3,Peru,America Central and South,Home country,1
-2021-07-01,2021,3,Senegal,Africa Sub-Saharan,Other country,1
-2021-07-01,2021,3,Somalia,Africa Sub-Saharan,Home country,2
-2021-07-01,2021,3,Zimbabwe,Africa Sub-Saharan,Home country,22
+2021-07-01,2021,3,Barbados,America Central and South,Home country,1
 2021-07-01,2021,3,Belgium,EU 14,Home country,2
+2021-07-01,2021,3,Belize,America Central and South,Home country,1
 2021-07-01,2021,3,Botswana,Africa Sub-Saharan,Home country,1
 2021-07-01,2021,3,Brazil,America Central and South,Home country,8
-2021-07-01,2021,3,China,Asia East,Home country,1
-2021-07-01,2021,3,Ghana,Africa Sub-Saharan,Home country,1
-2021-07-01,2021,3,Honduras,America Central and South,Home country,1
-2021-07-01,2021,3,Jordan,Middle East,Home country,1
-2021-07-01,2021,3,Kosovo,Europe Other,Home country,1
-2021-07-01,2021,3,New Zealand,Oceania,Home country,1
-2021-07-01,2021,3,Portugal,EU 14,Home country,25
-2021-07-01,2021,3,Slovakia,EU 8,Home country,8
-2021-07-01,2021,3,Sweden,EU 14,Home country,1
-2021-07-01,2021,3,Albania,Europe Other,Other country,3
+2021-07-01,2021,3,Bulgaria,EU 2,Home country,5
+2021-07-01,2021,3,Canada,America North,Home country,2
+2021-07-01,2021,3,Chile,America Central and South,EU Member State,1
 2021-07-01,2021,3,Chile,America Central and South,Home country,2
+2021-07-01,2021,3,China,Asia East,Home country,1
+2021-07-01,2021,3,Cyprus,EU Other,Home country,1
+2021-07-01,2021,3,Czech Republic,EU 8,Home country,9
 2021-07-01,2021,3,Estonia,EU 8,Home country,1
+2021-07-01,2021,3,France,EU 14,Home country,5
 2021-07-01,2021,3,"Gambia, The",Africa Sub-Saharan,EU Member State,1
+2021-07-01,2021,3,"Gambia, The",Africa Sub-Saharan,Other country,1
+2021-07-01,2021,3,Germany,EU 14,Home country,2
+2021-07-01,2021,3,Ghana,Africa Sub-Saharan,Home country,1
+2021-07-01,2021,3,Greece,EU 14,Home country,9
+2021-07-01,2021,3,Honduras,America Central and South,Home country,1
+2021-07-01,2021,3,Hungary,EU 8,Home country,2
+2021-07-01,2021,3,India,Asia South,EU Member State,1
+2021-07-01,2021,3,India,Asia South,Home country,3
 2021-07-01,2021,3,Iran,Middle East,Home country,2
+2021-07-01,2021,3,Iraq,Middle East,Home country,5
+2021-07-01,2021,3,Israel,Middle East,Home country,1
+2021-07-01,2021,3,Italy,EU 14,Home country,9
+2021-07-01,2021,3,Italy,EU 14,Other country,1
+2021-07-01,2021,3,Jamaica,America Central and South,Home country,11
+2021-07-01,2021,3,Jordan,Middle East,Home country,1
+2021-07-01,2021,3,Kenya,Africa Sub-Saharan,Home country,1
+2021-07-01,2021,3,Kosovo,Europe Other,Home country,1
+2021-07-01,2021,3,Latvia,EU 8,EU Member State,1
 2021-07-01,2021,3,Latvia,EU 8,Home country,11
+2021-07-01,2021,3,Latvia,EU 8,Other country,1
+2021-07-01,2021,3,Lithuania,EU 8,Home country,58
+2021-07-01,2021,3,Lithuania,EU 8,Other country,1
+2021-07-01,2021,3,Malaysia,Asia South East,Home country,1
 2021-07-01,2021,3,Mauritius,Africa Sub-Saharan,Home country,3
+2021-07-01,2021,3,Mozambique,Africa Sub-Saharan,Home country,1
+2021-07-01,2021,3,Nepal,Asia South,Home country,2
+2021-07-01,2021,3,Netherlands,EU 14,EU Member State,1
+2021-07-01,2021,3,Netherlands,EU 14,Home country,6
+2021-07-01,2021,3,Netherlands,EU 14,Other country,1
+2021-07-01,2021,3,New Zealand,Oceania,Home country,1
+2021-07-01,2021,3,Nigeria,Africa Sub-Saharan,Home country,6
+2021-07-01,2021,3,Norway,Europe Other,Home country,1
 2021-07-01,2021,3,Norway,Europe Other,Other country,1
 2021-07-01,2021,3,Pakistan,Asia South,EU Member State,1
+2021-07-01,2021,3,Pakistan,Asia South,Home country,4
+2021-07-01,2021,3,Peru,America Central and South,Home country,1
 2021-07-01,2021,3,Poland,EU 8,Home country,54
+2021-07-01,2021,3,Poland,EU 8,Other country,3
+2021-07-01,2021,3,Portugal,EU 14,Home country,24
+2021-07-01,2021,3,Romania,EU 2,EU Member State,1
+2021-07-01,2021,3,Romania,EU 2,Home country,149
 2021-07-01,2021,3,Romania,EU 2,Other country,5
+2021-07-01,2021,3,Senegal,Africa Sub-Saharan,Other country,1
 2021-07-01,2021,3,Sierra Leone,Africa Sub-Saharan,Home country,1
+2021-07-01,2021,3,Slovakia,EU 8,Home country,8
+2021-07-01,2021,3,Somalia,Africa Sub-Saharan,Home country,2
+2021-07-01,2021,3,Spain,EU 14,Home country,6
+2021-07-01,2021,3,Sri Lanka,Asia South,Home country,1
+2021-07-01,2021,3,Sweden,EU 14,Home country,1
+2021-07-01,2021,3,Switzerland,Europe Other,Home country,1
+2021-07-01,2021,3,Turkey,Europe Other,Home country,2
+2021-07-01,2021,3,Ukraine,Europe Other,Home country,2
+2021-07-01,2021,3,United States,America North,Home country,2
+2021-07-01,2021,3,Vietnam,Asia South East,Home country,8
+2021-07-01,2021,3,Zimbabwe,Africa Sub-Saharan,Home country,22
 2021-07-01,2021,3,Zimbabwe,Africa Sub-Saharan,Other country,1
+2021-10-01,2021,4,Albania,Europe Other,EU Member State,5
+2021-10-01,2021,4,Albania,Europe Other,Home country,170
+2021-10-01,2021,4,Albania,Europe Other,Other country,1
+2021-10-01,2021,4,Algeria,Africa North,Home country,4
+2021-10-01,2021,4,Australia,Oceania,Home country,1
+2021-10-01,2021,4,Azerbaijan,Europe Other,Home country,1
+2021-10-01,2021,4,Bangladesh,Asia South,Home country,2
 2021-10-01,2021,4,Belarus,Europe Other,Home country,2
+2021-10-01,2021,4,Belize,America Central and South,Home country,1
+2021-10-01,2021,4,Brazil,America Central and South,EU Member State,1
+2021-10-01,2021,4,Brazil,America Central and South,Home country,14
 2021-10-01,2021,4,Bulgaria,EU 2,EU Member State,1
 2021-10-01,2021,4,Bulgaria,EU 2,Home country,12
-2021-10-01,2021,4,Colombia,America Central and South,Home country,2
-2021-10-01,2021,4,Latvia,EU 8,Home country,9
-2021-10-01,2021,4,Libya,Africa North,Other country,1
-2021-10-01,2021,4,Portugal,EU 14,Home country,17
-2021-10-01,2021,4,Romania,EU 2,Other country,1
-2021-10-01,2021,4,Sri Lanka,Asia South,Home country,2
-2021-10-01,2021,4,Vietnam,Asia South East,Home country,2
-2021-10-01,2021,4,Zambia,Africa Sub-Saharan,Home country,1
-2021-10-01,2021,4,Albania,Europe Other,Home country,169
-2021-10-01,2021,4,Brazil,America Central and South,Home country,14
-2021-10-01,2021,4,Denmark,EU 14,Home country,2
-2021-10-01,2021,4,Ghana,Africa Sub-Saharan,Home country,1
-2021-10-01,2021,4,Greece,EU 14,Home country,9
-2021-10-01,2021,4,Grenada,America Central and South,Home country,2
-2021-10-01,2021,4,Kosovo,Europe Other,Home country,2
-2021-10-01,2021,4,Latvia,EU 8,Other country,1
-2021-10-01,2021,4,Nigeria,Africa Sub-Saharan,Home country,8
-2021-10-01,2021,4,Slovakia,EU 8,Home country,8
-2021-10-01,2021,4,Sweden,EU 14,Home country,4
-2021-10-01,2021,4,Australia,Oceania,Home country,1
-2021-10-01,2021,4,Bangladesh,Asia South,Home country,2
+2021-10-01,2021,4,Chile,America Central and South,Home country,3
 2021-10-01,2021,4,China,Asia East,Home country,6
+2021-10-01,2021,4,Colombia,America Central and South,Home country,2
+2021-10-01,2021,4,Croatia,EU Other,Home country,1
+2021-10-01,2021,4,Cyprus,EU Other,Home country,1
 2021-10-01,2021,4,Czech Republic,EU 8,Home country,7
+2021-10-01,2021,4,Denmark,EU 14,Home country,2
+2021-10-01,2021,4,France,EU 14,EU Member State,1
 2021-10-01,2021,4,France,EU 14,Home country,4
 2021-10-01,2021,4,Germany,EU 14,Home country,4
+2021-10-01,2021,4,Ghana,Africa Sub-Saharan,Home country,1
+2021-10-01,2021,4,Greece,EU 14,Home country,8
+2021-10-01,2021,4,Grenada,America Central and South,Home country,2
+2021-10-01,2021,4,Grenada,America Central and South,Other country,1
+2021-10-01,2021,4,Hong Kong,Asia East,Home country,1
 2021-10-01,2021,4,Hungary,EU 8,Home country,5
+2021-10-01,2021,4,Hungary,EU 8,Other country,1
+2021-10-01,2021,4,India,Asia South,Home country,9
+2021-10-01,2021,4,Iraq,Middle East,Home country,4
+2021-10-01,2021,4,Italy,EU 14,Home country,12
+2021-10-01,2021,4,Jamaica,America Central and South,Home country,5
+2021-10-01,2021,4,Kenya,Africa Sub-Saharan,Home country,1
+2021-10-01,2021,4,Kosovo,Europe Other,Home country,2
 2021-10-01,2021,4,Kuwait,Middle East,Home country,1
+2021-10-01,2021,4,Latvia,EU 8,Home country,9
+2021-10-01,2021,4,Latvia,EU 8,Other country,1
+2021-10-01,2021,4,Libya,Africa North,Other country,1
 2021-10-01,2021,4,Lithuania,EU 8,EU Member State,2
+2021-10-01,2021,4,Lithuania,EU 8,Home country,65
+2021-10-01,2021,4,Malawi,Africa Sub-Saharan,Home country,1
+2021-10-01,2021,4,Mauritius,Africa Sub-Saharan,Home country,1
 2021-10-01,2021,4,Moldova,Europe Other,Home country,1
 2021-10-01,2021,4,Morocco,Africa North,EU Member State,1
 2021-10-01,2021,4,Morocco,Africa North,Home country,1
-2021-10-01,2021,4,Romania,EU 2,Home country,149
-2021-10-01,2021,4,Syria,Middle East,Home country,1
-2021-10-01,2021,4,Albania,Europe Other,EU Member State,2
-2021-10-01,2021,4,Albania,Europe Other,Other country,1
-2021-10-01,2021,4,Brazil,America Central and South,EU Member State,1
-2021-10-01,2021,4,Chile,America Central and South,Home country,3
-2021-10-01,2021,4,Cyprus,EU Other,Home country,1
-2021-10-01,2021,4,Hong Kong,Asia East,Home country,1
-2021-10-01,2021,4,India,Asia South,Home country,9
-2021-10-01,2021,4,Italy,EU 14,Home country,12
-2021-10-01,2021,4,Jamaica,America Central and South,Home country,5
-2021-10-01,2021,4,Lithuania,EU 8,Home country,65
+2021-10-01,2021,4,Netherlands,EU 14,Home country,9
+2021-10-01,2021,4,Nigeria,Africa Sub-Saharan,Home country,8
+2021-10-01,2021,4,Pakistan,Asia South,Home country,5
 2021-10-01,2021,4,Pakistan,Asia South,Other country,1
 2021-10-01,2021,4,Poland,EU 8,EU Member State,1
-2021-10-01,2021,4,South Africa,Africa Sub-Saharan,Home country,5
-2021-10-01,2021,4,Belize,America Central and South,Home country,1
-2021-10-01,2021,4,Iraq,Middle East,Home country,4
-2021-10-01,2021,4,Kenya,Africa Sub-Saharan,Home country,1
-2021-10-01,2021,4,Malawi,Africa Sub-Saharan,Home country,1
-2021-10-01,2021,4,Mauritius,Africa Sub-Saharan,Home country,1
 2021-10-01,2021,4,Poland,EU 8,Home country,65
+2021-10-01,2021,4,Portugal,EU 14,Home country,17
 2021-10-01,2021,4,Romania,EU 2,EU Member State,3
+2021-10-01,2021,4,Romania,EU 2,Home country,149
+2021-10-01,2021,4,Romania,EU 2,Other country,1
 2021-10-01,2021,4,Russia,Europe Other,Home country,1
+2021-10-01,2021,4,Slovakia,EU 8,Home country,8
 2021-10-01,2021,4,Somalia,Africa Sub-Saharan,Home country,4
+2021-10-01,2021,4,South Africa,Africa Sub-Saharan,Home country,5
 2021-10-01,2021,4,Spain,EU 14,Home country,7
+2021-10-01,2021,4,Sri Lanka,Asia South,Home country,2
+2021-10-01,2021,4,Sweden,EU 14,Home country,4
+2021-10-01,2021,4,Syria,Middle East,Home country,1
 2021-10-01,2021,4,Turkey,Europe Other,Home country,1
-2021-10-01,2021,4,United States,America North,Home country,4
-2021-10-01,2021,4,Vietnam,Asia South East,Other country,1
-2021-10-01,2021,4,Algeria,Africa North,Home country,4
-2021-10-01,2021,4,Azerbaijan,Europe Other,Home country,1
-2021-10-01,2021,4,Croatia,EU Other,Home country,1
-2021-10-01,2021,4,France,EU 14,EU Member State,1
-2021-10-01,2021,4,Hungary,EU 8,Other country,1
-2021-10-01,2021,4,Netherlands,EU 14,Home country,9
-2021-10-01,2021,4,Pakistan,Asia South,Home country,5
 2021-10-01,2021,4,Ukraine,Europe Other,Home country,2
-2022-01-01,2022,1,Belgium,EU 14,Home country,2
-2022-01-01,2022,1,Brazil,America Central and South,Home country,8
-2022-01-01,2022,1,Colombia,America Central and South,Home country,1
-2022-01-01,2022,1,Fiji,Oceania,Home country,1
-2022-01-01,2022,1,Honduras,America Central and South,Home country,1
-2022-01-01,2022,1,Italy,EU 14,Home country,10
-2022-01-01,2022,1,Jamaica,America Central and South,Home country,4
-2022-01-01,2022,1,Other and unknown,Other,EU Member State,1
-2022-01-01,2022,1,Poland,EU 8,Other country,4
-2022-01-01,2022,1,Portugal,EU 14,Home country,11
-2022-01-01,2022,1,Romania,EU 2,Other country,4
-2022-01-01,2022,1,Saudi Arabia,Middle East,EU Member State,1
-2022-01-01,2022,1,South Africa,Africa Sub-Saharan,Home country,2
-2022-01-01,2022,1,Ukraine,Europe Other,Home country,1
-2022-01-01,2022,1,Armenia,Europe Other,Home country,1
-2022-01-01,2022,1,Canada,America North,Home country,1
-2022-01-01,2022,1,France,EU 14,Other country,1
-2022-01-01,2022,1,Germany,EU 14,Home country,2
-2022-01-01,2022,1,Greece,EU 14,Home country,15
-2022-01-01,2022,1,Kenya,Africa Sub-Saharan,Home country,1
-2022-01-01,2022,1,Lithuania,EU 8,Home country,59
-2022-01-01,2022,1,Nigeria,Africa Sub-Saharan,Home country,2
-2022-01-01,2022,1,Russia,Europe Other,Home country,1
-2022-01-01,2022,1,Senegal,Africa Sub-Saharan,Home country,1
-2022-01-01,2022,1,Slovenia,EU 8,Home country,1
-2022-01-01,2022,1,Somalia,Africa Sub-Saharan,Home country,2
-2022-01-01,2022,1,Tunisia,Africa North,Home country,1
-2022-01-01,2022,1,Turkey,Europe Other,Home country,1
+2021-10-01,2021,4,United States,America North,Home country,5
+2021-10-01,2021,4,Vietnam,Asia South East,Home country,2
+2021-10-01,2021,4,Vietnam,Asia South East,Other country,1
+2021-10-01,2021,4,Zambia,Africa Sub-Saharan,Home country,1
+2021-10-01,2021,4,Zimbabwe,Africa Sub-Saharan,Home country,1
 2022-01-01,2022,1,Afghanistan,Asia Central,EU Member State,1
-2022-01-01,2022,1,Bulgaria,EU 2,Home country,16
-2022-01-01,2022,1,"Gambia, The",Africa Sub-Saharan,Home country,1
-2022-01-01,2022,1,Germany,EU 14,Other country,1
-2022-01-01,2022,1,Ghana,Africa Sub-Saharan,Home country,1
-2022-01-01,2022,1,Grenada,America Central and South,Home country,1
-2022-01-01,2022,1,Peru,America Central and South,Home country,1
-2022-01-01,2022,1,Romania,EU 2,Home country,158
-2022-01-01,2022,1,Slovakia,EU 8,Home country,9
-2022-01-01,2022,1,Slovakia,EU 8,Other country,1
-2022-01-01,2022,1,Albania,Europe Other,Other country,2
-2022-01-01,2022,1,Chile,America Central and South,Home country,6
-2022-01-01,2022,1,France,EU 14,Home country,2
-2022-01-01,2022,1,Iran,Middle East,Home country,1
-2022-01-01,2022,1,Iraq,Middle East,Home country,3
-2022-01-01,2022,1,Latvia,EU 8,Home country,12
-2022-01-01,2022,1,Malaysia,Asia South East,Home country,1
-2022-01-01,2022,1,Moldova,Europe Other,Home country,1
-2022-01-01,2022,1,Netherlands,EU 14,Home country,6
-2022-01-01,2022,1,Romania,EU 2,EU Member State,1
-2022-01-01,2022,1,Serbia,Europe Other,Home country,1
-2022-01-01,2022,1,Spain,EU 14,Home country,7
-2022-01-01,2022,1,Zimbabwe,Africa Sub-Saharan,Home country,24
-2022-01-01,2022,1,Zimbabwe,Africa Sub-Saharan,Other country,1
 2022-01-01,2022,1,Albania,Europe Other,EU Member State,1
-2022-01-01,2022,1,Brazil,America Central and South,EU Member State,1
-2022-01-01,2022,1,Czech Republic,EU 8,Home country,5
-2022-01-01,2022,1,Egypt,Africa North,Home country,1
-2022-01-01,2022,1,India,Asia South,Home country,4
-2022-01-01,2022,1,India,Asia South,Other country,1
-2022-01-01,2022,1,Luxembourg,EU 14,Home country,1
-2022-01-01,2022,1,Mexico,America Central and South,Home country,1
-2022-01-01,2022,1,Pakistan,Asia South,Home country,4
-2022-01-01,2022,1,Pakistan,Asia South,Other country,1
-2022-01-01,2022,1,Poland,EU 8,Home country,75
-2022-01-01,2022,1,Sweden,EU 14,Home country,2
-2022-01-01,2022,1,Trinidad and Tobago,America Central and South,Home country,3
-2022-01-01,2022,1,United States,America North,Home country,3
-2022-01-01,2022,1,Albania,Europe Other,Home country,252
+2022-01-01,2022,1,Albania,Europe Other,Home country,254
+2022-01-01,2022,1,Albania,Europe Other,Other country,2
 2022-01-01,2022,1,Algeria,Africa North,Home country,2
+2022-01-01,2022,1,Armenia,Europe Other,Home country,1
 2022-01-01,2022,1,Australia,Oceania,Home country,2
+2022-01-01,2022,1,Belgium,EU 14,Home country,2
+2022-01-01,2022,1,Brazil,America Central and South,EU Member State,1
+2022-01-01,2022,1,Brazil,America Central and South,Home country,8
+2022-01-01,2022,1,Bulgaria,EU 2,Home country,16
+2022-01-01,2022,1,Canada,America North,Home country,1
+2022-01-01,2022,1,Chile,America Central and South,Home country,6
+2022-01-01,2022,1,Colombia,America Central and South,Home country,1
 2022-01-01,2022,1,Croatia,EU Other,Home country,1
+2022-01-01,2022,1,Czech Republic,EU 8,Home country,5
 2022-01-01,2022,1,Czech Republic,EU 8,Other country,1
 2022-01-01,2022,1,Denmark,EU 14,Home country,1
+2022-01-01,2022,1,Egypt,Africa North,Home country,1
+2022-01-01,2022,1,Fiji,Oceania,Home country,1
+2022-01-01,2022,1,France,EU 14,Home country,2
+2022-01-01,2022,1,France,EU 14,Other country,1
+2022-01-01,2022,1,"Gambia, The",Africa Sub-Saharan,Home country,1
+2022-01-01,2022,1,Germany,EU 14,Home country,2
+2022-01-01,2022,1,Germany,EU 14,Other country,1
+2022-01-01,2022,1,Ghana,Africa Sub-Saharan,Home country,1
+2022-01-01,2022,1,Greece,EU 14,Home country,15
+2022-01-01,2022,1,Grenada,America Central and South,Home country,1
+2022-01-01,2022,1,Honduras,America Central and South,Home country,1
 2022-01-01,2022,1,Hungary,EU 8,Home country,6
+2022-01-01,2022,1,India,Asia South,Home country,4
+2022-01-01,2022,1,India,Asia South,Other country,1
+2022-01-01,2022,1,Iran,Middle East,Home country,1
+2022-01-01,2022,1,Iraq,Middle East,Home country,3
+2022-01-01,2022,1,Italy,EU 14,Home country,10
+2022-01-01,2022,1,Jamaica,America Central and South,Home country,4
 2022-01-01,2022,1,Jamaica,America Central and South,Other country,1
+2022-01-01,2022,1,Kenya,Africa Sub-Saharan,Home country,1
+2022-01-01,2022,1,Latvia,EU 8,Home country,12
+2022-01-01,2022,1,Lithuania,EU 8,Home country,59
+2022-01-01,2022,1,Luxembourg,EU 14,Home country,1
+2022-01-01,2022,1,Malaysia,Asia South East,Home country,1
+2022-01-01,2022,1,Mexico,America Central and South,Home country,1
+2022-01-01,2022,1,Moldova,Europe Other,Home country,1
+2022-01-01,2022,1,Netherlands,EU 14,Home country,6
+2022-01-01,2022,1,Nigeria,Africa Sub-Saharan,Home country,2
+2022-01-01,2022,1,Pakistan,Asia South,Home country,4
+2022-01-01,2022,1,Pakistan,Asia South,Other country,1
+2022-01-01,2022,1,Peru,America Central and South,Home country,1
+2022-01-01,2022,1,Poland,EU 8,EU Member State,1
+2022-01-01,2022,1,Poland,EU 8,Home country,76
+2022-01-01,2022,1,Poland,EU 8,Other country,4
+2022-01-01,2022,1,Portugal,EU 14,Home country,11
+2022-01-01,2022,1,Romania,EU 2,EU Member State,1
+2022-01-01,2022,1,Romania,EU 2,Home country,158
+2022-01-01,2022,1,Romania,EU 2,Other country,4
+2022-01-01,2022,1,Russia,Europe Other,Home country,1
+2022-01-01,2022,1,Saudi Arabia,Middle East,EU Member State,1
+2022-01-01,2022,1,Senegal,Africa Sub-Saharan,Home country,1
+2022-01-01,2022,1,Serbia,Europe Other,Home country,1
+2022-01-01,2022,1,Slovakia,EU 8,Home country,9
+2022-01-01,2022,1,Slovakia,EU 8,Other country,1
+2022-01-01,2022,1,Slovenia,EU 8,Home country,1
+2022-01-01,2022,1,Somalia,Africa Sub-Saharan,Home country,2
+2022-01-01,2022,1,South Africa,Africa Sub-Saharan,Home country,2
+2022-01-01,2022,1,Spain,EU 14,Home country,7
+2022-01-01,2022,1,Stateless,Other,EU Member State,1
 2022-01-01,2022,1,Sudan,Africa North,Home country,1
+2022-01-01,2022,1,Sweden,EU 14,Home country,2
+2022-01-01,2022,1,Trinidad and Tobago,America Central and South,Home country,3
+2022-01-01,2022,1,Tunisia,Africa North,Home country,1
+2022-01-01,2022,1,Turkey,Europe Other,Home country,1
 2022-01-01,2022,1,Ukraine,Europe Other,EU Member State,1
+2022-01-01,2022,1,Ukraine,Europe Other,Home country,1
+2022-01-01,2022,1,United States,America North,Home country,3
 2022-01-01,2022,1,Vietnam,Asia South East,Home country,25
+2022-01-01,2022,1,Zimbabwe,Africa Sub-Saharan,Home country,24
+2022-01-01,2022,1,Zimbabwe,Africa Sub-Saharan,Other country,1
+2022-04-01,2022,2,Albania,Europe Other,EU Member State,3
+2022-04-01,2022,2,Albania,Europe Other,Home country,167
 2022-04-01,2022,2,Albania,Europe Other,Other country,2
 2022-04-01,2022,2,Algeria,Africa North,Home country,5
+2022-04-01,2022,2,Belarus,Europe Other,Home country,1
+2022-04-01,2022,2,Belgium,EU 14,Home country,2
+2022-04-01,2022,2,Bosnia and Herzegovina,Europe Other,Home country,1
 2022-04-01,2022,2,Brazil,America Central and South,Home country,13
+2022-04-01,2022,2,Bulgaria,EU 2,EU Member State,2
+2022-04-01,2022,2,Bulgaria,EU 2,Home country,15
+2022-04-01,2022,2,Cameroon,Africa Sub-Saharan,Home country,1
+2022-04-01,2022,2,Canada,America North,Home country,1
 2022-04-01,2022,2,Chile,America Central and South,Home country,1
+2022-04-01,2022,2,China,Asia East,Other country,1
+2022-04-01,2022,2,Colombia,America Central and South,Home country,3
+2022-04-01,2022,2,Croatia,EU Other,Home country,3
 2022-04-01,2022,2,Czech Republic,EU 8,Home country,6
+2022-04-01,2022,2,Eritrea,Africa Sub-Saharan,Home country,1
+2022-04-01,2022,2,France,EU 14,Home country,7
+2022-04-01,2022,2,"Gambia, The",Africa Sub-Saharan,Home country,1
+2022-04-01,2022,2,Germany,EU 14,Home country,4
+2022-04-01,2022,2,Ghana,Africa Sub-Saharan,Home country,4
+2022-04-01,2022,2,Greece,EU 14,Home country,25
 2022-04-01,2022,2,Greece,EU 14,Other country,1
 2022-04-01,2022,2,Guinea,Africa Sub-Saharan,Home country,1
-2022-04-01,2022,2,Netherlands,EU 14,Home country,7
-2022-04-01,2022,2,Norway,Europe Other,Home country,1
-2022-04-01,2022,2,Tunisia,Africa North,EU Member State,1
-2022-04-01,2022,2,Belarus,Europe Other,Home country,1
-2022-04-01,2022,2,Bulgaria,EU 2,Home country,15
-2022-04-01,2022,2,Canada,America North,Home country,1
-2022-04-01,2022,2,France,EU 14,Home country,7
-2022-04-01,2022,2,Greece,EU 14,Home country,25
 2022-04-01,2022,2,Hungary,EU 8,Home country,6
-2022-04-01,2022,2,Italy,EU 14,Home country,5
-2022-04-01,2022,2,Latvia,EU 8,Other country,1
-2022-04-01,2022,2,Malaysia,Asia South East,Home country,2
-2022-04-01,2022,2,Mauritius,Africa Sub-Saharan,Home country,1
-2022-04-01,2022,2,Morocco,Africa North,Home country,2
-2022-04-01,2022,2,Nigeria,Africa Sub-Saharan,EU Member State,1
-2022-04-01,2022,2,Romania,EU 2,EU Member State,1
-2022-04-01,2022,2,Romania,EU 2,Other country,4
-2022-04-01,2022,2,Russia,Europe Other,Home country,1
-2022-04-01,2022,2,Slovakia,EU 8,EU Member State,1
-2022-04-01,2022,2,Slovakia,EU 8,Home country,11
-2022-04-01,2022,2,Somalia,Africa Sub-Saharan,Home country,1
-2022-04-01,2022,2,Spain,EU 14,Home country,9
-2022-04-01,2022,2,Switzerland,Europe Other,Home country,1
-2022-04-01,2022,2,Tunisia,Africa North,Home country,1
-2022-04-01,2022,2,Vietnam,Asia South East,Home country,16
-2022-04-01,2022,2,Bosnia and Herzegovina,Europe Other,Home country,1
-2022-04-01,2022,2,Cameroon,Africa Sub-Saharan,Home country,1
-2022-04-01,2022,2,China,Asia East,Other country,1
+2022-04-01,2022,2,Hungary,EU 8,Other country,1
+2022-04-01,2022,2,India,Asia South,Home country,3
+2022-04-01,2022,2,Iraq,Middle East,Home country,2
 2022-04-01,2022,2,Israel,Middle East,Home country,1
+2022-04-01,2022,2,Israel,Middle East,Other country,1
+2022-04-01,2022,2,Italy,EU 14,Home country,5
+2022-04-01,2022,2,Ivory Coast,Africa Sub-Saharan,Home country,1
+2022-04-01,2022,2,Jamaica,America Central and South,Home country,10
+2022-04-01,2022,2,Latvia,EU 8,Home country,11
+2022-04-01,2022,2,Latvia,EU 8,Other country,1
+2022-04-01,2022,2,Libya,Africa North,Home country,1
 2022-04-01,2022,2,Lithuania,EU 8,Home country,71
 2022-04-01,2022,2,Macedonia,Europe Other,Home country,1
-2022-04-01,2022,2,Poland,EU 8,Other country,4
-2022-04-01,2022,2,Romania,EU 2,Home country,136
-2022-04-01,2022,2,Syria,Middle East,EU Member State,1
-2022-04-01,2022,2,Turkey,Europe Other,Home country,2
-2022-04-01,2022,2,Albania,Europe Other,EU Member State,2
-2022-04-01,2022,2,Bulgaria,EU 2,EU Member State,1
-2022-04-01,2022,2,Germany,EU 14,Home country,4
-2022-04-01,2022,2,Ivory Coast,Africa Sub-Saharan,Home country,1
-2022-04-01,2022,2,Latvia,EU 8,Home country,11
+2022-04-01,2022,2,Malaysia,Asia South East,Home country,2
+2022-04-01,2022,2,Mauritius,Africa Sub-Saharan,Home country,1
+2022-04-01,2022,2,Moldova,Europe Other,Home country,1
+2022-04-01,2022,2,Morocco,Africa North,Home country,2
+2022-04-01,2022,2,Netherlands,EU 14,Home country,7
+2022-04-01,2022,2,Nigeria,Africa Sub-Saharan,EU Member State,1
 2022-04-01,2022,2,Nigeria,Africa Sub-Saharan,Home country,11
+2022-04-01,2022,2,Norway,Europe Other,Home country,1
+2022-04-01,2022,2,Pakistan,Asia South,EU Member State,1
 2022-04-01,2022,2,Pakistan,Asia South,Home country,3
 2022-04-01,2022,2,Philippines,Asia South East,Home country,1
-2022-04-01,2022,2,Albania,Europe Other,Home country,162
-2022-04-01,2022,2,Croatia,EU Other,Home country,3
-2022-04-01,2022,2,Eritrea,Africa Sub-Saharan,Home country,1
-2022-04-01,2022,2,"Gambia, The",Africa Sub-Saharan,Home country,1
-2022-04-01,2022,2,Libya,Africa North,Home country,2
-2022-04-01,2022,2,Pakistan,Asia South,EU Member State,1
-2022-04-01,2022,2,Poland,EU 8,Home country,63
+2022-04-01,2022,2,Poland,EU 8,Home country,64
+2022-04-01,2022,2,Poland,EU 8,Other country,4
 2022-04-01,2022,2,Portugal,EU 14,Home country,15
+2022-04-01,2022,2,Romania,EU 2,EU Member State,1
+2022-04-01,2022,2,Romania,EU 2,Home country,136
+2022-04-01,2022,2,Romania,EU 2,Other country,4
+2022-04-01,2022,2,Russia,Europe Other,Home country,1
 2022-04-01,2022,2,Rwanda,Africa Sub-Saharan,Home country,1
 2022-04-01,2022,2,Saudi Arabia,Middle East,Home country,1
 2022-04-01,2022,2,Sierra Leone,Africa Sub-Saharan,Home country,1
+2022-04-01,2022,2,Slovakia,EU 8,EU Member State,1
+2022-04-01,2022,2,Slovakia,EU 8,Home country,11
+2022-04-01,2022,2,Somalia,Africa Sub-Saharan,EU Member State,1
+2022-04-01,2022,2,Somalia,Africa Sub-Saharan,Home country,1
+2022-04-01,2022,2,Spain,EU 14,Home country,9
 2022-04-01,2022,2,Sri Lanka,Asia South,Home country,1
-2022-04-01,2022,2,Sweden,EU 14,Home country,2
-2022-04-01,2022,2,Trinidad and Tobago,America Central and South,Home country,1
-2022-04-01,2022,2,Belgium,EU 14,Home country,2
-2022-04-01,2022,2,Colombia,America Central and South,Home country,3
-2022-04-01,2022,2,Ghana,Africa Sub-Saharan,Home country,4
-2022-04-01,2022,2,India,Asia South,Home country,3
-2022-04-01,2022,2,Iraq,Middle East,Home country,2
-2022-04-01,2022,2,Jamaica,America Central and South,Home country,10
-2022-04-01,2022,2,Moldova,Europe Other,Home country,1
 2022-04-01,2022,2,St. Vincent and the Grenadines,America Central and South,Home country,1
+2022-04-01,2022,2,Sweden,EU 14,Home country,2
+2022-04-01,2022,2,Switzerland,Europe Other,Home country,1
+2022-04-01,2022,2,Syria,Middle East,EU Member State,1
+2022-04-01,2022,2,Trinidad and Tobago,America Central and South,Home country,1
+2022-04-01,2022,2,Tunisia,Africa North,EU Member State,1
+2022-04-01,2022,2,Tunisia,Africa North,Home country,1
+2022-04-01,2022,2,Turkey,Europe Other,Home country,2
 2022-04-01,2022,2,Ukraine,Europe Other,EU Member State,2
+2022-04-01,2022,2,Vietnam,Asia South East,Home country,16
 2022-07-01,2022,3,Afghanistan,Asia Central,Home country,1
-2022-07-01,2022,3,Albania,Europe Other,Home country,210
-2022-07-01,2022,3,Barbados,America Central and South,Home country,3
-2022-07-01,2022,3,Bulgaria,EU 2,Other country,1
-2022-07-01,2022,3,Chile,America Central and South,Home country,2
-2022-07-01,2022,3,Croatia,EU Other,Home country,1
-2022-07-01,2022,3,Czech Republic,EU 8,Home country,8
-2022-07-01,2022,3,Ecuador,America Central and South,Home country,1
-2022-07-01,2022,3,Georgia,Europe Other,Home country,1
-2022-07-01,2022,3,Germany,EU 14,Home country,2
-2022-07-01,2022,3,Morocco,Africa North,Home country,1
-2022-07-01,2022,3,Serbia,Europe Other,Home country,2
-2022-07-01,2022,3,Sweden,EU 14,Home country,3
-2022-07-01,2022,3,United States,America North,Home country,4
-2022-07-01,2022,3,Canada,America North,Home country,1
-2022-07-01,2022,3,Italy,EU 14,Home country,16
-2022-07-01,2022,3,Malaysia,Asia South East,Home country,1
-2022-07-01,2022,3,Moldova,Europe Other,EU Member State,1
-2022-07-01,2022,3,Moldova,Europe Other,Home country,1
-2022-07-01,2022,3,Romania,EU 2,Other country,1
-2022-07-01,2022,3,Russia,Europe Other,Home country,1
-2022-07-01,2022,3,Slovakia,EU 8,Home country,17
-2022-07-01,2022,3,Turkey,Europe Other,Home country,4
-2022-07-01,2022,3,Ukraine,Europe Other,EU Member State,2
-2022-07-01,2022,3,Vietnam,Asia South East,Home country,19
-2022-07-01,2022,3,Belgium,EU 14,Home country,1
-2022-07-01,2022,3,Bosnia and Herzegovina,Europe Other,Home country,1
-2022-07-01,2022,3,Bulgaria,EU 2,Home country,15
-2022-07-01,2022,3,China,Asia East,Home country,3
-2022-07-01,2022,3,Czech Republic,EU 8,Other country,1
-2022-07-01,2022,3,Denmark,EU 14,Home country,1
-2022-07-01,2022,3,France,EU 14,Home country,2
-2022-07-01,2022,3,Ghana,Africa Sub-Saharan,Home country,1
-2022-07-01,2022,3,Greece,EU 14,Home country,14
-2022-07-01,2022,3,Hungary,EU 8,Home country,9
-2022-07-01,2022,3,Jamaica,America Central and South,Home country,4
-2022-07-01,2022,3,Lithuania,EU 8,Home country,62
-2022-07-01,2022,3,Lithuania,EU 8,Other country,1
-2022-07-01,2022,3,Romania,EU 2,Home country,179
-2022-07-01,2022,3,Spain,EU 14,Home country,10
-2022-07-01,2022,3,Tanzania,Africa Sub-Saharan,Home country,1
-2022-07-01,2022,3,Albania,Europe Other,Other country,2
+2022-07-01,2022,3,Albania,Europe Other,EU Member State,3
+2022-07-01,2022,3,Albania,Europe Other,Home country,217
+2022-07-01,2022,3,Albania,Europe Other,Other country,3
 2022-07-01,2022,3,Algeria,Africa North,Home country,1
 2022-07-01,2022,3,Angola,Africa Sub-Saharan,Home country,1
 2022-07-01,2022,3,Australia,Oceania,Home country,1
+2022-07-01,2022,3,Bangladesh,Asia South,Home country,3
+2022-07-01,2022,3,Barbados,America Central and South,Home country,3
+2022-07-01,2022,3,Belgium,EU 14,Home country,1
+2022-07-01,2022,3,Bosnia and Herzegovina,Europe Other,Home country,1
+2022-07-01,2022,3,Brazil,America Central and South,Home country,9
 2022-07-01,2022,3,Bulgaria,EU 2,EU Member State,1
+2022-07-01,2022,3,Bulgaria,EU 2,Home country,15
+2022-07-01,2022,3,Bulgaria,EU 2,Other country,1
+2022-07-01,2022,3,Canada,America North,Home country,1
+2022-07-01,2022,3,Chile,America Central and South,Home country,2
+2022-07-01,2022,3,China,Asia East,Home country,3
+2022-07-01,2022,3,Croatia,EU Other,Home country,1
+2022-07-01,2022,3,Cuba,America Central and South,Home country,1
+2022-07-01,2022,3,Czech Republic,EU 8,Home country,8
+2022-07-01,2022,3,Czech Republic,EU 8,Other country,1
+2022-07-01,2022,3,Denmark,EU 14,Home country,1
+2022-07-01,2022,3,Ecuador,America Central and South,Home country,1
 2022-07-01,2022,3,Egypt,Africa North,Home country,2
 2022-07-01,2022,3,Estonia,EU 8,Home country,2
+2022-07-01,2022,3,France,EU 14,Home country,2
+2022-07-01,2022,3,"Gambia, The",Africa Sub-Saharan,Home country,4
+2022-07-01,2022,3,Georgia,Europe Other,Home country,1
+2022-07-01,2022,3,Germany,EU 14,Home country,2
+2022-07-01,2022,3,Germany,EU 14,Other country,2
+2022-07-01,2022,3,Ghana,Africa Sub-Saharan,Home country,1
+2022-07-01,2022,3,Greece,EU 14,Home country,14
 2022-07-01,2022,3,Guinea,Africa Sub-Saharan,Home country,1
 2022-07-01,2022,3,Guinea-Bissau,Africa Sub-Saharan,Home country,1
-2022-07-01,2022,3,India,Asia South,EU Member State,1
-2022-07-01,2022,3,Netherlands,EU 14,Home country,10
-2022-07-01,2022,3,Poland,EU 8,Other country,2
-2022-07-01,2022,3,Portugal,EU 14,Other country,1
-2022-07-01,2022,3,Zimbabwe,Africa Sub-Saharan,Home country,8
-2022-07-01,2022,3,Albania,Europe Other,EU Member State,2
-2022-07-01,2022,3,Bangladesh,Asia South,Home country,3
-2022-07-01,2022,3,Brazil,America Central and South,Home country,9
-2022-07-01,2022,3,"Gambia, The",Africa Sub-Saharan,Home country,4
+2022-07-01,2022,3,Hungary,EU 8,Home country,9
 2022-07-01,2022,3,Hungary,EU 8,Other country,1
+2022-07-01,2022,3,India,Asia South,EU Member State,1
+2022-07-01,2022,3,India,Asia South,Home country,4
 2022-07-01,2022,3,Iraq,Middle East,Home country,4
+2022-07-01,2022,3,Italy,EU 14,Home country,16
+2022-07-01,2022,3,Jamaica,America Central and South,Home country,4
 2022-07-01,2022,3,Korea (South),Asia East,Home country,1
 2022-07-01,2022,3,Latvia,EU 8,Home country,17
+2022-07-01,2022,3,Lithuania,EU 8,Home country,63
+2022-07-01,2022,3,Lithuania,EU 8,Other country,1
 2022-07-01,2022,3,Macedonia,Europe Other,Home country,2
+2022-07-01,2022,3,Malaysia,Asia South East,Home country,1
+2022-07-01,2022,3,Moldova,Europe Other,Home country,1
+2022-07-01,2022,3,Morocco,Africa North,Home country,1
+2022-07-01,2022,3,Netherlands,EU 14,Home country,10
 2022-07-01,2022,3,Pakistan,Asia South,Home country,2
 2022-07-01,2022,3,Philippines,Asia South East,Home country,1
-2022-07-01,2022,3,Poland,EU 8,Home country,70
+2022-07-01,2022,3,Poland,EU 8,Home country,73
+2022-07-01,2022,3,Poland,EU 8,Other country,2
 2022-07-01,2022,3,Portugal,EU 14,Home country,28
+2022-07-01,2022,3,Portugal,EU 14,Other country,1
+2022-07-01,2022,3,Romania,EU 2,EU Member State,2
+2022-07-01,2022,3,Romania,EU 2,Home country,180
+2022-07-01,2022,3,Romania,EU 2,Other country,1
+2022-07-01,2022,3,Russia,Europe Other,EU Member State,1
+2022-07-01,2022,3,Russia,Europe Other,Home country,1
+2022-07-01,2022,3,Serbia,Europe Other,Home country,2
 2022-07-01,2022,3,Slovakia,EU 8,EU Member State,1
-2022-07-01,2022,3,Cuba,America Central and South,Home country,1
-2022-07-01,2022,3,Germany,EU 14,Other country,2
-2022-07-01,2022,3,India,Asia South,Home country,4
-2022-07-01,2022,3,Romania,EU 2,EU Member State,1
+2022-07-01,2022,3,Slovakia,EU 8,Home country,18
 2022-07-01,2022,3,Somalia,Africa Sub-Saharan,Home country,1
+2022-07-01,2022,3,Spain,EU 14,Home country,10
+2022-07-01,2022,3,Sweden,EU 14,Home country,3
+2022-07-01,2022,3,Tanzania,Africa Sub-Saharan,Home country,1
+2022-07-01,2022,3,Turkey,Europe Other,Home country,4
+2022-07-01,2022,3,Ukraine,Europe Other,EU Member State,2
+2022-07-01,2022,3,United States,America North,Home country,4
+2022-07-01,2022,3,Vietnam,Asia South East,Home country,19
+2022-07-01,2022,3,Zimbabwe,Africa Sub-Saharan,Home country,8
+2022-10-01,2022,4,Albania,Europe Other,EU Member State,1
+2022-10-01,2022,4,Albania,Europe Other,Home country,183
+2022-10-01,2022,4,Albania,Europe Other,Other country,1
+2022-10-01,2022,4,Algeria,Africa North,Home country,4
+2022-10-01,2022,4,Bangladesh,Asia South,Home country,4
+2022-10-01,2022,4,Barbados,America Central and South,Home country,1
+2022-10-01,2022,4,Belgium,EU 14,Home country,2
+2022-10-01,2022,4,Bosnia and Herzegovina,Europe Other,Home country,1
+2022-10-01,2022,4,Brazil,America Central and South,Home country,6
+2022-10-01,2022,4,Bulgaria,EU 2,Home country,16
+2022-10-01,2022,4,Canada,America North,Home country,1
+2022-10-01,2022,4,Chile,America Central and South,Home country,1
+2022-10-01,2022,4,China,Asia East,Home country,2
+2022-10-01,2022,4,China,Asia East,Other country,1
+2022-10-01,2022,4,Colombia,America Central and South,Home country,3
+2022-10-01,2022,4,Croatia,EU Other,Home country,1
+2022-10-01,2022,4,Cyprus,EU Other,Home country,1
+2022-10-01,2022,4,Cyprus (Northern part of),Europe Other,Home country,2
+2022-10-01,2022,4,Czech Republic,EU 8,Home country,8
+2022-10-01,2022,4,Czech Republic,EU 8,Other country,1
+2022-10-01,2022,4,Denmark,EU 14,Home country,1
+2022-10-01,2022,4,Estonia,EU 8,Home country,1
+2022-10-01,2022,4,France,EU 14,Home country,10
+2022-10-01,2022,4,"Gambia, The",Africa Sub-Saharan,Home country,1
+2022-10-01,2022,4,Georgia,Europe Other,Home country,2
+2022-10-01,2022,4,Germany,EU 14,Home country,4
+2022-10-01,2022,4,Ghana,Africa Sub-Saharan,Home country,1
+2022-10-01,2022,4,Greece,EU 14,Home country,13
+2022-10-01,2022,4,Guinea,Africa Sub-Saharan,Home country,1
+2022-10-01,2022,4,Honduras,America Central and South,Home country,1
+2022-10-01,2022,4,Hungary,EU 8,Home country,6
+2022-10-01,2022,4,India,Asia South,Home country,9
+2022-10-01,2022,4,Iran,Middle East,Home country,2
+2022-10-01,2022,4,Iran,Middle East,Other country,1
+2022-10-01,2022,4,Iraq,Middle East,Home country,9
+2022-10-01,2022,4,Israel,Middle East,EU Member State,1
+2022-10-01,2022,4,Italy,EU 14,Home country,14
+2022-10-01,2022,4,Jamaica,America Central and South,Home country,6
+2022-10-01,2022,4,Japan,Asia East,Home country,1
+2022-10-01,2022,4,Latvia,EU 8,EU Member State,1
+2022-10-01,2022,4,Latvia,EU 8,Home country,21
+2022-10-01,2022,4,Lebanon,Middle East,EU Member State,1
+2022-10-01,2022,4,Lithuania,EU 8,EU Member State,2
+2022-10-01,2022,4,Lithuania,EU 8,Home country,62
+2022-10-01,2022,4,Malaysia,Asia South East,Home country,2
+2022-10-01,2022,4,Mauritius,Africa Sub-Saharan,Home country,1
+2022-10-01,2022,4,Moldova,Europe Other,Home country,1
+2022-10-01,2022,4,Netherlands,EU 14,Home country,12
+2022-10-01,2022,4,New Zealand,Oceania,Home country,1
+2022-10-01,2022,4,Nigeria,Africa Sub-Saharan,Home country,5
+2022-10-01,2022,4,Pakistan,Asia South,Home country,6
+2022-10-01,2022,4,Philippines,Asia South East,Home country,1
+2022-10-01,2022,4,Poland,EU 8,Home country,65
+2022-10-01,2022,4,Poland,EU 8,Other country,1
+2022-10-01,2022,4,Portugal,EU 14,Home country,15
+2022-10-01,2022,4,Romania,EU 2,EU Member State,7
+2022-10-01,2022,4,Romania,EU 2,Home country,170
+2022-10-01,2022,4,Romania,EU 2,Other country,1
+2022-10-01,2022,4,Slovakia,EU 8,Home country,15
+2022-10-01,2022,4,Somalia,Africa Sub-Saharan,Home country,2
+2022-10-01,2022,4,South Africa,Africa Sub-Saharan,Home country,2
+2022-10-01,2022,4,Spain,EU 14,EU Member State,1
+2022-10-01,2022,4,Spain,EU 14,Home country,6
+2022-10-01,2022,4,Sri Lanka,Asia South,Home country,1
+2022-10-01,2022,4,Sudan,Africa North,Home country,1
+2022-10-01,2022,4,Sweden,EU 14,Home country,4
+2022-10-01,2022,4,Turkey,Europe Other,Home country,2
+2022-10-01,2022,4,Ukraine,Europe Other,Home country,1
+2022-10-01,2022,4,United States,America North,Home country,3
+2022-10-01,2022,4,Venezuela,America Central and South,Home country,1
+2022-10-01,2022,4,Vietnam,Asia South East,Home country,28
+2022-10-01,2022,4,Vietnam,Asia South East,Other country,1
+2022-10-01,2022,4,Zimbabwe,Africa Sub-Saharan,Home country,4

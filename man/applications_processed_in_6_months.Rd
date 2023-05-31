@@ -5,7 +5,7 @@
 \alias{applications_processed_in_6_months}
 \title{Asylum applications processed within 6 months}
 \format{
-A data frame with 33 rows and 16 variables:
+A data frame with 34 rows and 16 variables:
 \describe{
   \item{Date}{Date}
   \item{Year}{Year}

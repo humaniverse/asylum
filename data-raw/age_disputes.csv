@@ -3512,3 +3512,81 @@ Date,Year,Quarter,Nationality,Region,Raised or resolved,Raised type / Resolved o
 2022-10-01,2022,4,Vietnam,Asia South East,Raised,Existing asylum application,4
 2022-10-01,2022,4,Vietnam,Asia South East,Resolved,18+,8
 2022-10-01,2022,4,Vietnam,Asia South East,Resolved,Less than 18,6
+2023-01-01,2023,1,Afghanistan,Asia Central,Resolved,18+,101
+2023-01-01,2023,1,Afghanistan,Asia Central,Raised,Asylum application raised in quarter,225
+2023-01-01,2023,1,Afghanistan,Asia Central,Resolved,Less than 18,184
+2023-01-01,2023,1,Afghanistan,Asia Central,Raised,Existing asylum application,29
+2023-01-01,2023,1,Albania,Europe Other,Resolved,18+,1
+2023-01-01,2023,1,Albania,Europe Other,Resolved,Less than 18,4
+2023-01-01,2023,1,Albania,Europe Other,Raised,Asylum application raised in quarter,1
+2023-01-01,2023,1,Albania,Europe Other,Raised,Existing asylum application,1
+2023-01-01,2023,1,Angola,Africa Sub-Saharan,Raised,Existing asylum application,1
+2023-01-01,2023,1,Burkina,Africa Sub-Saharan,Resolved,Less than 18,1
+2023-01-01,2023,1,Chad,Africa Sub-Saharan,Resolved,18+,2
+2023-01-01,2023,1,Chad,Africa Sub-Saharan,Resolved,Less than 18,7
+2023-01-01,2023,1,Chad,Africa Sub-Saharan,Raised,Asylum application raised in quarter,8
+2023-01-01,2023,1,Chad,Africa Sub-Saharan,Raised,Existing asylum application,1
+2023-01-01,2023,1,Congo (Democratic Republic),Africa Sub-Saharan,Resolved,Less than 18,2
+2023-01-01,2023,1,Egypt,Africa North,Resolved,18+,6
+2023-01-01,2023,1,Egypt,Africa North,Resolved,Less than 18,9
+2023-01-01,2023,1,Egypt,Africa North,Raised,Asylum application raised in quarter,19
+2023-01-01,2023,1,Egypt,Africa North,Raised,Existing asylum application,2
+2023-01-01,2023,1,Eritrea,Africa Sub-Saharan,Resolved,18+,33
+2023-01-01,2023,1,Eritrea,Africa Sub-Saharan,Resolved,Less than 18,35
+2023-01-01,2023,1,Eritrea,Africa Sub-Saharan,Raised,Asylum application raised in quarter,55
+2023-01-01,2023,1,Eritrea,Africa Sub-Saharan,Raised,Existing asylum application,4
+2023-01-01,2023,1,Ethiopia,Africa Sub-Saharan,Resolved,18+,3
+2023-01-01,2023,1,Ethiopia,Africa Sub-Saharan,Resolved,Less than 18,5
+2023-01-01,2023,1,Ethiopia,Africa Sub-Saharan,Raised,Asylum application raised in quarter,4
+2023-01-01,2023,1,Ethiopia,Africa Sub-Saharan,Raised,Existing asylum application,1
+2023-01-01,2023,1,"Gambia, The",Africa Sub-Saharan,Resolved,18+,2
+2023-01-01,2023,1,"Gambia, The",Africa Sub-Saharan,Raised,Asylum application raised in quarter,2
+2023-01-01,2023,1,Guinea,Africa Sub-Saharan,Resolved,18+,2
+2023-01-01,2023,1,Guinea,Africa Sub-Saharan,Resolved,Less than 18,2
+2023-01-01,2023,1,Guinea,Africa Sub-Saharan,Raised,Asylum application raised in quarter,2
+2023-01-01,2023,1,Guinea,Africa Sub-Saharan,Raised,Existing asylum application,1
+2023-01-01,2023,1,India,Asia South,Resolved,18+,2
+2023-01-01,2023,1,India,Asia South,Raised,Asylum application raised in quarter,4
+2023-01-01,2023,1,Iran,Middle East,Resolved,18+,24
+2023-01-01,2023,1,Iran,Middle East,Resolved,Less than 18,87
+2023-01-01,2023,1,Iran,Middle East,Raised,Asylum application raised in quarter,39
+2023-01-01,2023,1,Iran,Middle East,Raised,Existing asylum application,12
+2023-01-01,2023,1,Iraq,Middle East,Resolved,18+,9
+2023-01-01,2023,1,Iraq,Middle East,Resolved,Less than 18,23
+2023-01-01,2023,1,Iraq,Middle East,Raised,Asylum application raised in quarter,9
+2023-01-01,2023,1,Iraq,Middle East,Raised,Existing asylum application,5
+2023-01-01,2023,1,Ivory Coast,Africa Sub-Saharan,Raised,Asylum application raised in quarter,1
+2023-01-01,2023,1,Kuwait,Middle East,Resolved,Less than 18,1
+2023-01-01,2023,1,Kuwait,Middle East,Raised,Asylum application raised in quarter,1
+2023-01-01,2023,1,Mali,Africa Sub-Saharan,Resolved,18+,1
+2023-01-01,2023,1,Mali,Africa Sub-Saharan,Raised,Asylum application raised in quarter,1
+2023-01-01,2023,1,Morocco,Africa North,Raised,Asylum application raised in quarter,2
+2023-01-01,2023,1,Morocco,Africa North,Resolved,Less than 18,1
+2023-01-01,2023,1,Nigeria,Africa Sub-Saharan,Resolved,Less than 18,1
+2023-01-01,2023,1,Nigeria,Africa Sub-Saharan,Raised,Existing asylum application,1
+2023-01-01,2023,1,Refugee,Other,Resolved,Less than 18,1
+2023-01-01,2023,1,Sierra Leone,Africa Sub-Saharan,Resolved,18+,1
+2023-01-01,2023,1,Sierra Leone,Africa Sub-Saharan,Raised,Existing asylum application,1
+2023-01-01,2023,1,Somalia,Africa Sub-Saharan,Resolved,18+,1
+2023-01-01,2023,1,Somalia,Africa Sub-Saharan,Resolved,Less than 18,5
+2023-01-01,2023,1,Somalia,Africa Sub-Saharan,Raised,Asylum application raised in quarter,1
+2023-01-01,2023,1,Stateless,Other,Resolved,Less than 18,4
+2023-01-01,2023,1,Stateless,Other,Raised,Asylum application raised in quarter,4
+2023-01-01,2023,1,Stateless,Other,Raised,Existing asylum application,1
+2023-01-01,2023,1,Sudan,Africa North,Resolved,18+,38
+2023-01-01,2023,1,Sudan,Africa North,Resolved,Less than 18,61
+2023-01-01,2023,1,Sudan,Africa North,Raised,Asylum application raised in quarter,58
+2023-01-01,2023,1,Sudan,Africa North,Raised,Existing asylum application,19
+2023-01-01,2023,1,Sudan (South),Africa Sub-Saharan,Resolved,18+,6
+2023-01-01,2023,1,Sudan (South),Africa Sub-Saharan,Resolved,Less than 18,3
+2023-01-01,2023,1,Sudan (South),Africa Sub-Saharan,Raised,Asylum application raised in quarter,9
+2023-01-01,2023,1,Syria,Middle East,Resolved,18+,12
+2023-01-01,2023,1,Syria,Middle East,Resolved,Less than 18,13
+2023-01-01,2023,1,Syria,Middle East,Raised,Asylum application raised in quarter,21
+2023-01-01,2023,1,Syria,Middle East,Raised,Existing asylum application,4
+2023-01-01,2023,1,Turkey,Europe Other,Resolved,Less than 18,1
+2023-01-01,2023,1,Turkey,Europe Other,Raised,Asylum application raised in quarter,2
+2023-01-01,2023,1,Vietnam,Asia South East,Resolved,18+,11
+2023-01-01,2023,1,Vietnam,Asia South East,Resolved,Less than 18,6
+2023-01-01,2023,1,Vietnam,Asia South East,Raised,Asylum application raised in quarter,15
+2023-01-01,2023,1,Vietnam,Asia South East,Raised,Existing asylum application,3

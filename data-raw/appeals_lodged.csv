@@ -7285,3 +7285,122 @@ Date,Year,Quarter,Nationality,Region,Sex,Appeals lodged
 2022-10-01,2022,4,Zambia,Africa Sub-Saharan,Female,1
 2022-10-01,2022,4,Zimbabwe,Africa Sub-Saharan,Female,3
 2022-10-01,2022,4,Zimbabwe,Africa Sub-Saharan,Male,7
+2023-01-01,2023,1,Afghanistan,Asia Central,Female,2
+2023-01-01,2023,1,Afghanistan,Asia Central,Male,17
+2023-01-01,2023,1,Albania,Europe Other,Female,12
+2023-01-01,2023,1,Albania,Europe Other,Male,139
+2023-01-01,2023,1,Algeria,Africa North,Female,6
+2023-01-01,2023,1,Algeria,Africa North,Male,2
+2023-01-01,2023,1,Angola,Africa Sub-Saharan,Female,2
+2023-01-01,2023,1,Angola,Africa Sub-Saharan,Male,1
+2023-01-01,2023,1,Bahrain,Middle East,Male,1
+2023-01-01,2023,1,Bangladesh,Asia South,Female,4
+2023-01-01,2023,1,Bangladesh,Asia South,Male,84
+2023-01-01,2023,1,Botswana,Africa Sub-Saharan,Female,3
+2023-01-01,2023,1,Botswana,Africa Sub-Saharan,Male,2
+2023-01-01,2023,1,Burma,Asia South East,Female,1
+2023-01-01,2023,1,Burundi,Africa Sub-Saharan,Male,2
+2023-01-01,2023,1,Cameroon,Africa Sub-Saharan,Female,4
+2023-01-01,2023,1,Cameroon,Africa Sub-Saharan,Male,2
+2023-01-01,2023,1,Chad,Africa Sub-Saharan,Male,1
+2023-01-01,2023,1,China,Asia East,Female,16
+2023-01-01,2023,1,China,Asia East,Male,18
+2023-01-01,2023,1,Colombia,America Central and South,Female,1
+2023-01-01,2023,1,Colombia,America Central and South,Male,1
+2023-01-01,2023,1,Congo (Democratic Republic),Africa Sub-Saharan,Female,3
+2023-01-01,2023,1,Congo (Democratic Republic),Africa Sub-Saharan,Male,2
+2023-01-01,2023,1,Cuba,America Central and South,Male,1
+2023-01-01,2023,1,Ecuador,America Central and South,Female,1
+2023-01-01,2023,1,Egypt,Africa North,Female,1
+2023-01-01,2023,1,Egypt,Africa North,Male,25
+2023-01-01,2023,1,El Salvador,America Central and South,Female,4
+2023-01-01,2023,1,El Salvador,America Central and South,Male,6
+2023-01-01,2023,1,Eritrea,Africa Sub-Saharan,Female,1
+2023-01-01,2023,1,Eritrea,Africa Sub-Saharan,Male,6
+2023-01-01,2023,1,Ethiopia,Africa Sub-Saharan,Female,8
+2023-01-01,2023,1,Ethiopia,Africa Sub-Saharan,Male,10
+2023-01-01,2023,1,"Gambia, The",Africa Sub-Saharan,Female,2
+2023-01-01,2023,1,"Gambia, The",Africa Sub-Saharan,Male,1
+2023-01-01,2023,1,Georgia,Europe Other,Female,1
+2023-01-01,2023,1,Georgia,Europe Other,Male,2
+2023-01-01,2023,1,Ghana,Africa Sub-Saharan,Female,3
+2023-01-01,2023,1,Ghana,Africa Sub-Saharan,Male,2
+2023-01-01,2023,1,Guinea,Africa Sub-Saharan,Male,6
+2023-01-01,2023,1,Honduras,America Central and South,Female,3
+2023-01-01,2023,1,Honduras,America Central and South,Male,3
+2023-01-01,2023,1,Hong Kong,Asia East,Female,2
+2023-01-01,2023,1,India,Asia South,Female,4
+2023-01-01,2023,1,India,Asia South,Male,4
+2023-01-01,2023,1,Iran,Middle East,Female,5
+2023-01-01,2023,1,Iran,Middle East,Male,161
+2023-01-01,2023,1,Iraq,Middle East,Female,11
+2023-01-01,2023,1,Iraq,Middle East,Male,179
+2023-01-01,2023,1,Ivory Coast,Africa Sub-Saharan,Male,2
+2023-01-01,2023,1,Jamaica,America Central and South,Male,1
+2023-01-01,2023,1,Kazakhstan,Asia Central,Female,1
+2023-01-01,2023,1,Kenya,Africa Sub-Saharan,Female,2
+2023-01-01,2023,1,Kenya,Africa Sub-Saharan,Male,1
+2023-01-01,2023,1,Kuwait,Middle East,Male,2
+2023-01-01,2023,1,Kyrgyzstan,Asia Central,Male,1
+2023-01-01,2023,1,Lebanon,Middle East,Male,2
+2023-01-01,2023,1,Libya,Africa North,Male,2
+2023-01-01,2023,1,Malawi,Africa Sub-Saharan,Female,1
+2023-01-01,2023,1,Malaysia,Asia South East,Female,5
+2023-01-01,2023,1,Malaysia,Asia South East,Male,1
+2023-01-01,2023,1,Mauritius,Africa Sub-Saharan,Female,1
+2023-01-01,2023,1,Mexico,America Central and South,Male,2
+2023-01-01,2023,1,Morocco,Africa North,Female,2
+2023-01-01,2023,1,Morocco,Africa North,Male,9
+2023-01-01,2023,1,Namibia,Africa Sub-Saharan,Female,20
+2023-01-01,2023,1,Namibia,Africa Sub-Saharan,Male,11
+2023-01-01,2023,1,Nepal,Asia South,Female,3
+2023-01-01,2023,1,Nepal,Asia South,Male,18
+2023-01-01,2023,1,Nicaragua,America Central and South,Female,1
+2023-01-01,2023,1,Nigeria,Africa Sub-Saharan,Female,21
+2023-01-01,2023,1,Nigeria,Africa Sub-Saharan,Male,11
+2023-01-01,2023,1,Occupied Palestinian Territories,Middle East,Male,8
+2023-01-01,2023,1,Other and unknown,Other,Male,1
+2023-01-01,2023,1,Pakistan,Asia South,Female,14
+2023-01-01,2023,1,Pakistan,Asia South,Male,71
+2023-01-01,2023,1,Philippines,Asia South East,Female,27
+2023-01-01,2023,1,Russia,Europe Other,Female,4
+2023-01-01,2023,1,Russia,Europe Other,Male,4
+2023-01-01,2023,1,Saudi Arabia,Middle East,Male,1
+2023-01-01,2023,1,Senegal,Africa Sub-Saharan,Male,1
+2023-01-01,2023,1,Sierra Leone,Africa Sub-Saharan,Female,1
+2023-01-01,2023,1,Sierra Leone,Africa Sub-Saharan,Male,4
+2023-01-01,2023,1,Somalia,Africa Sub-Saharan,Female,3
+2023-01-01,2023,1,Somalia,Africa Sub-Saharan,Male,19
+2023-01-01,2023,1,South Africa,Africa Sub-Saharan,Female,3
+2023-01-01,2023,1,South Africa,Africa Sub-Saharan,Male,1
+2023-01-01,2023,1,Sri Lanka,Asia South,Female,10
+2023-01-01,2023,1,Sri Lanka,Asia South,Male,22
+2023-01-01,2023,1,St. Kitts and Nevis,America Central and South,Male,1
+2023-01-01,2023,1,St. Lucia,America Central and South,Female,2
+2023-01-01,2023,1,Stateless,Other,Male,2
+2023-01-01,2023,1,Sudan,Africa North,Female,1
+2023-01-01,2023,1,Sudan,Africa North,Male,77
+2023-01-01,2023,1,Sudan (South),Africa Sub-Saharan,Male,1
+2023-01-01,2023,1,Syria,Middle East,Male,3
+2023-01-01,2023,1,Tajikistan,Asia Central,Male,2
+2023-01-01,2023,1,Tanzania,Africa Sub-Saharan,Male,1
+2023-01-01,2023,1,Thailand,Asia South East,Female,9
+2023-01-01,2023,1,Thailand,Asia South East,Male,1
+2023-01-01,2023,1,Togo,Africa Sub-Saharan,Male,1
+2023-01-01,2023,1,Trinidad and Tobago,America Central and South,Female,2
+2023-01-01,2023,1,Tunisia,Africa North,Male,3
+2023-01-01,2023,1,Turkey,Europe Other,Female,1
+2023-01-01,2023,1,Turkey,Europe Other,Male,16
+2023-01-01,2023,1,Uganda,Africa Sub-Saharan,Male,1
+2023-01-01,2023,1,Ukraine,Europe Other,Male,1
+2023-01-01,2023,1,United States,America North,Female,2
+2023-01-01,2023,1,Uruguay,America Central and South,Male,1
+2023-01-01,2023,1,Uzbekistan,Asia Central,Female,1
+2023-01-01,2023,1,Uzbekistan,Asia Central,Male,1
+2023-01-01,2023,1,Vietnam,Asia South East,Female,9
+2023-01-01,2023,1,Vietnam,Asia South East,Male,34
+2023-01-01,2023,1,Yemen,Middle East,Female,3
+2023-01-01,2023,1,Yemen,Middle East,Male,10
+2023-01-01,2023,1,Zambia,Africa Sub-Saharan,Female,1
+2023-01-01,2023,1,Zimbabwe,Africa Sub-Saharan,Female,6
+2023-01-01,2023,1,Zimbabwe,Africa Sub-Saharan,Male,2

@@ -170,7 +170,7 @@ nrpf_change_of_conditions_decisions <-
   ) |>
   relocate(Date, Year, Quarter) |>
   # Convert to proportion
-  mutate(`Acceptance Rate5` = convert_to_percent(`Acceptance Rate5`))
+  mutate(`Acceptance Rate6` = convert_to_percent(`Acceptance Rate6`))
 
 # Remove footnotes from column names
 names(nrpf_change_of_conditions_decisions) <-
@@ -201,6 +201,8 @@ nrpf_change_of_conditions_nationality <-
   nrpf_change_of_conditions_nationality |>
   janitor::remove_empty() |>
   as_tibble()
+
+names(nrpf_change_of_conditions_nationality)[1] <- "Nationality"
 
 # ---- NRPF - Destitution Change of Conditions Gender of Applicants ----
 nrpf_change_of_conditions_gender <-

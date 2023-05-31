@@ -5,7 +5,7 @@
 \alias{appeal_representation_rate}
 \title{Appeal Representation Rates}
 \format{
-A data frame with 44 rows and 7 variables:
+A data frame with 45 rows and 7 variables:
 \describe{
   \item{Date}{Date}
   \item{Year}{Year}

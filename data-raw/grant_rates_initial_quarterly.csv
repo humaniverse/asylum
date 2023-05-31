@@ -9767,3 +9767,102 @@ Date,Year,Quarter,Nationality,Region,Grant,Refused,Initial grant rate
 2022-10-01,2022,2022 Q4,Yemen,Middle East,76,1,0.987012987012987
 2022-10-01,2022,2022 Q4,Zambia,Africa Sub-Saharan,NA,1,NA
 2022-10-01,2022,2022 Q4,Zimbabwe,Africa Sub-Saharan,13,12,0.52
+2023-01-01,2023,2023 Q1,Afghanistan,Asia Central,525,13,0.9758364312267658
+2023-01-01,2023,2023 Q1,Albania,Europe Other,113,375,0.23155737704918034
+2023-01-01,2023,2023 Q1,Algeria,Africa North,3,7,0.3
+2023-01-01,2023,2023 Q1,Angola,Africa Sub-Saharan,1,4,0.2
+2023-01-01,2023,2023 Q1,Antigua and Barbuda,America Central and South,1,NA,NA
+2023-01-01,2023,2023 Q1,Bahrain,Middle East,1,1,0.5
+2023-01-01,2023,2023 Q1,Bangladesh,Asia South,32,88,0.26666666666666666
+2023-01-01,2023,2023 Q1,Belarus,Europe Other,NA,1,NA
+2023-01-01,2023,2023 Q1,Bolivia,America Central and South,1,1,0.5
+2023-01-01,2023,2023 Q1,Botswana,Africa Sub-Saharan,NA,5,NA
+2023-01-01,2023,2023 Q1,Brazil,America Central and South,NA,22,NA
+2023-01-01,2023,2023 Q1,British overseas citizens,Other,1,NA,NA
+2023-01-01,2023,2023 Q1,Burundi,Africa Sub-Saharan,1,1,0.5
+2023-01-01,2023,2023 Q1,Cameroon,Africa Sub-Saharan,9,5,0.6428571428571429
+2023-01-01,2023,2023 Q1,Central African Republic,Africa Sub-Saharan,1,NA,NA
+2023-01-01,2023,2023 Q1,Chad,Africa Sub-Saharan,17,4,0.8095238095238095
+2023-01-01,2023,2023 Q1,China,Asia East,9,73,0.10975609756097561
+2023-01-01,2023,2023 Q1,Colombia,America Central and South,NA,1,NA
+2023-01-01,2023,2023 Q1,Congo (Democratic Republic),Africa Sub-Saharan,3,2,0.6
+2023-01-01,2023,2023 Q1,Cuba,America Central and South,NA,1,NA
+2023-01-01,2023,2023 Q1,Dominica,America Central and South,NA,1,NA
+2023-01-01,2023,2023 Q1,Ecuador,America Central and South,NA,1,NA
+2023-01-01,2023,2023 Q1,Egypt,Africa North,22,17,0.5641025641025641
+2023-01-01,2023,2023 Q1,El Salvador,America Central and South,52,7,0.8813559322033898
+2023-01-01,2023,2023 Q1,Eritrea,Africa Sub-Saharan,544,3,0.9945155393053017
+2023-01-01,2023,2023 Q1,Ethiopia,Africa Sub-Saharan,32,15,0.6808510638297872
+2023-01-01,2023,2023 Q1,France,EU 14,NA,2,NA
+2023-01-01,2023,2023 Q1,Gabon,Africa Sub-Saharan,1,NA,NA
+2023-01-01,2023,2023 Q1,"Gambia, The",Africa Sub-Saharan,8,3,0.7272727272727273
+2023-01-01,2023,2023 Q1,Georgia,Europe Other,3,4,0.42857142857142855
+2023-01-01,2023,2023 Q1,Ghana,Africa Sub-Saharan,3,8,0.2727272727272727
+2023-01-01,2023,2023 Q1,Guatemala,America Central and South,NA,1,NA
+2023-01-01,2023,2023 Q1,Guinea,Africa Sub-Saharan,8,3,0.7272727272727273
+2023-01-01,2023,2023 Q1,Honduras,America Central and South,8,9,0.47058823529411764
+2023-01-01,2023,2023 Q1,Hong Kong,Asia East,1,1,0.5
+2023-01-01,2023,2023 Q1,India,Asia South,3,72,0.04
+2023-01-01,2023,2023 Q1,Iran,Middle East,419,167,0.7150170648464164
+2023-01-01,2023,2023 Q1,Iraq,Middle East,149,167,0.47151898734177217
+2023-01-01,2023,2023 Q1,Jamaica,America Central and South,1,1,0.5
+2023-01-01,2023,2023 Q1,Jordan,Middle East,NA,1,NA
+2023-01-01,2023,2023 Q1,Kazakhstan,Asia Central,2,1,0.6666666666666666
+2023-01-01,2023,2023 Q1,Kenya,Africa Sub-Saharan,4,6,0.4
+2023-01-01,2023,2023 Q1,Kosovo,Europe Other,1,NA,NA
+2023-01-01,2023,2023 Q1,Kuwait,Middle East,9,2,0.8181818181818182
+2023-01-01,2023,2023 Q1,Lebanon,Middle East,3,3,0.5
+2023-01-01,2023,2023 Q1,Libya,Africa North,26,NA,NA
+2023-01-01,2023,2023 Q1,Lithuania,EU 8,NA,4,NA
+2023-01-01,2023,2023 Q1,Malawi,Africa Sub-Saharan,NA,1,NA
+2023-01-01,2023,2023 Q1,Malaysia,Asia South East,3,11,0.21428571428571427
+2023-01-01,2023,2023 Q1,Mali,Africa Sub-Saharan,1,NA,NA
+2023-01-01,2023,2023 Q1,Mauritius,Africa Sub-Saharan,NA,2,NA
+2023-01-01,2023,2023 Q1,Mexico,America Central and South,NA,1,NA
+2023-01-01,2023,2023 Q1,Morocco,Africa North,3,11,0.21428571428571427
+2023-01-01,2023,2023 Q1,Namibia,Africa Sub-Saharan,3,24,0.1111111111111111
+2023-01-01,2023,2023 Q1,Nepal,Asia South,NA,25,NA
+2023-01-01,2023,2023 Q1,Nicaragua,America Central and South,2,1,0.6666666666666666
+2023-01-01,2023,2023 Q1,Nigeria,Africa Sub-Saharan,26,34,0.43333333333333335
+2023-01-01,2023,2023 Q1,Occupied Palestinian Territories,Middle East,11,4,0.7333333333333333
+2023-01-01,2023,2023 Q1,Other and Unknown,Other,6,3,0.6666666666666666
+2023-01-01,2023,2023 Q1,Other and unknown,Other,NA,2,NA
+2023-01-01,2023,2023 Q1,Pakistan,Asia South,99,84,0.5409836065573771
+2023-01-01,2023,2023 Q1,Philippines,Asia South East,3,25,0.10714285714285714
+2023-01-01,2023,2023 Q1,Poland,EU 8,NA,1,NA
+2023-01-01,2023,2023 Q1,Portugal,EU 14,NA,1,NA
+2023-01-01,2023,2023 Q1,Qatar,Middle East,3,NA,NA
+2023-01-01,2023,2023 Q1,Refugee,Other,49,NA,NA
+2023-01-01,2023,2023 Q1,Romania,EU 2,NA,2,NA
+2023-01-01,2023,2023 Q1,Russia,Europe Other,15,7,0.6818181818181818
+2023-01-01,2023,2023 Q1,Saudi Arabia,Middle East,11,1,0.9166666666666666
+2023-01-01,2023,2023 Q1,Senegal,Africa Sub-Saharan,1,NA,NA
+2023-01-01,2023,2023 Q1,Sierra Leone,Africa Sub-Saharan,6,4,0.6
+2023-01-01,2023,2023 Q1,Somalia,Africa Sub-Saharan,43,17,0.7166666666666667
+2023-01-01,2023,2023 Q1,South Africa,Africa Sub-Saharan,1,4,0.2
+2023-01-01,2023,2023 Q1,Sri Lanka,Asia South,34,31,0.5230769230769231
+2023-01-01,2023,2023 Q1,St. Kitts and Nevis,America Central and South,NA,1,NA
+2023-01-01,2023,2023 Q1,St. Lucia,America Central and South,NA,1,NA
+2023-01-01,2023,2023 Q1,Stateless,Other,21,2,0.9130434782608695
+2023-01-01,2023,2023 Q1,Sudan,Africa North,288,58,0.8323699421965318
+2023-01-01,2023,2023 Q1,Sudan (South),Africa Sub-Saharan,7,NA,NA
+2023-01-01,2023,2023 Q1,Surinam,America Central and South,NA,1,NA
+2023-01-01,2023,2023 Q1,Syria,Middle East,438,4,0.9909502262443439
+2023-01-01,2023,2023 Q1,Tajikistan,Asia Central,5,4,0.5555555555555556
+2023-01-01,2023,2023 Q1,Tanzania,Africa Sub-Saharan,4,1,0.8
+2023-01-01,2023,2023 Q1,Thailand,Asia South East,2,6,0.25
+2023-01-01,2023,2023 Q1,Togo,Africa Sub-Saharan,NA,2,NA
+2023-01-01,2023,2023 Q1,Trinidad and Tobago,America Central and South,2,2,0.5
+2023-01-01,2023,2023 Q1,Tunisia,Africa North,1,2,0.3333333333333333
+2023-01-01,2023,2023 Q1,Turkey,Europe Other,74,20,0.7872340425531915
+2023-01-01,2023,2023 Q1,Uganda,Africa Sub-Saharan,4,2,0.6666666666666666
+2023-01-01,2023,2023 Q1,Ukraine,Europe Other,2,NA,NA
+2023-01-01,2023,2023 Q1,United Arab Emirates,Middle East,1,NA,NA
+2023-01-01,2023,2023 Q1,United States,America North,1,2,0.3333333333333333
+2023-01-01,2023,2023 Q1,Uruguay,America Central and South,NA,2,NA
+2023-01-01,2023,2023 Q1,Uzbekistan,Asia Central,1,NA,NA
+2023-01-01,2023,2023 Q1,Venezuela,America Central and South,1,NA,NA
+2023-01-01,2023,2023 Q1,Vietnam,Asia South East,87,44,0.6641221374045801
+2023-01-01,2023,2023 Q1,Yemen,Middle East,40,1,0.975609756097561
+2023-01-01,2023,2023 Q1,Zambia,Africa Sub-Saharan,1,1,0.5
+2023-01-01,2023,2023 Q1,Zimbabwe,Africa Sub-Saharan,8,5,0.6153846153846154

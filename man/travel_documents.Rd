@@ -5,7 +5,7 @@
 \alias{travel_documents}
 \title{Travel documents}
 \format{
-A data frame with 51 rows and 5 variables:
+A data frame with 52 rows and 5 variables:
 \describe{
   \item{Date}{Date}
   \item{Year}{Year}
