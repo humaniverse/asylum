@@ -897,8 +897,97 @@
 #'   \item{Number of detections}{Number of detections}
 #'   ...
 #' }
-#' @source \url{https://www.gov.uk/government/statistical-data-sets/immigration-system-statistics-data-tables-year-ending-december-2022#detention}
+#' @source \url{https://www.gov.uk/government/statistical-data-sets/irregular-migration-detailed-dataset-and-summary-tables}
 "irregular_migration"
+
+#' Number of asylum applications from small boat arrivals
+#'
+#' Number of asylum applications from small boat arrivals by asylum application,
+#' nationality, region, applicant type, sex and age group.
+#'
+#' @format A data frame with 3,252 rows and 10 variables:
+#' \describe{
+#'   \item{Date}{Date}
+#'   \item{Year}{Year}
+#'   \item{Quarter}{Quarter}
+#'   \item{Asylum application}{Was an asylum application raised?}
+#'   \item{Nationality}{Nationality}
+#'   \item{Region}{Region}
+#'   \item{Applicant type}{Main applicant or dependant}
+#'   \item{Sex}{Sex}
+#'   \item{Age Group}{Age Group}
+#'   \item{Applications}{Number of applications}
+#'   ...
+#' }
+#' @source \url{https://www.gov.uk/government/statistical-data-sets/irregular-migration-detailed-dataset-and-summary-tables}
+"small_boat_asylum_applications"
+
+#' Initial decisions on asylum applications from small boat arrivals
+#'
+#' Initial decisions on asylum applications from small boat arrivals by
+#' nationality, region, asylum case outcome, asylum case outcome group,
+#' applicant type, sex and age group.
+#'
+#' @format A data frame with 4,365 rows and 11 variables:
+#' \describe{
+#'   \item{Date}{Date}
+#'   \item{Year}{Year}
+#'   \item{Quarter}{Quarter}
+#'   \item{Nationality}{Nationality}
+#'   \item{Region}{Region}
+#'   \item{Asylum Case Outcome}{Specific outcome of the asylum case}
+#'   \item{Asylum Case Outcome Group}{Type of outcome}
+#'   \item{Applicant type}{Main applicant or dependant}
+#'   \item{Sex}{Sex}
+#'   \item{Age Group}{Age Group}
+#'   \item{Decisions}{Number of decisions}
+#'   ...
+#' }
+#' @source \url{https://www.gov.uk/government/statistical-data-sets/irregular-migration-detailed-dataset-and-summary-tables}
+"small_boat_initial_decisions"
+
+#' Number of NRM referrals from small boat arrivals
+#'
+#' Number of NRM referrals from small boat arrivals by NRM referral,
+#' nationality, region, sex and age group.
+#'
+#' @format A data frame with 2,890 rows and 9 variables:
+#' \describe{
+#'   \item{Date}{Date}
+#'   \item{Year}{Year}
+#'   \item{Quarter}{Quarter}
+#'   \item{NRM referral}{Was an NRM referral raised?}
+#'   \item{Nationality}{Nationality}
+#'   \item{Region}{Region}
+#'   \item{Sex}{Sex}
+#'   \item{Age Group}{Age Group}
+#'   \item{Referrals}{Number of referrals}
+#'   ...
+#' }
+#' @source \url{https://www.gov.uk/government/statistical-data-sets/irregular-migration-detailed-dataset-and-summary-tables}
+"small_boat_NRM_referrals"
+
+#' Outcomes of NRM referrals from small boat arrivals
+#'
+#' Outcomes of NRM referrals from small boat arrivals by nationality, region,
+#' sex, age group, NRM case outcome and NRM case outcome group.
+#'
+#' @format A data frame with 2,321 rows and 10 variables:
+#' \describe{
+#'   \item{Date}{Date}
+#'   \item{Year}{Year}
+#'   \item{Quarter}{Quarter}
+#'   \item{Nationality}{Nationality}
+#'   \item{Region}{Region}
+#'   \item{Sex}{Sex}
+#'   \item{Age Group}{Age Group}
+#'   \item{NRM Case Outcome}{Specific outcome of the NRM case}
+#'   \item{NRM Case Outcome Group}{Type of outcome}
+#'   \item{Referrals}{Number of referrals}
+#'   ...
+#' }
+#' @source \url{https://www.gov.uk/government/statistical-data-sets/irregular-migration-detailed-dataset-and-summary-tables}
+"small_boat_NRM_outcomes"
 
 #' Grant rates at initial decision (quarterly)
 #'

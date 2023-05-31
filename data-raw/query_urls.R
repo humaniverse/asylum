@@ -50,7 +50,7 @@ query_urls <-
     "returns", "Returns", "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1136463/returns-datasets-dec-2022.xlsx", "https://www.gov.uk/government/statistical-data-sets/returns-and-detention-datasets",
 
     # Irregular migration
-    "irrgular_migration", "Irregular migration detailed dataset", "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1137078/irregular-migration-to-the-UK-detailed-dataset-year-ending-December-2022.xlsx", "https://www.gov.uk/government/statistical-data-sets/irregular-migration-detailed-dataset-and-summary-tables"
+    "irrgular_migration", "Irregular migration detailed dataset", "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1158730/irregular-migration-to-the-UK-detailed-dataset-year-ending-march-2023.xlsx", "https://www.gov.uk/government/statistical-data-sets/irregular-migration-detailed-dataset-and-summary-tables"
   )
 
 usethis::use_data(query_urls, internal = TRUE, overwrite = TRUE)
