@@ -1,11 +1,12 @@
 ## Release summary
-This is a minor release in the 1.0.* series:
+This is a major release in the 1.1.* series:
 
-* Updated all data to the latest datasets (December 2022).
+* Added several new datasets.
+* Updated all data to the latest datasets (March 2023).
 
 ## Test environments
-* local Windows 10 install, R 4.1.0
-* MacOS BigSur 11.5, R 4.1.0
+* local Windows 10 install, R 4.2.2
+* MacOS BigSur 11.5, R 4.2.2
 * win-builder (devel)
 
 ## R CMD check results

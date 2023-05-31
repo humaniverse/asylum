@@ -15,7 +15,7 @@ status](https://www.r-pkg.org/badges/version/asylum)](https://cran.r-project.org
 The `asylum` package provides easy access to asylum and resettlement
 datasets for the UK, published by the Home Office.
 
-The current release uses the most recent data from December 2022.
+The current release uses the most recent data from March 2023.
 
 ## Installation
 
@@ -57,7 +57,7 @@ asylum::awaiting_decision |>
 #> # A tibble: 1 × 1
 #>   `Total applications awaiting a decision`
 #>                                      <dbl>
-#> 1                                    13179
+#> 1                                    14110
 ```
 
 ## Getting help
