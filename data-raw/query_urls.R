@@ -54,7 +54,13 @@ query_urls <-
     "irrgular_migration", "Irregular migration detailed dataset", "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1158730/irregular-migration-to-the-UK-detailed-dataset-year-ending-march-2023.xlsx", "https://www.gov.uk/government/statistical-data-sets/irregular-migration-detailed-dataset-and-summary-tables",
 
     # Immigration enforcement
-    "immigration_enforcement", "Immigration Enforcement data: Q1 2023", "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1158618/IE_Q1_2023_Published.ods", "https://www.gov.uk/government/collections/migration-transparency-data#immigration-enforcement"
+    "immigration_enforcement", "Immigration Enforcement data: Q1 2023", "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1158618/IE_Q1_2023_Published.ods", "https://www.gov.uk/government/collections/migration-transparency-data#immigration-enforcement",
+
+    # National Referral Mechanism (NRM)
+    "nrm_2023_q1", "Modern Slavery: National Referral Mechanism and Duty to Notify statistics UK, January to March 2023", "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1154119/modern-slavery-national-referral-mechanism-statistics-uk-quarter-1-2023-january-to-march-tables.ods", "https://www.gov.uk/government/collections/national-referral-mechanism-statistics",
+    "nrm_2022_q4", "Modern Slavery: National Referral Mechanism and Duty to Notify statistics UK, October to December 2022", "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1139166/national-referral-mechanism-statistics-uk-quarter-4-2022-october-to-december-tables.ods", "https://www.gov.uk/government/collections/national-referral-mechanism-statistics",
+    "nrm_2022_q3", "Modern Slavery: National Referral Mechanism and Duty to Notify statistics UK, July to September 2022", "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1114337/national-referral-mechanism-statistics-uk-quarter-3-2022-july-to-september-tables.ods", "https://www.gov.uk/government/collections/national-referral-mechanism-statistics",
+    "nrm_2022_q2", "Modern Slavery: National Referral Mechanism and Duty to Notify statistics UK, April to June 2022", "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1096415/national-referral-mechanism-statistics-uk-quarter-2-2022-april-to-june-tables.ods", "https://www.gov.uk/government/collections/national-referral-mechanism-statistics"
   )
 
 usethis::use_data(query_urls, internal = TRUE, overwrite = TRUE)
