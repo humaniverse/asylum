@@ -217,6 +217,36 @@ nrm_reasonable_grounds <-
 
   fill(Year)
 
+# ---- Table 19: NRM conclusive grounds decisions made by both competent authorities by quarter, outcome and age at exploitation ----
+nrm_conclusive_grounds_raw <-
+  read_ods(tf, sheet = "Table_19", skip = 6)
+
+names(nrm_conclusive_grounds_raw) <- c(
+  "Year",
+  "Quarter",
+  "Adult (18 or over) - Negative conclusive grounds",
+  "Adult (18 or over) - Positive conclusive grounds",
+  "Adult (18 or over) - Total",
+  "Child (17 or under) - Negative conclusive grounds",
+  "Child (17 or under) - Positive conclusive grounds",
+  "Child (17 or under) - Total",
+  "Age not specified or unknown - Negative conclusive grounds",
+  "Age not specified or unknown - Positive conclusive grounds",
+  "Age not specified or unknown - Total",
+  "Total"
+)
+
+nrm_conclusive_grounds <-
+  nrm_conclusive_grounds_raw |>
+  as_tibble() |>
+
+  # The first row of each year is a total - make that clear in the data
+  mutate(
+    Quarter = if_else(!is.na(Year), "Total", Quarter)
+  ) |>
+
+  fill(Year)
+
 # ---- Save output to data/ folder ----
 usethis::use_data(nrm_referrals_2023_q1, overwrite = TRUE)
 readr::write_csv(nrm_referrals_2023_q1, "data-raw/nrm_referrals_2023_q1.csv")
@@ -235,3 +265,6 @@ readr::write_csv(nrm_referrals_la_2023_q1, "data-raw/nrm_referrals_local-authori
 
 usethis::use_data(nrm_reasonable_grounds, overwrite = TRUE)
 readr::write_csv(nrm_reasonable_grounds, "data-raw/nrm_reasonable_grounds.csv")
+
+usethis::use_data(nrm_conclusive_grounds, overwrite = TRUE)
+readr::write_csv(nrm_conclusive_grounds, "data-raw/nrm_conclusive_grounds.csv")
