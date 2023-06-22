@@ -187,6 +187,36 @@ nrm_referrals_2023_q1 <-
     nrm_referrals_la_2023_q1
   )
 
+# ---- Table 16: NRM reasonable grounds decisions made by both competent authorities by quarter, outcome and age at exploitation ----
+nrm_reasonable_grounds_raw <-
+  read_ods(tf, sheet = "Table_16", skip = 6)
+
+names(nrm_reasonable_grounds_raw) <- c(
+  "Year",
+  "Quarter",
+  "Adult (18 or over) - Negative reasonable grounds",
+  "Adult (18 or over) - Positive reasonable grounds",
+  "Adult (18 or over) - Total",
+  "Child (17 or under) - Negative reasonable grounds",
+  "Child (17 or under) - Positive reasonable grounds",
+  "Child (17 or under) - Total",
+  "Age not specified or unknown - Negative reasonable grounds",
+  "Age not specified or unknown - Positive reasonable grounds",
+  "Age not specified or unknown - Total",
+  "Total"
+)
+
+nrm_reasonable_grounds <-
+  nrm_reasonable_grounds_raw |>
+  as_tibble() |>
+
+  # The first row of each year is a total - make that clear in the data
+  mutate(
+    Quarter = if_else(!is.na(Year), "Total", Quarter)
+  ) |>
+
+  fill(Year)
+
 # ---- Save output to data/ folder ----
 usethis::use_data(nrm_referrals_2023_q1, overwrite = TRUE)
 readr::write_csv(nrm_referrals_2023_q1, "data-raw/nrm_referrals_2023_q1.csv")
@@ -202,3 +232,6 @@ readr::write_csv(nrm_referrals_police_2023_q1, "data-raw/nrm_referrals_police_20
 
 usethis::use_data(nrm_referrals_la_2023_q1, overwrite = TRUE)
 readr::write_csv(nrm_referrals_la_2023_q1, "data-raw/nrm_referrals_local-authority_2023_q1.csv")
+
+usethis::use_data(nrm_reasonable_grounds, overwrite = TRUE)
+readr::write_csv(nrm_reasonable_grounds, "data-raw/nrm_reasonable_grounds.csv")
