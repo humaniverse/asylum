@@ -810,6 +810,20 @@
 #' @source \url{https://www.gov.uk/government/statistical-data-sets/returns-and-detention-datasets}
 "returns_offenders_by_destination"
 
+#' Returns from the UK, by nationality, type of return, and asylum/non-asylum
+#'
+#' @format A data frame with 22 rows and 5 variables:
+#' \describe{
+#'   \item{Category}{Asylum-related or non-asylum-related return?}
+#'   \item{Nationality}{Nationality of people being returned}
+#'   \item{Enforced returns}{Number of enforced returns}
+#'   \item{Voluntary returns}{Number of voluntary returns}
+#'   \item{Refused entry at port and subsequently departed}{Number refused entry at port and subsequently departed}
+#'   ...
+#' }
+#' @source \url{https://www.gov.uk/government/statistical-data-sets/returns-and-detention-datasets}
+"returns_asylum"
+
 #' People entering, leaving and in detention by asylum and non-asylum
 #'
 #' People entering, leaving and in detention by asylum and non-asylum, 2010 to 2022.
