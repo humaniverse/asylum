@@ -18,6 +18,7 @@ GET(
   write_disk(tf <- tempfile())
 )
 
+# - Returns from the UK, by nationality, type of return, and asylum and non-asylum -
 returns_asylum <-
   read_ods(tf, sheet = "Ret_04", skip = 1)
 
@@ -47,6 +48,25 @@ returns_asylum <-
   bind_rows(returns_asylum_asy, returns_asylum_non) |>
   filter(Nationality != "Total") |>
   mutate(Nationality = if_else(str_detect(Nationality, "^Other"), "Other", Nationality))
+
+# - Returns over time -
+returns_asylum_longitudinal <-
+  read_ods(tf, sheet = "Ret_05", skip = 1)
+
+returns_asylum_longitudinal <-
+  returns_asylum_longitudinal |>
+  as_tibble() |>
+  filter(str_detect(`Date of return`, "^20[0-9]+")) |>
+  mutate(`Date of return` = as.integer(`Date of return`)) |>
+
+  select(-contains("total")) |>
+  pivot_longer(cols = -`Date of return`) |>
+
+  separate_wider_delim(name, delim = ",", names = c("Type", "Category")) |>
+
+  mutate(Category = if_else(Category == " Asylum [Note 4]", "Asylum", Category)) |>
+
+  pivot_wider(names_from = Type, values_from = value)
 
 # ---- Details returns data ----
 query_url <-
@@ -103,6 +123,9 @@ returns_offenders_by_destination <-
 # ---- Save output to data/ folder ----
 usethis::use_data(returns_asylum, overwrite = TRUE)
 readr::write_csv(returns_asylum, "data-raw/returns_asylum.csv")
+
+usethis::use_data(returns_asylum_longitudinal, overwrite = TRUE)
+readr::write_csv(returns_asylum_longitudinal, "data-raw/returns_asylum_longitudinal.csv")
 
 usethis::use_data(returns, overwrite = TRUE)
 readr::write_csv(returns, "data-raw/returns.csv")
