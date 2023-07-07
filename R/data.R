@@ -1516,6 +1516,18 @@
 #' @source \url{https://www.gov.uk/government/collections/national-referral-mechanism-statistics}
 "nrm_duty_to_notify_2023_q1"
 
+#' Referrals received via the Duty to Notify process, by quarter
+#'
+#' @format A data frame with 30 rows and 3 variables:
+#' \describe{
+#'   \item{Year}{Year}
+#'   \item{Quarter}{Quarter}
+#'   \item{Total}{Number of referrals via duty to notify}
+#'   ...
+#' }
+#' @source \url{https://www.gov.uk/government/collections/national-referral-mechanism-statistics}
+"nrm_duty_to_notify_longitudinal"
+
 #' NRM reasonable grounds decisions
 #'
 #' NRM reasonable grounds decisions made by both competent authorities by

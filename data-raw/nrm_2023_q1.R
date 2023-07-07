@@ -252,6 +252,16 @@ nrm_duty_to_notify_2023_q1 <-
   read_ods(tf, sheet = "Table_26", skip = 5) |>
   as_tibble()
 
+# ---- Table 25: DtN reports by quarter ----
+nrm_duty_to_notify_longitudinal <-
+  read_ods(tf, sheet = "Table_25", skip = 5) |>
+  as_tibble()
+
+nrm_duty_to_notify_longitudinal <-
+  nrm_duty_to_notify_longitudinal |>
+  fill(Year) |>
+  filter(!is.na(Quarter))
+
 # ---- Save output to data/ folder ----
 usethis::use_data(nrm_referrals_2023_q1, overwrite = TRUE)
 readr::write_csv(nrm_referrals_2023_q1, "data-raw/nrm_referrals_2023_q1.csv")
@@ -276,3 +286,6 @@ readr::write_csv(nrm_conclusive_grounds, "data-raw/nrm_conclusive_grounds.csv")
 
 usethis::use_data(nrm_duty_to_notify_2023_q1, overwrite = TRUE)
 readr::write_csv(nrm_duty_to_notify_2023_q1, "data-raw/nrm_duty_to_notify_2023_q1.csv")
+
+usethis::use_data(nrm_duty_to_notify_longitudinal, overwrite = TRUE)
+readr::write_csv(nrm_duty_to_notify_longitudinal, "data-raw/nrm_duty_to_notify_longitudinal.csv")
