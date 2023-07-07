@@ -1152,6 +1152,20 @@
 #' @source \url{https://www.gov.uk/government/collections/migration-transparency-data#immigration-enforcement}
 "detention_cost_per_day"
 
+#' NRM referrals by quarter by age at exploitation and location of exploitation
+#'
+#' @format A data frame with 840 rows and 5 variables:
+#' \describe{
+#'   \item{Year}{Year}
+#'   \item{Quarter}{Quarter}
+#'   \item{Age at exploitation}{Age at exploitation}
+#'   \item{Location of exploitation}{Location of exploitation}
+#'   \item{NRM referrals}{Number of NRM referrals}
+#'   ...
+#' }
+#' @source \url{https://www.gov.uk/government/collections/national-referral-mechanism-statistics}
+"nrm_referrals_longitudinal"
+
 #' NRM referrals - Q2 2022
 #'
 #' @format A data frame with 44,420 rows and 7 variables:

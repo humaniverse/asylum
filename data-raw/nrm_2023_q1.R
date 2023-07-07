@@ -16,6 +16,45 @@ GET(
   write_disk(tf <- tempfile())
 )
 
+# ---- Table 2: NRM referrals by quarter by age at exploitation and location of exploitation ----
+nrm_referrals_longitudinal <-
+  read_ods(tf, sheet = "Table_2", skip = 6)
+
+names(nrm_referrals_longitudinal) <- c(
+  "Year",
+  "Quarter",
+
+  "Adult (18 or over) - Overseas",
+  "Adult (18 or over) - UK",
+  "Adult (18 or over) - UK and Overseas",
+  "Adult (18 or over) - Not specified or unknown",
+  "Adult (18 or over) - Total",
+
+  "Child (17 or under) - Overseas",
+  "Child (17 or under) - UK",
+  "Child (17 or under) - UK and Overseas",
+  "Child (17 or under) - Not specified or unknown",
+  "Child (17 or under) - Total",
+
+  "Age not specified or unknown - Overseas",
+  "Age not specified or unknown - UK",
+  "Age not specified or unknown - UK and Overseas",
+  "Age not specified or unknown - Not specified or unknown",
+  "Age not specified or unknown - Total",
+
+  "Total"
+)
+
+nrm_referrals_longitudinal <-
+  nrm_referrals_longitudinal |>
+  as_tibble() |>
+  select(-Total) |>
+  fill(Year) |>
+  filter(!is.na(Quarter)) |>
+
+  pivot_longer(cols = -c(Year:Quarter), names_to = "AgeLocation", values_to = "NRM referrals") |>
+  separate_wider_delim(AgeLocation, delim = " - ", names = c("Age at exploitation", "Location of exploitation"))
+
 # ---- Table 11: NRM referrals by government agency first responder, exploitation type, age at exploitation, gender and nationality ----
 nrm_referrals_govt_2023_q1_raw <-
   read_ods(tf, sheet = "Table_11", skip = 5)
@@ -263,6 +302,9 @@ nrm_duty_to_notify_longitudinal <-
   filter(!is.na(Quarter))
 
 # ---- Save output to data/ folder ----
+usethis::use_data(nrm_referrals_longitudinal, overwrite = TRUE)
+readr::write_csv(nrm_referrals_longitudinal, "data-raw/nrm_referrals_longitudinal.csv")
+
 usethis::use_data(nrm_referrals_2023_q1, overwrite = TRUE)
 readr::write_csv(nrm_referrals_2023_q1, "data-raw/nrm_referrals_2023_q1.csv")
 
