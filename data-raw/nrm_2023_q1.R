@@ -55,6 +55,9 @@ nrm_referrals_longitudinal <-
   pivot_longer(cols = -c(Year:Quarter), names_to = "AgeLocation", values_to = "NRM referrals") |>
   separate_wider_delim(AgeLocation, delim = " - ", names = c("Age at exploitation", "Location of exploitation"))
 
+# Fix mistake in original dataset where 2023 Q1 is recorded as 2022
+nrm_referrals_longitudinal[826:840, "Year"] <- 2023
+
 # ---- Table 11: NRM referrals by government agency first responder, exploitation type, age at exploitation, gender and nationality ----
 nrm_referrals_govt_2023_q1_raw <-
   read_ods(tf, sheet = "Table_11", skip = 5)
