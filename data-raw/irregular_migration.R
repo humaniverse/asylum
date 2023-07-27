@@ -23,7 +23,8 @@ irregular_migration <-
 # Wrangling
 irregular_migration <-
   irregular_migration |>
-  mutate(Date = yq(Quarter)) |>
+  # mutate(Date = yq(Quarter)) |>
+  mutate(Date = as.Date(as.yearqtr(Quarter, format = "%Y Q%q"), frac = 1)) |>
   mutate(Quarter = quarter(Date)) |>
   relocate(Date) |>
   drop_na()
@@ -34,7 +35,8 @@ small_boat_asylum_applications <-
 
 small_boat_asylum_applications <-
   small_boat_asylum_applications |>
-  mutate(Date = yq(Quarter)) |>
+  # mutate(Date = yq(Quarter)) |>
+  mutate(Date = as.Date(as.yearqtr(Quarter, format = "%Y Q%q"), frac = 1)) |>
   mutate(Quarter = quarter(Date)) |>
   relocate(Date) |>
   drop_na()
@@ -45,7 +47,8 @@ small_boat_initial_decisions <-
 
 small_boat_initial_decisions <-
   small_boat_initial_decisions |>
-  mutate(Date = yq(Quarter)) |>
+  # mutate(Date = yq(Quarter)) |>
+  mutate(Date = as.Date(as.yearqtr(Quarter, format = "%Y Q%q"), frac = 1)) |>
   mutate(Quarter = quarter(Date)) |>
   relocate(Date) |>
   drop_na()
@@ -56,7 +59,8 @@ small_boat_NRM_referrals <-
 
 small_boat_NRM_referrals <-
   small_boat_NRM_referrals |>
-  mutate(Date = yq(Quarter)) |>
+  # mutate(Date = yq(Quarter)) |>
+  mutate(Date = as.Date(as.yearqtr(Quarter, format = "%Y Q%q"), frac = 1)) |>
   mutate(Quarter = quarter(Date)) |>
   relocate(Date) |>
   drop_na()
@@ -67,7 +71,8 @@ small_boat_NRM_outcomes <-
 
 small_boat_NRM_outcomes <-
   small_boat_NRM_outcomes |>
-  mutate(Date = yq(Quarter)) |>
+  # mutate(Date = yq(Quarter)) |>
+  mutate(Date = as.Date(as.yearqtr(Quarter, format = "%Y Q%q"), frac = 1)) |>
   mutate(Quarter = quarter(Date)) |>
   relocate(Date) |>
   drop_na()

@@ -25,14 +25,16 @@ appeals_determined <-
 # Wrangling
 appeals_lodged <-
   appeals_lodged |>
-  mutate(Date = yq(Quarter)) |>
+  # mutate(Date = yq(Quarter)) |>
+  mutate(Date = as.Date(as.yearqtr(Quarter, format = "%Y Q%q"), frac = 1)) |>
   mutate(Quarter = quarter(Date)) |>
   relocate(Date) |>
   drop_na()
 
 appeals_determined <-
   appeals_determined |>
-  mutate(Date = yq(Quarter)) |>
+  # mutate(Date = yq(Quarter)) |>
+  mutate(Date = as.Date(as.yearqtr(Quarter, format = "%Y Q%q"), frac = 1)) |>
   mutate(Quarter = quarter(Date)) |>
   relocate(Date) |>
   drop_na()

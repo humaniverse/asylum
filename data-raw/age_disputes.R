@@ -3,6 +3,7 @@ library(lubridate)
 library(devtools)
 library(readxl)
 library(httr)
+library(zoo)
 
 load_all()
 
@@ -23,7 +24,8 @@ age_disputes <-
 age_disputes <-
   age_disputes |>
   drop_na() |>
-  mutate(Date = yq(Quarter)) |>
+  # mutate(Date = yq(Quarter)) |>
+  mutate(Date = as.Date(as.yearqtr(Quarter, format = "%Y Q%q"), frac = 1)) |>
   mutate(Quarter = quarter(Date)) |>
   relocate(Date)
 

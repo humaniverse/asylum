@@ -22,7 +22,8 @@ family_reunion <-
 # Wrangling
 family_reunion <-
   family_reunion |>
-  mutate(Date = yq(Quarter)) |>
+  # mutate(Date = yq(Quarter)) |>
+  mutate(Date = as.Date(as.yearqtr(Quarter, format = "%Y Q%q"), frac = 1)) |>
   mutate(Quarter = quarter(Date)) |>
   relocate(Date) |>
   drop_na()

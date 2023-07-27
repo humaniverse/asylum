@@ -33,7 +33,8 @@ inadmissibility_cases_considered <-
 
   # Separate 'Date' column into separate 'Quarter' and 'Year' columns, then calculate a lubridate Date
   separate_wider_delim(Date, " ", names = c("Quarter", "Year")) |>
-  mutate(Date = yq(paste(Year, Quarter))) |>
+  # mutate(Date = yq(paste(Year, Quarter))) |>
+  mutate(Date = as.Date(as.yearqtr(paste(Year, Quarter), format = "%Y Q%q"), frac = 1)) |>
 
   relocate(Date, Quarter, Year) |>
 

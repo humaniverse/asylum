@@ -64,7 +64,8 @@ nts <-
   select(Quarter:`Transfers into LA from port/intake unit`) |>
   as_tibble() |>
   drop_na() |>
-  mutate(Date = yq(Quarter)) |>
+  # mutate(Date = yq(Quarter)) |>
+  mutate(Date = as.Date(as.yearqtr(Quarter, format = "%Y Q%q"), frac = 1)) |>
   mutate(
     Year = year(Date),
     Quarter = quarter(Date)
@@ -77,7 +78,8 @@ support_applications_rasi <-
   select(Quarter:`Section 95 (2)`) |>
   as_tibble() |>
   drop_na() |>
-  mutate(Date = yq(Quarter)) |>
+  # mutate(Date = yq(Quarter)) |>
+  mutate(Date = as.Date(as.yearqtr(Quarter, format = "%Y Q%q"), frac = 1)) |>
   mutate(
     Year = year(Date),
     Quarter = quarter(Date)
@@ -95,7 +97,8 @@ travel_documents <-
   as_tibble() |>
   drop_na() |>
   mutate(Quarter = if_else(Quarter == "2020 Q2  3", "2020 Q2", Quarter)) |>
-  mutate(Date = yq(Quarter)) |>
+  # mutate(Date = yq(Quarter)) |>
+  mutate(Date = as.Date(as.yearqtr(Quarter, format = "%Y Q%q"), frac = 1)) |>
   mutate(
     Year = year(Date),
     Quarter = quarter(Date)

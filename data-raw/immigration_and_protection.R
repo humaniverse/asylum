@@ -34,7 +34,8 @@ appeal_representation_rate <-
   janitor::remove_empty() |>
   as_tibble() |>
   drop_na() |>
-  mutate(Date = yq(Quarters)) |>
+  # mutate(Date = yq(Quarters)) |>
+  mutate(Date = as.Date(as.yearqtr(Quarters, format = "%Y Q%q"), frac = 1)) |>
   mutate(
     Year = year(Date),
     Quarter = quarter(Date)
@@ -83,7 +84,8 @@ applications_processed_in_6_months <-
   applications_processed_in_6_months |>
   janitor::remove_empty() |>
   as_tibble() |>
-  mutate(Date = yq(`Quarter Application Received`)) |>
+  # mutate(Date = yq(`Quarter Application Received`)) |>
+  mutate(Date = as.Date(as.yearqtr(`Quarter Application Received`, format = "%Y Q%q"), frac = 1)) |>
   mutate(
     Year = year(Date),
     Quarter = quarter(Date)
@@ -108,7 +110,8 @@ age_of_asylum_operations <-
   age_of_asylum_operations |>
   janitor::remove_empty() |>
   as_tibble() |>
-  mutate(Date = yq(Quarter)) |>
+  # mutate(Date = yq(Quarter)) |>
+  mutate(Date = as.Date(as.yearqtr(Quarter, format = "%Y Q%q"), frac = 1)) |>
   mutate(
     Year = year(Date),
     Quarter = quarter(Date)
@@ -123,7 +126,8 @@ asylum_work_in_progress <-
   asylum_work_in_progress |>
   janitor::remove_empty() |>
   as_tibble() |>
-  mutate(Date = yq(Quarter)) |>
+  # mutate(Date = yq(Quarter)) |>
+  mutate(Date = as.Date(as.yearqtr(Quarter, format = "%Y Q%q"), frac = 1)) |>
   mutate(
     Year = year(Date),
     Quarter = quarter(Date)
@@ -163,7 +167,8 @@ nrpf_change_of_conditions_decisions <-
   nrpf_change_of_conditions_decisions |>
   janitor::remove_empty() |>
   as_tibble() |>
-  mutate(Date = yq(Quarter)) |>
+  # mutate(Date = yq(Quarter)) |>
+  mutate(Date = as.Date(as.yearqtr(Quarter, format = "%Y Q%q"), frac = 1)) |>
   mutate(
     Year = year(Date),
     Quarter = quarter(Date)
@@ -186,7 +191,8 @@ nrpf_change_of_conditions_age <-
   nrpf_change_of_conditions_age |>
   janitor::remove_empty() |>
   as_tibble() |>
-  mutate(Date = yq(Quarter)) |>
+  # mutate(Date = yq(Quarter)) |>
+  mutate(Date = as.Date(as.yearqtr(Quarter, format = "%Y Q%q"), frac = 1)) |>
   mutate(
     Year = year(Date),
     Quarter = quarter(Date)
@@ -212,7 +218,8 @@ nrpf_change_of_conditions_gender <-
   nrpf_change_of_conditions_gender |>
   janitor::remove_empty() |>
   as_tibble() |>
-  mutate(Date = yq(Quarter)) |>
+  # mutate(Date = yq(Quarter)) |>
+  mutate(Date = as.Date(as.yearqtr(Quarter, format = "%Y Q%q"), frac = 1)) |>
   mutate(
     Year = year(Date),
     Quarter = quarter(Date)

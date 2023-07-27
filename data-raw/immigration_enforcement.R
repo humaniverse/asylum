@@ -23,7 +23,8 @@ detention_pregnant_women <-
 detention_pregnant_women <-
   detention_pregnant_women |>
   as_tibble() |>
-  mutate(Date = yq(Quarter)) |>
+  # mutate(Date = yq(Quarter)) |>
+  mutate(Date = as.Date(as.yearqtr(Quarter, format = "%Y Q%q"), frac = 1)) |>
   mutate(Year = year(Date)) |>
   mutate(Quarter = quarter(Date)) |>
   relocate(Date, Year) |>
@@ -36,7 +37,8 @@ detention_cost_per_day <-
 detention_cost_per_day <-
   detention_cost_per_day |>
   as_tibble() |>
-  mutate(Date = yq(Quarter)) |>
+  # mutate(Date = yq(Quarter)) |>
+  mutate(Date = as.Date(as.yearqtr(Quarter, format = "%Y Q%q"), frac = 1)) |>
   mutate(Year = year(Date)) |>
   mutate(Quarter = quarter(Date)) |>
   relocate(Date, Year) |>

@@ -25,7 +25,8 @@ decisions_resettlement <-
 # Wrangling
 applications <-
   applications |>
-  mutate(Date = yq(Quarter)) |>
+  # mutate(Date = yq(Quarter)) |>
+  mutate(Date = as.Date(as.yearqtr(Quarter, format = "%Y Q%q"), frac = 1)) |>
   relocate(Date) |>
 
   mutate(
@@ -36,7 +37,8 @@ applications <-
 
 decisions_resettlement <-
   decisions_resettlement |>
-  mutate(Date = yq(Quarter)) |>
+  # mutate(Date = yq(Quarter)) |>
+  mutate(Date = as.Date(as.yearqtr(Quarter, format = "%Y Q%q"), frac = 1)) |>
   relocate(Date) |>
 
   mutate(

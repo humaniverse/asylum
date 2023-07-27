@@ -68,7 +68,7 @@ returns_asylum_longitudinal <-
 
   pivot_wider(names_from = Type, values_from = value)
 
-# ---- Details returns data ----
+# ---- Detailed returns data ----
 query_url <-
   query_urls |>
   filter(data_set == "returns") |>
@@ -95,28 +95,32 @@ returns_offenders_by_destination <-
 returns <-
   returns |>
   drop_na() |>
-  mutate(Date = yq(Quarter)) |>
+  # mutate(Date = yq(Quarter)) |>
+  mutate(Date = as.Date(as.yearqtr(Quarter, format = "%Y Q%q"), frac = 1)) |>
   mutate(Quarter = quarter(Date)) |>
   relocate(Date)
 
 returns_by_destination <-
   returns_by_destination |>
   drop_na() |>
-  mutate(Date = yq(Quarter)) |>
+  # mutate(Date = yq(Quarter)) |>
+  mutate(Date = as.Date(as.yearqtr(Quarter, format = "%Y Q%q"), frac = 1)) |>
   mutate(Quarter = quarter(Date)) |>
   relocate(Date)
 
 returns_offenders_by_nationality <-
   returns_offenders_by_nationality |>
   drop_na() |>
-  mutate(Date = yq(Quarter)) |>
+  # mutate(Date = yq(Quarter)) |>
+  mutate(Date = as.Date(as.yearqtr(Quarter, format = "%Y Q%q"), frac = 1)) |>
   mutate(Quarter = quarter(Date)) |>
   relocate(Date)
 
 returns_offenders_by_destination <-
   returns_offenders_by_destination |>
   drop_na() |>
-  mutate(Date = yq(Quarter)) |>
+  # mutate(Date = yq(Quarter)) |>
+  mutate(Date = as.Date(as.yearqtr(Quarter, format = "%Y Q%q"), frac = 1)) |>
   mutate(Quarter = quarter(Date)) |>
   relocate(Date)
 

@@ -22,7 +22,8 @@ dublin_regulation <-
 # Wrangling
 dublin_regulation <-
   dublin_regulation |>
-  mutate(Date = yq(Quarter)) |>
+  # mutate(Date = yq(Quarter)) |>
+  mutate(Date = as.Date(as.yearqtr(Quarter, format = "%Y Q%q"), frac = 1)) |>
   mutate(Quarter = quarter(Date)) |>
   relocate(Date) |>
   drop_na()
