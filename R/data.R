@@ -1157,7 +1157,7 @@
 
 #' NRM referrals by quarter by age at exploitation and location of exploitation
 #'
-#' @format A data frame with 840 rows and 5 variables:
+#' @format A data frame with 855 rows and 5 variables:
 #' \describe{
 #'   \item{Year}{Year}
 #'   \item{Quarter}{Quarter}
@@ -1489,6 +1489,86 @@
 #' @source \url{https://www.gov.uk/government/collections/national-referral-mechanism-statistics}
 "nrm_referrals_la_2023_q1"
 
+#' NRM referrals - Q2 2023
+#'
+#' @format A data frame with 49,752 rows and 7 variables:
+#' \describe{
+#'   \item{First responder type}{First responder type}
+#'   \item{First responder}{First responder}
+#'   \item{Exploitation type}{Labour, domestic, sexual etc. exploitation}
+#'   \item{Age at exploitation}{Age group}
+#'   \item{Gender}{Gender/sex}
+#'   \item{Nationality}{Nationality}
+#'   \item{People}{Number of people referred to NRM}
+#'   ...
+#' }
+#' @source \url{https://www.gov.uk/government/collections/national-referral-mechanism-statistics}
+"nrm_referrals_2023_q2"
+
+#' NRM referrals from Government first responders - Q2 2023
+#'
+#' @format A data frame with 27,195 rows and 7 variables:
+#' \describe{
+#'   \item{First responder type}{First responder type}
+#'   \item{First responder}{First responder}
+#'   \item{Exploitation type}{Labour, domestic, sexual etc. exploitation}
+#'   \item{Age at exploitation}{Age group}
+#'   \item{Gender}{Gender/sex}
+#'   \item{Nationality}{Nationality}
+#'   \item{People}{Number of people referred to NRM}
+#'   ...
+#' }
+#' @source \url{https://www.gov.uk/government/collections/national-referral-mechanism-statistics}
+"nrm_referrals_govt_2023_q2"
+
+#' NRM referrals from NGO and third sector first responders - Q2 2023
+#'
+#' @format A data frame with 11,820 rows and 7 variables:
+#' \describe{
+#'   \item{First responder type}{First responder type}
+#'   \item{First responder}{First responder}
+#'   \item{Exploitation type}{Labour, domestic, sexual etc. exploitation}
+#'   \item{Age at exploitation}{Age group}
+#'   \item{Gender}{Gender/sex}
+#'   \item{Nationality}{Nationality}
+#'   \item{People}{Number of people referred to NRM}
+#'   ...
+#' }
+#' @source \url{https://www.gov.uk/government/collections/national-referral-mechanism-statistics}
+"nrm_referrals_ngo_2023_q2"
+
+#' NRM referrals from Police first responders - Q2 2023
+#'
+#' @format A data frame with 93,411 rows and 7 variables:
+#' \describe{
+#'   \item{First responder type}{First responder type}
+#'   \item{First responder}{First responder}
+#'   \item{Exploitation type}{Labour, domestic, sexual etc. exploitation}
+#'   \item{Age at exploitation}{Age group}
+#'   \item{Gender}{Gender/sex}
+#'   \item{Nationality}{Nationality}
+#'   \item{People}{Number of people referred to NRM}
+#'   ...
+#' }
+#' @source \url{https://www.gov.uk/government/collections/national-referral-mechanism-statistics}
+"nrm_referrals_police_2023_q2"
+
+#' NRM referrals from Local Authority first responders - Q2 2023
+#'
+#' @format A data frame with 10,640 rows and 7 variables:
+#' \describe{
+#'   \item{First responder type}{First responder type}
+#'   \item{First responder}{First responder}
+#'   \item{Exploitation type}{Labour, domestic, sexual etc. exploitation}
+#'   \item{Age at exploitation}{Age group}
+#'   \item{Gender}{Gender/sex}
+#'   \item{Nationality}{Nationality}
+#'   \item{People}{Number of people referred to NRM}
+#'   ...
+#' }
+#' @source \url{https://www.gov.uk/government/collections/national-referral-mechanism-statistics}
+"nrm_referrals_la_2023_q2"
+
 #' Referrals received via the Duty to Notify process in Q2 2022, by nationality
 #'
 #' @format A data frame with 90 rows and 2 variables:
@@ -1533,9 +1613,20 @@
 #' @source \url{https://www.gov.uk/government/collections/national-referral-mechanism-statistics}
 "nrm_duty_to_notify_2023_q1"
 
+#' Referrals received via the Duty to Notify process in Q2 2023, by nationality
+#'
+#' @format A data frame with 94 rows and 2 variables:
+#' \describe{
+#'   \item{Nationality}{Nationality}
+#'   \item{Total}{Number of referrals via duty to notify}
+#'   ...
+#' }
+#' @source \url{https://www.gov.uk/government/collections/national-referral-mechanism-statistics}
+"nrm_duty_to_notify_2023_q2"
+
 #' Referrals received via the Duty to Notify process, by quarter
 #'
-#' @format A data frame with 30 rows and 3 variables:
+#' @format A data frame with 40 rows and 3 variables:
 #' \describe{
 #'   \item{Year}{Year}
 #'   \item{Quarter}{Quarter}
@@ -1550,7 +1641,7 @@
 #' NRM reasonable grounds decisions made by both competent authorities by
 #' quarter, outcome and age at exploitation.
 #'
-#' @format A data frame with 47 rows and 12 variables:
+#' @format A data frame with 48 rows and 12 variables:
 #' \describe{
 #'   \item{Year}{Year}
 #'   \item{Quarter}{Quarter}
@@ -1574,7 +1665,7 @@
 #' NRM conclusive grounds decisions made by both competent authorities by
 #' quarter, outcome and age at exploitation.
 #'
-#' @format A data frame with 47 rows and 12 variables:
+#' @format A data frame with 48 rows and 12 variables:
 #' \describe{
 #'   \item{Year}{Year}
 #'   \item{Quarter}{Quarter}
