@@ -24,7 +24,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2010-03-31,2010,1,Costa Rica,America Central and South,1
 2010-03-31,2010,1,Croatia,EU Other,2
 2010-03-31,2010,1,Cyprus,EU Other,1
-2010-03-31,2010,1,Czech Republic,EU 8,5
+2010-03-31,2010,1,Czechia,EU 8,5
 2010-03-31,2010,1,Ecuador,America Central and South,1
 2010-03-31,2010,1,Egypt,Africa North,6
 2010-03-31,2010,1,Estonia,EU 8,1
@@ -89,7 +89,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2010-03-31,2010,1,South Africa,Africa Sub-Saharan,14
 2010-03-31,2010,1,Spain,EU 14,4
 2010-03-31,2010,1,Sri Lanka,Asia South,7
-2010-03-31,2010,1,St. Lucia,America Central and South,6
+2010-03-31,2010,1,St Lucia,America Central and South,6
 2010-03-31,2010,1,Sudan,Africa North,3
 2010-03-31,2010,1,Sweden,EU 14,4
 2010-03-31,2010,1,Syria,Middle East,2
@@ -130,10 +130,11 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2010-06-30,2010,2,Congo,Africa Sub-Saharan,1
 2010-06-30,2010,2,Congo (Democratic Republic),Africa Sub-Saharan,2
 2010-06-30,2010,2,Cyprus,EU Other,1
-2010-06-30,2010,2,Czech Republic,EU 8,6
+2010-06-30,2010,2,Czechia,EU 8,6
 2010-06-30,2010,2,Denmark,EU 14,1
 2010-06-30,2010,2,Ecuador,America Central and South,2
 2010-06-30,2010,2,Egypt,Africa North,2
+2010-06-30,2010,2,Eswatini,Africa Sub-Saharan,1
 2010-06-30,2010,2,Fiji,Oceania,2
 2010-06-30,2010,2,Finland,EU 14,1
 2010-06-30,2010,2,France,EU 14,17
@@ -157,7 +158,6 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2010-06-30,2010,2,Jamaica,America Central and South,77
 2010-06-30,2010,2,Japan,Asia East,1
 2010-06-30,2010,2,Kenya,Africa Sub-Saharan,5
-2010-06-30,2010,2,Korea (South),Asia East,2
 2010-06-30,2010,2,Kosovo,Europe Other,7
 2010-06-30,2010,2,Kyrgyzstan,Asia Central,1
 2010-06-30,2010,2,Latvia,EU 8,12
@@ -173,11 +173,10 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2010-06-30,2010,2,Namibia,Africa Sub-Saharan,1
 2010-06-30,2010,2,Nepal,Asia South,4
 2010-06-30,2010,2,Netherlands,EU 14,10
-2010-06-30,2010,2,Netherlands Antilles,America Central and South,1
 2010-06-30,2010,2,New Zealand,Oceania,3
 2010-06-30,2010,2,Nigeria,Africa Sub-Saharan,106
 2010-06-30,2010,2,Norway,Europe Other,1
-2010-06-30,2010,2,Other and unknown,Other,26
+2010-06-30,2010,2,Other and unknown,Other,27
 2010-06-30,2010,2,Pakistan,Asia South,30
 2010-06-30,2010,2,Philippines,Asia South East,1
 2010-06-30,2010,2,Poland,EU 8,51
@@ -193,11 +192,11 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2010-06-30,2010,2,Slovenia,EU 8,1
 2010-06-30,2010,2,Somalia,Africa Sub-Saharan,4
 2010-06-30,2010,2,South Africa,Africa Sub-Saharan,15
+2010-06-30,2010,2,South Korea,Asia East,2
 2010-06-30,2010,2,Spain,EU 14,7
 2010-06-30,2010,2,Sri Lanka,Asia South,6
-2010-06-30,2010,2,St. Lucia,America Central and South,3
+2010-06-30,2010,2,St Lucia,America Central and South,3
 2010-06-30,2010,2,Sudan,Africa North,1
-2010-06-30,2010,2,Swaziland,Africa Sub-Saharan,1
 2010-06-30,2010,2,Sweden,EU 14,5
 2010-06-30,2010,2,Taiwan,Asia East,1
 2010-06-30,2010,2,Tanzania,Africa Sub-Saharan,2
@@ -240,14 +239,14 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2010-09-30,2010,3,Congo (Democratic Republic),Africa Sub-Saharan,6
 2010-09-30,2010,3,Croatia,EU Other,1
 2010-09-30,2010,3,Cuba,America Central and South,1
-2010-09-30,2010,3,Czech Republic,EU 8,1
+2010-09-30,2010,3,Czechia,EU 8,1
 2010-09-30,2010,3,Denmark,EU 14,2
 2010-09-30,2010,3,Egypt,Africa North,3
 2010-09-30,2010,3,Estonia,EU 8,2
 2010-09-30,2010,3,Ethiopia,Africa Sub-Saharan,1
 2010-09-30,2010,3,Fiji,Oceania,4
 2010-09-30,2010,3,France,EU 14,18
-2010-09-30,2010,3,French Guiana,America Central and South,1
+2010-09-30,2010,3,French Guiana (French),America Central and South,1
 2010-09-30,2010,3,"Gambia, The",Africa Sub-Saharan,9
 2010-09-30,2010,3,Georgia,Europe Other,2
 2010-09-30,2010,3,Germany,EU 14,15
@@ -304,8 +303,8 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2010-09-30,2010,3,South Africa,Africa Sub-Saharan,20
 2010-09-30,2010,3,Spain,EU 14,6
 2010-09-30,2010,3,Sri Lanka,Asia South,15
-2010-09-30,2010,3,St. Lucia,America Central and South,11
-2010-09-30,2010,3,St. Vincent and the Grenadines,America Central and South,2
+2010-09-30,2010,3,St Lucia,America Central and South,11
+2010-09-30,2010,3,St Vincent and the Grenadines,America Central and South,2
 2010-09-30,2010,3,Sweden,EU 14,3
 2010-09-30,2010,3,Switzerland,Europe Other,1
 2010-09-30,2010,3,Syria,Middle East,1
@@ -340,7 +339,6 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2010-12-31,2010,4,Botswana,Africa Sub-Saharan,1
 2010-12-31,2010,4,Brazil,America Central and South,17
 2010-12-31,2010,4,Bulgaria,EU 2,5
-2010-12-31,2010,4,Burma,Asia South East,1
 2010-12-31,2010,4,Burundi,Africa Sub-Saharan,1
 2010-12-31,2010,4,Cameroon,Africa Sub-Saharan,7
 2010-12-31,2010,4,Canada,America North,5
@@ -351,14 +349,14 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2010-12-31,2010,4,Congo (Democratic Republic),Africa Sub-Saharan,7
 2010-12-31,2010,4,Costa Rica,America Central and South,1
 2010-12-31,2010,4,Cyprus,EU Other,1
-2010-12-31,2010,4,Czech Republic,EU 8,7
+2010-12-31,2010,4,Czechia,EU 8,7
 2010-12-31,2010,4,Dominica,America Central and South,2
 2010-12-31,2010,4,Ecuador,America Central and South,1
 2010-12-31,2010,4,Egypt,Africa North,1
 2010-12-31,2010,4,Estonia,EU 8,5
 2010-12-31,2010,4,Ethiopia,Africa Sub-Saharan,1
 2010-12-31,2010,4,France,EU 14,24
-2010-12-31,2010,4,French Guiana,America Central and South,1
+2010-12-31,2010,4,French Guiana (French),America Central and South,1
 2010-12-31,2010,4,"Gambia, The",Africa Sub-Saharan,11
 2010-12-31,2010,4,Georgia,Europe Other,3
 2010-12-31,2010,4,Germany,EU 14,10
@@ -388,6 +386,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2010-12-31,2010,4,Moldova,Europe Other,8
 2010-12-31,2010,4,Mongolia,Asia East,3
 2010-12-31,2010,4,Morocco,Africa North,5
+2010-12-31,2010,4,Myanmar (Burma),Asia South East,1
 2010-12-31,2010,4,Namibia,Africa Sub-Saharan,2
 2010-12-31,2010,4,Nepal,Asia South,1
 2010-12-31,2010,4,Netherlands,EU 14,13
@@ -412,7 +411,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2010-12-31,2010,4,South Africa,Africa Sub-Saharan,14
 2010-12-31,2010,4,Spain,EU 14,5
 2010-12-31,2010,4,Sri Lanka,Asia South,17
-2010-12-31,2010,4,St. Vincent and the Grenadines,America Central and South,3
+2010-12-31,2010,4,St Vincent and the Grenadines,America Central and South,3
 2010-12-31,2010,4,Sudan,Africa North,2
 2010-12-31,2010,4,Sweden,EU 14,7
 2010-12-31,2010,4,Switzerland,Europe Other,1
@@ -451,7 +450,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2011-03-31,2011,1,Congo,Africa Sub-Saharan,2
 2011-03-31,2011,1,Congo (Democratic Republic),Africa Sub-Saharan,4
 2011-03-31,2011,1,Cuba,America Central and South,1
-2011-03-31,2011,1,Czech Republic,EU 8,10
+2011-03-31,2011,1,Czechia,EU 8,10
 2011-03-31,2011,1,Denmark,EU 14,2
 2011-03-31,2011,1,Djibouti,Africa Sub-Saharan,1
 2011-03-31,2011,1,Dominica,America Central and South,1
@@ -482,7 +481,6 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2011-03-31,2011,1,Italy,EU 14,10
 2011-03-31,2011,1,Jamaica,America Central and South,94
 2011-03-31,2011,1,Kenya,Africa Sub-Saharan,5
-2011-03-31,2011,1,Korea (South),Asia East,1
 2011-03-31,2011,1,Kosovo,Europe Other,4
 2011-03-31,2011,1,Kyrgyzstan,Asia Central,1
 2011-03-31,2011,1,Latvia,EU 8,10
@@ -523,10 +521,11 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2011-03-31,2011,1,Slovakia,EU 8,6
 2011-03-31,2011,1,Somalia,Africa Sub-Saharan,3
 2011-03-31,2011,1,South Africa,Africa Sub-Saharan,11
+2011-03-31,2011,1,South Korea,Asia East,1
 2011-03-31,2011,1,Spain,EU 14,3
 2011-03-31,2011,1,Sri Lanka,Asia South,13
-2011-03-31,2011,1,St. Lucia,America Central and South,6
-2011-03-31,2011,1,St. Vincent and the Grenadines,America Central and South,2
+2011-03-31,2011,1,St Lucia,America Central and South,6
+2011-03-31,2011,1,St Vincent and the Grenadines,America Central and South,2
 2011-03-31,2011,1,Sweden,EU 14,4
 2011-03-31,2011,1,Switzerland,Europe Other,2
 2011-03-31,2011,1,Syria,Middle East,1
@@ -568,7 +567,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2011-06-30,2011,2,Comoros,Africa Sub-Saharan,1
 2011-06-30,2011,2,Congo (Democratic Republic),Africa Sub-Saharan,4
 2011-06-30,2011,2,Cuba,America Central and South,1
-2011-06-30,2011,2,Czech Republic,EU 8,6
+2011-06-30,2011,2,Czechia,EU 8,6
 2011-06-30,2011,2,Dominica,America Central and South,1
 2011-06-30,2011,2,Dominican Republic,America Central and South,1
 2011-06-30,2011,2,Egypt,Africa North,3
@@ -592,7 +591,6 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2011-06-30,2011,2,Jamaica,America Central and South,41
 2011-06-30,2011,2,Jordan,Middle East,1
 2011-06-30,2011,2,Kenya,Africa Sub-Saharan,5
-2011-06-30,2011,2,Korea (South),Asia East,1
 2011-06-30,2011,2,Kosovo,Europe Other,1
 2011-06-30,2011,2,Kyrgyzstan,Asia Central,1
 2011-06-30,2011,2,Latvia,EU 8,6
@@ -629,10 +627,11 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2011-06-30,2011,2,Slovakia,EU 8,8
 2011-06-30,2011,2,Somalia,Africa Sub-Saharan,7
 2011-06-30,2011,2,South Africa,Africa Sub-Saharan,12
+2011-06-30,2011,2,South Korea,Asia East,1
 2011-06-30,2011,2,Spain,EU 14,3
 2011-06-30,2011,2,Sri Lanka,Asia South,12
-2011-06-30,2011,2,St. Lucia,America Central and South,2
-2011-06-30,2011,2,St. Vincent and the Grenadines,America Central and South,1
+2011-06-30,2011,2,St Lucia,America Central and South,2
+2011-06-30,2011,2,St Vincent and the Grenadines,America Central and South,1
 2011-06-30,2011,2,Sudan,Africa North,1
 2011-06-30,2011,2,Switzerland,Europe Other,1
 2011-06-30,2011,2,Tanzania,Africa Sub-Saharan,4
@@ -671,7 +670,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2011-09-30,2011,3,Colombia,America Central and South,11
 2011-09-30,2011,3,Congo (Democratic Republic),Africa Sub-Saharan,3
 2011-09-30,2011,3,Cyprus,EU Other,1
-2011-09-30,2011,3,Czech Republic,EU 8,10
+2011-09-30,2011,3,Czechia,EU 8,10
 2011-09-30,2011,3,Denmark,EU 14,1
 2011-09-30,2011,3,Dominica,America Central and South,1
 2011-09-30,2011,3,Dominican Republic,America Central and South,1
@@ -730,8 +729,8 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2011-09-30,2011,3,South Africa,Africa Sub-Saharan,17
 2011-09-30,2011,3,Spain,EU 14,18
 2011-09-30,2011,3,Sri Lanka,Asia South,16
-2011-09-30,2011,3,St. Lucia,America Central and South,2
-2011-09-30,2011,3,St. Vincent and the Grenadines,America Central and South,2
+2011-09-30,2011,3,St Lucia,America Central and South,2
+2011-09-30,2011,3,St Vincent and the Grenadines,America Central and South,2
 2011-09-30,2011,3,Sudan,Africa North,1
 2011-09-30,2011,3,Sweden,EU 14,4
 2011-09-30,2011,3,Switzerland,Europe Other,1
@@ -770,7 +769,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2011-12-31,2011,4,Congo,Africa Sub-Saharan,1
 2011-12-31,2011,4,Congo (Democratic Republic),Africa Sub-Saharan,1
 2011-12-31,2011,4,Cyprus,EU Other,3
-2011-12-31,2011,4,Czech Republic,EU 8,6
+2011-12-31,2011,4,Czechia,EU 8,6
 2011-12-31,2011,4,Denmark,EU 14,3
 2011-12-31,2011,4,Dominica,America Central and South,1
 2011-12-31,2011,4,Egypt,Africa North,3
@@ -826,7 +825,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2011-12-31,2011,4,South Africa,Africa Sub-Saharan,11
 2011-12-31,2011,4,Spain,EU 14,7
 2011-12-31,2011,4,Sri Lanka,Asia South,28
-2011-12-31,2011,4,St. Lucia,America Central and South,2
+2011-12-31,2011,4,St Lucia,America Central and South,2
 2011-12-31,2011,4,Sudan,Africa North,1
 2011-12-31,2011,4,Sweden,EU 14,3
 2011-12-31,2011,4,Taiwan,Asia East,1
@@ -868,7 +867,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2012-03-31,2012,1,Congo (Democratic Republic),Africa Sub-Saharan,1
 2012-03-31,2012,1,Croatia,EU Other,1
 2012-03-31,2012,1,Cyprus,EU Other,2
-2012-03-31,2012,1,Czech Republic,EU 8,11
+2012-03-31,2012,1,Czechia,EU 8,11
 2012-03-31,2012,1,Denmark,EU 14,1
 2012-03-31,2012,1,Ecuador,America Central and South,1
 2012-03-31,2012,1,Egypt,Africa North,4
@@ -927,8 +926,8 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2012-03-31,2012,1,South Africa,Africa Sub-Saharan,7
 2012-03-31,2012,1,Spain,EU 14,10
 2012-03-31,2012,1,Sri Lanka,Asia South,16
-2012-03-31,2012,1,St. Lucia,America Central and South,6
-2012-03-31,2012,1,St. Vincent and the Grenadines,America Central and South,1
+2012-03-31,2012,1,St Lucia,America Central and South,6
+2012-03-31,2012,1,St Vincent and the Grenadines,America Central and South,1
 2012-03-31,2012,1,Sweden,EU 14,4
 2012-03-31,2012,1,Switzerland,Europe Other,3
 2012-03-31,2012,1,Taiwan,Asia East,2
@@ -966,7 +965,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2012-06-30,2012,2,Congo (Democratic Republic),Africa Sub-Saharan,6
 2012-06-30,2012,2,Costa Rica,America Central and South,1
 2012-06-30,2012,2,Cyprus,EU Other,2
-2012-06-30,2012,2,Czech Republic,EU 8,5
+2012-06-30,2012,2,Czechia,EU 8,5
 2012-06-30,2012,2,Denmark,EU 14,2
 2012-06-30,2012,2,Ecuador,America Central and South,2
 2012-06-30,2012,2,Egypt,Africa North,4
@@ -1026,9 +1025,9 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2012-06-30,2012,2,South Africa,Africa Sub-Saharan,5
 2012-06-30,2012,2,Spain,EU 14,9
 2012-06-30,2012,2,Sri Lanka,Asia South,18
-2012-06-30,2012,2,St. Kitts and Nevis,America Central and South,1
-2012-06-30,2012,2,St. Lucia,America Central and South,1
-2012-06-30,2012,2,St. Vincent and the Grenadines,America Central and South,2
+2012-06-30,2012,2,St Kitts and Nevis,America Central and South,1
+2012-06-30,2012,2,St Lucia,America Central and South,1
+2012-06-30,2012,2,St Vincent and the Grenadines,America Central and South,2
 2012-06-30,2012,2,Sweden,EU 14,2
 2012-06-30,2012,2,Switzerland,Europe Other,2
 2012-06-30,2012,2,Taiwan,Asia East,1
@@ -1068,7 +1067,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2012-09-30,2012,3,Congo (Democratic Republic),Africa Sub-Saharan,3
 2012-09-30,2012,3,Croatia,EU Other,1
 2012-09-30,2012,3,Cyprus,EU Other,2
-2012-09-30,2012,3,Czech Republic,EU 8,2
+2012-09-30,2012,3,Czechia,EU 8,2
 2012-09-30,2012,3,Denmark,EU 14,4
 2012-09-30,2012,3,Dominica,America Central and South,1
 2012-09-30,2012,3,Egypt,Africa North,5
@@ -1076,7 +1075,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2012-09-30,2012,3,Ethiopia,Africa Sub-Saharan,1
 2012-09-30,2012,3,Finland,EU 14,2
 2012-09-30,2012,3,France,EU 14,29
-2012-09-30,2012,3,French Guiana,America Central and South,1
+2012-09-30,2012,3,French Guiana (French),America Central and South,1
 2012-09-30,2012,3,"Gambia, The",Africa Sub-Saharan,2
 2012-09-30,2012,3,Georgia,Europe Other,2
 2012-09-30,2012,3,Germany,EU 14,6
@@ -1129,8 +1128,8 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2012-09-30,2012,3,South Africa,Africa Sub-Saharan,3
 2012-09-30,2012,3,Spain,EU 14,9
 2012-09-30,2012,3,Sri Lanka,Asia South,15
-2012-09-30,2012,3,St. Kitts and Nevis,America Central and South,1
-2012-09-30,2012,3,St. Vincent and the Grenadines,America Central and South,1
+2012-09-30,2012,3,St Kitts and Nevis,America Central and South,1
+2012-09-30,2012,3,St Vincent and the Grenadines,America Central and South,1
 2012-09-30,2012,3,Sudan,Africa North,1
 2012-09-30,2012,3,Sweden,EU 14,4
 2012-09-30,2012,3,Tanzania,Africa Sub-Saharan,4
@@ -1160,7 +1159,6 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2012-12-31,2012,4,Belgium,EU 14,3
 2012-12-31,2012,4,Brazil,America Central and South,12
 2012-12-31,2012,4,Bulgaria,EU 2,10
-2012-12-31,2012,4,Burma,Asia South East,1
 2012-12-31,2012,4,Cameroon,Africa Sub-Saharan,4
 2012-12-31,2012,4,Canada,America North,1
 2012-12-31,2012,4,Chile,America Central and South,7
@@ -1168,7 +1166,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2012-12-31,2012,4,Colombia,America Central and South,12
 2012-12-31,2012,4,Congo,Africa Sub-Saharan,1
 2012-12-31,2012,4,Croatia,EU Other,1
-2012-12-31,2012,4,Czech Republic,EU 8,8
+2012-12-31,2012,4,Czechia,EU 8,8
 2012-12-31,2012,4,Denmark,EU 14,1
 2012-12-31,2012,4,Estonia,EU 8,2
 2012-12-31,2012,4,Ethiopia,Africa Sub-Saharan,3
@@ -1197,7 +1195,6 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2012-12-31,2012,4,Latvia,EU 8,23
 2012-12-31,2012,4,Libya,Africa North,1
 2012-12-31,2012,4,Lithuania,EU 8,58
-2012-12-31,2012,4,Macedonia,Europe Other,1
 2012-12-31,2012,4,Malawi,Africa Sub-Saharan,5
 2012-12-31,2012,4,Malaysia,Asia South East,7
 2012-12-31,2012,4,Mauritius,Africa Sub-Saharan,3
@@ -1206,18 +1203,20 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2012-12-31,2012,4,Mongolia,Asia East,1
 2012-12-31,2012,4,Morocco,Africa North,7
 2012-12-31,2012,4,Mozambique,Africa Sub-Saharan,1
+2012-12-31,2012,4,Myanmar (Burma),Asia South East,1
 2012-12-31,2012,4,Namibia,Africa Sub-Saharan,2
 2012-12-31,2012,4,Nepal,Asia South,1
 2012-12-31,2012,4,Netherlands,EU 14,15
 2012-12-31,2012,4,New Zealand,Oceania,2
 2012-12-31,2012,4,Nigeria,Africa Sub-Saharan,76
+2012-12-31,2012,4,North Macedonia,Europe Other,1
 2012-12-31,2012,4,Norway,Europe Other,1
 2012-12-31,2012,4,Other and unknown,Other,58
 2012-12-31,2012,4,Pakistan,Asia South,49
 2012-12-31,2012,4,Philippines,Asia South East,3
 2012-12-31,2012,4,Poland,EU 8,85
 2012-12-31,2012,4,Portugal,EU 14,26
-2012-12-31,2012,4,Puerto Rico,America North,1
+2012-12-31,2012,4,Puerto Rico (United States),America Central and South,1
 2012-12-31,2012,4,Romania,EU 2,142
 2012-12-31,2012,4,Russia,Europe Other,1
 2012-12-31,2012,4,Senegal,Africa Sub-Saharan,1
@@ -1228,8 +1227,8 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2012-12-31,2012,4,South Africa,Africa Sub-Saharan,4
 2012-12-31,2012,4,Spain,EU 14,15
 2012-12-31,2012,4,Sri Lanka,Asia South,15
-2012-12-31,2012,4,St. Lucia,America Central and South,1
-2012-12-31,2012,4,St. Vincent and the Grenadines,America Central and South,2
+2012-12-31,2012,4,St Lucia,America Central and South,1
+2012-12-31,2012,4,St Vincent and the Grenadines,America Central and South,2
 2012-12-31,2012,4,Sudan,Africa North,1
 2012-12-31,2012,4,Sweden,EU 14,4
 2012-12-31,2012,4,Switzerland,Europe Other,1
@@ -1268,7 +1267,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2013-03-31,2013,1,Congo (Democratic Republic),Africa Sub-Saharan,1
 2013-03-31,2013,1,Croatia,EU Other,3
 2013-03-31,2013,1,Cyprus,EU Other,2
-2013-03-31,2013,1,Czech Republic,EU 8,11
+2013-03-31,2013,1,Czechia,EU 8,11
 2013-03-31,2013,1,Denmark,EU 14,2
 2013-03-31,2013,1,Dominica,America Central and South,2
 2013-03-31,2013,1,Egypt,Africa North,2
@@ -1325,9 +1324,9 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2013-03-31,2013,1,South Africa,Africa Sub-Saharan,3
 2013-03-31,2013,1,Spain,EU 14,19
 2013-03-31,2013,1,Sri Lanka,Asia South,5
-2013-03-31,2013,1,St. Kitts and Nevis,America Central and South,2
-2013-03-31,2013,1,St. Lucia,America Central and South,2
-2013-03-31,2013,1,St. Vincent and the Grenadines,America Central and South,1
+2013-03-31,2013,1,St Kitts and Nevis,America Central and South,2
+2013-03-31,2013,1,St Lucia,America Central and South,2
+2013-03-31,2013,1,St Vincent and the Grenadines,America Central and South,1
 2013-03-31,2013,1,Sudan,Africa North,1
 2013-03-31,2013,1,Sweden,EU 14,2
 2013-03-31,2013,1,Switzerland,Europe Other,1
@@ -1366,7 +1365,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2013-06-30,2013,2,Costa Rica,America Central and South,1
 2013-06-30,2013,2,Croatia,EU Other,2
 2013-06-30,2013,2,Cyprus,EU Other,1
-2013-06-30,2013,2,Czech Republic,EU 8,12
+2013-06-30,2013,2,Czechia,EU 8,12
 2013-06-30,2013,2,Dominican Republic,America Central and South,1
 2013-06-30,2013,2,Egypt,Africa North,2
 2013-06-30,2013,2,Eritrea,Africa Sub-Saharan,1
@@ -1399,7 +1398,6 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2013-06-30,2013,2,Latvia,EU 8,21
 2013-06-30,2013,2,Libya,Africa North,4
 2013-06-30,2013,2,Lithuania,EU 8,63
-2013-06-30,2013,2,Macedonia,Europe Other,1
 2013-06-30,2013,2,Malaysia,Asia South East,7
 2013-06-30,2013,2,Mauritius,Africa Sub-Saharan,2
 2013-06-30,2013,2,Mexico,America Central and South,2
@@ -1409,6 +1407,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2013-06-30,2013,2,Netherlands,EU 14,26
 2013-06-30,2013,2,New Zealand,Oceania,2
 2013-06-30,2013,2,Nigeria,Africa Sub-Saharan,77
+2013-06-30,2013,2,North Macedonia,Europe Other,1
 2013-06-30,2013,2,Other and unknown,Other,59
 2013-06-30,2013,2,Pakistan,Asia South,47
 2013-06-30,2013,2,Peru,America Central and South,2
@@ -1425,8 +1424,8 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2013-06-30,2013,2,South Africa,Africa Sub-Saharan,10
 2013-06-30,2013,2,Spain,EU 14,4
 2013-06-30,2013,2,Sri Lanka,Asia South,1
-2013-06-30,2013,2,St. Lucia,America Central and South,3
-2013-06-30,2013,2,St. Vincent and the Grenadines,America Central and South,2
+2013-06-30,2013,2,St Lucia,America Central and South,3
+2013-06-30,2013,2,St Vincent and the Grenadines,America Central and South,2
 2013-06-30,2013,2,Sweden,EU 14,3
 2013-06-30,2013,2,Switzerland,Europe Other,3
 2013-06-30,2013,2,Tanzania,Africa Sub-Saharan,3
@@ -1466,12 +1465,13 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2013-09-30,2013,3,Congo (Democratic Republic),Africa Sub-Saharan,1
 2013-09-30,2013,3,Costa Rica,America Central and South,2
 2013-09-30,2013,3,Cyprus,EU Other,3
-2013-09-30,2013,3,Czech Republic,EU 8,8
+2013-09-30,2013,3,Czechia,EU 8,8
 2013-09-30,2013,3,Denmark,EU 14,3
 2013-09-30,2013,3,Dominica,America Central and South,1
 2013-09-30,2013,3,Ecuador,America Central and South,2
 2013-09-30,2013,3,Egypt,Africa North,3
 2013-09-30,2013,3,Estonia,EU 8,2
+2013-09-30,2013,3,Eswatini,Africa Sub-Saharan,1
 2013-09-30,2013,3,France,EU 14,30
 2013-09-30,2013,3,"Gambia, The",Africa Sub-Saharan,8
 2013-09-30,2013,3,Georgia,Europe Other,2
@@ -1527,10 +1527,9 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2013-09-30,2013,3,South Africa,Africa Sub-Saharan,4
 2013-09-30,2013,3,Spain,EU 14,10
 2013-09-30,2013,3,Sri Lanka,Asia South,2
-2013-09-30,2013,3,St. Lucia,America Central and South,2
-2013-09-30,2013,3,St. Vincent and the Grenadines,America Central and South,2
-2013-09-30,2013,3,Surinam,America Central and South,2
-2013-09-30,2013,3,Swaziland,Africa Sub-Saharan,1
+2013-09-30,2013,3,St Lucia,America Central and South,2
+2013-09-30,2013,3,St Vincent and the Grenadines,America Central and South,2
+2013-09-30,2013,3,Suriname,America Central and South,2
 2013-09-30,2013,3,Sweden,EU 14,3
 2013-09-30,2013,3,Switzerland,Europe Other,1
 2013-09-30,2013,3,Taiwan,Asia East,1
@@ -1568,7 +1567,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2013-12-31,2013,4,Congo,Africa Sub-Saharan,1
 2013-12-31,2013,4,Congo (Democratic Republic),Africa Sub-Saharan,3
 2013-12-31,2013,4,Cyprus,EU Other,2
-2013-12-31,2013,4,Czech Republic,EU 8,19
+2013-12-31,2013,4,Czechia,EU 8,19
 2013-12-31,2013,4,Dominica,America Central and South,1
 2013-12-31,2013,4,Ecuador,America Central and South,1
 2013-12-31,2013,4,Egypt,Africa North,2
@@ -1592,7 +1591,6 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2013-12-31,2013,4,Jamaica,America Central and South,50
 2013-12-31,2013,4,Jordan,Middle East,1
 2013-12-31,2013,4,Kenya,Africa Sub-Saharan,2
-2013-12-31,2013,4,Korea (South),Asia East,1
 2013-12-31,2013,4,Kosovo,Europe Other,6
 2013-12-31,2013,4,Kyrgyzstan,Asia Central,1
 2013-12-31,2013,4,Latvia,EU 8,28
@@ -1621,10 +1619,11 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2013-12-31,2013,4,Slovakia,EU 8,15
 2013-12-31,2013,4,Somalia,Africa Sub-Saharan,4
 2013-12-31,2013,4,South Africa,Africa Sub-Saharan,7
+2013-12-31,2013,4,South Korea,Asia East,1
 2013-12-31,2013,4,Spain,EU 14,8
 2013-12-31,2013,4,Sri Lanka,Asia South,9
-2013-12-31,2013,4,St. Lucia,America Central and South,3
-2013-12-31,2013,4,St. Vincent and the Grenadines,America Central and South,1
+2013-12-31,2013,4,St Lucia,America Central and South,3
+2013-12-31,2013,4,St Vincent and the Grenadines,America Central and South,1
 2013-12-31,2013,4,Sweden,EU 14,4
 2013-12-31,2013,4,Tanzania,Africa Sub-Saharan,2
 2013-12-31,2013,4,Thailand,Asia South East,1
@@ -1660,11 +1659,12 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2014-03-31,2014,1,Colombia,America Central and South,8
 2014-03-31,2014,1,Congo (Democratic Republic),Africa Sub-Saharan,1
 2014-03-31,2014,1,Cyprus,EU Other,1
-2014-03-31,2014,1,Czech Republic,EU 8,13
+2014-03-31,2014,1,Czechia,EU 8,13
 2014-03-31,2014,1,Dominica,America Central and South,1
 2014-03-31,2014,1,Ecuador,America Central and South,1
 2014-03-31,2014,1,Egypt,Africa North,2
 2014-03-31,2014,1,Estonia,EU 8,1
+2014-03-31,2014,1,Eswatini,Africa Sub-Saharan,1
 2014-03-31,2014,1,Fiji,Oceania,2
 2014-03-31,2014,1,Finland,EU 14,1
 2014-03-31,2014,1,France,EU 14,52
@@ -1686,7 +1686,6 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2014-03-31,2014,1,Ivory Coast,Africa Sub-Saharan,3
 2014-03-31,2014,1,Jamaica,America Central and South,56
 2014-03-31,2014,1,Kenya,Africa Sub-Saharan,6
-2014-03-31,2014,1,Korea (South),Asia East,1
 2014-03-31,2014,1,Kosovo,Europe Other,2
 2014-03-31,2014,1,Latvia,EU 8,49
 2014-03-31,2014,1,Lebanon,Middle East,2
@@ -1718,11 +1717,11 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2014-03-31,2014,1,Slovenia,EU 8,1
 2014-03-31,2014,1,Somalia,Africa Sub-Saharan,11
 2014-03-31,2014,1,South Africa,Africa Sub-Saharan,2
+2014-03-31,2014,1,South Korea,Asia East,1
 2014-03-31,2014,1,Spain,EU 14,13
 2014-03-31,2014,1,Sri Lanka,Asia South,10
-2014-03-31,2014,1,St. Vincent and the Grenadines,America Central and South,1
+2014-03-31,2014,1,St Vincent and the Grenadines,America Central and South,1
 2014-03-31,2014,1,Sudan,Africa North,2
-2014-03-31,2014,1,Swaziland,Africa Sub-Saharan,1
 2014-03-31,2014,1,Sweden,EU 14,4
 2014-03-31,2014,1,Switzerland,Europe Other,2
 2014-03-31,2014,1,Thailand,Asia South East,2
@@ -1749,7 +1748,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2014-06-30,2014,2,Belgium,EU 14,4
 2014-06-30,2014,2,Brazil,America Central and South,11
 2014-06-30,2014,2,Bulgaria,EU 2,13
-2014-06-30,2014,2,Burkina,Africa Sub-Saharan,1
+2014-06-30,2014,2,Burkina Faso,Africa Sub-Saharan,1
 2014-06-30,2014,2,Cameroon,Africa Sub-Saharan,2
 2014-06-30,2014,2,Canada,America North,2
 2014-06-30,2014,2,Chile,America Central and South,4
@@ -1757,7 +1756,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2014-06-30,2014,2,Colombia,America Central and South,5
 2014-06-30,2014,2,Croatia,EU Other,5
 2014-06-30,2014,2,Cyprus,EU Other,2
-2014-06-30,2014,2,Czech Republic,EU 8,24
+2014-06-30,2014,2,Czechia,EU 8,24
 2014-06-30,2014,2,Dominica,America Central and South,1
 2014-06-30,2014,2,Ecuador,America Central and South,1
 2014-06-30,2014,2,Egypt,Africa North,1
@@ -1779,7 +1778,6 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2014-06-30,2014,2,Ivory Coast,Africa Sub-Saharan,2
 2014-06-30,2014,2,Jamaica,America Central and South,32
 2014-06-30,2014,2,Kenya,Africa Sub-Saharan,7
-2014-06-30,2014,2,Korea (South),Asia East,1
 2014-06-30,2014,2,Kosovo,Europe Other,2
 2014-06-30,2014,2,Kuwait,Middle East,1
 2014-06-30,2014,2,Kyrgyzstan,Asia Central,1
@@ -1787,7 +1785,6 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2014-06-30,2014,2,Libya,Africa North,2
 2014-06-30,2014,2,Lithuania,EU 8,93
 2014-06-30,2014,2,Macau,Asia East,1
-2014-06-30,2014,2,Macedonia,Europe Other,1
 2014-06-30,2014,2,Malaysia,Asia South East,5
 2014-06-30,2014,2,Mali,Africa Sub-Saharan,2
 2014-06-30,2014,2,Mauritius,Africa Sub-Saharan,4
@@ -1797,6 +1794,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2014-06-30,2014,2,Netherlands,EU 14,13
 2014-06-30,2014,2,New Zealand,Oceania,1
 2014-06-30,2014,2,Nigeria,Africa Sub-Saharan,36
+2014-06-30,2014,2,North Macedonia,Europe Other,1
 2014-06-30,2014,2,Norway,Europe Other,1
 2014-06-30,2014,2,Other and unknown,Other,124
 2014-06-30,2014,2,Pakistan,Asia South,39
@@ -1814,11 +1812,12 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2014-06-30,2014,2,Slovakia,EU 8,20
 2014-06-30,2014,2,Somalia,Africa Sub-Saharan,9
 2014-06-30,2014,2,South Africa,Africa Sub-Saharan,4
+2014-06-30,2014,2,South Korea,Asia East,1
 2014-06-30,2014,2,Spain,EU 14,10
 2014-06-30,2014,2,Sri Lanka,Asia South,3
-2014-06-30,2014,2,St. Kitts and Nevis,America Central and South,1
-2014-06-30,2014,2,St. Lucia,America Central and South,3
-2014-06-30,2014,2,St. Vincent and the Grenadines,America Central and South,2
+2014-06-30,2014,2,St Kitts and Nevis,America Central and South,1
+2014-06-30,2014,2,St Lucia,America Central and South,3
+2014-06-30,2014,2,St Vincent and the Grenadines,America Central and South,2
 2014-06-30,2014,2,Sweden,EU 14,1
 2014-06-30,2014,2,Tanzania,Africa Sub-Saharan,2
 2014-06-30,2014,2,Thailand,Asia South East,1
@@ -1853,7 +1852,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2014-09-30,2014,3,Colombia,America Central and South,7
 2014-09-30,2014,3,Costa Rica,America Central and South,2
 2014-09-30,2014,3,Cyprus,EU Other,1
-2014-09-30,2014,3,Czech Republic,EU 8,25
+2014-09-30,2014,3,Czechia,EU 8,25
 2014-09-30,2014,3,Denmark,EU 14,5
 2014-09-30,2014,3,Egypt,Africa North,3
 2014-09-30,2014,3,Estonia,EU 8,3
@@ -1904,8 +1903,8 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2014-09-30,2014,3,South Africa,Africa Sub-Saharan,1
 2014-09-30,2014,3,Spain,EU 14,8
 2014-09-30,2014,3,Sri Lanka,Asia South,3
-2014-09-30,2014,3,St. Lucia,America Central and South,3
-2014-09-30,2014,3,St. Vincent and the Grenadines,America Central and South,1
+2014-09-30,2014,3,St Lucia,America Central and South,3
+2014-09-30,2014,3,St Vincent and the Grenadines,America Central and South,1
 2014-09-30,2014,3,Sudan,Africa North,1
 2014-09-30,2014,3,Sweden,EU 14,4
 2014-09-30,2014,3,Switzerland,Europe Other,1
@@ -1948,7 +1947,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2014-12-31,2014,4,Congo,Africa Sub-Saharan,2
 2014-12-31,2014,4,Congo (Democratic Republic),Africa Sub-Saharan,4
 2014-12-31,2014,4,Croatia,EU Other,3
-2014-12-31,2014,4,Czech Republic,EU 8,27
+2014-12-31,2014,4,Czechia,EU 8,27
 2014-12-31,2014,4,Denmark,EU 14,3
 2014-12-31,2014,4,Ecuador,America Central and South,1
 2014-12-31,2014,4,Egypt,Africa North,2
@@ -1978,7 +1977,6 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2014-12-31,2014,4,Latvia,EU 8,51
 2014-12-31,2014,4,Lebanon,Middle East,1
 2014-12-31,2014,4,Lithuania,EU 8,102
-2014-12-31,2014,4,Macedonia,Europe Other,2
 2014-12-31,2014,4,Malawi,Africa Sub-Saharan,1
 2014-12-31,2014,4,Malaysia,Asia South East,2
 2014-12-31,2014,4,Mauritius,Africa Sub-Saharan,1
@@ -1991,6 +1989,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2014-12-31,2014,4,New Zealand,Oceania,1
 2014-12-31,2014,4,Niger,Africa Sub-Saharan,1
 2014-12-31,2014,4,Nigeria,Africa Sub-Saharan,43
+2014-12-31,2014,4,North Macedonia,Europe Other,2
 2014-12-31,2014,4,Norway,Europe Other,3
 2014-12-31,2014,4,Oman,Middle East,1
 2014-12-31,2014,4,Other and unknown,Other,102
@@ -2006,8 +2005,8 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2014-12-31,2014,4,South Africa,Africa Sub-Saharan,8
 2014-12-31,2014,4,Spain,EU 14,15
 2014-12-31,2014,4,Sri Lanka,Asia South,15
-2014-12-31,2014,4,St. Lucia,America Central and South,3
-2014-12-31,2014,4,St. Vincent and the Grenadines,America Central and South,3
+2014-12-31,2014,4,St Lucia,America Central and South,3
+2014-12-31,2014,4,St Vincent and the Grenadines,America Central and South,3
 2014-12-31,2014,4,Sudan,Africa North,1
 2014-12-31,2014,4,Sweden,EU 14,4
 2014-12-31,2014,4,Taiwan,Asia East,1
@@ -2046,7 +2045,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2015-03-31,2015,1,Costa Rica,America Central and South,2
 2015-03-31,2015,1,Croatia,EU Other,3
 2015-03-31,2015,1,Cyprus,EU Other,2
-2015-03-31,2015,1,Czech Republic,EU 8,26
+2015-03-31,2015,1,Czechia,EU 8,26
 2015-03-31,2015,1,Denmark,EU 14,3
 2015-03-31,2015,1,Dominican Republic,America Central and South,1
 2015-03-31,2015,1,Ecuador,America Central and South,4
@@ -2103,8 +2102,8 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2015-03-31,2015,1,South Africa,Africa Sub-Saharan,4
 2015-03-31,2015,1,Spain,EU 14,7
 2015-03-31,2015,1,Sri Lanka,Asia South,14
-2015-03-31,2015,1,St. Lucia,America Central and South,1
-2015-03-31,2015,1,St. Vincent and the Grenadines,America Central and South,1
+2015-03-31,2015,1,St Lucia,America Central and South,1
+2015-03-31,2015,1,St Vincent and the Grenadines,America Central and South,1
 2015-03-31,2015,1,Sudan,Africa North,1
 2015-03-31,2015,1,Sweden,EU 14,4
 2015-03-31,2015,1,Tanzania,Africa Sub-Saharan,3
@@ -2137,9 +2136,9 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2015-06-30,2015,2,Colombia,America Central and South,7
 2015-06-30,2015,2,Costa Rica,America Central and South,2
 2015-06-30,2015,2,Croatia,EU Other,2
-2015-06-30,2015,2,Curacao,America Central and South,1
+2015-06-30,2015,2,Curacao (Dutch),America Central and South,1
 2015-06-30,2015,2,Cyprus,EU Other,3
-2015-06-30,2015,2,Czech Republic,EU 8,24
+2015-06-30,2015,2,Czechia,EU 8,24
 2015-06-30,2015,2,Denmark,EU 14,3
 2015-06-30,2015,2,Ecuador,America Central and South,2
 2015-06-30,2015,2,Egypt,Africa North,2
@@ -2166,7 +2165,6 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2015-06-30,2015,2,Jamaica,America Central and South,59
 2015-06-30,2015,2,Jordan,Middle East,1
 2015-06-30,2015,2,Kenya,Africa Sub-Saharan,2
-2015-06-30,2015,2,Korea (South),Asia East,1
 2015-06-30,2015,2,Kosovo,Europe Other,3
 2015-06-30,2015,2,Latvia,EU 8,60
 2015-06-30,2015,2,Lebanon,Middle East,1
@@ -2202,10 +2200,11 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2015-06-30,2015,2,Slovenia,EU 8,1
 2015-06-30,2015,2,Somalia,Africa Sub-Saharan,3
 2015-06-30,2015,2,South Africa,Africa Sub-Saharan,6
+2015-06-30,2015,2,South Korea,Asia East,1
 2015-06-30,2015,2,Spain,EU 14,30
 2015-06-30,2015,2,Sri Lanka,Asia South,4
-2015-06-30,2015,2,St. Lucia,America Central and South,1
-2015-06-30,2015,2,St. Vincent and the Grenadines,America Central and South,1
+2015-06-30,2015,2,St Lucia,America Central and South,1
+2015-06-30,2015,2,St Vincent and the Grenadines,America Central and South,1
 2015-06-30,2015,2,Sweden,EU 14,3
 2015-06-30,2015,2,Switzerland,Europe Other,2
 2015-06-30,2015,2,Tanzania,Africa Sub-Saharan,1
@@ -2239,7 +2238,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2015-09-30,2015,3,Congo (Democratic Republic),Africa Sub-Saharan,1
 2015-09-30,2015,3,Croatia,EU Other,2
 2015-09-30,2015,3,Cyprus,EU Other,3
-2015-09-30,2015,3,Czech Republic,EU 8,27
+2015-09-30,2015,3,Czechia,EU 8,27
 2015-09-30,2015,3,Denmark,EU 14,1
 2015-09-30,2015,3,Dominica,America Central and South,2
 2015-09-30,2015,3,Ecuador,America Central and South,1
@@ -2266,7 +2265,6 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2015-09-30,2015,3,Ivory Coast,Africa Sub-Saharan,1
 2015-09-30,2015,3,Jamaica,America Central and South,55
 2015-09-30,2015,3,Kenya,Africa Sub-Saharan,4
-2015-09-30,2015,3,Korea (South),Asia East,1
 2015-09-30,2015,3,Kosovo,Europe Other,2
 2015-09-30,2015,3,Latvia,EU 8,44
 2015-09-30,2015,3,Lebanon,Middle East,3
@@ -2297,10 +2295,11 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2015-09-30,2015,3,Slovenia,EU 8,1
 2015-09-30,2015,3,Somalia,Africa Sub-Saharan,4
 2015-09-30,2015,3,South Africa,Africa Sub-Saharan,4
+2015-09-30,2015,3,South Korea,Asia East,1
 2015-09-30,2015,3,Spain,EU 14,16
 2015-09-30,2015,3,Sri Lanka,Asia South,10
-2015-09-30,2015,3,St. Lucia,America Central and South,4
-2015-09-30,2015,3,St. Vincent and the Grenadines,America Central and South,1
+2015-09-30,2015,3,St Lucia,America Central and South,4
+2015-09-30,2015,3,St Vincent and the Grenadines,America Central and South,1
 2015-09-30,2015,3,Sweden,EU 14,2
 2015-09-30,2015,3,Tanzania,Africa Sub-Saharan,1
 2015-09-30,2015,3,Thailand,Asia South East,2
@@ -2336,7 +2335,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2015-12-31,2015,4,Congo,Africa Sub-Saharan,2
 2015-12-31,2015,4,Congo (Democratic Republic),Africa Sub-Saharan,5
 2015-12-31,2015,4,Croatia,EU Other,1
-2015-12-31,2015,4,Czech Republic,EU 8,25
+2015-12-31,2015,4,Czechia,EU 8,25
 2015-12-31,2015,4,Denmark,EU 14,2
 2015-12-31,2015,4,Dominican Republic,America Central and South,2
 2015-12-31,2015,4,Ecuador,America Central and South,2
@@ -2396,7 +2395,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2015-12-31,2015,4,Somalia,Africa Sub-Saharan,13
 2015-12-31,2015,4,Spain,EU 14,13
 2015-12-31,2015,4,Sri Lanka,Asia South,7
-2015-12-31,2015,4,St. Lucia,America Central and South,3
+2015-12-31,2015,4,St Lucia,America Central and South,3
 2015-12-31,2015,4,Sweden,EU 14,5
 2015-12-31,2015,4,Switzerland,Europe Other,1
 2015-12-31,2015,4,Thailand,Asia South East,3
@@ -2431,7 +2430,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2016-03-31,2016,1,Congo (Democratic Republic),Africa Sub-Saharan,3
 2016-03-31,2016,1,Croatia,EU Other,1
 2016-03-31,2016,1,Cyprus,EU Other,2
-2016-03-31,2016,1,Czech Republic,EU 8,28
+2016-03-31,2016,1,Czechia,EU 8,28
 2016-03-31,2016,1,Denmark,EU 14,2
 2016-03-31,2016,1,Ecuador,America Central and South,3
 2016-03-31,2016,1,Egypt,Africa North,1
@@ -2483,8 +2482,8 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2016-03-31,2016,1,South Africa,Africa Sub-Saharan,4
 2016-03-31,2016,1,Spain,EU 14,12
 2016-03-31,2016,1,Sri Lanka,Asia South,4
-2016-03-31,2016,1,St. Martin (French Part),America Central and South,1
-2016-03-31,2016,1,St. Vincent and the Grenadines,America Central and South,1
+2016-03-31,2016,1,St Martin (French Part),America Central and South,1
+2016-03-31,2016,1,St Vincent and the Grenadines,America Central and South,1
 2016-03-31,2016,1,Sweden,EU 14,5
 2016-03-31,2016,1,Trinidad and Tobago,America Central and South,6
 2016-03-31,2016,1,Tunisia,Africa North,5
@@ -2514,7 +2513,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2016-06-30,2016,2,Colombia,America Central and South,6
 2016-06-30,2016,2,Congo (Democratic Republic),Africa Sub-Saharan,2
 2016-06-30,2016,2,Croatia,EU Other,4
-2016-06-30,2016,2,Czech Republic,EU 8,35
+2016-06-30,2016,2,Czechia,EU 8,35
 2016-06-30,2016,2,Denmark,EU 14,1
 2016-06-30,2016,2,Dominica,America Central and South,3
 2016-06-30,2016,2,Ecuador,America Central and South,2
@@ -2572,9 +2571,9 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2016-06-30,2016,2,South Africa,Africa Sub-Saharan,9
 2016-06-30,2016,2,Spain,EU 14,15
 2016-06-30,2016,2,Sri Lanka,Asia South,12
-2016-06-30,2016,2,St. Kitts and Nevis,America Central and South,1
-2016-06-30,2016,2,St. Lucia,America Central and South,3
-2016-06-30,2016,2,St. Vincent and the Grenadines,America Central and South,1
+2016-06-30,2016,2,St Kitts and Nevis,America Central and South,1
+2016-06-30,2016,2,St Lucia,America Central and South,3
+2016-06-30,2016,2,St Vincent and the Grenadines,America Central and South,1
 2016-06-30,2016,2,Sweden,EU 14,13
 2016-06-30,2016,2,Tanzania,Africa Sub-Saharan,1
 2016-06-30,2016,2,Thailand,Asia South East,1
@@ -2607,7 +2606,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2016-09-30,2016,3,Congo,Africa Sub-Saharan,1
 2016-09-30,2016,3,Congo (Democratic Republic),Africa Sub-Saharan,1
 2016-09-30,2016,3,Cyprus,EU Other,1
-2016-09-30,2016,3,Czech Republic,EU 8,31
+2016-09-30,2016,3,Czechia,EU 8,31
 2016-09-30,2016,3,Denmark,EU 14,2
 2016-09-30,2016,3,Dominica,America Central and South,1
 2016-09-30,2016,3,Egypt,Africa North,1
@@ -2632,13 +2631,11 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2016-09-30,2016,3,Ivory Coast,Africa Sub-Saharan,1
 2016-09-30,2016,3,Jamaica,America Central and South,61
 2016-09-30,2016,3,Jordan,Middle East,1
-2016-09-30,2016,3,Korea (South),Asia East,1
 2016-09-30,2016,3,Kosovo,Europe Other,1
 2016-09-30,2016,3,Kyrgyzstan,Asia Central,1
 2016-09-30,2016,3,Latvia,EU 8,51
 2016-09-30,2016,3,Lebanon,Middle East,1
 2016-09-30,2016,3,Lithuania,EU 8,138
-2016-09-30,2016,3,Macedonia,Europe Other,2
 2016-09-30,2016,3,Malaysia,Asia South East,7
 2016-09-30,2016,3,Mali,Africa Sub-Saharan,1
 2016-09-30,2016,3,Mauritius,Africa Sub-Saharan,3
@@ -2648,6 +2645,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2016-09-30,2016,3,Nepal,Asia South,2
 2016-09-30,2016,3,Netherlands,EU 14,30
 2016-09-30,2016,3,Nigeria,Africa Sub-Saharan,36
+2016-09-30,2016,3,North Macedonia,Europe Other,2
 2016-09-30,2016,3,Norway,Europe Other,2
 2016-09-30,2016,3,Other and unknown,Other,72
 2016-09-30,2016,3,Pakistan,Asia South,19
@@ -2663,11 +2661,12 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2016-09-30,2016,3,Slovenia,EU 8,2
 2016-09-30,2016,3,Somalia,Africa Sub-Saharan,1
 2016-09-30,2016,3,South Africa,Africa Sub-Saharan,4
+2016-09-30,2016,3,South Korea,Asia East,1
 2016-09-30,2016,3,Spain,EU 14,15
 2016-09-30,2016,3,Sri Lanka,Asia South,9
-2016-09-30,2016,3,St. Kitts and Nevis,America Central and South,1
-2016-09-30,2016,3,St. Lucia,America Central and South,1
-2016-09-30,2016,3,St. Vincent and the Grenadines,America Central and South,1
+2016-09-30,2016,3,St Kitts and Nevis,America Central and South,1
+2016-09-30,2016,3,St Lucia,America Central and South,1
+2016-09-30,2016,3,St Vincent and the Grenadines,America Central and South,1
 2016-09-30,2016,3,Sweden,EU 14,5
 2016-09-30,2016,3,Tanzania,Africa Sub-Saharan,1
 2016-09-30,2016,3,Thailand,Asia South East,4
@@ -2703,7 +2702,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2016-12-31,2016,4,Congo (Democratic Republic),Africa Sub-Saharan,7
 2016-12-31,2016,4,Croatia,EU Other,1
 2016-12-31,2016,4,Cyprus,EU Other,4
-2016-12-31,2016,4,Czech Republic,EU 8,28
+2016-12-31,2016,4,Czechia,EU 8,28
 2016-12-31,2016,4,Denmark,EU 14,2
 2016-12-31,2016,4,East Timor,Asia South East,1
 2016-12-31,2016,4,Ecuador,America Central and South,4
@@ -2757,7 +2756,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2016-12-31,2016,4,South Africa,Africa Sub-Saharan,2
 2016-12-31,2016,4,Spain,EU 14,15
 2016-12-31,2016,4,Sri Lanka,Asia South,10
-2016-12-31,2016,4,St. Lucia,America Central and South,1
+2016-12-31,2016,4,St Lucia,America Central and South,1
 2016-12-31,2016,4,Sudan,Africa North,1
 2016-12-31,2016,4,Sweden,EU 14,6
 2016-12-31,2016,4,Thailand,Asia South East,2
@@ -2791,7 +2790,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2017-03-31,2017,1,Costa Rica,America Central and South,1
 2017-03-31,2017,1,Croatia,EU Other,1
 2017-03-31,2017,1,Cyprus,EU Other,1
-2017-03-31,2017,1,Czech Republic,EU 8,22
+2017-03-31,2017,1,Czechia,EU 8,22
 2017-03-31,2017,1,Denmark,EU 14,4
 2017-03-31,2017,1,Dominica,America Central and South,1
 2017-03-31,2017,1,East Timor,Asia South East,1
@@ -2820,7 +2819,6 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2017-03-31,2017,1,Latvia,EU 8,59
 2017-03-31,2017,1,Libya,Africa North,1
 2017-03-31,2017,1,Lithuania,EU 8,177
-2017-03-31,2017,1,Macedonia,Europe Other,1
 2017-03-31,2017,1,Malawi,Africa Sub-Saharan,1
 2017-03-31,2017,1,Malaysia,Asia South East,4
 2017-03-31,2017,1,Mexico,America Central and South,3
@@ -2830,6 +2828,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2017-03-31,2017,1,Nepal,Asia South,1
 2017-03-31,2017,1,Netherlands,EU 14,32
 2017-03-31,2017,1,Nigeria,Africa Sub-Saharan,44
+2017-03-31,2017,1,North Macedonia,Europe Other,1
 2017-03-31,2017,1,Other and unknown,Other,63
 2017-03-31,2017,1,Pakistan,Asia South,33
 2017-03-31,2017,1,Peru,America Central and South,1
@@ -2847,7 +2846,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2017-03-31,2017,1,South Africa,Africa Sub-Saharan,4
 2017-03-31,2017,1,Spain,EU 14,15
 2017-03-31,2017,1,Sri Lanka,Asia South,4
-2017-03-31,2017,1,St. Lucia,America Central and South,2
+2017-03-31,2017,1,St Lucia,America Central and South,2
 2017-03-31,2017,1,Sweden,EU 14,8
 2017-03-31,2017,1,Thailand,Asia South East,2
 2017-03-31,2017,1,Trinidad and Tobago,America Central and South,6
@@ -2880,7 +2879,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2017-06-30,2017,2,China,Asia East,18
 2017-06-30,2017,2,Colombia,America Central and South,6
 2017-06-30,2017,2,Congo (Democratic Republic),Africa Sub-Saharan,1
-2017-06-30,2017,2,Czech Republic,EU 8,24
+2017-06-30,2017,2,Czechia,EU 8,24
 2017-06-30,2017,2,Denmark,EU 14,6
 2017-06-30,2017,2,Dominica,America Central and South,1
 2017-06-30,2017,2,Ecuador,America Central and South,5
@@ -2906,13 +2905,11 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2017-06-30,2017,2,Ivory Coast,Africa Sub-Saharan,1
 2017-06-30,2017,2,Jamaica,America Central and South,22
 2017-06-30,2017,2,Kenya,Africa Sub-Saharan,1
-2017-06-30,2017,2,Korea (South),Asia East,1
 2017-06-30,2017,2,Kosovo,Europe Other,2
 2017-06-30,2017,2,Kuwait,Middle East,1
 2017-06-30,2017,2,Latvia,EU 8,38
 2017-06-30,2017,2,Liberia,Africa Sub-Saharan,1
 2017-06-30,2017,2,Lithuania,EU 8,122
-2017-06-30,2017,2,Macedonia,Europe Other,1
 2017-06-30,2017,2,Malaysia,Asia South East,3
 2017-06-30,2017,2,Mauritius,Africa Sub-Saharan,5
 2017-06-30,2017,2,Moldova,Europe Other,3
@@ -2924,6 +2921,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2017-06-30,2017,2,Netherlands,EU 14,28
 2017-06-30,2017,2,New Zealand,Oceania,1
 2017-06-30,2017,2,Nigeria,Africa Sub-Saharan,30
+2017-06-30,2017,2,North Macedonia,Europe Other,1
 2017-06-30,2017,2,Other and unknown,Other,78
 2017-06-30,2017,2,Pakistan,Asia South,20
 2017-06-30,2017,2,Paraguay,America Central and South,1
@@ -2939,9 +2937,10 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2017-06-30,2017,2,Slovakia,EU 8,25
 2017-06-30,2017,2,Slovenia,EU 8,1
 2017-06-30,2017,2,Somalia,Africa Sub-Saharan,5
+2017-06-30,2017,2,South Korea,Asia East,1
 2017-06-30,2017,2,Spain,EU 14,14
 2017-06-30,2017,2,Sri Lanka,Asia South,2
-2017-06-30,2017,2,St. Lucia,America Central and South,1
+2017-06-30,2017,2,St Lucia,America Central and South,1
 2017-06-30,2017,2,Sweden,EU 14,5
 2017-06-30,2017,2,Switzerland,Europe Other,3
 2017-06-30,2017,2,Taiwan,Asia East,1
@@ -2961,7 +2960,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2017-09-30,2017,3,Angola,Africa Sub-Saharan,1
 2017-09-30,2017,3,Antigua and Barbuda,America Central and South,1
 2017-09-30,2017,3,Argentina,America Central and South,1
-2017-09-30,2017,3,Aruba,America Central and South,1
+2017-09-30,2017,3,Aruba (Dutch),America Central and South,1
 2017-09-30,2017,3,Australia,Oceania,1
 2017-09-30,2017,3,Austria,EU 14,1
 2017-09-30,2017,3,Bangladesh,Asia South,7
@@ -2980,7 +2979,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2017-09-30,2017,3,Congo (Democratic Republic),Africa Sub-Saharan,3
 2017-09-30,2017,3,Croatia,EU Other,1
 2017-09-30,2017,3,Cyprus,EU Other,1
-2017-09-30,2017,3,Czech Republic,EU 8,20
+2017-09-30,2017,3,Czechia,EU 8,20
 2017-09-30,2017,3,Denmark,EU 14,2
 2017-09-30,2017,3,Dominican Republic,America Central and South,1
 2017-09-30,2017,3,Ecuador,America Central and South,2
@@ -3003,11 +3002,9 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2017-09-30,2017,3,Ireland,EU 14,3
 2017-09-30,2017,3,Italy,EU 14,21
 2017-09-30,2017,3,Jamaica,America Central and South,11
-2017-09-30,2017,3,Korea (South),Asia East,1
 2017-09-30,2017,3,Kosovo,Europe Other,1
 2017-09-30,2017,3,Latvia,EU 8,53
 2017-09-30,2017,3,Lithuania,EU 8,113
-2017-09-30,2017,3,Macedonia,Europe Other,1
 2017-09-30,2017,3,Malawi,Africa Sub-Saharan,1
 2017-09-30,2017,3,Malaysia,Asia South East,3
 2017-09-30,2017,3,Mexico,America Central and South,1
@@ -3017,6 +3014,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2017-09-30,2017,3,Netherlands,EU 14,27
 2017-09-30,2017,3,New Zealand,Oceania,1
 2017-09-30,2017,3,Nigeria,Africa Sub-Saharan,27
+2017-09-30,2017,3,North Macedonia,Europe Other,1
 2017-09-30,2017,3,Norway,Europe Other,3
 2017-09-30,2017,3,Other and unknown,Other,83
 2017-09-30,2017,3,Pakistan,Asia South,23
@@ -3032,6 +3030,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2017-09-30,2017,3,Slovenia,EU 8,2
 2017-09-30,2017,3,Somalia,Africa Sub-Saharan,7
 2017-09-30,2017,3,South Africa,Africa Sub-Saharan,2
+2017-09-30,2017,3,South Korea,Asia East,1
 2017-09-30,2017,3,Spain,EU 14,11
 2017-09-30,2017,3,Sri Lanka,Asia South,8
 2017-09-30,2017,3,Sweden,EU 14,7
@@ -3065,7 +3064,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2017-12-31,2017,4,Congo (Democratic Republic),Africa Sub-Saharan,15
 2017-12-31,2017,4,Croatia,EU Other,1
 2017-12-31,2017,4,Cyprus,EU Other,1
-2017-12-31,2017,4,Czech Republic,EU 8,27
+2017-12-31,2017,4,Czechia,EU 8,27
 2017-12-31,2017,4,Denmark,EU 14,3
 2017-12-31,2017,4,Dominican Republic,America Central and South,1
 2017-12-31,2017,4,Egypt,Africa North,2
@@ -3122,7 +3121,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2017-12-31,2017,4,South Africa,Africa Sub-Saharan,3
 2017-12-31,2017,4,Spain,EU 14,18
 2017-12-31,2017,4,Sri Lanka,Asia South,4
-2017-12-31,2017,4,St. Vincent and the Grenadines,America Central and South,1
+2017-12-31,2017,4,St Vincent and the Grenadines,America Central and South,1
 2017-12-31,2017,4,Sweden,EU 14,7
 2017-12-31,2017,4,Switzerland,Europe Other,1
 2017-12-31,2017,4,Trinidad and Tobago,America Central and South,5
@@ -3160,7 +3159,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2018-03-31,2018,1,Croatia,EU Other,1
 2018-03-31,2018,1,Cuba,America Central and South,1
 2018-03-31,2018,1,Cyprus,EU Other,3
-2018-03-31,2018,1,Czech Republic,EU 8,25
+2018-03-31,2018,1,Czechia,EU 8,25
 2018-03-31,2018,1,Denmark,EU 14,6
 2018-03-31,2018,1,Ecuador,America Central and South,1
 2018-03-31,2018,1,Egypt,Africa North,3
@@ -3186,7 +3185,6 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2018-03-31,2018,1,Latvia,EU 8,38
 2018-03-31,2018,1,Libya,Africa North,1
 2018-03-31,2018,1,Lithuania,EU 8,127
-2018-03-31,2018,1,Macedonia,Europe Other,1
 2018-03-31,2018,1,Malaysia,Asia South East,6
 2018-03-31,2018,1,Malta,EU Other,1
 2018-03-31,2018,1,Moldova,Europe Other,3
@@ -3196,6 +3194,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2018-03-31,2018,1,New Zealand,Oceania,1
 2018-03-31,2018,1,Nicaragua,America Central and South,1
 2018-03-31,2018,1,Nigeria,Africa Sub-Saharan,30
+2018-03-31,2018,1,North Macedonia,Europe Other,1
 2018-03-31,2018,1,Norway,Europe Other,1
 2018-03-31,2018,1,Other and unknown,Other,94
 2018-03-31,2018,1,Pakistan,Asia South,21
@@ -3212,7 +3211,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2018-03-31,2018,1,South Africa,Africa Sub-Saharan,4
 2018-03-31,2018,1,Spain,EU 14,14
 2018-03-31,2018,1,Sri Lanka,Asia South,5
-2018-03-31,2018,1,St. Lucia,America Central and South,2
+2018-03-31,2018,1,St Lucia,America Central and South,2
 2018-03-31,2018,1,Sudan,Africa North,1
 2018-03-31,2018,1,Sweden,EU 14,7
 2018-03-31,2018,1,Switzerland,Europe Other,1
@@ -3248,7 +3247,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2018-06-30,2018,2,Congo (Democratic Republic),Africa Sub-Saharan,4
 2018-06-30,2018,2,Croatia,EU Other,2
 2018-06-30,2018,2,Cyprus,EU Other,1
-2018-06-30,2018,2,Czech Republic,EU 8,16
+2018-06-30,2018,2,Czechia,EU 8,16
 2018-06-30,2018,2,Denmark,EU 14,3
 2018-06-30,2018,2,Egypt,Africa North,1
 2018-06-30,2018,2,France,EU 14,38
@@ -3267,11 +3266,9 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2018-06-30,2018,2,Jamaica,America Central and South,12
 2018-06-30,2018,2,Japan,Asia East,1
 2018-06-30,2018,2,Kenya,Africa Sub-Saharan,3
-2018-06-30,2018,2,Korea (South),Asia East,1
 2018-06-30,2018,2,Kosovo,Europe Other,1
 2018-06-30,2018,2,Latvia,EU 8,52
 2018-06-30,2018,2,Lithuania,EU 8,111
-2018-06-30,2018,2,Macedonia,Europe Other,1
 2018-06-30,2018,2,Malaysia,Asia South East,4
 2018-06-30,2018,2,Maldives,Asia South,1
 2018-06-30,2018,2,Malta,EU Other,1
@@ -3282,6 +3279,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2018-06-30,2018,2,Nepal,Asia South,3
 2018-06-30,2018,2,Netherlands,EU 14,28
 2018-06-30,2018,2,Nigeria,Africa Sub-Saharan,9
+2018-06-30,2018,2,North Macedonia,Europe Other,1
 2018-06-30,2018,2,Norway,Europe Other,5
 2018-06-30,2018,2,Other and unknown,Other,77
 2018-06-30,2018,2,Pakistan,Asia South,13
@@ -3293,11 +3291,12 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2018-06-30,2018,2,Slovakia,EU 8,24
 2018-06-30,2018,2,Somalia,Africa Sub-Saharan,9
 2018-06-30,2018,2,South Africa,Africa Sub-Saharan,1
+2018-06-30,2018,2,South Korea,Asia East,1
 2018-06-30,2018,2,Spain,EU 14,18
 2018-06-30,2018,2,Sri Lanka,Asia South,7
-2018-06-30,2018,2,St. Lucia,America Central and South,1
+2018-06-30,2018,2,St Lucia,America Central and South,1
 2018-06-30,2018,2,Sudan,Africa North,1
-2018-06-30,2018,2,Surinam,America Central and South,1
+2018-06-30,2018,2,Suriname,America Central and South,1
 2018-06-30,2018,2,Sweden,EU 14,10
 2018-06-30,2018,2,Tanzania,Africa Sub-Saharan,1
 2018-06-30,2018,2,Tunisia,Africa North,1
@@ -3319,7 +3318,6 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2018-09-30,2018,3,Botswana,Africa Sub-Saharan,1
 2018-09-30,2018,3,Brazil,America Central and South,11
 2018-09-30,2018,3,Bulgaria,EU 2,25
-2018-09-30,2018,3,Burma,Asia South East,1
 2018-09-30,2018,3,Cameroon,Africa Sub-Saharan,3
 2018-09-30,2018,3,Canada,America North,3
 2018-09-30,2018,3,Chile,America Central and South,8
@@ -3328,7 +3326,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2018-09-30,2018,3,Congo (Democratic Republic),Africa Sub-Saharan,3
 2018-09-30,2018,3,Croatia,EU Other,4
 2018-09-30,2018,3,Cyprus,EU Other,2
-2018-09-30,2018,3,Czech Republic,EU 8,9
+2018-09-30,2018,3,Czechia,EU 8,9
 2018-09-30,2018,3,Denmark,EU 14,3
 2018-09-30,2018,3,Djibouti,Africa Sub-Saharan,1
 2018-09-30,2018,3,Egypt,Africa North,4
@@ -3350,7 +3348,6 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2018-09-30,2018,3,Ivory Coast,Africa Sub-Saharan,1
 2018-09-30,2018,3,Jamaica,America Central and South,13
 2018-09-30,2018,3,Kenya,Africa Sub-Saharan,3
-2018-09-30,2018,3,Korea (South),Asia East,1
 2018-09-30,2018,3,Kosovo,Europe Other,1
 2018-09-30,2018,3,Latvia,EU 8,37
 2018-09-30,2018,3,Lithuania,EU 8,100
@@ -3358,6 +3355,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2018-09-30,2018,3,Moldova,Europe Other,2
 2018-09-30,2018,3,Mongolia,Asia East,1
 2018-09-30,2018,3,Morocco,Africa North,1
+2018-09-30,2018,3,Myanmar (Burma),Asia South East,1
 2018-09-30,2018,3,Netherlands,EU 14,22
 2018-09-30,2018,3,New Zealand,Oceania,1
 2018-09-30,2018,3,Nigeria,Africa Sub-Saharan,14
@@ -3372,9 +3370,10 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2018-09-30,2018,3,Slovakia,EU 8,33
 2018-09-30,2018,3,Somalia,Africa Sub-Saharan,8
 2018-09-30,2018,3,South Africa,Africa Sub-Saharan,1
+2018-09-30,2018,3,South Korea,Asia East,1
 2018-09-30,2018,3,Spain,EU 14,18
 2018-09-30,2018,3,Sri Lanka,Asia South,5
-2018-09-30,2018,3,St. Vincent and the Grenadines,America Central and South,1
+2018-09-30,2018,3,St Vincent and the Grenadines,America Central and South,1
 2018-09-30,2018,3,Sweden,EU 14,3
 2018-09-30,2018,3,Togo,Africa Sub-Saharan,1
 2018-09-30,2018,3,Tunisia,Africa North,1
@@ -3401,7 +3400,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2018-12-31,2018,4,Croatia,EU Other,1
 2018-12-31,2018,4,Cuba,America Central and South,1
 2018-12-31,2018,4,Cyprus,EU Other,2
-2018-12-31,2018,4,Czech Republic,EU 8,16
+2018-12-31,2018,4,Czechia,EU 8,16
 2018-12-31,2018,4,Denmark,EU 14,2
 2018-12-31,2018,4,Dominican Republic,America Central and South,1
 2018-12-31,2018,4,Egypt,Africa North,2
@@ -3426,7 +3425,6 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2018-12-31,2018,4,Ivory Coast,Africa Sub-Saharan,1
 2018-12-31,2018,4,Jamaica,America Central and South,6
 2018-12-31,2018,4,Kenya,Africa Sub-Saharan,1
-2018-12-31,2018,4,Korea (South),Asia East,1
 2018-12-31,2018,4,Latvia,EU 8,40
 2018-12-31,2018,4,Lithuania,EU 8,95
 2018-12-31,2018,4,Moldova,Europe Other,2
@@ -3447,10 +3445,11 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2018-12-31,2018,4,Slovakia,EU 8,30
 2018-12-31,2018,4,Somalia,Africa Sub-Saharan,10
 2018-12-31,2018,4,South Africa,Africa Sub-Saharan,4
+2018-12-31,2018,4,South Korea,Asia East,1
 2018-12-31,2018,4,Spain,EU 14,9
 2018-12-31,2018,4,Sri Lanka,Asia South,3
-2018-12-31,2018,4,St. Lucia,America Central and South,1
-2018-12-31,2018,4,St. Vincent and the Grenadines,America Central and South,1
+2018-12-31,2018,4,St Lucia,America Central and South,1
+2018-12-31,2018,4,St Vincent and the Grenadines,America Central and South,1
 2018-12-31,2018,4,Sweden,EU 14,4
 2018-12-31,2018,4,Switzerland,Europe Other,1
 2018-12-31,2018,4,Trinidad and Tobago,America Central and South,2
@@ -3479,7 +3478,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2019-03-31,2019,1,Congo (Democratic Republic),Africa Sub-Saharan,5
 2019-03-31,2019,1,Croatia,EU Other,2
 2019-03-31,2019,1,Cyprus,EU Other,3
-2019-03-31,2019,1,Czech Republic,EU 8,27
+2019-03-31,2019,1,Czechia,EU 8,27
 2019-03-31,2019,1,Denmark,EU 14,2
 2019-03-31,2019,1,Egypt,Africa North,4
 2019-03-31,2019,1,Estonia,EU 8,1
@@ -3525,8 +3524,8 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2019-03-31,2019,1,South Africa,Africa Sub-Saharan,1
 2019-03-31,2019,1,Spain,EU 14,10
 2019-03-31,2019,1,Sri Lanka,Asia South,4
-2019-03-31,2019,1,St. Lucia,America Central and South,1
-2019-03-31,2019,1,St. Vincent and the Grenadines,America Central and South,2
+2019-03-31,2019,1,St Lucia,America Central and South,1
+2019-03-31,2019,1,St Vincent and the Grenadines,America Central and South,2
 2019-03-31,2019,1,Sudan,Africa North,2
 2019-03-31,2019,1,Sweden,EU 14,5
 2019-03-31,2019,1,Taiwan,Asia East,1
@@ -3555,7 +3554,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2019-06-30,2019,2,Colombia,America Central and South,1
 2019-06-30,2019,2,Congo (Democratic Republic),Africa Sub-Saharan,1
 2019-06-30,2019,2,Cuba,America Central and South,1
-2019-06-30,2019,2,Czech Republic,EU 8,25
+2019-06-30,2019,2,Czechia,EU 8,25
 2019-06-30,2019,2,Denmark,EU 14,3
 2019-06-30,2019,2,Ecuador,America Central and South,1
 2019-06-30,2019,2,Egypt,Africa North,3
@@ -3583,7 +3582,6 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2019-06-30,2019,2,Latvia,EU 8,35
 2019-06-30,2019,2,Lebanon,Middle East,1
 2019-06-30,2019,2,Lithuania,EU 8,116
-2019-06-30,2019,2,Macedonia,Europe Other,1
 2019-06-30,2019,2,Malawi,Africa Sub-Saharan,1
 2019-06-30,2019,2,Malaysia,Asia South East,1
 2019-06-30,2019,2,Mauritius,Africa Sub-Saharan,1
@@ -3594,6 +3592,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2019-06-30,2019,2,Netherlands,EU 14,25
 2019-06-30,2019,2,New Zealand,Oceania,1
 2019-06-30,2019,2,Nigeria,Africa Sub-Saharan,5
+2019-06-30,2019,2,North Macedonia,Europe Other,1
 2019-06-30,2019,2,Norway,Europe Other,1
 2019-06-30,2019,2,Other and unknown,Other,72
 2019-06-30,2019,2,Pakistan,Asia South,12
@@ -3609,8 +3608,8 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2019-06-30,2019,2,South Africa,Africa Sub-Saharan,4
 2019-06-30,2019,2,Spain,EU 14,14
 2019-06-30,2019,2,Sri Lanka,Asia South,3
-2019-06-30,2019,2,St. Lucia,America Central and South,3
-2019-06-30,2019,2,St. Vincent and the Grenadines,America Central and South,2
+2019-06-30,2019,2,St Lucia,America Central and South,3
+2019-06-30,2019,2,St Vincent and the Grenadines,America Central and South,2
 2019-06-30,2019,2,Sudan,Africa North,2
 2019-06-30,2019,2,Sweden,EU 14,4
 2019-06-30,2019,2,Thailand,Asia South East,2
@@ -3641,7 +3640,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2019-09-30,2019,3,Colombia,America Central and South,1
 2019-09-30,2019,3,Croatia,EU Other,2
 2019-09-30,2019,3,Cyprus,EU Other,1
-2019-09-30,2019,3,Czech Republic,EU 8,16
+2019-09-30,2019,3,Czechia,EU 8,16
 2019-09-30,2019,3,Denmark,EU 14,2
 2019-09-30,2019,3,Dominican Republic,America Central and South,1
 2019-09-30,2019,3,Ecuador,America Central and South,1
@@ -3665,7 +3664,6 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2019-09-30,2019,3,Italy,EU 14,12
 2019-09-30,2019,3,Jamaica,America Central and South,7
 2019-09-30,2019,3,Japan,Asia East,1
-2019-09-30,2019,3,Korea (South),Asia East,1
 2019-09-30,2019,3,Kosovo,Europe Other,2
 2019-09-30,2019,3,Latvia,EU 8,22
 2019-09-30,2019,3,Lithuania,EU 8,100
@@ -3694,6 +3692,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2019-09-30,2019,3,Slovenia,EU 8,1
 2019-09-30,2019,3,Somalia,Africa Sub-Saharan,8
 2019-09-30,2019,3,South Africa,Africa Sub-Saharan,3
+2019-09-30,2019,3,South Korea,Asia East,1
 2019-09-30,2019,3,Spain,EU 14,10
 2019-09-30,2019,3,Sudan,Africa North,1
 2019-09-30,2019,3,Sweden,EU 14,6
@@ -3723,12 +3722,13 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2019-12-31,2019,4,Congo (Democratic Republic),Africa Sub-Saharan,1
 2019-12-31,2019,4,Croatia,EU Other,2
 2019-12-31,2019,4,Cyprus,EU Other,1
-2019-12-31,2019,4,Czech Republic,EU 8,17
+2019-12-31,2019,4,Czechia,EU 8,17
 2019-12-31,2019,4,Denmark,EU 14,1
 2019-12-31,2019,4,Ecuador,America Central and South,1
 2019-12-31,2019,4,Egypt,Africa North,1
 2019-12-31,2019,4,Eritrea,Africa Sub-Saharan,1
 2019-12-31,2019,4,Estonia,EU 8,1
+2019-12-31,2019,4,Eswatini,Africa Sub-Saharan,1
 2019-12-31,2019,4,Ethiopia,Africa Sub-Saharan,2
 2019-12-31,2019,4,France,EU 14,15
 2019-12-31,2019,4,Georgia,Europe Other,4
@@ -3756,10 +3756,9 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2019-12-31,2019,4,Moldova,Europe Other,1
 2019-12-31,2019,4,Morocco,Africa North,7
 2019-12-31,2019,4,Netherlands,EU 14,17
-2019-12-31,2019,4,Netherlands Antilles,America Central and South,1
 2019-12-31,2019,4,Nigeria,Africa Sub-Saharan,10
 2019-12-31,2019,4,Norway,Europe Other,1
-2019-12-31,2019,4,Other and unknown,Other,61
+2019-12-31,2019,4,Other and unknown,Other,62
 2019-12-31,2019,4,Pakistan,Asia South,5
 2019-12-31,2019,4,Poland,EU 8,118
 2019-12-31,2019,4,Portugal,EU 14,37
@@ -3771,9 +3770,8 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2019-12-31,2019,4,Somalia,Africa Sub-Saharan,10
 2019-12-31,2019,4,Spain,EU 14,5
 2019-12-31,2019,4,Sri Lanka,Asia South,5
-2019-12-31,2019,4,St. Kitts and Nevis,America Central and South,1
+2019-12-31,2019,4,St Kitts and Nevis,America Central and South,1
 2019-12-31,2019,4,Sudan,Africa North,5
-2019-12-31,2019,4,Swaziland,Africa Sub-Saharan,1
 2019-12-31,2019,4,Sweden,EU 14,8
 2019-12-31,2019,4,Tanzania,Africa Sub-Saharan,1
 2019-12-31,2019,4,Thailand,Asia South East,2
@@ -3805,7 +3803,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2020-03-31,2020,1,Congo (Democratic Republic),Africa Sub-Saharan,2
 2020-03-31,2020,1,Cuba,America Central and South,1
 2020-03-31,2020,1,Cyprus,EU Other,1
-2020-03-31,2020,1,Czech Republic,EU 8,10
+2020-03-31,2020,1,Czechia,EU 8,10
 2020-03-31,2020,1,East Timor,Asia South East,1
 2020-03-31,2020,1,Ecuador,America Central and South,1
 2020-03-31,2020,1,Egypt,Africa North,1
@@ -3845,8 +3843,8 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2020-03-31,2020,1,South Africa,Africa Sub-Saharan,4
 2020-03-31,2020,1,Spain,EU 14,9
 2020-03-31,2020,1,Sri Lanka,Asia South,2
-2020-03-31,2020,1,St. Kitts and Nevis,America Central and South,1
-2020-03-31,2020,1,St. Lucia,America Central and South,2
+2020-03-31,2020,1,St Kitts and Nevis,America Central and South,1
+2020-03-31,2020,1,St Lucia,America Central and South,2
 2020-03-31,2020,1,Sudan,Africa North,2
 2020-03-31,2020,1,Sweden,EU 14,2
 2020-03-31,2020,1,Trinidad and Tobago,America Central and South,2
@@ -3862,7 +3860,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2020-06-30,2020,2,Bulgaria,EU 2,23
 2020-06-30,2020,2,Canada,America North,1
 2020-06-30,2020,2,Croatia,EU Other,3
-2020-06-30,2020,2,Czech Republic,EU 8,1
+2020-06-30,2020,2,Czechia,EU 8,1
 2020-06-30,2020,2,France,EU 14,3
 2020-06-30,2020,2,Germany,EU 14,1
 2020-06-30,2020,2,Ghana,Africa Sub-Saharan,1
@@ -3893,7 +3891,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2020-09-30,2020,3,Bulgaria,EU 2,17
 2020-09-30,2020,3,Chile,America Central and South,1
 2020-09-30,2020,3,Croatia,EU Other,3
-2020-09-30,2020,3,Czech Republic,EU 8,15
+2020-09-30,2020,3,Czechia,EU 8,15
 2020-09-30,2020,3,Denmark,EU 14,2
 2020-09-30,2020,3,France,EU 14,15
 2020-09-30,2020,3,Germany,EU 14,1
@@ -3941,7 +3939,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2020-12-31,2020,4,China,Asia East,6
 2020-12-31,2020,4,Colombia,America Central and South,4
 2020-12-31,2020,4,Croatia,EU Other,1
-2020-12-31,2020,4,Czech Republic,EU 8,9
+2020-12-31,2020,4,Czechia,EU 8,9
 2020-12-31,2020,4,Denmark,EU 14,1
 2020-12-31,2020,4,Dominican Republic,America Central and South,1
 2020-12-31,2020,4,Ecuador,America Central and South,1
@@ -4007,7 +4005,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2021-03-31,2021,1,Canada,America North,4
 2021-03-31,2021,1,Chile,America Central and South,1
 2021-03-31,2021,1,Colombia,America Central and South,1
-2021-03-31,2021,1,Czech Republic,EU 8,4
+2021-03-31,2021,1,Czechia,EU 8,4
 2021-03-31,2021,1,Estonia,EU 8,1
 2021-03-31,2021,1,France,EU 14,7
 2021-03-31,2021,1,"Gambia, The",Africa Sub-Saharan,1
@@ -4020,11 +4018,11 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2021-03-31,2021,1,Italy,EU 14,7
 2021-03-31,2021,1,Latvia,EU 8,13
 2021-03-31,2021,1,Lithuania,EU 8,71
-2021-03-31,2021,1,Macedonia,Europe Other,2
 2021-03-31,2021,1,Moldova,Europe Other,1
 2021-03-31,2021,1,Namibia,Africa Sub-Saharan,2
 2021-03-31,2021,1,Netherlands,EU 14,5
 2021-03-31,2021,1,Nigeria,Africa Sub-Saharan,1
+2021-03-31,2021,1,North Macedonia,Europe Other,2
 2021-03-31,2021,1,Other and unknown,Other,8
 2021-03-31,2021,1,Pakistan,Asia South,2
 2021-03-31,2021,1,Poland,EU 8,64
@@ -4036,7 +4034,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2021-03-31,2021,1,Slovakia,EU 8,6
 2021-03-31,2021,1,Somalia,Africa Sub-Saharan,2
 2021-03-31,2021,1,Spain,EU 14,4
-2021-03-31,2021,1,St. Lucia,America Central and South,1
+2021-03-31,2021,1,St Lucia,America Central and South,1
 2021-03-31,2021,1,Sudan,Africa North,2
 2021-03-31,2021,1,Sweden,EU 14,3
 2021-03-31,2021,1,Trinidad and Tobago,America Central and South,1
@@ -4044,7 +4042,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2021-03-31,2021,1,United States,America North,2
 2021-03-31,2021,1,Zimbabwe,Africa Sub-Saharan,1
 2021-06-30,2021,2,Afghanistan,Asia Central,2
-2021-06-30,2021,2,Albania,Europe Other,219
+2021-06-30,2021,2,Albania,Europe Other,220
 2021-06-30,2021,2,Bangladesh,Asia South,6
 2021-06-30,2021,2,Barbados,America Central and South,3
 2021-06-30,2021,2,Belgium,EU 14,2
@@ -4054,7 +4052,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2021-06-30,2021,2,Canada,America North,4
 2021-06-30,2021,2,Chile,America Central and South,8
 2021-06-30,2021,2,Colombia,America Central and South,2
-2021-06-30,2021,2,Czech Republic,EU 8,9
+2021-06-30,2021,2,Czechia,EU 8,9
 2021-06-30,2021,2,Denmark,EU 14,3
 2021-06-30,2021,2,Egypt,Africa North,1
 2021-06-30,2021,2,Eritrea,Africa Sub-Saharan,1
@@ -4093,7 +4091,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2021-06-30,2021,2,South Africa,Africa Sub-Saharan,2
 2021-06-30,2021,2,Spain,EU 14,8
 2021-06-30,2021,2,Sri Lanka,Asia South,1
-2021-06-30,2021,2,St. Lucia,America Central and South,3
+2021-06-30,2021,2,St Lucia,America Central and South,3
 2021-06-30,2021,2,Sudan,Africa North,1
 2021-06-30,2021,2,Sweden,EU 14,6
 2021-06-30,2021,2,Switzerland,Europe Other,1
@@ -4105,7 +4103,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2021-06-30,2021,2,Vietnam,Asia South East,16
 2021-06-30,2021,2,Zimbabwe,Africa Sub-Saharan,1
 2021-09-30,2021,3,Afghanistan,Asia Central,2
-2021-09-30,2021,3,Albania,Europe Other,226
+2021-09-30,2021,3,Albania,Europe Other,227
 2021-09-30,2021,3,Angola,Africa Sub-Saharan,1
 2021-09-30,2021,3,Austria,EU 14,2
 2021-09-30,2021,3,Bangladesh,Asia South,2
@@ -4119,7 +4117,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2021-09-30,2021,3,Chile,America Central and South,2
 2021-09-30,2021,3,China,Asia East,1
 2021-09-30,2021,3,Cyprus,EU Other,1
-2021-09-30,2021,3,Czech Republic,EU 8,9
+2021-09-30,2021,3,Czechia,EU 8,9
 2021-09-30,2021,3,Estonia,EU 8,1
 2021-09-30,2021,3,France,EU 14,8
 2021-09-30,2021,3,Germany,EU 14,3
@@ -4182,7 +4180,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2021-12-31,2021,4,Colombia,America Central and South,2
 2021-12-31,2021,4,Croatia,EU Other,1
 2021-12-31,2021,4,Cyprus,EU Other,1
-2021-12-31,2021,4,Czech Republic,EU 8,7
+2021-12-31,2021,4,Czechia,EU 8,7
 2021-12-31,2021,4,Denmark,EU 14,2
 2021-12-31,2021,4,France,EU 14,12
 2021-12-31,2021,4,Germany,EU 14,5
@@ -4210,7 +4208,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2021-12-31,2021,4,Pakistan,Asia South,5
 2021-12-31,2021,4,Poland,EU 8,65
 2021-12-31,2021,4,Portugal,EU 14,17
-2021-12-31,2021,4,Romania,EU 2,150
+2021-12-31,2021,4,Romania,EU 2,151
 2021-12-31,2021,4,Russia,Europe Other,1
 2021-12-31,2021,4,Slovakia,EU 8,8
 2021-12-31,2021,4,Somalia,Africa Sub-Saharan,4
@@ -4225,7 +4223,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2021-12-31,2021,4,Vietnam,Asia South East,2
 2021-12-31,2021,4,Zambia,Africa Sub-Saharan,1
 2021-12-31,2021,4,Zimbabwe,Africa Sub-Saharan,1
-2022-03-31,2022,1,Albania,Europe Other,254
+2022-03-31,2022,1,Albania,Europe Other,253
 2022-03-31,2022,1,Algeria,Africa North,2
 2022-03-31,2022,1,Armenia,Europe Other,1
 2022-03-31,2022,1,Australia,Oceania,2
@@ -4237,7 +4235,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2022-03-31,2022,1,Chile,America Central and South,6
 2022-03-31,2022,1,Colombia,America Central and South,1
 2022-03-31,2022,1,Croatia,EU Other,1
-2022-03-31,2022,1,Czech Republic,EU 8,5
+2022-03-31,2022,1,Czechia,EU 8,5
 2022-03-31,2022,1,Denmark,EU 14,1
 2022-03-31,2022,1,Egypt,Africa North,1
 2022-03-31,2022,1,Ethiopia,Africa Sub-Saharan,1
@@ -4302,7 +4300,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2022-06-30,2022,2,Chile,America Central and South,1
 2022-06-30,2022,2,Colombia,America Central and South,3
 2022-06-30,2022,2,Croatia,EU Other,3
-2022-06-30,2022,2,Czech Republic,EU 8,6
+2022-06-30,2022,2,Czechia,EU 8,6
 2022-06-30,2022,2,Eritrea,Africa Sub-Saharan,1
 2022-06-30,2022,2,France,EU 14,9
 2022-06-30,2022,2,"Gambia, The",Africa Sub-Saharan,1
@@ -4323,13 +4321,13 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2022-06-30,2022,2,Latvia,EU 8,11
 2022-06-30,2022,2,Libya,Africa North,2
 2022-06-30,2022,2,Lithuania,EU 8,72
-2022-06-30,2022,2,Macedonia,Europe Other,1
 2022-06-30,2022,2,Malaysia,Asia South East,2
 2022-06-30,2022,2,Mauritius,Africa Sub-Saharan,1
 2022-06-30,2022,2,Moldova,Europe Other,1
 2022-06-30,2022,2,Morocco,Africa North,2
 2022-06-30,2022,2,Netherlands,EU 14,7
 2022-06-30,2022,2,Nigeria,Africa Sub-Saharan,11
+2022-06-30,2022,2,North Macedonia,Europe Other,1
 2022-06-30,2022,2,Norway,Europe Other,1
 2022-06-30,2022,2,Other and unknown,Other,11
 2022-06-30,2022,2,Pakistan,Asia South,3
@@ -4345,7 +4343,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2022-06-30,2022,2,Somalia,Africa Sub-Saharan,1
 2022-06-30,2022,2,Spain,EU 14,9
 2022-06-30,2022,2,Sri Lanka,Asia South,1
-2022-06-30,2022,2,St. Vincent and the Grenadines,America Central and South,1
+2022-06-30,2022,2,St Vincent and the Grenadines,America Central and South,1
 2022-06-30,2022,2,Sweden,EU 14,2
 2022-06-30,2022,2,Switzerland,Europe Other,1
 2022-06-30,2022,2,Trinidad and Tobago,America Central and South,1
@@ -4353,7 +4351,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2022-06-30,2022,2,Turkey,Europe Other,2
 2022-06-30,2022,2,Vietnam,Asia South East,16
 2022-09-30,2022,3,Afghanistan,Asia Central,1
-2022-09-30,2022,3,Albania,Europe Other,217
+2022-09-30,2022,3,Albania,Europe Other,218
 2022-09-30,2022,3,Algeria,Africa North,1
 2022-09-30,2022,3,Angola,Africa Sub-Saharan,1
 2022-09-30,2022,3,Australia,Oceania,1
@@ -4368,12 +4366,12 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2022-09-30,2022,3,China,Asia East,3
 2022-09-30,2022,3,Croatia,EU Other,1
 2022-09-30,2022,3,Cuba,America Central and South,1
-2022-09-30,2022,3,Czech Republic,EU 8,8
+2022-09-30,2022,3,Czechia,EU 8,8
 2022-09-30,2022,3,Denmark,EU 14,1
 2022-09-30,2022,3,Ecuador,America Central and South,1
 2022-09-30,2022,3,Egypt,Africa North,2
 2022-09-30,2022,3,Estonia,EU 8,2
-2022-09-30,2022,3,France,EU 14,4
+2022-09-30,2022,3,France,EU 14,5
 2022-09-30,2022,3,"Gambia, The",Africa Sub-Saharan,4
 2022-09-30,2022,3,Georgia,Europe Other,1
 2022-09-30,2022,3,Germany,EU 14,5
@@ -4387,14 +4385,13 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2022-09-30,2022,3,Ireland,EU 14,2
 2022-09-30,2022,3,Italy,EU 14,16
 2022-09-30,2022,3,Jamaica,America Central and South,4
-2022-09-30,2022,3,Korea (South),Asia East,1
 2022-09-30,2022,3,Latvia,EU 8,17
 2022-09-30,2022,3,Lithuania,EU 8,63
-2022-09-30,2022,3,Macedonia,Europe Other,2
 2022-09-30,2022,3,Malaysia,Asia South East,1
 2022-09-30,2022,3,Moldova,Europe Other,1
 2022-09-30,2022,3,Morocco,Africa North,1
 2022-09-30,2022,3,Netherlands,EU 14,11
+2022-09-30,2022,3,North Macedonia,Europe Other,2
 2022-09-30,2022,3,Other and unknown,Other,12
 2022-09-30,2022,3,Pakistan,Asia South,2
 2022-09-30,2022,3,Philippines,Asia South East,1
@@ -4405,6 +4402,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2022-09-30,2022,3,Serbia,Europe Other,2
 2022-09-30,2022,3,Slovakia,EU 8,18
 2022-09-30,2022,3,Somalia,Africa Sub-Saharan,1
+2022-09-30,2022,3,South Korea,Asia East,1
 2022-09-30,2022,3,Spain,EU 14,10
 2022-09-30,2022,3,Sweden,EU 14,3
 2022-09-30,2022,3,Tanzania,Africa Sub-Saharan,1
@@ -4412,14 +4410,14 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2022-09-30,2022,3,United States,America North,4
 2022-09-30,2022,3,Vietnam,Asia South East,19
 2022-09-30,2022,3,Zimbabwe,Africa Sub-Saharan,8
-2022-12-31,2022,4,Albania,Europe Other,183
+2022-12-31,2022,4,Albania,Europe Other,185
 2022-12-31,2022,4,Algeria,Africa North,4
 2022-12-31,2022,4,Bangladesh,Asia South,4
 2022-12-31,2022,4,Barbados,America Central and South,1
 2022-12-31,2022,4,Belgium,EU 14,2
 2022-12-31,2022,4,Bosnia and Herzegovina,Europe Other,1
 2022-12-31,2022,4,Brazil,America Central and South,6
-2022-12-31,2022,4,Bulgaria,EU 2,16
+2022-12-31,2022,4,Bulgaria,EU 2,17
 2022-12-31,2022,4,Canada,America North,1
 2022-12-31,2022,4,Chile,America Central and South,2
 2022-12-31,2022,4,China,Asia East,2
@@ -4427,7 +4425,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2022-12-31,2022,4,Croatia,EU Other,1
 2022-12-31,2022,4,Cyprus,EU Other,1
 2022-12-31,2022,4,Cyprus (Northern part of),Europe Other,2
-2022-12-31,2022,4,Czech Republic,EU 8,8
+2022-12-31,2022,4,Czechia,EU 8,8
 2022-12-31,2022,4,Denmark,EU 14,1
 2022-12-31,2022,4,Estonia,EU 8,1
 2022-12-31,2022,4,France,EU 14,21
@@ -4442,7 +4440,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2022-12-31,2022,4,India,Asia South,9
 2022-12-31,2022,4,Iran,Middle East,2
 2022-12-31,2022,4,Iraq,Middle East,9
-2022-12-31,2022,4,Italy,EU 14,14
+2022-12-31,2022,4,Italy,EU 14,15
 2022-12-31,2022,4,Jamaica,America Central and South,6
 2022-12-31,2022,4,Japan,Asia East,1
 2022-12-31,2022,4,Latvia,EU 8,22
@@ -4473,3 +4471,71 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2022-12-31,2022,4,Venezuela,America Central and South,1
 2022-12-31,2022,4,Vietnam,Asia South East,29
 2022-12-31,2022,4,Zimbabwe,Africa Sub-Saharan,4
+2023-03-31,2023,1,Afghanistan,Asia Central,1
+2023-03-31,2023,1,Albania,Europe Other,274
+2023-03-31,2023,1,Algeria,Africa North,2
+2023-03-31,2023,1,Austria,EU 14,1
+2023-03-31,2023,1,"Bahamas, The",America Central and South,1
+2023-03-31,2023,1,Bangladesh,Asia South,2
+2023-03-31,2023,1,Barbados,America Central and South,2
+2023-03-31,2023,1,Belarus,Europe Other,2
+2023-03-31,2023,1,Belgium,EU 14,7
+2023-03-31,2023,1,Bosnia and Herzegovina,Europe Other,1
+2023-03-31,2023,1,Brazil,America Central and South,9
+2023-03-31,2023,1,Bulgaria,EU 2,17
+2023-03-31,2023,1,Canada,America North,3
+2023-03-31,2023,1,Chile,America Central and South,4
+2023-03-31,2023,1,China,Asia East,2
+2023-03-31,2023,1,Congo,Africa Sub-Saharan,1
+2023-03-31,2023,1,Cyprus,EU Other,1
+2023-03-31,2023,1,Czechia,EU 8,12
+2023-03-31,2023,1,Denmark,EU 14,1
+2023-03-31,2023,1,Estonia,EU 8,3
+2023-03-31,2023,1,Finland,EU 14,2
+2023-03-31,2023,1,France,EU 14,8
+2023-03-31,2023,1,"Gambia, The",Africa Sub-Saharan,3
+2023-03-31,2023,1,Ghana,Africa Sub-Saharan,1
+2023-03-31,2023,1,Greece,EU 14,11
+2023-03-31,2023,1,Grenada,America Central and South,1
+2023-03-31,2023,1,Guinea,Africa Sub-Saharan,1
+2023-03-31,2023,1,Hungary,EU 8,10
+2023-03-31,2023,1,India,Asia South,2
+2023-03-31,2023,1,Iran,Middle East,1
+2023-03-31,2023,1,Iraq,Middle East,6
+2023-03-31,2023,1,Ireland,EU 14,2
+2023-03-31,2023,1,Italy,EU 14,8
+2023-03-31,2023,1,Jamaica,America Central and South,7
+2023-03-31,2023,1,Jordan,Middle East,1
+2023-03-31,2023,1,Latvia,EU 8,18
+2023-03-31,2023,1,Lithuania,EU 8,63
+2023-03-31,2023,1,Malaysia,Asia South East,1
+2023-03-31,2023,1,Mauritius,Africa Sub-Saharan,1
+2023-03-31,2023,1,Mexico,America Central and South,2
+2023-03-31,2023,1,Moldova,Europe Other,1
+2023-03-31,2023,1,Morocco,Africa North,2
+2023-03-31,2023,1,Netherlands,EU 14,11
+2023-03-31,2023,1,Nigeria,Africa Sub-Saharan,6
+2023-03-31,2023,1,North Macedonia,Europe Other,3
+2023-03-31,2023,1,Norway,Europe Other,2
+2023-03-31,2023,1,Other and unknown,Other,1
+2023-03-31,2023,1,Pakistan,Asia South,11
+2023-03-31,2023,1,Philippines,Asia South East,2
+2023-03-31,2023,1,Poland,EU 8,58
+2023-03-31,2023,1,Portugal,EU 14,15
+2023-03-31,2023,1,Romania,EU 2,185
+2023-03-31,2023,1,Slovakia,EU 8,15
+2023-03-31,2023,1,Somalia,Africa Sub-Saharan,3
+2023-03-31,2023,1,Spain,EU 14,5
+2023-03-31,2023,1,Sri Lanka,Asia South,2
+2023-03-31,2023,1,Sweden,EU 14,4
+2023-03-31,2023,1,Switzerland,Europe Other,1
+2023-03-31,2023,1,Thailand,Asia South East,1
+2023-03-31,2023,1,Trinidad and Tobago,America Central and South,4
+2023-03-31,2023,1,Tunisia,Africa North,1
+2023-03-31,2023,1,Turkey,Europe Other,6
+2023-03-31,2023,1,Uganda,Africa Sub-Saharan,2
+2023-03-31,2023,1,Ukraine,Europe Other,1
+2023-03-31,2023,1,United States,America North,5
+2023-03-31,2023,1,Uzbekistan,Asia Central,1
+2023-03-31,2023,1,Vietnam,Asia South East,8
+2023-03-31,2023,1,Zimbabwe,Africa Sub-Saharan,3

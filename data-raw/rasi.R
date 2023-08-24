@@ -13,7 +13,7 @@ query_url <-
 
 GET(
   query_url,
-  write_disk(tf <- tempfile())
+  write_disk(tf <- tempfile(fileext = ".ods"))
 )
 
 # No longer included in published data
@@ -59,6 +59,9 @@ travel_documents <-
 #   mutate(across(where(is.character), as.integer)) |>
 #   relocate(Date, Year, Quarter)
 
+names(nts) <-
+  c("Quarter", "Region", "Local Authority or HSCT (NI)", "Able to participate in the NTS?", "Transfers out of Local Authority",
+    "Transfers into Local Authority", "Transfers into LA from port/intake unit")
 nts <-
   nts |>
   select(Quarter:`Transfers into LA from port/intake unit`) |>
@@ -70,12 +73,13 @@ nts <-
     Year = year(Date),
     Quarter = quarter(Date)
   ) |>
-  relocate(Date, Year, Quarter) |>
-  rename(`Able to participate in the NTS?` = `Able to participate in the NTS2`)
+  relocate(Date, Year, Quarter)
+  # rename(`Able to participate in the NTS?` = `Able to participate in the NTS2`)
 
 support_applications_rasi <-
   support_applications_rasi |>
-  select(Quarter:`Section 95 (2)`) |>
+  # select(Quarter:`Section 95 (2)`) |>
+  remove_empty() |>
   as_tibble() |>
   drop_na() |>
   # mutate(Date = yq(Quarter)) |>
@@ -87,13 +91,14 @@ support_applications_rasi <-
   relocate(Date, Year, Quarter) |>
   # Remove footnote numbers from column names
   rename(
-    `Section 4` = `Section 4  (1)`,
-    `Section 95` = `Section 95 (2)`
+    `Section 4` = `Section.4...1.`,
+    `Section 95` = `Section.95..2.`
   )
 
 travel_documents <-
   travel_documents |>
-  select(Quarter, `TD Raised`, `TD Despatched` = `TD Despatched 5`) |>
+  # select(Quarter, `TD Raised`, `TD Despatched` = `TD Despatched 5`) |>
+  remove_empty() |>
   as_tibble() |>
   drop_na() |>
   mutate(Quarter = if_else(Quarter == "2020 Q2  3", "2020 Q2", Quarter)) |>
@@ -103,7 +108,11 @@ travel_documents <-
     Year = year(Date),
     Quarter = quarter(Date)
   ) |>
-  relocate(Date, Year, Quarter)
+  relocate(Date, Year, Quarter) |>
+  rename(
+    `TD Raised` = TD.Raised,
+    `TD Despatched` = TD.Despatched.5
+  )
 
 # Save output to data/ folder
 # usethis::use_data(aspen, overwrite = TRUE)

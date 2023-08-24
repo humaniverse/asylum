@@ -15,7 +15,7 @@ query_url <-
 
 GET(
   query_url,
-  write_disk(tf <- tempfile())
+  write_disk(tf <- tempfile(fileext = ".ods"))
 )
 
 # - Returns from the UK, by nationality, type of return, and asylum and non-asylum -
@@ -25,7 +25,7 @@ returns_asylum <-
 returns_asylum <-
   returns_asylum |>
   as_tibble() |>
-  filter(!is.na(`Asylum-related nationality`))
+  filter(!is.na(`Asylum.related.nationality`))
 
 # Split into asylum-related and non-asylum returns
 returns_asylum_asy <-
@@ -53,6 +53,9 @@ returns_asylum <-
 returns_asylum_longitudinal <-
   read_ods(tf, sheet = "Ret_05", skip = 1)
 
+names(returns_asylum_longitudinal) <-
+  c("Date of return", "Enforced returns, total", "Enforced returns, Asylum", "Enforced returns, Non-asylum", "Voluntary returns, total", "Voluntary returns, Asylum", "Voluntary returns, Non-asylum", "Refused entry at port and subsequently departed, total", "Refused entry at port and subsequently departed, Asylum", "Refused entry at port and subsequently departed, Non-asylum")
+
 returns_asylum_longitudinal <-
   returns_asylum_longitudinal |>
   as_tibble() |>
@@ -62,9 +65,9 @@ returns_asylum_longitudinal <-
   select(-contains("total")) |>
   pivot_longer(cols = -`Date of return`) |>
 
-  separate_wider_delim(name, delim = ",", names = c("Type", "Category")) |>
+  separate_wider_delim(name, delim = ", ", names = c("Type", "Category")) |>
 
-  mutate(Category = if_else(Category == " Asylum [Note 4]", "Asylum", Category)) |>
+  # mutate(Category = if_else(Category == " Asylum [Note 4]", "Asylum", Category)) |>
 
   pivot_wider(names_from = Type, values_from = value)
 

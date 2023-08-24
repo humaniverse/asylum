@@ -23,7 +23,7 @@ support_received <-
 support_received <-
   support_received |>
   rename(Date = `Date (as at…)`) |>
-  filter(Date != "End of table") |>
+  filter(toupper(Date) != "END OF TABLE") |>
   mutate(Date = dmy(Date)) |>
   select(-starts_with("..."))
 

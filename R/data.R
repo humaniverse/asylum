@@ -886,7 +886,8 @@
 #'   \item{Year}{Year}
 #'   \item{Deaths of persons detained under Immigration Powers}{Deaths of persons detained under Immigration Powers}
 #'   \item{Of which occurred in the detention estate}{Of which occurred in the detention estate}
-#'   \item{Absconds from detention}{Absconds from detention}
+#'   \item{Escapes from detention centres}{Escapes from detention centres}
+#'   \item{Absconds from escort}{Absconds from escort}
 #'   ...
 #' }
 #' @source \url{https://www.gov.uk/government/statistical-data-sets/immigration-system-statistics-data-tables-year-ending-december-2022#detention}
