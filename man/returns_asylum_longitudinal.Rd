@@ -3,8 +3,7 @@
 \docType{data}
 \name{returns_asylum_longitudinal}
 \alias{returns_asylum_longitudinal}
-\title{Returns from the UK, by nationality, type of return, and asylum/non-asylum
-(2010-2022)}
+\title{Returns from the UK, by nationality, type of return, and asylum/non-asylum}
 \format{
 A data frame with 26 rows and 5 variables:
 \describe{
@@ -24,6 +23,5 @@ returns_asylum_longitudinal
 }
 \description{
 Returns from the UK, by nationality, type of return, and asylum/non-asylum
-(2010-2022)
 }
 \keyword{datasets}

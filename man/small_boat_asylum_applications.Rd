@@ -5,7 +5,7 @@
 \alias{small_boat_asylum_applications}
 \title{Number of asylum applications from small boat arrivals}
 \format{
-A data frame with 3,252 rows and 10 variables:
+A data frame with 3,969 rows and 11 variables:
 \describe{
   \item{Date}{Date}
   \item{Year}{Year}
@@ -14,6 +14,7 @@ A data frame with 3,252 rows and 10 variables:
   \item{Nationality}{Nationality}
   \item{Region}{Region}
   \item{Applicant type}{Main applicant or dependant}
+  \item{UASC}{Unaccompanied asylum-seeking children?}
   \item{Sex}{Sex}
   \item{Age Group}{Age Group}
   \item{Applications}{Number of applications}

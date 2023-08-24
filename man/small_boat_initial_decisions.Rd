@@ -5,7 +5,7 @@
 \alias{small_boat_initial_decisions}
 \title{Initial decisions on asylum applications from small boat arrivals}
 \format{
-A data frame with 4,365 rows and 11 variables:
+A data frame with 5,380 rows and 12 variables:
 \describe{
   \item{Date}{Date}
   \item{Year}{Year}
@@ -15,6 +15,7 @@ A data frame with 4,365 rows and 11 variables:
   \item{Asylum Case Outcome}{Specific outcome of the asylum case}
   \item{Asylum Case Outcome Group}{Type of outcome}
   \item{Applicant type}{Main applicant or dependant}
+  \item{UASC}{Unaccompanied asylum-seeking children?}
   \item{Sex}{Sex}
   \item{Age Group}{Age Group}
   \item{Decisions}{Number of decisions}

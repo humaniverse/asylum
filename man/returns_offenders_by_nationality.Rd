@@ -5,7 +5,7 @@
 \alias{returns_offenders_by_nationality}
 \title{Number of foreign national offender returns from the UK, by nationality}
 \format{
-A data frame with 6,297 rows and 7 variables:
+A data frame with 6,376 rows and 7 variables:
 \describe{
   \item{Date}{Date}
   \item{Year}{Year}

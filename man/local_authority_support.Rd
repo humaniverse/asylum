@@ -5,7 +5,7 @@
 \alias{local_authority_support}
 \title{Section 95 support by local authority}
 \format{
-A data frame with 16,471 rows and 8 variables:
+A data frame with 17,554 rows and 9 variables:
 \describe{
   \item{Date}{The date at which the number of people in receipt of support refers to}
   \item{Year}{Year}

@@ -5,7 +5,7 @@
 \alias{asylum_costs_and_productivity}
 \title{Breakdown of Asylum costs and productivity}
 \format{
-A data frame with 12 rows and 12 variables:
+A data frame with 13 rows and 12 variables:
 \describe{
   \item{Financial Year}{Financial year}
   \item{Total Asylum Costs}{The costs of managing an asylum operations claim include a) costs associated with deciding a case (screening clients, interviews and issuing a decision), b) managing any related appeal, c) the cost of all asylum operations support (S4, S95 & S98) d) detention costs where detention has been used and e) enforcement costs (escorting and assisted voluntary returns). Also included are the costs of department staff and buildings and the proportionate costs of the Home Office building and managerial costs}
