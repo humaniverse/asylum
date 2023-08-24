@@ -91,8 +91,8 @@ Year,Quarter,Age at exploitation,Location of exploitation,NRM referrals
 2010,Q3,Age not specified or unknown,Total,0
 2010,Q4,Adult (18 or over),Overseas,0
 2010,Q4,Adult (18 or over),UK,25
-2010,Q4,Adult (18 or over),UK and Overseas,0
-2010,Q4,Adult (18 or over),Not specified or unknown,130
+2010,Q4,Adult (18 or over),UK and Overseas,1
+2010,Q4,Adult (18 or over),Not specified or unknown,129
 2010,Q4,Adult (18 or over),Total,155
 2010,Q4,Child (17 or under),Overseas,0
 2010,Q4,Child (17 or under),UK,4
@@ -300,8 +300,8 @@ Year,Quarter,Age at exploitation,Location of exploitation,NRM referrals
 2014,Q1,Age not specified or unknown,Not specified or unknown,0
 2014,Q1,Age not specified or unknown,Total,0
 2014,Q2,Adult (18 or over),Overseas,45
-2014,Q2,Adult (18 or over),UK,165
-2014,Q2,Adult (18 or over),UK and Overseas,21
+2014,Q2,Adult (18 or over),UK,164
+2014,Q2,Adult (18 or over),UK and Overseas,22
 2014,Q2,Adult (18 or over),Not specified or unknown,124
 2014,Q2,Adult (18 or over),Total,355
 2014,Q2,Child (17 or under),Overseas,28
@@ -389,10 +389,10 @@ Year,Quarter,Age at exploitation,Location of exploitation,NRM referrals
 2015,Q3,Age not specified or unknown,UK and Overseas,0
 2015,Q3,Age not specified or unknown,Not specified or unknown,0
 2015,Q3,Age not specified or unknown,Total,0
-2015,Q4,Adult (18 or over),Overseas,178
+2015,Q4,Adult (18 or over),Overseas,179
 2015,Q4,Adult (18 or over),UK,239
 2015,Q4,Adult (18 or over),UK and Overseas,51
-2015,Q4,Adult (18 or over),Not specified or unknown,145
+2015,Q4,Adult (18 or over),Not specified or unknown,144
 2015,Q4,Adult (18 or over),Total,613
 2015,Q4,Child (17 or under),Overseas,94
 2015,Q4,Child (17 or under),UK,72
@@ -449,10 +449,10 @@ Year,Quarter,Age at exploitation,Location of exploitation,NRM referrals
 2016,Q3,Age not specified or unknown,UK and Overseas,0
 2016,Q3,Age not specified or unknown,Not specified or unknown,0
 2016,Q3,Age not specified or unknown,Total,0
-2016,Q4,Adult (18 or over),Overseas,195
+2016,Q4,Adult (18 or over),Overseas,196
 2016,Q4,Adult (18 or over),UK,299
 2016,Q4,Adult (18 or over),UK and Overseas,65
-2016,Q4,Adult (18 or over),Not specified or unknown,80
+2016,Q4,Adult (18 or over),Not specified or unknown,79
 2016,Q4,Adult (18 or over),Total,639
 2016,Q4,Child (17 or under),Overseas,93
 2016,Q4,Child (17 or under),UK,160
@@ -495,9 +495,9 @@ Year,Quarter,Age at exploitation,Location of exploitation,NRM referrals
 2017,Q2,Age not specified or unknown,Not specified or unknown,0
 2017,Q2,Age not specified or unknown,Total,0
 2017,Q3,Adult (18 or over),Overseas,217
-2017,Q3,Adult (18 or over),UK,384
-2017,Q3,Adult (18 or over),UK and Overseas,108
-2017,Q3,Adult (18 or over),Not specified or unknown,69
+2017,Q3,Adult (18 or over),UK,383
+2017,Q3,Adult (18 or over),UK and Overseas,110
+2017,Q3,Adult (18 or over),Not specified or unknown,68
 2017,Q3,Adult (18 or over),Total,778
 2017,Q3,Child (17 or under),Overseas,176
 2017,Q3,Child (17 or under),UK,234
@@ -509,10 +509,10 @@ Year,Quarter,Age at exploitation,Location of exploitation,NRM referrals
 2017,Q3,Age not specified or unknown,UK and Overseas,0
 2017,Q3,Age not specified or unknown,Not specified or unknown,0
 2017,Q3,Age not specified or unknown,Total,0
-2017,Q4,Adult (18 or over),Overseas,235
+2017,Q4,Adult (18 or over),Overseas,236
 2017,Q4,Adult (18 or over),UK,371
-2017,Q4,Adult (18 or over),UK and Overseas,133
-2017,Q4,Adult (18 or over),Not specified or unknown,67
+2017,Q4,Adult (18 or over),UK and Overseas,134
+2017,Q4,Adult (18 or over),Not specified or unknown,65
 2017,Q4,Adult (18 or over),Total,806
 2017,Q4,Child (17 or under),Overseas,180
 2017,Q4,Child (17 or under),UK,351
@@ -525,13 +525,13 @@ Year,Quarter,Age at exploitation,Location of exploitation,NRM referrals
 2017,Q4,Age not specified or unknown,Not specified or unknown,0
 2017,Q4,Age not specified or unknown,Total,0
 2018,Q1,Adult (18 or over),Overseas,246
-2018,Q1,Adult (18 or over),UK,440
-2018,Q1,Adult (18 or over),UK and Overseas,135
+2018,Q1,Adult (18 or over),UK,438
+2018,Q1,Adult (18 or over),UK and Overseas,137
 2018,Q1,Adult (18 or over),Not specified or unknown,65
 2018,Q1,Adult (18 or over),Total,886
 2018,Q1,Child (17 or under),Overseas,202
-2018,Q1,Child (17 or under),UK,414
-2018,Q1,Child (17 or under),UK and Overseas,36
+2018,Q1,Child (17 or under),UK,415
+2018,Q1,Child (17 or under),UK and Overseas,35
 2018,Q1,Child (17 or under),Not specified or unknown,80
 2018,Q1,Child (17 or under),Total,732
 2018,Q1,Age not specified or unknown,Overseas,0
@@ -540,14 +540,14 @@ Year,Quarter,Age at exploitation,Location of exploitation,NRM referrals
 2018,Q1,Age not specified or unknown,Not specified or unknown,0
 2018,Q1,Age not specified or unknown,Total,0
 2018,Q2,Adult (18 or over),Overseas,274
-2018,Q2,Adult (18 or over),UK,455
-2018,Q2,Adult (18 or over),UK and Overseas,134
+2018,Q2,Adult (18 or over),UK,454
+2018,Q2,Adult (18 or over),UK and Overseas,135
 2018,Q2,Adult (18 or over),Not specified or unknown,64
 2018,Q2,Adult (18 or over),Total,927
 2018,Q2,Child (17 or under),Overseas,214
 2018,Q2,Child (17 or under),UK,423
-2018,Q2,Child (17 or under),UK and Overseas,26
-2018,Q2,Child (17 or under),Not specified or unknown,62
+2018,Q2,Child (17 or under),UK and Overseas,29
+2018,Q2,Child (17 or under),Not specified or unknown,59
 2018,Q2,Child (17 or under),Total,725
 2018,Q2,Age not specified or unknown,Overseas,0
 2018,Q2,Age not specified or unknown,UK,0
@@ -559,24 +559,24 @@ Year,Quarter,Age at exploitation,Location of exploitation,NRM referrals
 2018,Q3,Adult (18 or over),UK and Overseas,136
 2018,Q3,Adult (18 or over),Not specified or unknown,49
 2018,Q3,Adult (18 or over),Total,961
-2018,Q3,Child (17 or under),Overseas,202
+2018,Q3,Child (17 or under),Overseas,201
 2018,Q3,Child (17 or under),UK,452
-2018,Q3,Child (17 or under),UK and Overseas,35
-2018,Q3,Child (17 or under),Not specified or unknown,96
+2018,Q3,Child (17 or under),UK and Overseas,37
+2018,Q3,Child (17 or under),Not specified or unknown,95
 2018,Q3,Child (17 or under),Total,785
 2018,Q3,Age not specified or unknown,Overseas,1
 2018,Q3,Age not specified or unknown,UK,0
 2018,Q3,Age not specified or unknown,UK and Overseas,0
 2018,Q3,Age not specified or unknown,Not specified or unknown,0
 2018,Q3,Age not specified or unknown,Total,1
-2018,Q4,Adult (18 or over),Overseas,302
-2018,Q4,Adult (18 or over),UK,559
-2018,Q4,Adult (18 or over),UK and Overseas,164
+2018,Q4,Adult (18 or over),Overseas,301
+2018,Q4,Adult (18 or over),UK,558
+2018,Q4,Adult (18 or over),UK and Overseas,166
 2018,Q4,Adult (18 or over),Not specified or unknown,45
 2018,Q4,Adult (18 or over),Total,1070
-2018,Q4,Child (17 or under),Overseas,225
+2018,Q4,Child (17 or under),Overseas,224
 2018,Q4,Child (17 or under),UK,536
-2018,Q4,Child (17 or under),UK and Overseas,52
+2018,Q4,Child (17 or under),UK and Overseas,53
 2018,Q4,Child (17 or under),Not specified or unknown,74
 2018,Q4,Child (17 or under),Total,887
 2018,Q4,Age not specified or unknown,Overseas,0
@@ -584,29 +584,29 @@ Year,Quarter,Age at exploitation,Location of exploitation,NRM referrals
 2018,Q4,Age not specified or unknown,UK and Overseas,0
 2018,Q4,Age not specified or unknown,Not specified or unknown,0
 2018,Q4,Age not specified or unknown,Total,0
-2019,Q1,Adult (18 or over),Overseas,419
-2019,Q1,Adult (18 or over),UK,591
-2019,Q1,Adult (18 or over),UK and Overseas,161
-2019,Q1,Adult (18 or over),Not specified or unknown,38
+2019,Q1,Adult (18 or over),Overseas,420
+2019,Q1,Adult (18 or over),UK,587
+2019,Q1,Adult (18 or over),UK and Overseas,165
+2019,Q1,Adult (18 or over),Not specified or unknown,37
 2019,Q1,Adult (18 or over),Total,1209
 2019,Q1,Child (17 or under),Overseas,220
-2019,Q1,Child (17 or under),UK,612
-2019,Q1,Child (17 or under),UK and Overseas,34
-2019,Q1,Child (17 or under),Not specified or unknown,78
+2019,Q1,Child (17 or under),UK,611
+2019,Q1,Child (17 or under),UK and Overseas,36
+2019,Q1,Child (17 or under),Not specified or unknown,77
 2019,Q1,Child (17 or under),Total,944
 2019,Q1,Age not specified or unknown,Overseas,0
 2019,Q1,Age not specified or unknown,UK,0
 2019,Q1,Age not specified or unknown,UK and Overseas,0
 2019,Q1,Age not specified or unknown,Not specified or unknown,0
 2019,Q1,Age not specified or unknown,Total,0
-2019,Q2,Adult (18 or over),Overseas,408
-2019,Q2,Adult (18 or over),UK,696
-2019,Q2,Adult (18 or over),UK and Overseas,178
+2019,Q2,Adult (18 or over),Overseas,407
+2019,Q2,Adult (18 or over),UK,692
+2019,Q2,Adult (18 or over),UK and Overseas,183
 2019,Q2,Adult (18 or over),Not specified or unknown,44
 2019,Q2,Adult (18 or over),Total,1326
 2019,Q2,Child (17 or under),Overseas,196
-2019,Q2,Child (17 or under),UK,678
-2019,Q2,Child (17 or under),UK and Overseas,61
+2019,Q2,Child (17 or under),UK,677
+2019,Q2,Child (17 or under),UK and Overseas,62
 2019,Q2,Child (17 or under),Not specified or unknown,47
 2019,Q2,Child (17 or under),Total,982
 2019,Q2,Age not specified or unknown,Overseas,1
@@ -616,8 +616,8 @@ Year,Quarter,Age at exploitation,Location of exploitation,NRM referrals
 2019,Q2,Age not specified or unknown,Total,1
 2019,Q3,Adult (18 or over),Overseas,428
 2019,Q3,Adult (18 or over),UK,961
-2019,Q3,Adult (18 or over),UK and Overseas,196
-2019,Q3,Adult (18 or over),Not specified or unknown,43
+2019,Q3,Adult (18 or over),UK and Overseas,200
+2019,Q3,Adult (18 or over),Not specified or unknown,39
 2019,Q3,Adult (18 or over),Total,1628
 2019,Q3,Child (17 or under),Overseas,207
 2019,Q3,Child (17 or under),UK,821
@@ -629,39 +629,39 @@ Year,Quarter,Age at exploitation,Location of exploitation,NRM referrals
 2019,Q3,Age not specified or unknown,UK and Overseas,0
 2019,Q3,Age not specified or unknown,Not specified or unknown,0
 2019,Q3,Age not specified or unknown,Total,1
-2019,Q4,Adult (18 or over),Overseas,474
-2019,Q4,Adult (18 or over),UK,958
-2019,Q4,Adult (18 or over),UK and Overseas,247
-2019,Q4,Adult (18 or over),Not specified or unknown,9
+2019,Q4,Adult (18 or over),Overseas,473
+2019,Q4,Adult (18 or over),UK,952
+2019,Q4,Adult (18 or over),UK and Overseas,256
+2019,Q4,Adult (18 or over),Not specified or unknown,7
 2019,Q4,Adult (18 or over),Total,1688
-2019,Q4,Child (17 or under),Overseas,325
-2019,Q4,Child (17 or under),UK,942
-2019,Q4,Child (17 or under),UK and Overseas,151
+2019,Q4,Child (17 or under),Overseas,326
+2019,Q4,Child (17 or under),UK,940
+2019,Q4,Child (17 or under),UK and Overseas,152
 2019,Q4,Child (17 or under),Not specified or unknown,31
 2019,Q4,Child (17 or under),Total,1449
-2019,Q4,Age not specified or unknown,Overseas,65
-2019,Q4,Age not specified or unknown,UK,112
-2019,Q4,Age not specified or unknown,UK and Overseas,26
+2019,Q4,Age not specified or unknown,Overseas,63
+2019,Q4,Age not specified or unknown,UK,110
+2019,Q4,Age not specified or unknown,UK and Overseas,30
 2019,Q4,Age not specified or unknown,Not specified or unknown,3
 2019,Q4,Age not specified or unknown,Total,206
-2020,Q1,Adult (18 or over),Overseas,410
-2020,Q1,Adult (18 or over),UK,817
-2020,Q1,Adult (18 or over),UK and Overseas,257
+2020,Q1,Adult (18 or over),Overseas,408
+2020,Q1,Adult (18 or over),UK,808
+2020,Q1,Adult (18 or over),UK and Overseas,268
 2020,Q1,Adult (18 or over),Not specified or unknown,1
 2020,Q1,Adult (18 or over),Total,1485
-2020,Q1,Child (17 or under),Overseas,276
-2020,Q1,Child (17 or under),UK,823
-2020,Q1,Child (17 or under),UK and Overseas,132
+2020,Q1,Child (17 or under),Overseas,275
+2020,Q1,Child (17 or under),UK,821
+2020,Q1,Child (17 or under),UK and Overseas,135
 2020,Q1,Child (17 or under),Not specified or unknown,6
 2020,Q1,Child (17 or under),Total,1237
 2020,Q1,Age not specified or unknown,Overseas,55
-2020,Q1,Age not specified or unknown,UK,47
-2020,Q1,Age not specified or unknown,UK and Overseas,33
+2020,Q1,Age not specified or unknown,UK,46
+2020,Q1,Age not specified or unknown,UK and Overseas,34
 2020,Q1,Age not specified or unknown,Not specified or unknown,0
 2020,Q1,Age not specified or unknown,Total,135
-2020,Q2,Adult (18 or over),Overseas,178
-2020,Q2,Adult (18 or over),UK,515
-2020,Q2,Adult (18 or over),UK and Overseas,147
+2020,Q2,Adult (18 or over),Overseas,176
+2020,Q2,Adult (18 or over),UK,510
+2020,Q2,Adult (18 or over),UK and Overseas,154
 2020,Q2,Adult (18 or over),Not specified or unknown,0
 2020,Q2,Adult (18 or over),Total,840
 2020,Q2,Child (17 or under),Overseas,128
@@ -675,8 +675,8 @@ Year,Quarter,Age at exploitation,Location of exploitation,NRM referrals
 2020,Q2,Age not specified or unknown,Not specified or unknown,0
 2020,Q2,Age not specified or unknown,Total,81
 2020,Q3,Adult (18 or over),Overseas,386
-2020,Q3,Adult (18 or over),UK,633
-2020,Q3,Adult (18 or over),UK and Overseas,198
+2020,Q3,Adult (18 or over),UK,628
+2020,Q3,Adult (18 or over),UK and Overseas,203
 2020,Q3,Adult (18 or over),Not specified or unknown,0
 2020,Q3,Adult (18 or over),Total,1217
 2020,Q3,Child (17 or under),Overseas,160
@@ -689,14 +689,14 @@ Year,Quarter,Age at exploitation,Location of exploitation,NRM referrals
 2020,Q3,Age not specified or unknown,UK and Overseas,18
 2020,Q3,Age not specified or unknown,Not specified or unknown,0
 2020,Q3,Age not specified or unknown,Total,112
-2020,Q4,Adult (18 or over),Overseas,709
-2020,Q4,Adult (18 or over),UK,622
-2020,Q4,Adult (18 or over),UK and Overseas,200
+2020,Q4,Adult (18 or over),Overseas,705
+2020,Q4,Adult (18 or over),UK,619
+2020,Q4,Adult (18 or over),UK and Overseas,207
 2020,Q4,Adult (18 or over),Not specified or unknown,0
 2020,Q4,Adult (18 or over),Total,1531
 2020,Q4,Child (17 or under),Overseas,220
-2020,Q4,Child (17 or under),UK,1032
-2020,Q4,Child (17 or under),UK and Overseas,86
+2020,Q4,Child (17 or under),UK,1033
+2020,Q4,Child (17 or under),UK and Overseas,85
 2020,Q4,Child (17 or under),Not specified or unknown,2
 2020,Q4,Child (17 or under),Total,1340
 2020,Q4,Age not specified or unknown,Overseas,87
@@ -704,14 +704,14 @@ Year,Quarter,Age at exploitation,Location of exploitation,NRM referrals
 2020,Q4,Age not specified or unknown,UK and Overseas,27
 2020,Q4,Age not specified or unknown,Not specified or unknown,0
 2020,Q4,Age not specified or unknown,Total,167
-2021,Q1,Adult (18 or over),Overseas,416
-2021,Q1,Adult (18 or over),UK,760
-2021,Q1,Adult (18 or over),UK and Overseas,253
+2021,Q1,Adult (18 or over),Overseas,413
+2021,Q1,Adult (18 or over),UK,756
+2021,Q1,Adult (18 or over),UK and Overseas,260
 2021,Q1,Adult (18 or over),Not specified or unknown,0
 2021,Q1,Adult (18 or over),Total,1429
 2021,Q1,Child (17 or under),Overseas,214
-2021,Q1,Child (17 or under),UK,1036
-2021,Q1,Child (17 or under),UK and Overseas,108
+2021,Q1,Child (17 or under),UK,1033
+2021,Q1,Child (17 or under),UK and Overseas,111
 2021,Q1,Child (17 or under),Not specified or unknown,0
 2021,Q1,Child (17 or under),Total,1358
 2021,Q1,Age not specified or unknown,Overseas,54
@@ -719,74 +719,74 @@ Year,Quarter,Age at exploitation,Location of exploitation,NRM referrals
 2021,Q1,Age not specified or unknown,UK and Overseas,34
 2021,Q1,Age not specified or unknown,Not specified or unknown,0
 2021,Q1,Age not specified or unknown,Total,149
-2021,Q2,Adult (18 or over),Overseas,499
-2021,Q2,Adult (18 or over),UK,817
-2021,Q2,Adult (18 or over),UK and Overseas,242
+2021,Q2,Adult (18 or over),Overseas,496
+2021,Q2,Adult (18 or over),UK,811
+2021,Q2,Adult (18 or over),UK and Overseas,251
 2021,Q2,Adult (18 or over),Not specified or unknown,0
 2021,Q2,Adult (18 or over),Total,1558
-2021,Q2,Child (17 or under),Overseas,280
-2021,Q2,Child (17 or under),UK,992
-2021,Q2,Child (17 or under),UK and Overseas,99
+2021,Q2,Child (17 or under),Overseas,281
+2021,Q2,Child (17 or under),UK,989
+2021,Q2,Child (17 or under),UK and Overseas,101
 2021,Q2,Child (17 or under),Not specified or unknown,0
 2021,Q2,Child (17 or under),Total,1371
 2021,Q2,Age not specified or unknown,Overseas,94
-2021,Q2,Age not specified or unknown,UK,57
-2021,Q2,Age not specified or unknown,UK and Overseas,41
+2021,Q2,Age not specified or unknown,UK,58
+2021,Q2,Age not specified or unknown,UK and Overseas,40
 2021,Q2,Age not specified or unknown,Not specified or unknown,0
 2021,Q2,Age not specified or unknown,Total,192
-2021,Q3,Adult (18 or over),Overseas,697
-2021,Q3,Adult (18 or over),UK,723
-2021,Q3,Adult (18 or over),UK and Overseas,255
+2021,Q3,Adult (18 or over),Overseas,694
+2021,Q3,Adult (18 or over),UK,715
+2021,Q3,Adult (18 or over),UK and Overseas,266
 2021,Q3,Adult (18 or over),Not specified or unknown,0
 2021,Q3,Adult (18 or over),Total,1675
-2021,Q3,Child (17 or under),Overseas,324
+2021,Q3,Child (17 or under),Overseas,323
 2021,Q3,Child (17 or under),UK,937
-2021,Q3,Child (17 or under),UK and Overseas,100
+2021,Q3,Child (17 or under),UK and Overseas,101
 2021,Q3,Child (17 or under),Not specified or unknown,0
 2021,Q3,Child (17 or under),Total,1361
-2021,Q3,Age not specified or unknown,Overseas,146
-2021,Q3,Age not specified or unknown,UK,86
-2021,Q3,Age not specified or unknown,UK and Overseas,49
+2021,Q3,Age not specified or unknown,Overseas,145
+2021,Q3,Age not specified or unknown,UK,85
+2021,Q3,Age not specified or unknown,UK and Overseas,51
 2021,Q3,Age not specified or unknown,Not specified or unknown,0
 2021,Q3,Age not specified or unknown,Total,281
-2021,Q4,Adult (18 or over),Overseas,684
-2021,Q4,Adult (18 or over),UK,831
-2021,Q4,Adult (18 or over),UK and Overseas,225
+2021,Q4,Adult (18 or over),Overseas,683
+2021,Q4,Adult (18 or over),UK,825
+2021,Q4,Adult (18 or over),UK and Overseas,233
 2021,Q4,Adult (18 or over),Not specified or unknown,0
-2021,Q4,Adult (18 or over),Total,1740
+2021,Q4,Adult (18 or over),Total,1741
 2021,Q4,Child (17 or under),Overseas,333
-2021,Q4,Child (17 or under),UK,944
-2021,Q4,Child (17 or under),UK and Overseas,86
+2021,Q4,Child (17 or under),UK,945
+2021,Q4,Child (17 or under),UK and Overseas,85
 2021,Q4,Child (17 or under),Not specified or unknown,0
 2021,Q4,Child (17 or under),Total,1363
-2021,Q4,Age not specified or unknown,Overseas,123
-2021,Q4,Age not specified or unknown,UK,78
-2021,Q4,Age not specified or unknown,UK and Overseas,26
+2021,Q4,Age not specified or unknown,Overseas,122
+2021,Q4,Age not specified or unknown,UK,77
+2021,Q4,Age not specified or unknown,UK and Overseas,28
 2021,Q4,Age not specified or unknown,Not specified or unknown,0
 2021,Q4,Age not specified or unknown,Total,227
-2022,Q1,Adult (18 or over),Overseas,813
-2022,Q1,Adult (18 or over),UK,957
-2022,Q1,Adult (18 or over),UK and Overseas,282
+2022,Q1,Adult (18 or over),Overseas,803
+2022,Q1,Adult (18 or over),UK,931
+2022,Q1,Adult (18 or over),UK and Overseas,318
 2022,Q1,Adult (18 or over),Not specified or unknown,0
 2022,Q1,Adult (18 or over),Total,2052
-2022,Q1,Child (17 or under),Overseas,372
+2022,Q1,Child (17 or under),Overseas,370
 2022,Q1,Child (17 or under),UK,978
-2022,Q1,Child (17 or under),UK and Overseas,118
+2022,Q1,Child (17 or under),UK and Overseas,119
 2022,Q1,Child (17 or under),Not specified or unknown,0
-2022,Q1,Child (17 or under),Total,1468
-2022,Q1,Age not specified or unknown,Overseas,150
-2022,Q1,Age not specified or unknown,UK,68
-2022,Q1,Age not specified or unknown,UK and Overseas,35
+2022,Q1,Child (17 or under),Total,1467
+2022,Q1,Age not specified or unknown,Overseas,149
+2022,Q1,Age not specified or unknown,UK,69
+2022,Q1,Age not specified or unknown,UK and Overseas,36
 2022,Q1,Age not specified or unknown,Not specified or unknown,0
-2022,Q1,Age not specified or unknown,Total,253
-2022,Q2,Adult (18 or over),Overseas,1207
-2022,Q2,Adult (18 or over),UK,806
-2022,Q2,Adult (18 or over),UK and Overseas,250
+2022,Q1,Age not specified or unknown,Total,254
+2022,Q2,Adult (18 or over),Overseas,1200
+2022,Q2,Adult (18 or over),UK,805
+2022,Q2,Adult (18 or over),UK and Overseas,257
 2022,Q2,Adult (18 or over),Not specified or unknown,0
-2022,Q2,Adult (18 or over),Total,2263
-2022,Q2,Child (17 or under),Overseas,429
-2022,Q2,Child (17 or under),UK,1085
-2022,Q2,Child (17 or under),UK and Overseas,113
+2022,Q2,Adult (18 or over),Total,2262
+2022,Q2,Child (17 or under),Overseas,425
+2022,Q2,Child (17 or under),UK,1087
+2022,Q2,Child (17 or under),UK and Overseas,115
 2022,Q2,Child (17 or under),Not specified or unknown,0
 2022,Q2,Child (17 or under),Total,1627
 2022,Q2,Age not specified or unknown,Overseas,154
@@ -794,24 +794,24 @@ Year,Quarter,Age at exploitation,Location of exploitation,NRM referrals
 2022,Q2,Age not specified or unknown,UK and Overseas,39
 2022,Q2,Age not specified or unknown,Not specified or unknown,0
 2022,Q2,Age not specified or unknown,Total,272
-2022,Q3,Adult (18 or over),Overseas,1153
-2022,Q3,Adult (18 or over),UK,855
-2022,Q3,Adult (18 or over),UK and Overseas,294
+2022,Q3,Adult (18 or over),Overseas,1150
+2022,Q3,Adult (18 or over),UK,849
+2022,Q3,Adult (18 or over),UK and Overseas,303
 2022,Q3,Adult (18 or over),Not specified or unknown,0
 2022,Q3,Adult (18 or over),Total,2302
-2022,Q3,Child (17 or under),Overseas,692
-2022,Q3,Child (17 or under),UK,1148
-2022,Q3,Child (17 or under),UK and Overseas,139
+2022,Q3,Child (17 or under),Overseas,690
+2022,Q3,Child (17 or under),UK,1146
+2022,Q3,Child (17 or under),UK and Overseas,143
 2022,Q3,Child (17 or under),Not specified or unknown,0
 2022,Q3,Child (17 or under),Total,1979
-2022,Q3,Age not specified or unknown,Overseas,177
-2022,Q3,Age not specified or unknown,UK,73
-2022,Q3,Age not specified or unknown,UK and Overseas,50
+2022,Q3,Age not specified or unknown,Overseas,176
+2022,Q3,Age not specified or unknown,UK,71
+2022,Q3,Age not specified or unknown,UK and Overseas,53
 2022,Q3,Age not specified or unknown,Not specified or unknown,0
 2022,Q3,Age not specified or unknown,Total,300
-2022,Q4,Adult (18 or over),Overseas,1011
-2022,Q4,Adult (18 or over),UK,911
-2022,Q4,Adult (18 or over),UK and Overseas,313
+2022,Q4,Adult (18 or over),Overseas,1007
+2022,Q4,Adult (18 or over),UK,907
+2022,Q4,Adult (18 or over),UK and Overseas,321
 2022,Q4,Adult (18 or over),Not specified or unknown,0
 2022,Q4,Adult (18 or over),Total,2235
 2022,Q4,Child (17 or under),Overseas,601
@@ -824,18 +824,33 @@ Year,Quarter,Age at exploitation,Location of exploitation,NRM referrals
 2022,Q4,Age not specified or unknown,UK and Overseas,27
 2022,Q4,Age not specified or unknown,Not specified or unknown,0
 2022,Q4,Age not specified or unknown,Total,239
-2023,Q1,Adult (18 or over),Overseas,1037
-2023,Q1,Adult (18 or over),UK,1112
-2023,Q1,Adult (18 or over),UK and Overseas,440
+2023,Q1,Adult (18 or over),Overseas,1032
+2023,Q1,Adult (18 or over),UK,1071
+2023,Q1,Adult (18 or over),UK and Overseas,482
 2023,Q1,Adult (18 or over),Not specified or unknown,0
-2023,Q1,Adult (18 or over),Total,2589
-2023,Q1,Child (17 or under),Overseas,527
-2023,Q1,Child (17 or under),UK,1216
-2023,Q1,Child (17 or under),UK and Overseas,156
+2023,Q1,Adult (18 or over),Total,2585
+2023,Q1,Child (17 or under),Overseas,522
+2023,Q1,Child (17 or under),UK,1209
+2023,Q1,Child (17 or under),UK and Overseas,165
 2023,Q1,Child (17 or under),Not specified or unknown,0
-2023,Q1,Child (17 or under),Total,1899
+2023,Q1,Child (17 or under),Total,1896
 2023,Q1,Age not specified or unknown,Overseas,131
-2023,Q1,Age not specified or unknown,UK,95
-2023,Q1,Age not specified or unknown,UK and Overseas,32
+2023,Q1,Age not specified or unknown,UK,93
+2023,Q1,Age not specified or unknown,UK and Overseas,34
 2023,Q1,Age not specified or unknown,Not specified or unknown,0
 2023,Q1,Age not specified or unknown,Total,258
+2023,Q2,Adult (18 or over),Overseas,877
+2023,Q2,Adult (18 or over),UK,857
+2023,Q2,Adult (18 or over),UK and Overseas,307
+2023,Q2,Adult (18 or over),Not specified or unknown,0
+2023,Q2,Adult (18 or over),Total,2041
+2023,Q2,Child (17 or under),Overseas,531
+2023,Q2,Child (17 or under),UK,1066
+2023,Q2,Child (17 or under),UK and Overseas,153
+2023,Q2,Child (17 or under),Not specified or unknown,0
+2023,Q2,Child (17 or under),Total,1750
+2023,Q2,Age not specified or unknown,Overseas,100
+2023,Q2,Age not specified or unknown,UK,72
+2023,Q2,Age not specified or unknown,UK and Overseas,35
+2023,Q2,Age not specified or unknown,Not specified or unknown,0
+2023,Q2,Age not specified or unknown,Total,207
