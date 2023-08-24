@@ -5,7 +5,7 @@
 \alias{claims_certified_section_94}
 \title{Asylum claims certified under Section 94}
 \format{
-A data frame with 2,166 rows and 10 variables:
+A data frame with 2,191 rows and 10 variables:
 \describe{
   \item{Date}{Date}
   \item{Year}{Year}

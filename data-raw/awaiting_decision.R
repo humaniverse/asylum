@@ -22,8 +22,9 @@ awaiting_decision <-
 # Wrangling
 awaiting_decision <-
   awaiting_decision |>
-  rename(Date = `Date (as at…)`) |>
-  filter(Date != "End of table") |>
+  rename_with(~"Date", starts_with("Date")) |>
+  # rename(Date = `Date (as at…)`) |>
+  filter(toupper(Date) != "END OF TABLE") |>
   mutate(Date = dmy(Date)) |>
 
   mutate(

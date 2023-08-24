@@ -16,7 +16,7 @@ A data frame with 13 rows and 10 variables:
   \item{Leaving detention Non-asylum}{Leaving detention Non-asylum}
   \item{In detention (at end of period)}{In detention (at end of period)}
   \item{In detention Asylum}{In detention Asylum}
-  \item{In detentionNon-asylum}{In detention Non-asylum}
+  \item{In detention Non-asylum}{In detention Non-asylum}
   ...
 }
 }
@@ -27,6 +27,6 @@ A data frame with 13 rows and 10 variables:
 detention_summary_flow
 }
 \description{
-People entering, leaving and in detention by asylum and non-asylum, 2010 to 2022.
+People entering, leaving and in detention by asylum and non-asylum.
 }
 \keyword{datasets}

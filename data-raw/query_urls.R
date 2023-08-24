@@ -12,54 +12,55 @@ query_urls <-
     # - https://www.gov.uk/government/collections/migration-transparency-data#immigration-enforcement
 
     # Asylum applications, decisions and resettlement
-    "asylum_summary", "Asylum and resettlement summary tables, year ending March 2023", "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1157139/asylum-summary-mar-2023-tables.ods", "https://www.gov.uk/government/statistical-data-sets/immigration-system-statistics-data-tables-year-ending-march-2023",
-    "applications_decisions_resettlement", "Asylum applications, initial decisions and resettlement", "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1156818/asylum-applications-datasets-mar-2023.xlsx", "https://www.gov.uk/government/statistical-data-sets/asylum-and-resettlement-datasets",
-    "awaiting_decision", "Asylum applications awaiting a decision", "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1156820/asylum-applications-awaiting-decision-datasets-mar-2023.xlsx", "https://www.gov.uk/government/statistical-data-sets/asylum-and-resettlement-datasets",
+    "asylum_summary", "Asylum and resettlement summary tables", "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1179576/asylum-summary-jun-2023-tables.ods", "https://www.gov.uk/government/statistical-data-sets/immigration-system-statistics-data-tables-year-ending-march-2023",
+    "applications_decisions_resettlement", "Asylum applications, initial decisions and resettlement", "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1178017/asylum-applications-datasets-jun-2023.xlsx", "https://www.gov.uk/government/statistical-data-sets/asylum-and-resettlement-datasets",
+    "awaiting_decision", "Asylum applications awaiting a decision", "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1178018/asylum-applications-awaiting-decision-datasets-jun-2023.xlsx", "https://www.gov.uk/government/statistical-data-sets/asylum-and-resettlement-datasets",
     "outcomes", "Outcome analysis of asylum applications", "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1098062/outcome-analysis-asylum-applications-datasets-jun-2022.xlsx", "https://www.gov.uk/government/statistical-data-sets/asylum-and-resettlement-datasets",
 
     # Age disputes
-    "age_disputes", "Age disputes", "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1156821/age-disputes-datasets-mar-2023.xlsx", "https://www.gov.uk/government/statistical-data-sets/asylum-and-resettlement-datasets",
+    "age_disputes", "Age disputes", "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1178020/age-disputes-datasets-jun-2023.xlsx", "https://www.gov.uk/government/statistical-data-sets/asylum-and-resettlement-datasets",
 
     # Asylum appeals
     "appeals_lodged_determined", "Asylum appeals lodged and determined", "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1156822/asylum-appeals-lodged-datasets-mar-2023.xlsx", "https://www.gov.uk/government/statistical-data-sets/asylum-and-resettlement-datasets",
     # "appeals_non_suspensive", "Non-suspensive appeals", "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1098066/non-suspensive-appeals-datasets-jun-2022.xlsx", "https://www.gov.uk/government/statistical-data-sets/asylum-and-resettlement-datasets",
-    "claims_certified_section_94", "Asylum claims certified under Section 94", "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1156823/asylum-claims-certified-section-94-datasets-mar-2023.xlsx", "https://www.gov.uk/government/statistical-data-sets/asylum-and-resettlement-datasets",
+    "claims_certified_section_94", "Asylum claims certified under Section 94", "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1178022/asylum-claims-certified-section-94-datasets-jun-2023.xlsx", "https://www.gov.uk/government/statistical-data-sets/asylum-and-resettlement-datasets",
 
     # Asylum support
-    "support_received", "Asylum seekers in receipt of support", "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1157135/asylum-seekers-receipt-support-datasets-mar-2023.xlsx", "https://www.gov.uk/government/statistical-data-sets/asylum-and-resettlement-datasets",
+    "support_received", "Asylum seekers in receipt of support", "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1178023/asylum-seekers-receipt-support-datasets-jun-2023.xlsx", "https://www.gov.uk/government/statistical-data-sets/asylum-and-resettlement-datasets",
     "support_applications", "Applications for section 95 support", "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1136760/applications-section-95-support-datasets-dec-2022.xlsx", "https://www.gov.uk/government/statistical-data-sets/asylum-and-resettlement-datasets",
 
     # Dublin regulation
     "dublin_regulation", "Dublin regulation", "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/962018/dublin-regulation-datasets-mar-2020.xlsx", "https://www.gov.uk/government/statistical-data-sets/asylum-and-resettlement-datasets",
 
     # Family reunion
-    "family_reunion", "Family reunion visa grants", "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1157195/family-reunion-visa-grants-datasets-mar-2023.xlsx", "https://www.gov.uk/government/statistical-data-sets/asylum-and-resettlement-datasets",
+    "family_reunion", "Family reunion visa grants", "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1178024/family-reunion-visa-grants-datasets-jun-2023.xlsx", "https://www.gov.uk/government/statistical-data-sets/asylum-and-resettlement-datasets",
 
     # Local authority data
-    "local_authority_resettlement", "Resettlement by local authority", "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1156825/resettlement-local-authority-datasets-mar-2023.xlsx", "https://www.gov.uk/government/statistical-data-sets/asylum-and-resettlement-datasets",
-    "local_authority_support", "Section 95 support by local authority", "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1156826/section-95-support-local-authority-datasets-mar-2023.xlsx", "https://www.gov.uk/government/statistical-data-sets/asylum-and-resettlement-datasets",
-
-    # Resettlement, Asylum Support and Integration (RASI) data
-    "rasi", "Resettlement, Asylum Support and Integration", "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1158611/UKVI_RASI_Q1_2023_Published.ods", "https://www.gov.uk/government/collections/migration-transparency-data#uk-visas-and-immigration",
-
-    # Immigration and protection data
-    "immigration_and_protection", "Immigration and protection data", "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1159112/UKVI_IP_Q1_2023_Published.xlsx", "https://www.gov.uk/government/collections/migration-transparency-data#uk-visas-and-immigration",
+    "local_authority_resettlement", "Resettlement by local authority", "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1178025/resettlement-local-authority-datasets-jun-2023.xlsx", "https://www.gov.uk/government/statistical-data-sets/asylum-and-resettlement-datasets",
+    "local_authority_support", "Section 95 support by local authority", "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1178026/support-local-authority-datasets-jun-2023.xlsx", "https://www.gov.uk/government/statistical-data-sets/asylum-and-resettlement-datasets",
 
     # Detention
-    "detention_summary", "Detention summary tables, year ending March 2023", "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1156950/detention-summary-mar-2023-tables.ods", "https://www.gov.uk/government/statistical-data-sets/immigration-system-statistics-data-tables-year-ending-march-2023",
-    "immigration_detention", "Immigration detention", "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1156798/detention-datasets-mar-2023.xlsx", "https://www.gov.uk/government/statistical-data-sets/returns-and-detention-datasets",
+    "detention_summary", "Detention summary tables", "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1178044/detention-summary-jun-2023-tables.ods", "https://www.gov.uk/government/statistical-data-sets/immigration-system-statistics-data-tables#detention",
+    "immigration_detention", "Immigration detention", "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1178045/detention-datasets-jun-2023.xlsx", "https://www.gov.uk/government/statistical-data-sets/returns-and-detention-datasets",
 
     # Returns
-    "returns", "Returns", "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1156931/returns-datasets-mar-2023.xlsx", "https://www.gov.uk/government/statistical-data-sets/returns-and-detention-datasets",
-    "returns_summary", "Returns summary table (2022)", "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1156949/returns-summary-mar-2023-tables.ods", "https://www.gov.uk/government/statistical-data-sets/immigration-system-statistics-data-tables-year-ending-march-2023#returns",
+    "returns_summary", "Returns summary table", "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1178042/returns-summary-jun-2023-tables.ods", "https://www.gov.uk/government/statistical-data-sets/immigration-system-statistics-data-tables#returns",
+    "returns", "Returns", "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1178043/returns-datasets-jun-2023.xlsx", "https://www.gov.uk/government/statistical-data-sets/immigration-system-statistics-data-tables#returns",
 
     # Irregular migration
-    "irrgular_migration", "Irregular migration detailed dataset", "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1158730/irregular-migration-to-the-UK-detailed-dataset-year-ending-march-2023.xlsx", "https://www.gov.uk/government/statistical-data-sets/irregular-migration-detailed-dataset-and-summary-tables",
+    "irrgular_migration", "Irregular migration detailed dataset", "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1179739/irregular-migration-to-the-UK-data-tables-year-ending-june-2023.xlsx", "https://www.gov.uk/government/statistical-data-sets/irregular-migration-detailed-dataset-and-summary-tables#detailed-datasets",
+
+    # Resettlement, Asylum Support and Integration (RASI) data
+    "rasi", "Resettlement, Asylum Support and Integration", "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1180077/Resettlement_Asylum_Support_and_Integration_Q2_2023.ods", "https://www.gov.uk/government/collections/migration-transparency-data#uk-visas-and-immigration",
+
+    # Immigration and protection data
+    "immigration_and_protection", "Immigration and protection data", "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1180081/Immigration_and_protection_Q2_2023.ods", "https://www.gov.uk/government/collections/migration-transparency-data#uk-visas-and-immigration",
 
     # Immigration enforcement
-    "immigration_enforcement", "Immigration Enforcement data: Q1 2023", "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1158618/IE_Q1_2023_Published.ods", "https://www.gov.uk/government/collections/migration-transparency-data#immigration-enforcement",
+    "immigration_enforcement", "Immigration Enforcement data", "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1180071/Immigration_Enforcement_Q2_2023.ods", "https://www.gov.uk/government/collections/migration-transparency-data#immigration-enforcement",
 
     # National Referral Mechanism (NRM)
+    "nrm_2023_q2", "Modern Slavery: National Referral Mechanism and Duty to Notify statistics UK, April to June 2023", "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1176468/national-referral-mechanism-statistics-uk-quarter-2-2023-april-to-june-tables.ods", "https://www.gov.uk/government/collections/national-referral-mechanism-statistics",
     "nrm_2023_q1", "Modern Slavery: National Referral Mechanism and Duty to Notify statistics UK, January to March 2023", "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1154119/modern-slavery-national-referral-mechanism-statistics-uk-quarter-1-2023-january-to-march-tables.ods", "https://www.gov.uk/government/collections/national-referral-mechanism-statistics",
     "nrm_2022_q4", "Modern Slavery: National Referral Mechanism and Duty to Notify statistics UK, October to December 2022", "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1139166/national-referral-mechanism-statistics-uk-quarter-4-2022-october-to-december-tables.ods", "https://www.gov.uk/government/collections/national-referral-mechanism-statistics",
     "nrm_2022_q3", "Modern Slavery: National Referral Mechanism and Duty to Notify statistics UK, July to September 2022", "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1114337/national-referral-mechanism-statistics-uk-quarter-3-2022-july-to-september-tables.ods", "https://www.gov.uk/government/collections/national-referral-mechanism-statistics",

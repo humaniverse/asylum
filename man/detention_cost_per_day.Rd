@@ -5,7 +5,7 @@
 \alias{detention_cost_per_day}
 \title{Average cost per day to hold an individual in immigration detention}
 \format{
-A data frame with 41 rows and 4 variables:
+A data frame with 42 rows and 4 variables:
 \describe{
   \item{Date}{Date}
   \item{Year}{Year}

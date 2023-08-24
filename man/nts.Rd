@@ -5,7 +5,7 @@
 \alias{nts}
 \title{National Transfer Scheme}
 \format{
-A data frame with 11,680 rows and 9 variables:
+A data frame with 28 rows and 9 variables:
 \describe{
   \item{Date}{Date}
   \item{Year}{Year}

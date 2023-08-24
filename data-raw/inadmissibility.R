@@ -13,7 +13,7 @@ query_url <-
 
 GET(
   query_url,
-  write_disk(tf <- tempfile())
+  write_disk(tf <- tempfile(fileext = ".ods"))
 )
 
 # ---- Cases considered under inadmissibility rules, 1 January 2021 - 30 September 2022 ----
@@ -32,7 +32,7 @@ inadmissibility_cases_considered <-
   pivot_longer(cols = -Stage, names_to = "Date", values_to = "Cases") |>
 
   # Separate 'Date' column into separate 'Quarter' and 'Year' columns, then calculate a lubridate Date
-  separate_wider_delim(Date, " ", names = c("Quarter", "Year")) |>
+  separate_wider_delim(Date, ".", names = c("Quarter", "Year")) |>
   # mutate(Date = yq(paste(Year, Quarter))) |>
   mutate(Date = as.Date(as.yearqtr(paste(Year, Quarter), format = "%Y Q%q"), frac = 1)) |>
 

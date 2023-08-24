@@ -7,10 +7,6 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2010-03-31,2010,1,Afghanistan,Asia Central,Male,Under 18,17
 2010-03-31,2010,1,Albania,Europe Other,Female,50-69,1
 2010-03-31,2010,1,Albania,Europe Other,Male,70+,1
-2010-03-31,2010,1,Burma,Asia South East,Female,30-49,2
-2010-03-31,2010,1,Burma,Asia South East,Female,Under 18,5
-2010-03-31,2010,1,Burma,Asia South East,Male,50-69,1
-2010-03-31,2010,1,Burma,Asia South East,Male,Under 18,1
 2010-03-31,2010,1,Cameroon,Africa Sub-Saharan,Female,18-29,1
 2010-03-31,2010,1,Cameroon,Africa Sub-Saharan,Female,30-49,2
 2010-03-31,2010,1,Cameroon,Africa Sub-Saharan,Female,Under 18,13
@@ -70,6 +66,10 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2010-03-31,2010,1,Malaysia,Asia South East,Female,30-49,1
 2010-03-31,2010,1,Malaysia,Asia South East,Female,Under 18,1
 2010-03-31,2010,1,Moldova,Europe Other,Female,Under 18,1
+2010-03-31,2010,1,Myanmar (Burma),Asia South East,Female,30-49,2
+2010-03-31,2010,1,Myanmar (Burma),Asia South East,Female,Under 18,5
+2010-03-31,2010,1,Myanmar (Burma),Asia South East,Male,50-69,1
+2010-03-31,2010,1,Myanmar (Burma),Asia South East,Male,Under 18,1
 2010-03-31,2010,1,Other and unknown,Other,Female,18-29,2
 2010-03-31,2010,1,Other and unknown,Other,Female,30-49,1
 2010-03-31,2010,1,Other and unknown,Other,Female,Under 18,11
@@ -268,9 +268,6 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2010-09-30,2010,3,Armenia,Europe Other,Male,Under 18,2
 2010-09-30,2010,3,Bangladesh,Asia South,Male,Under 18,2
 2010-09-30,2010,3,Belarus,Europe Other,Female,18-29,1
-2010-09-30,2010,3,Burma,Asia South East,Female,30-49,3
-2010-09-30,2010,3,Burma,Asia South East,Female,Under 18,2
-2010-09-30,2010,3,Burma,Asia South East,Male,30-49,1
 2010-09-30,2010,3,Burundi,Africa Sub-Saharan,Female,30-49,1
 2010-09-30,2010,3,Cameroon,Africa Sub-Saharan,Female,18-29,2
 2010-09-30,2010,3,Cameroon,Africa Sub-Saharan,Female,Under 18,6
@@ -338,6 +335,9 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2010-09-30,2010,3,Malawi,Africa Sub-Saharan,Female,30-49,1
 2010-09-30,2010,3,Malawi,Africa Sub-Saharan,Male,30-49,1
 2010-09-30,2010,3,Moldova,Europe Other,Male,50-69,1
+2010-09-30,2010,3,Myanmar (Burma),Asia South East,Female,30-49,3
+2010-09-30,2010,3,Myanmar (Burma),Asia South East,Female,Under 18,2
+2010-09-30,2010,3,Myanmar (Burma),Asia South East,Male,30-49,1
 2010-09-30,2010,3,Nepal,Asia South,Female,30-49,1
 2010-09-30,2010,3,Nepal,Asia South,Female,Under 18,1
 2010-09-30,2010,3,Nepal,Asia South,Male,Under 18,2
@@ -411,12 +411,6 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2010-12-31,2010,4,Angola,Africa Sub-Saharan,Female,Under 18,2
 2010-12-31,2010,4,Angola,Africa Sub-Saharan,Male,Under 18,1
 2010-12-31,2010,4,Botswana,Africa Sub-Saharan,Female,Under 18,1
-2010-12-31,2010,4,Burma,Asia South East,Female,18-29,3
-2010-12-31,2010,4,Burma,Asia South East,Female,30-49,2
-2010-12-31,2010,4,Burma,Asia South East,Female,50-69,1
-2010-12-31,2010,4,Burma,Asia South East,Female,Under 18,1
-2010-12-31,2010,4,Burma,Asia South East,Male,50-69,1
-2010-12-31,2010,4,Burma,Asia South East,Male,Under 18,2
 2010-12-31,2010,4,Burundi,Africa Sub-Saharan,Female,30-49,1
 2010-12-31,2010,4,Burundi,Africa Sub-Saharan,Female,Under 18,2
 2010-12-31,2010,4,Burundi,Africa Sub-Saharan,Male,Under 18,1
@@ -478,6 +472,12 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2010-12-31,2010,4,Malawi,Africa Sub-Saharan,Female,30-49,1
 2010-12-31,2010,4,Malawi,Africa Sub-Saharan,Female,Under 18,1
 2010-12-31,2010,4,Morocco,Africa North,Male,Under 18,1
+2010-12-31,2010,4,Myanmar (Burma),Asia South East,Female,18-29,3
+2010-12-31,2010,4,Myanmar (Burma),Asia South East,Female,30-49,2
+2010-12-31,2010,4,Myanmar (Burma),Asia South East,Female,50-69,1
+2010-12-31,2010,4,Myanmar (Burma),Asia South East,Female,Under 18,1
+2010-12-31,2010,4,Myanmar (Burma),Asia South East,Male,50-69,1
+2010-12-31,2010,4,Myanmar (Burma),Asia South East,Male,Under 18,2
 2010-12-31,2010,4,Other and unknown,Other,Female,18-29,5
 2010-12-31,2010,4,Other and unknown,Other,Female,30-49,7
 2010-12-31,2010,4,Other and unknown,Other,Female,Under 18,12
@@ -551,12 +551,6 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2011-03-31,2011,1,Afghanistan,Asia Central,Male,Under 18,50
 2011-03-31,2011,1,Armenia,Europe Other,Female,30-49,1
 2011-03-31,2011,1,Armenia,Europe Other,Female,Under 18,1
-2011-03-31,2011,1,Burma,Asia South East,Female,18-29,1
-2011-03-31,2011,1,Burma,Asia South East,Female,30-49,2
-2011-03-31,2011,1,Burma,Asia South East,Female,50-69,1
-2011-03-31,2011,1,Burma,Asia South East,Female,Under 18,6
-2011-03-31,2011,1,Burma,Asia South East,Male,30-49,2
-2011-03-31,2011,1,Burma,Asia South East,Male,Under 18,5
 2011-03-31,2011,1,Cameroon,Africa Sub-Saharan,Female,18-29,3
 2011-03-31,2011,1,Cameroon,Africa Sub-Saharan,Female,30-49,1
 2011-03-31,2011,1,Cameroon,Africa Sub-Saharan,Female,Under 18,8
@@ -619,6 +613,12 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2011-03-31,2011,1,Liberia,Africa Sub-Saharan,Female,Under 18,2
 2011-03-31,2011,1,Liberia,Africa Sub-Saharan,Male,Under 18,1
 2011-03-31,2011,1,Malawi,Africa Sub-Saharan,Male,30-49,2
+2011-03-31,2011,1,Myanmar (Burma),Asia South East,Female,18-29,1
+2011-03-31,2011,1,Myanmar (Burma),Asia South East,Female,30-49,2
+2011-03-31,2011,1,Myanmar (Burma),Asia South East,Female,50-69,1
+2011-03-31,2011,1,Myanmar (Burma),Asia South East,Female,Under 18,6
+2011-03-31,2011,1,Myanmar (Burma),Asia South East,Male,30-49,2
+2011-03-31,2011,1,Myanmar (Burma),Asia South East,Male,Under 18,5
 2011-03-31,2011,1,Nepal,Asia South,Female,30-49,2
 2011-03-31,2011,1,Nepal,Asia South,Female,Under 18,2
 2011-03-31,2011,1,Nepal,Asia South,Male,Under 18,2
@@ -697,8 +697,6 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2011-06-30,2011,2,Afghanistan,Asia Central,Male,50-69,1
 2011-06-30,2011,2,Afghanistan,Asia Central,Male,Under 18,24
 2011-06-30,2011,2,Azerbaijan,Europe Other,Female,30-49,1
-2011-06-30,2011,2,Burma,Asia South East,Female,30-49,1
-2011-06-30,2011,2,Burma,Asia South East,Male,Under 18,1
 2011-06-30,2011,2,Cameroon,Africa Sub-Saharan,Female,18-29,1
 2011-06-30,2011,2,Cameroon,Africa Sub-Saharan,Female,Under 18,7
 2011-06-30,2011,2,Cameroon,Africa Sub-Saharan,Male,18-29,1
@@ -748,6 +746,8 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2011-06-30,2011,2,Kyrgyzstan,Asia Central,Female,Under 18,2
 2011-06-30,2011,2,Liberia,Africa Sub-Saharan,Male,Under 18,1
 2011-06-30,2011,2,Malawi,Africa Sub-Saharan,Male,Under 18,2
+2011-06-30,2011,2,Myanmar (Burma),Asia South East,Female,30-49,1
+2011-06-30,2011,2,Myanmar (Burma),Asia South East,Male,Under 18,1
 2011-06-30,2011,2,Nigeria,Africa Sub-Saharan,Female,Under 18,1
 2011-06-30,2011,2,Nigeria,Africa Sub-Saharan,Male,Under 18,1
 2011-06-30,2011,2,Other and unknown,Other,Female,18-29,10
@@ -832,8 +832,6 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2011-09-30,2011,3,Belarus,Europe Other,Female,Under 18,1
 2011-09-30,2011,3,Bhutan,Asia South,Female,Under 18,1
 2011-09-30,2011,3,Bhutan,Asia South,Male,Under 18,1
-2011-09-30,2011,3,Burma,Asia South East,Female,30-49,2
-2011-09-30,2011,3,Burma,Asia South East,Male,Under 18,2
 2011-09-30,2011,3,Burundi,Africa Sub-Saharan,Female,30-49,1
 2011-09-30,2011,3,Burundi,Africa Sub-Saharan,Female,50-69,1
 2011-09-30,2011,3,Burundi,Africa Sub-Saharan,Male,Under 18,1
@@ -894,6 +892,8 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2011-09-30,2011,3,Libya,Africa North,Female,30-49,2
 2011-09-30,2011,3,Libya,Africa North,Female,Under 18,1
 2011-09-30,2011,3,Libya,Africa North,Male,Under 18,2
+2011-09-30,2011,3,Myanmar (Burma),Asia South East,Female,30-49,2
+2011-09-30,2011,3,Myanmar (Burma),Asia South East,Male,Under 18,2
 2011-09-30,2011,3,Nepal,Asia South,Male,Under 18,2
 2011-09-30,2011,3,Other and unknown,Other,Female,18-29,5
 2011-09-30,2011,3,Other and unknown,Other,Female,30-49,8
@@ -979,9 +979,6 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2011-12-31,2011,4,Bahrain,Middle East,Male,Under 18,3
 2011-12-31,2011,4,Botswana,Africa Sub-Saharan,Female,18-29,1
 2011-12-31,2011,4,Botswana,Africa Sub-Saharan,Female,Under 18,1
-2011-12-31,2011,4,Burma,Asia South East,Female,30-49,1
-2011-12-31,2011,4,Burma,Asia South East,Female,Under 18,1
-2011-12-31,2011,4,Burma,Asia South East,Male,Under 18,1
 2011-12-31,2011,4,Cameroon,Africa Sub-Saharan,Female,Under 18,5
 2011-12-31,2011,4,Cameroon,Africa Sub-Saharan,Male,Under 18,8
 2011-12-31,2011,4,Chad,Africa Sub-Saharan,Female,Under 18,1
@@ -1035,6 +1032,9 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2011-12-31,2011,4,Libya,Africa North,Female,30-49,2
 2011-12-31,2011,4,Libya,Africa North,Female,Under 18,2
 2011-12-31,2011,4,Libya,Africa North,Male,Under 18,2
+2011-12-31,2011,4,Myanmar (Burma),Asia South East,Female,30-49,1
+2011-12-31,2011,4,Myanmar (Burma),Asia South East,Female,Under 18,1
+2011-12-31,2011,4,Myanmar (Burma),Asia South East,Male,Under 18,1
 2011-12-31,2011,4,Nigeria,Africa Sub-Saharan,Male,30-49,1
 2011-12-31,2011,4,Other and unknown,Other,Female,18-29,6
 2011-12-31,2011,4,Other and unknown,Other,Female,30-49,4
@@ -1116,12 +1116,6 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2012-03-31,2012,1,Bangladesh,Asia South,Male,Under 18,1
 2012-03-31,2012,1,Belarus,Europe Other,Female,70+,1
 2012-03-31,2012,1,Belarus,Europe Other,Male,70+,1
-2012-03-31,2012,1,Burma,Asia South East,Female,18-29,2
-2012-03-31,2012,1,Burma,Asia South East,Female,30-49,3
-2012-03-31,2012,1,Burma,Asia South East,Female,50-69,1
-2012-03-31,2012,1,Burma,Asia South East,Female,Under 18,2
-2012-03-31,2012,1,Burma,Asia South East,Male,18-29,1
-2012-03-31,2012,1,Burma,Asia South East,Male,Under 18,1
 2012-03-31,2012,1,Cameroon,Africa Sub-Saharan,Female,Under 18,3
 2012-03-31,2012,1,Cameroon,Africa Sub-Saharan,Male,Under 18,2
 2012-03-31,2012,1,China,Asia East,Female,Under 18,1
@@ -1180,6 +1174,12 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2012-03-31,2012,1,Kuwait,Middle East,Female,18-29,1
 2012-03-31,2012,1,Malawi,Africa Sub-Saharan,Male,Under 18,1
 2012-03-31,2012,1,Morocco,Africa North,Female,30-49,1
+2012-03-31,2012,1,Myanmar (Burma),Asia South East,Female,18-29,2
+2012-03-31,2012,1,Myanmar (Burma),Asia South East,Female,30-49,3
+2012-03-31,2012,1,Myanmar (Burma),Asia South East,Female,50-69,1
+2012-03-31,2012,1,Myanmar (Burma),Asia South East,Female,Under 18,2
+2012-03-31,2012,1,Myanmar (Burma),Asia South East,Male,18-29,1
+2012-03-31,2012,1,Myanmar (Burma),Asia South East,Male,Under 18,1
 2012-03-31,2012,1,Other and unknown,Other,Female,18-29,2
 2012-03-31,2012,1,Other and unknown,Other,Female,30-49,2
 2012-03-31,2012,1,Other and unknown,Other,Female,Under 18,2
@@ -1254,11 +1254,6 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2012-06-30,2012,2,Bangladesh,Asia South,Female,30-49,1
 2012-06-30,2012,2,Bangladesh,Asia South,Male,Under 18,1
 2012-06-30,2012,2,Belarus,Europe Other,Male,30-49,1
-2012-06-30,2012,2,Burma,Asia South East,Female,18-29,1
-2012-06-30,2012,2,Burma,Asia South East,Female,30-49,4
-2012-06-30,2012,2,Burma,Asia South East,Female,Under 18,5
-2012-06-30,2012,2,Burma,Asia South East,Male,30-49,2
-2012-06-30,2012,2,Burma,Asia South East,Male,Under 18,6
 2012-06-30,2012,2,Cameroon,Africa Sub-Saharan,Female,30-49,1
 2012-06-30,2012,2,Cameroon,Africa Sub-Saharan,Female,Under 18,7
 2012-06-30,2012,2,Cameroon,Africa Sub-Saharan,Male,Under 18,3
@@ -1315,6 +1310,11 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2012-06-30,2012,2,Libya,Africa North,Female,30-49,1
 2012-06-30,2012,2,Libya,Africa North,Female,Under 18,2
 2012-06-30,2012,2,Libya,Africa North,Male,Under 18,1
+2012-06-30,2012,2,Myanmar (Burma),Asia South East,Female,18-29,1
+2012-06-30,2012,2,Myanmar (Burma),Asia South East,Female,30-49,4
+2012-06-30,2012,2,Myanmar (Burma),Asia South East,Female,Under 18,5
+2012-06-30,2012,2,Myanmar (Burma),Asia South East,Male,30-49,2
+2012-06-30,2012,2,Myanmar (Burma),Asia South East,Male,Under 18,6
 2012-06-30,2012,2,Nigeria,Africa Sub-Saharan,Female,Under 18,4
 2012-06-30,2012,2,Nigeria,Africa Sub-Saharan,Male,Under 18,1
 2012-06-30,2012,2,Other and unknown,Other,Female,18-29,7
@@ -1391,10 +1391,6 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2012-09-30,2012,3,Bahrain,Middle East,Male,Under 18,1
 2012-09-30,2012,3,Bolivia,America Central and South,Male,18-29,1
 2012-09-30,2012,3,Bolivia,America Central and South,Male,Under 18,1
-2012-09-30,2012,3,Burma,Asia South East,Female,18-29,1
-2012-09-30,2012,3,Burma,Asia South East,Female,30-49,1
-2012-09-30,2012,3,Burma,Asia South East,Female,Under 18,1
-2012-09-30,2012,3,Burma,Asia South East,Male,Under 18,1
 2012-09-30,2012,3,Cameroon,Africa Sub-Saharan,Female,18-29,1
 2012-09-30,2012,3,Cameroon,Africa Sub-Saharan,Female,Under 18,3
 2012-09-30,2012,3,Cameroon,Africa Sub-Saharan,Male,Under 18,3
@@ -1452,6 +1448,10 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2012-09-30,2012,3,Libya,Africa North,Female,18-29,1
 2012-09-30,2012,3,Libya,Africa North,Female,Under 18,1
 2012-09-30,2012,3,Mozambique,Africa Sub-Saharan,Female,18-29,1
+2012-09-30,2012,3,Myanmar (Burma),Asia South East,Female,18-29,1
+2012-09-30,2012,3,Myanmar (Burma),Asia South East,Female,30-49,1
+2012-09-30,2012,3,Myanmar (Burma),Asia South East,Female,Under 18,1
+2012-09-30,2012,3,Myanmar (Burma),Asia South East,Male,Under 18,1
 2012-09-30,2012,3,Nigeria,Africa Sub-Saharan,Male,30-49,1
 2012-09-30,2012,3,Other and unknown,Other,Female,18-29,3
 2012-09-30,2012,3,Other and unknown,Other,Female,30-49,6
@@ -1595,7 +1595,7 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2012-12-31,2012,4,Russia,Europe Other,Female,30-49,1
 2012-12-31,2012,4,Rwanda,Africa Sub-Saharan,Female,30-49,1
 2012-12-31,2012,4,Rwanda,Africa Sub-Saharan,Male,Under 18,1
-2012-12-31,2012,4,Serbia,Europe Other,Male,Under 18,1
+2012-12-31,2012,4,Serbia and Montenegro,Europe Other,Male,Under 18,1
 2012-12-31,2012,4,Somalia,Africa Sub-Saharan,Female,18-29,10
 2012-12-31,2012,4,Somalia,Africa Sub-Saharan,Female,30-49,6
 2012-12-31,2012,4,Somalia,Africa Sub-Saharan,Female,70+,1
@@ -1644,9 +1644,6 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2013-03-31,2013,1,Armenia,Europe Other,Female,30-49,1
 2013-03-31,2013,1,Bahrain,Middle East,Female,Under 18,1
 2013-03-31,2013,1,Benin,Africa Sub-Saharan,Male,18-29,1
-2013-03-31,2013,1,Burma,Asia South East,Female,18-29,1
-2013-03-31,2013,1,Burma,Asia South East,Female,30-49,2
-2013-03-31,2013,1,Burma,Asia South East,Female,Under 18,1
 2013-03-31,2013,1,Cameroon,Africa Sub-Saharan,Female,18-29,1
 2013-03-31,2013,1,Cameroon,Africa Sub-Saharan,Female,30-49,1
 2013-03-31,2013,1,Cameroon,Africa Sub-Saharan,Female,Under 18,3
@@ -1701,6 +1698,9 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2013-03-31,2013,1,Maldives,Asia South,Female,30-49,1
 2013-03-31,2013,1,Maldives,Asia South,Female,Under 18,4
 2013-03-31,2013,1,Mali,Africa Sub-Saharan,Male,Under 18,1
+2013-03-31,2013,1,Myanmar (Burma),Asia South East,Female,18-29,1
+2013-03-31,2013,1,Myanmar (Burma),Asia South East,Female,30-49,2
+2013-03-31,2013,1,Myanmar (Burma),Asia South East,Female,Under 18,1
 2013-03-31,2013,1,Nigeria,Africa Sub-Saharan,Female,Under 18,1
 2013-03-31,2013,1,Other and unknown,Other,Female,18-29,2
 2013-03-31,2013,1,Other and unknown,Other,Female,30-49,3
@@ -1911,9 +1911,6 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2013-09-30,2013,3,Bangladesh,Asia South,Female,18-29,1
 2013-09-30,2013,3,Bangladesh,Asia South,Male,Under 18,2
 2013-09-30,2013,3,Bolivia,America Central and South,Female,Under 18,1
-2013-09-30,2013,3,Burma,Asia South East,Female,30-49,1
-2013-09-30,2013,3,Burma,Asia South East,Female,Under 18,1
-2013-09-30,2013,3,Burma,Asia South East,Male,18-29,1
 2013-09-30,2013,3,Burundi,Africa Sub-Saharan,Female,30-49,1
 2013-09-30,2013,3,Burundi,Africa Sub-Saharan,Male,Under 18,3
 2013-09-30,2013,3,Cameroon,Africa Sub-Saharan,Female,18-29,2
@@ -1978,6 +1975,9 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2013-09-30,2013,3,Lebanon,Middle East,Female,30-49,1
 2013-09-30,2013,3,Lebanon,Middle East,Female,Under 18,3
 2013-09-30,2013,3,Mauritania,Africa North,Male,Under 18,1
+2013-09-30,2013,3,Myanmar (Burma),Asia South East,Female,30-49,1
+2013-09-30,2013,3,Myanmar (Burma),Asia South East,Female,Under 18,1
+2013-09-30,2013,3,Myanmar (Burma),Asia South East,Male,18-29,1
 2013-09-30,2013,3,Nigeria,Africa Sub-Saharan,Female,Under 18,1
 2013-09-30,2013,3,Nigeria,Africa Sub-Saharan,Male,Under 18,1
 2013-09-30,2013,3,Other and unknown,Other,Female,18-29,5
@@ -2359,7 +2359,6 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2014-06-30,2014,2,Bangladesh,Asia South,Female,30-49,1
 2014-06-30,2014,2,Bangladesh,Asia South,Female,Under 18,1
 2014-06-30,2014,2,Bangladesh,Asia South,Male,Under 18,1
-2014-06-30,2014,2,Burma,Asia South East,Female,30-49,3
 2014-06-30,2014,2,Cameroon,Africa Sub-Saharan,Female,Under 18,2
 2014-06-30,2014,2,Cameroon,Africa Sub-Saharan,Male,30-49,1
 2014-06-30,2014,2,Cameroon,Africa Sub-Saharan,Male,Under 18,1
@@ -2418,6 +2417,7 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2014-06-30,2014,2,Libya,Africa North,Female,Under 18,2
 2014-06-30,2014,2,Libya,Africa North,Male,50-69,1
 2014-06-30,2014,2,Libya,Africa North,Male,Under 18,2
+2014-06-30,2014,2,Myanmar (Burma),Asia South East,Female,30-49,3
 2014-06-30,2014,2,Nepal,Asia South,Female,30-49,1
 2014-06-30,2014,2,Nepal,Asia South,Female,Under 18,2
 2014-06-30,2014,2,Nepal,Asia South,Male,Under 18,1
@@ -2648,6 +2648,9 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2014-12-31,2014,4,Eritrea,Africa Sub-Saharan,Male,18-29,2
 2014-12-31,2014,4,Eritrea,Africa Sub-Saharan,Male,30-49,4
 2014-12-31,2014,4,Eritrea,Africa Sub-Saharan,Male,Under 18,14
+2014-12-31,2014,4,Eswatini,Africa Sub-Saharan,Female,30-49,1
+2014-12-31,2014,4,Eswatini,Africa Sub-Saharan,Female,Under 18,2
+2014-12-31,2014,4,Eswatini,Africa Sub-Saharan,Male,Under 18,1
 2014-12-31,2014,4,Ethiopia,Africa Sub-Saharan,Female,18-29,1
 2014-12-31,2014,4,Ethiopia,Africa Sub-Saharan,Female,30-49,2
 2014-12-31,2014,4,Ethiopia,Africa Sub-Saharan,Female,Under 18,2
@@ -2727,9 +2730,6 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2014-12-31,2014,4,Sudan,Africa North,Male,30-49,3
 2014-12-31,2014,4,Sudan,Africa North,Male,50-69,2
 2014-12-31,2014,4,Sudan,Africa North,Male,Under 18,31
-2014-12-31,2014,4,Swaziland,Africa Sub-Saharan,Female,30-49,1
-2014-12-31,2014,4,Swaziland,Africa Sub-Saharan,Female,Under 18,2
-2014-12-31,2014,4,Swaziland,Africa Sub-Saharan,Male,Under 18,1
 2014-12-31,2014,4,Syria,Middle East,Female,18-29,43
 2014-12-31,2014,4,Syria,Middle East,Female,30-49,39
 2014-12-31,2014,4,Syria,Middle East,Female,50-69,1
@@ -2769,9 +2769,6 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2015-03-31,2015,1,Afghanistan,Asia Central,Male,Under 18,18
 2015-03-31,2015,1,Bangladesh,Asia South,Female,30-49,1
 2015-03-31,2015,1,Bangladesh,Asia South,Female,Under 18,3
-2015-03-31,2015,1,Burma,Asia South East,Female,18-29,1
-2015-03-31,2015,1,Burma,Asia South East,Female,30-49,1
-2015-03-31,2015,1,Burma,Asia South East,Male,Under 18,1
 2015-03-31,2015,1,Cameroon,Africa Sub-Saharan,Female,18-29,1
 2015-03-31,2015,1,Cameroon,Africa Sub-Saharan,Female,30-49,1
 2015-03-31,2015,1,Cameroon,Africa Sub-Saharan,Female,Under 18,7
@@ -2831,6 +2828,9 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2015-03-31,2015,1,Kenya,Africa Sub-Saharan,Male,Under 18,1
 2015-03-31,2015,1,Mali,Africa Sub-Saharan,Female,Under 18,1
 2015-03-31,2015,1,Mali,Africa Sub-Saharan,Male,Under 18,1
+2015-03-31,2015,1,Myanmar (Burma),Asia South East,Female,18-29,1
+2015-03-31,2015,1,Myanmar (Burma),Asia South East,Female,30-49,1
+2015-03-31,2015,1,Myanmar (Burma),Asia South East,Male,Under 18,1
 2015-03-31,2015,1,Nigeria,Africa Sub-Saharan,Male,30-49,1
 2015-03-31,2015,1,Other and unknown,Other,Female,18-29,2
 2015-03-31,2015,1,Other and unknown,Other,Female,30-49,6
@@ -2914,8 +2914,7 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2015-06-30,2015,2,Bangladesh,Asia South,Female,Under 18,2
 2015-06-30,2015,2,Bangladesh,Asia South,Male,Under 18,1
 2015-06-30,2015,2,Brazil,America Central and South,Female,Under 18,1
-2015-06-30,2015,2,Burkina,Africa Sub-Saharan,Female,30-49,1
-2015-06-30,2015,2,Burma,Asia South East,Female,30-49,1
+2015-06-30,2015,2,Burkina Faso,Africa Sub-Saharan,Female,30-49,1
 2015-06-30,2015,2,Cameroon,Africa Sub-Saharan,Female,30-49,1
 2015-06-30,2015,2,Cameroon,Africa Sub-Saharan,Male,Under 18,2
 2015-06-30,2015,2,Canada,America North,Male,30-49,1
@@ -2964,6 +2963,7 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2015-06-30,2015,2,Lebanon,Middle East,Female,30-49,1
 2015-06-30,2015,2,Libya,Africa North,Female,30-49,1
 2015-06-30,2015,2,Libya,Africa North,Male,Under 18,4
+2015-06-30,2015,2,Myanmar (Burma),Asia South East,Female,30-49,1
 2015-06-30,2015,2,Nigeria,Africa Sub-Saharan,Male,30-49,1
 2015-06-30,2015,2,Nigeria,Africa Sub-Saharan,Male,Under 18,2
 2015-06-30,2015,2,Occupied Palestinian Territories,Middle East,Female,18-29,1
@@ -3125,6 +3125,9 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2015-09-30,2015,3,Somalia,Africa Sub-Saharan,Male,30-49,5
 2015-09-30,2015,3,Somalia,Africa Sub-Saharan,Male,70+,1
 2015-09-30,2015,3,Somalia,Africa Sub-Saharan,Male,Under 18,5
+2015-09-30,2015,3,South Sudan,Africa Sub-Saharan,Female,18-29,1
+2015-09-30,2015,3,South Sudan,Africa Sub-Saharan,Female,Under 18,1
+2015-09-30,2015,3,South Sudan,Africa Sub-Saharan,Male,Under 18,1
 2015-09-30,2015,3,Sri Lanka,Asia South,Female,18-29,5
 2015-09-30,2015,3,Sri Lanka,Asia South,Female,30-49,9
 2015-09-30,2015,3,Sri Lanka,Asia South,Female,Under 18,18
@@ -3135,9 +3138,6 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2015-09-30,2015,3,Sudan,Africa North,Male,30-49,5
 2015-09-30,2015,3,Sudan,Africa North,Male,50-69,2
 2015-09-30,2015,3,Sudan,Africa North,Male,Under 18,52
-2015-09-30,2015,3,Sudan (South),Africa Sub-Saharan,Female,18-29,1
-2015-09-30,2015,3,Sudan (South),Africa Sub-Saharan,Female,Under 18,1
-2015-09-30,2015,3,Sudan (South),Africa Sub-Saharan,Male,Under 18,1
 2015-09-30,2015,3,Syria,Middle East,Female,18-29,95
 2015-09-30,2015,3,Syria,Middle East,Female,30-49,94
 2015-09-30,2015,3,Syria,Middle East,Female,50-69,4
@@ -3458,7 +3458,6 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2016-06-30,2016,2,Bangladesh,Asia South,Female,18-29,1
 2016-06-30,2016,2,Bangladesh,Asia South,Female,Under 18,2
 2016-06-30,2016,2,Bangladesh,Asia South,Male,Under 18,1
-2016-06-30,2016,2,Burma,Asia South East,Female,30-49,1
 2016-06-30,2016,2,Burundi,Africa Sub-Saharan,Male,18-29,1
 2016-06-30,2016,2,Cameroon,Africa Sub-Saharan,Male,18-29,1
 2016-06-30,2016,2,Central African Republic,Africa Sub-Saharan,Female,18-29,1
@@ -3477,6 +3476,7 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2016-06-30,2016,2,Eritrea,Africa Sub-Saharan,Male,18-29,13
 2016-06-30,2016,2,Eritrea,Africa Sub-Saharan,Male,30-49,17
 2016-06-30,2016,2,Eritrea,Africa Sub-Saharan,Male,Under 18,37
+2016-06-30,2016,2,Eswatini,Africa Sub-Saharan,Male,Under 18,1
 2016-06-30,2016,2,Ethiopia,Africa Sub-Saharan,Female,18-29,9
 2016-06-30,2016,2,Ethiopia,Africa Sub-Saharan,Female,30-49,6
 2016-06-30,2016,2,Ethiopia,Africa Sub-Saharan,Female,50-69,1
@@ -3514,6 +3514,7 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2016-06-30,2016,2,Libya,Africa North,Female,30-49,1
 2016-06-30,2016,2,Libya,Africa North,Male,Under 18,3
 2016-06-30,2016,2,Malawi,Africa Sub-Saharan,Male,Under 18,1
+2016-06-30,2016,2,Myanmar (Burma),Asia South East,Female,30-49,1
 2016-06-30,2016,2,Occupied Palestinian Territories,Middle East,Female,Under 18,2
 2016-06-30,2016,2,Occupied Palestinian Territories,Middle East,Male,30-49,2
 2016-06-30,2016,2,Occupied Palestinian Territories,Middle East,Male,50-69,1
@@ -3548,7 +3549,6 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2016-06-30,2016,2,Sudan,Africa North,Male,30-49,6
 2016-06-30,2016,2,Sudan,Africa North,Male,50-69,1
 2016-06-30,2016,2,Sudan,Africa North,Male,Under 18,58
-2016-06-30,2016,2,Swaziland,Africa Sub-Saharan,Male,Under 18,1
 2016-06-30,2016,2,Syria,Middle East,Female,18-29,62
 2016-06-30,2016,2,Syria,Middle East,Female,30-49,71
 2016-06-30,2016,2,Syria,Middle East,Female,50-69,1
@@ -3592,8 +3592,6 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2016-09-30,2016,3,Bangladesh,Asia South,Female,18-29,2
 2016-09-30,2016,3,Bangladesh,Asia South,Female,30-49,1
 2016-09-30,2016,3,Bangladesh,Asia South,Male,Under 18,1
-2016-09-30,2016,3,Burma,Asia South East,Female,30-49,1
-2016-09-30,2016,3,Burma,Asia South East,Male,Under 18,1
 2016-09-30,2016,3,Cameroon,Africa Sub-Saharan,Female,18-29,1
 2016-09-30,2016,3,Cameroon,Africa Sub-Saharan,Male,Under 18,1
 2016-09-30,2016,3,China,Asia East,Female,Under 18,1
@@ -3637,6 +3635,8 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2016-09-30,2016,3,Lebanon,Middle East,Female,30-49,1
 2016-09-30,2016,3,Liberia,Africa Sub-Saharan,Male,Under 18,1
 2016-09-30,2016,3,Libya,Africa North,Female,18-29,1
+2016-09-30,2016,3,Myanmar (Burma),Asia South East,Female,30-49,1
+2016-09-30,2016,3,Myanmar (Burma),Asia South East,Male,Under 18,1
 2016-09-30,2016,3,Nigeria,Africa Sub-Saharan,Male,Under 18,1
 2016-09-30,2016,3,Other and unknown,Other,Female,18-29,5
 2016-09-30,2016,3,Other and unknown,Other,Female,30-49,3
@@ -3854,7 +3854,6 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2017-03-31,2017,1,Armenia,Europe Other,Male,18-29,1
 2017-03-31,2017,1,Armenia,Europe Other,Male,Under 18,2
 2017-03-31,2017,1,Bangladesh,Asia South,Male,Under 18,1
-2017-03-31,2017,1,Burma,Asia South East,Female,18-29,1
 2017-03-31,2017,1,Burundi,Africa Sub-Saharan,Female,30-49,1
 2017-03-31,2017,1,Burundi,Africa Sub-Saharan,Male,Under 18,1
 2017-03-31,2017,1,Cameroon,Africa Sub-Saharan,Male,30-49,1
@@ -3911,6 +3910,7 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2017-03-31,2017,1,Lebanon,Middle East,Male,50-69,1
 2017-03-31,2017,1,Libya,Africa North,Female,Under 18,1
 2017-03-31,2017,1,Libya,Africa North,Male,Under 18,3
+2017-03-31,2017,1,Myanmar (Burma),Asia South East,Female,18-29,1
 2017-03-31,2017,1,Nigeria,Africa Sub-Saharan,Female,30-49,1
 2017-03-31,2017,1,Nigeria,Africa Sub-Saharan,Female,Under 18,2
 2017-03-31,2017,1,Nigeria,Africa Sub-Saharan,Male,30-49,2
@@ -4225,6 +4225,8 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2017-09-30,2017,3,Somalia,Africa Sub-Saharan,Male,30-49,6
 2017-09-30,2017,3,Somalia,Africa Sub-Saharan,Male,50-69,2
 2017-09-30,2017,3,Somalia,Africa Sub-Saharan,Male,Under 18,26
+2017-09-30,2017,3,South Sudan,Africa Sub-Saharan,Female,Under 18,1
+2017-09-30,2017,3,South Sudan,Africa Sub-Saharan,Male,30-49,1
 2017-09-30,2017,3,Sri Lanka,Asia South,Female,18-29,1
 2017-09-30,2017,3,Sri Lanka,Asia South,Female,30-49,7
 2017-09-30,2017,3,Sri Lanka,Asia South,Female,Under 18,9
@@ -4244,8 +4246,6 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2017-09-30,2017,3,Sudan,Africa North,Male,30-49,3
 2017-09-30,2017,3,Sudan,Africa North,Male,50-69,4
 2017-09-30,2017,3,Sudan,Africa North,Male,Under 18,36
-2017-09-30,2017,3,Sudan (South),Africa Sub-Saharan,Female,Under 18,1
-2017-09-30,2017,3,Sudan (South),Africa Sub-Saharan,Male,30-49,1
 2017-09-30,2017,3,Syria,Middle East,Female,18-29,59
 2017-09-30,2017,3,Syria,Middle East,Female,30-49,13
 2017-09-30,2017,3,Syria,Middle East,Female,50-69,1
@@ -4381,6 +4381,10 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2017-12-31,2017,4,Somalia,Africa Sub-Saharan,Male,30-49,7
 2017-12-31,2017,4,Somalia,Africa Sub-Saharan,Male,50-69,1
 2017-12-31,2017,4,Somalia,Africa Sub-Saharan,Male,Under 18,19
+2017-12-31,2017,4,South Sudan,Africa Sub-Saharan,Female,18-29,1
+2017-12-31,2017,4,South Sudan,Africa Sub-Saharan,Female,30-49,1
+2017-12-31,2017,4,South Sudan,Africa Sub-Saharan,Female,Under 18,4
+2017-12-31,2017,4,South Sudan,Africa Sub-Saharan,Male,Under 18,1
 2017-12-31,2017,4,Sri Lanka,Asia South,Female,18-29,8
 2017-12-31,2017,4,Sri Lanka,Asia South,Female,30-49,23
 2017-12-31,2017,4,Sri Lanka,Asia South,Female,50-69,2
@@ -4399,10 +4403,6 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2017-12-31,2017,4,Sudan,Africa North,Male,30-49,5
 2017-12-31,2017,4,Sudan,Africa North,Male,50-69,2
 2017-12-31,2017,4,Sudan,Africa North,Male,Under 18,34
-2017-12-31,2017,4,Sudan (South),Africa Sub-Saharan,Female,18-29,1
-2017-12-31,2017,4,Sudan (South),Africa Sub-Saharan,Female,30-49,1
-2017-12-31,2017,4,Sudan (South),Africa Sub-Saharan,Female,Under 18,4
-2017-12-31,2017,4,Sudan (South),Africa Sub-Saharan,Male,Under 18,1
 2017-12-31,2017,4,Syria,Middle East,Female,18-29,50
 2017-12-31,2017,4,Syria,Middle East,Female,30-49,18
 2017-12-31,2017,4,Syria,Middle East,Female,50-69,4
@@ -4444,9 +4444,7 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2018-03-31,2018,1,Bangladesh,Asia South,Female,Under 18,1
 2018-03-31,2018,1,Bangladesh,Asia South,Male,Under 18,1
 2018-03-31,2018,1,Bolivia,America Central and South,Female,Under 18,1
-2018-03-31,2018,1,Burkina,Africa Sub-Saharan,Male,18-29,1
-2018-03-31,2018,1,Burma,Asia South East,Female,30-49,1
-2018-03-31,2018,1,Burma,Asia South East,Male,Under 18,2
+2018-03-31,2018,1,Burkina Faso,Africa Sub-Saharan,Male,18-29,1
 2018-03-31,2018,1,Burundi,Africa Sub-Saharan,Female,Under 18,3
 2018-03-31,2018,1,Burundi,Africa Sub-Saharan,Male,30-49,1
 2018-03-31,2018,1,Burundi,Africa Sub-Saharan,Male,Under 18,1
@@ -4521,6 +4519,8 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2018-03-31,2018,1,Mali,Africa Sub-Saharan,Male,18-29,2
 2018-03-31,2018,1,Mali,Africa Sub-Saharan,Male,Under 18,1
 2018-03-31,2018,1,Morocco,Africa North,Male,Under 18,1
+2018-03-31,2018,1,Myanmar (Burma),Asia South East,Female,30-49,1
+2018-03-31,2018,1,Myanmar (Burma),Asia South East,Male,Under 18,2
 2018-03-31,2018,1,Occupied Palestinian Territories,Middle East,Female,30-49,2
 2018-03-31,2018,1,Occupied Palestinian Territories,Middle East,Female,50-69,1
 2018-03-31,2018,1,Occupied Palestinian Territories,Middle East,Female,Under 18,3
@@ -4554,6 +4554,9 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2018-03-31,2018,1,Somalia,Africa Sub-Saharan,Male,50-69,2
 2018-03-31,2018,1,Somalia,Africa Sub-Saharan,Male,70+,1
 2018-03-31,2018,1,Somalia,Africa Sub-Saharan,Male,Under 18,24
+2018-03-31,2018,1,South Sudan,Africa Sub-Saharan,Female,18-29,1
+2018-03-31,2018,1,South Sudan,Africa Sub-Saharan,Female,Under 18,1
+2018-03-31,2018,1,South Sudan,Africa Sub-Saharan,Male,Under 18,1
 2018-03-31,2018,1,Sri Lanka,Asia South,Female,18-29,5
 2018-03-31,2018,1,Sri Lanka,Asia South,Female,30-49,10
 2018-03-31,2018,1,Sri Lanka,Asia South,Female,Under 18,10
@@ -4574,9 +4577,6 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2018-03-31,2018,1,Sudan,Africa North,Male,30-49,6
 2018-03-31,2018,1,Sudan,Africa North,Male,50-69,1
 2018-03-31,2018,1,Sudan,Africa North,Male,Under 18,54
-2018-03-31,2018,1,Sudan (South),Africa Sub-Saharan,Female,18-29,1
-2018-03-31,2018,1,Sudan (South),Africa Sub-Saharan,Female,Under 18,1
-2018-03-31,2018,1,Sudan (South),Africa Sub-Saharan,Male,Under 18,1
 2018-03-31,2018,1,Syria,Middle East,Female,18-29,56
 2018-03-31,2018,1,Syria,Middle East,Female,30-49,20
 2018-03-31,2018,1,Syria,Middle East,Female,50-69,3
@@ -4780,7 +4780,6 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2018-09-30,2018,3,Bangladesh,Asia South,Female,Under 18,1
 2018-09-30,2018,3,Bangladesh,Asia South,Male,Under 18,3
 2018-09-30,2018,3,Bolivia,America Central and South,Male,18-29,1
-2018-09-30,2018,3,Burma,Asia South East,Male,30-49,1
 2018-09-30,2018,3,Burundi,Africa Sub-Saharan,Female,50-69,1
 2018-09-30,2018,3,Burundi,Africa Sub-Saharan,Female,Under 18,1
 2018-09-30,2018,3,Burundi,Africa Sub-Saharan,Male,18-29,1
@@ -4848,6 +4847,7 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2018-09-30,2018,3,Maldives,Asia South,Male,30-49,1
 2018-09-30,2018,3,Morocco,Africa North,Female,30-49,1
 2018-09-30,2018,3,Morocco,Africa North,Male,Under 18,1
+2018-09-30,2018,3,Myanmar (Burma),Asia South East,Male,30-49,1
 2018-09-30,2018,3,Nepal,Asia South,Male,Under 18,1
 2018-09-30,2018,3,Occupied Palestinian Territories,Middle East,Female,18-29,1
 2018-09-30,2018,3,Occupied Palestinian Territories,Middle East,Female,30-49,2
@@ -4873,6 +4873,8 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2018-09-30,2018,3,Somalia,Africa Sub-Saharan,Male,18-29,2
 2018-09-30,2018,3,Somalia,Africa Sub-Saharan,Male,30-49,3
 2018-09-30,2018,3,Somalia,Africa Sub-Saharan,Male,Under 18,29
+2018-09-30,2018,3,South Sudan,Africa Sub-Saharan,Female,18-29,1
+2018-09-30,2018,3,South Sudan,Africa Sub-Saharan,Male,Under 18,2
 2018-09-30,2018,3,Sri Lanka,Asia South,Female,18-29,4
 2018-09-30,2018,3,Sri Lanka,Asia South,Female,30-49,6
 2018-09-30,2018,3,Sri Lanka,Asia South,Female,50-69,1
@@ -4891,8 +4893,6 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2018-09-30,2018,3,Sudan,Africa North,Male,30-49,7
 2018-09-30,2018,3,Sudan,Africa North,Male,50-69,5
 2018-09-30,2018,3,Sudan,Africa North,Male,Under 18,29
-2018-09-30,2018,3,Sudan (South),Africa Sub-Saharan,Female,18-29,1
-2018-09-30,2018,3,Sudan (South),Africa Sub-Saharan,Male,Under 18,2
 2018-09-30,2018,3,Syria,Middle East,Female,18-29,39
 2018-09-30,2018,3,Syria,Middle East,Female,30-49,10
 2018-09-30,2018,3,Syria,Middle East,Female,50-69,3
@@ -5028,6 +5028,7 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2018-12-31,2018,4,Somalia,Africa Sub-Saharan,Male,30-49,5
 2018-12-31,2018,4,Somalia,Africa Sub-Saharan,Male,50-69,1
 2018-12-31,2018,4,Somalia,Africa Sub-Saharan,Male,Under 18,12
+2018-12-31,2018,4,South Sudan,Africa Sub-Saharan,Male,30-49,2
 2018-12-31,2018,4,Sri Lanka,Asia South,Female,18-29,3
 2018-12-31,2018,4,Sri Lanka,Asia South,Female,30-49,18
 2018-12-31,2018,4,Sri Lanka,Asia South,Female,Under 18,20
@@ -5046,7 +5047,6 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2018-12-31,2018,4,Sudan,Africa North,Male,30-49,3
 2018-12-31,2018,4,Sudan,Africa North,Male,50-69,4
 2018-12-31,2018,4,Sudan,Africa North,Male,Under 18,40
-2018-12-31,2018,4,Sudan (South),Africa Sub-Saharan,Male,30-49,2
 2018-12-31,2018,4,Syria,Middle East,Female,18-29,51
 2018-12-31,2018,4,Syria,Middle East,Female,30-49,21
 2018-12-31,2018,4,Syria,Middle East,Female,50-69,6
@@ -5103,7 +5103,6 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2019-03-31,2019,1,Bangladesh,Asia South,Female,Under 18,4
 2019-03-31,2019,1,Bangladesh,Asia South,Male,Under 18,1
 2019-03-31,2019,1,Belarus,Europe Other,Male,Under 18,1
-2019-03-31,2019,1,Burma,Asia South East,Male,18-29,1
 2019-03-31,2019,1,Burundi,Africa Sub-Saharan,Male,Under 18,1
 2019-03-31,2019,1,Cameroon,Africa Sub-Saharan,Female,18-29,2
 2019-03-31,2019,1,Cameroon,Africa Sub-Saharan,Female,30-49,1
@@ -5178,6 +5177,7 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2019-03-31,2019,1,Libya,Africa North,Female,Under 18,4
 2019-03-31,2019,1,Libya,Africa North,Male,Under 18,6
 2019-03-31,2019,1,Malawi,Africa Sub-Saharan,Female,18-29,1
+2019-03-31,2019,1,Myanmar (Burma),Asia South East,Male,18-29,1
 2019-03-31,2019,1,Nigeria,Africa Sub-Saharan,Female,Under 18,3
 2019-03-31,2019,1,Nigeria,Africa Sub-Saharan,Male,18-29,1
 2019-03-31,2019,1,Nigeria,Africa Sub-Saharan,Male,30-49,1
@@ -5223,6 +5223,8 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2019-03-31,2019,1,Somalia,Africa Sub-Saharan,Male,50-69,2
 2019-03-31,2019,1,Somalia,Africa Sub-Saharan,Male,Under 18,11
 2019-03-31,2019,1,South Africa,Africa Sub-Saharan,Female,Under 18,1
+2019-03-31,2019,1,South Sudan,Africa Sub-Saharan,Female,18-29,1
+2019-03-31,2019,1,South Sudan,Africa Sub-Saharan,Female,Under 18,1
 2019-03-31,2019,1,Sri Lanka,Asia South,Female,18-29,6
 2019-03-31,2019,1,Sri Lanka,Asia South,Female,30-49,22
 2019-03-31,2019,1,Sri Lanka,Asia South,Female,Under 18,20
@@ -5242,8 +5244,6 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2019-03-31,2019,1,Sudan,Africa North,Male,30-49,8
 2019-03-31,2019,1,Sudan,Africa North,Male,50-69,4
 2019-03-31,2019,1,Sudan,Africa North,Male,Under 18,39
-2019-03-31,2019,1,Sudan (South),Africa Sub-Saharan,Female,18-29,1
-2019-03-31,2019,1,Sudan (South),Africa Sub-Saharan,Female,Under 18,1
 2019-03-31,2019,1,Syria,Middle East,Female,18-29,51
 2019-03-31,2019,1,Syria,Middle East,Female,30-49,21
 2019-03-31,2019,1,Syria,Middle East,Female,50-69,6
@@ -5327,6 +5327,8 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2019-06-30,2019,2,Eritrea,Africa Sub-Saharan,Male,30-49,36
 2019-06-30,2019,2,Eritrea,Africa Sub-Saharan,Male,50-69,2
 2019-06-30,2019,2,Eritrea,Africa Sub-Saharan,Male,Under 18,81
+2019-06-30,2019,2,Eswatini,Africa Sub-Saharan,Female,18-29,1
+2019-06-30,2019,2,Eswatini,Africa Sub-Saharan,Male,Under 18,1
 2019-06-30,2019,2,Ethiopia,Africa Sub-Saharan,Female,18-29,24
 2019-06-30,2019,2,Ethiopia,Africa Sub-Saharan,Female,30-49,6
 2019-06-30,2019,2,Ethiopia,Africa Sub-Saharan,Female,Under 18,7
@@ -5407,6 +5409,7 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2019-06-30,2019,2,South Africa,Africa Sub-Saharan,Female,30-49,1
 2019-06-30,2019,2,South Africa,Africa Sub-Saharan,Female,Under 18,1
 2019-06-30,2019,2,South Africa,Africa Sub-Saharan,Male,Under 18,1
+2019-06-30,2019,2,South Sudan,Africa Sub-Saharan,Male,30-49,1
 2019-06-30,2019,2,Sri Lanka,Asia South,Female,18-29,4
 2019-06-30,2019,2,Sri Lanka,Asia South,Female,30-49,25
 2019-06-30,2019,2,Sri Lanka,Asia South,Female,50-69,3
@@ -5429,9 +5432,6 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2019-06-30,2019,2,Sudan,Africa North,Male,30-49,3
 2019-06-30,2019,2,Sudan,Africa North,Male,50-69,1
 2019-06-30,2019,2,Sudan,Africa North,Male,Under 18,15
-2019-06-30,2019,2,Sudan (South),Africa Sub-Saharan,Male,30-49,1
-2019-06-30,2019,2,Swaziland,Africa Sub-Saharan,Female,18-29,1
-2019-06-30,2019,2,Swaziland,Africa Sub-Saharan,Male,Under 18,1
 2019-06-30,2019,2,Syria,Middle East,Female,18-29,40
 2019-06-30,2019,2,Syria,Middle East,Female,30-49,22
 2019-06-30,2019,2,Syria,Middle East,Female,50-69,5
@@ -5512,6 +5512,8 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2019-09-30,2019,3,Eritrea,Africa Sub-Saharan,Male,30-49,36
 2019-09-30,2019,3,Eritrea,Africa Sub-Saharan,Male,50-69,1
 2019-09-30,2019,3,Eritrea,Africa Sub-Saharan,Male,Under 18,91
+2019-09-30,2019,3,Eswatini,Africa Sub-Saharan,Male,30-49,1
+2019-09-30,2019,3,Eswatini,Africa Sub-Saharan,Male,Under 18,2
 2019-09-30,2019,3,Ethiopia,Africa Sub-Saharan,Female,18-29,14
 2019-09-30,2019,3,Ethiopia,Africa Sub-Saharan,Female,30-49,8
 2019-09-30,2019,3,Ethiopia,Africa Sub-Saharan,Female,Under 18,8
@@ -5592,6 +5594,9 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2019-09-30,2019,3,Somalia,Africa Sub-Saharan,Male,18-29,2
 2019-09-30,2019,3,Somalia,Africa Sub-Saharan,Male,30-49,1
 2019-09-30,2019,3,Somalia,Africa Sub-Saharan,Male,Under 18,7
+2019-09-30,2019,3,South Sudan,Africa Sub-Saharan,Female,30-49,1
+2019-09-30,2019,3,South Sudan,Africa Sub-Saharan,Female,Under 18,1
+2019-09-30,2019,3,South Sudan,Africa Sub-Saharan,Male,Under 18,2
 2019-09-30,2019,3,Sri Lanka,Asia South,Female,18-29,1
 2019-09-30,2019,3,Sri Lanka,Asia South,Female,30-49,10
 2019-09-30,2019,3,Sri Lanka,Asia South,Female,50-69,1
@@ -5599,7 +5604,7 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2019-09-30,2019,3,Sri Lanka,Asia South,Male,18-29,2
 2019-09-30,2019,3,Sri Lanka,Asia South,Male,30-49,3
 2019-09-30,2019,3,Sri Lanka,Asia South,Male,Under 18,14
-2019-09-30,2019,3,St. Lucia,America Central and South,Male,Under 18,1
+2019-09-30,2019,3,St Lucia,America Central and South,Male,Under 18,1
 2019-09-30,2019,3,Stateless,Other,Female,18-29,4
 2019-09-30,2019,3,Stateless,Other,Female,30-49,14
 2019-09-30,2019,3,Stateless,Other,Female,Under 18,24
@@ -5610,11 +5615,6 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2019-09-30,2019,3,Sudan,Africa North,Male,30-49,7
 2019-09-30,2019,3,Sudan,Africa North,Male,50-69,4
 2019-09-30,2019,3,Sudan,Africa North,Male,Under 18,67
-2019-09-30,2019,3,Sudan (South),Africa Sub-Saharan,Female,30-49,1
-2019-09-30,2019,3,Sudan (South),Africa Sub-Saharan,Female,Under 18,1
-2019-09-30,2019,3,Sudan (South),Africa Sub-Saharan,Male,Under 18,2
-2019-09-30,2019,3,Swaziland,Africa Sub-Saharan,Male,30-49,1
-2019-09-30,2019,3,Swaziland,Africa Sub-Saharan,Male,Under 18,2
 2019-09-30,2019,3,Syria,Middle East,Female,18-29,27
 2019-09-30,2019,3,Syria,Middle East,Female,30-49,19
 2019-09-30,2019,3,Syria,Middle East,Female,50-69,4
@@ -5666,8 +5666,6 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2019-12-31,2019,4,Bangladesh,Asia South,Female,50-69,1
 2019-12-31,2019,4,Bangladesh,Asia South,Female,Under 18,4
 2019-12-31,2019,4,Bangladesh,Asia South,Male,Under 18,1
-2019-12-31,2019,4,Burma,Asia South East,Female,30-49,1
-2019-12-31,2019,4,Burma,Asia South East,Female,Under 18,1
 2019-12-31,2019,4,Cameroon,Africa Sub-Saharan,Female,18-29,1
 2019-12-31,2019,4,Cameroon,Africa Sub-Saharan,Female,30-49,2
 2019-12-31,2019,4,Cameroon,Africa Sub-Saharan,Female,Under 18,7
@@ -5736,6 +5734,8 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2019-12-31,2019,4,Libya,Africa North,Male,Under 18,7
 2019-12-31,2019,4,Morocco,Africa North,Female,50-69,1
 2019-12-31,2019,4,Morocco,Africa North,Female,Under 18,1
+2019-12-31,2019,4,Myanmar (Burma),Asia South East,Female,30-49,1
+2019-12-31,2019,4,Myanmar (Burma),Asia South East,Female,Under 18,1
 2019-12-31,2019,4,Namibia,Africa Sub-Saharan,Female,Under 18,1
 2019-12-31,2019,4,Namibia,Africa Sub-Saharan,Male,Under 18,1
 2019-12-31,2019,4,Nigeria,Africa Sub-Saharan,Female,Under 18,1
@@ -5772,6 +5772,8 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2019-12-31,2019,4,Somalia,Africa Sub-Saharan,Male,30-49,9
 2019-12-31,2019,4,Somalia,Africa Sub-Saharan,Male,50-69,3
 2019-12-31,2019,4,Somalia,Africa Sub-Saharan,Male,Under 18,19
+2019-12-31,2019,4,South Sudan,Africa Sub-Saharan,Female,30-49,1
+2019-12-31,2019,4,South Sudan,Africa Sub-Saharan,Male,Under 18,2
 2019-12-31,2019,4,Sri Lanka,Asia South,Female,18-29,6
 2019-12-31,2019,4,Sri Lanka,Asia South,Female,30-49,15
 2019-12-31,2019,4,Sri Lanka,Asia South,Female,50-69,1
@@ -5790,8 +5792,6 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2019-12-31,2019,4,Sudan,Africa North,Male,50-69,11
 2019-12-31,2019,4,Sudan,Africa North,Male,70+,1
 2019-12-31,2019,4,Sudan,Africa North,Male,Under 18,100
-2019-12-31,2019,4,Sudan (South),Africa Sub-Saharan,Female,30-49,1
-2019-12-31,2019,4,Sudan (South),Africa Sub-Saharan,Male,Under 18,2
 2019-12-31,2019,4,Syria,Middle East,Female,18-29,26
 2019-12-31,2019,4,Syria,Middle East,Female,30-49,32
 2019-12-31,2019,4,Syria,Middle East,Female,Under 18,88
@@ -5856,7 +5856,6 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2020-03-31,2020,1,Barbados,America Central and South,Female,Under 18,1
 2020-03-31,2020,1,Barbados,America Central and South,Male,Under 18,1
 2020-03-31,2020,1,Belize,America Central and South,Male,50-69,1
-2020-03-31,2020,1,Burma,Asia South East,Male,50-69,1
 2020-03-31,2020,1,Cameroon,Africa Sub-Saharan,Female,30-49,1
 2020-03-31,2020,1,Cameroon,Africa Sub-Saharan,Female,Under 18,4
 2020-03-31,2020,1,Cameroon,Africa Sub-Saharan,Male,30-49,1
@@ -5884,6 +5883,7 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2020-03-31,2020,1,Eritrea,Africa Sub-Saharan,Male,30-49,31
 2020-03-31,2020,1,Eritrea,Africa Sub-Saharan,Male,50-69,2
 2020-03-31,2020,1,Eritrea,Africa Sub-Saharan,Male,Under 18,26
+2020-03-31,2020,1,Eswatini,Africa Sub-Saharan,Male,Under 18,1
 2020-03-31,2020,1,Ethiopia,Africa Sub-Saharan,Female,18-29,10
 2020-03-31,2020,1,Ethiopia,Africa Sub-Saharan,Female,30-49,10
 2020-03-31,2020,1,Ethiopia,Africa Sub-Saharan,Female,Under 18,14
@@ -5920,6 +5920,7 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2020-03-31,2020,1,Libya,Africa North,Female,Under 18,4
 2020-03-31,2020,1,Libya,Africa North,Male,Under 18,3
 2020-03-31,2020,1,Malawi,Africa Sub-Saharan,Male,Under 18,1
+2020-03-31,2020,1,Myanmar (Burma),Asia South East,Male,50-69,1
 2020-03-31,2020,1,Nigeria,Africa Sub-Saharan,Female,Under 18,3
 2020-03-31,2020,1,Nigeria,Africa Sub-Saharan,Male,18-29,1
 2020-03-31,2020,1,Nigeria,Africa Sub-Saharan,Male,30-49,1
@@ -5958,6 +5959,7 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2020-03-31,2020,1,Somalia,Africa Sub-Saharan,Male,30-49,6
 2020-03-31,2020,1,Somalia,Africa Sub-Saharan,Male,70+,1
 2020-03-31,2020,1,Somalia,Africa Sub-Saharan,Male,Under 18,18
+2020-03-31,2020,1,South Sudan,Africa Sub-Saharan,Male,30-49,1
 2020-03-31,2020,1,Sri Lanka,Asia South,Female,18-29,2
 2020-03-31,2020,1,Sri Lanka,Asia South,Female,30-49,18
 2020-03-31,2020,1,Sri Lanka,Asia South,Female,Under 18,13
@@ -5974,8 +5976,6 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2020-03-31,2020,1,Sudan,Africa North,Male,30-49,10
 2020-03-31,2020,1,Sudan,Africa North,Male,50-69,4
 2020-03-31,2020,1,Sudan,Africa North,Male,Under 18,62
-2020-03-31,2020,1,Sudan (South),Africa Sub-Saharan,Male,30-49,1
-2020-03-31,2020,1,Swaziland,Africa Sub-Saharan,Male,Under 18,1
 2020-03-31,2020,1,Syria,Middle East,Female,18-29,35
 2020-03-31,2020,1,Syria,Middle East,Female,30-49,21
 2020-03-31,2020,1,Syria,Middle East,Female,50-69,2
@@ -6069,7 +6069,6 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2020-09-30,2020,3,Bangladesh,Asia South,Female,18-29,2
 2020-09-30,2020,3,Bangladesh,Asia South,Female,30-49,1
 2020-09-30,2020,3,Bangladesh,Asia South,Female,Under 18,6
-2020-09-30,2020,3,Burma,Asia South East,Male,30-49,1
 2020-09-30,2020,3,Burundi,Africa Sub-Saharan,Female,Under 18,1
 2020-09-30,2020,3,Burundi,Africa Sub-Saharan,Male,Under 18,1
 2020-09-30,2020,3,Cameroon,Africa Sub-Saharan,Female,18-29,2
@@ -6101,6 +6100,8 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2020-09-30,2020,3,Eritrea,Africa Sub-Saharan,Male,30-49,15
 2020-09-30,2020,3,Eritrea,Africa Sub-Saharan,Male,50-69,2
 2020-09-30,2020,3,Eritrea,Africa Sub-Saharan,Male,Under 18,57
+2020-09-30,2020,3,Eswatini,Africa Sub-Saharan,Female,Under 18,1
+2020-09-30,2020,3,Eswatini,Africa Sub-Saharan,Male,Under 18,1
 2020-09-30,2020,3,Ethiopia,Africa Sub-Saharan,Female,18-29,2
 2020-09-30,2020,3,Ethiopia,Africa Sub-Saharan,Female,30-49,5
 2020-09-30,2020,3,Ethiopia,Africa Sub-Saharan,Female,Under 18,5
@@ -6150,6 +6151,7 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2020-09-30,2020,3,Libya,Africa North,Male,50-69,1
 2020-09-30,2020,3,Libya,Africa North,Male,Under 18,5
 2020-09-30,2020,3,Malaysia,Asia South East,Male,Under 18,1
+2020-09-30,2020,3,Myanmar (Burma),Asia South East,Male,30-49,1
 2020-09-30,2020,3,Namibia,Africa Sub-Saharan,Female,Under 18,1
 2020-09-30,2020,3,Namibia,Africa Sub-Saharan,Male,Under 18,2
 2020-09-30,2020,3,Nigeria,Africa Sub-Saharan,Female,Under 18,1
@@ -6187,6 +6189,10 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2020-09-30,2020,3,Somalia,Africa Sub-Saharan,Male,18-29,4
 2020-09-30,2020,3,Somalia,Africa Sub-Saharan,Male,30-49,6
 2020-09-30,2020,3,Somalia,Africa Sub-Saharan,Male,Under 18,27
+2020-09-30,2020,3,South Sudan,Africa Sub-Saharan,Female,18-29,1
+2020-09-30,2020,3,South Sudan,Africa Sub-Saharan,Female,Under 18,3
+2020-09-30,2020,3,South Sudan,Africa Sub-Saharan,Male,30-49,1
+2020-09-30,2020,3,South Sudan,Africa Sub-Saharan,Male,Under 18,1
 2020-09-30,2020,3,Sri Lanka,Asia South,Female,18-29,3
 2020-09-30,2020,3,Sri Lanka,Asia South,Female,30-49,20
 2020-09-30,2020,3,Sri Lanka,Asia South,Female,50-69,1
@@ -6208,12 +6214,6 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2020-09-30,2020,3,Sudan,Africa North,Male,50-69,3
 2020-09-30,2020,3,Sudan,Africa North,Male,70+,1
 2020-09-30,2020,3,Sudan,Africa North,Male,Under 18,85
-2020-09-30,2020,3,Sudan (South),Africa Sub-Saharan,Female,18-29,1
-2020-09-30,2020,3,Sudan (South),Africa Sub-Saharan,Female,Under 18,3
-2020-09-30,2020,3,Sudan (South),Africa Sub-Saharan,Male,30-49,1
-2020-09-30,2020,3,Sudan (South),Africa Sub-Saharan,Male,Under 18,1
-2020-09-30,2020,3,Swaziland,Africa Sub-Saharan,Female,Under 18,1
-2020-09-30,2020,3,Swaziland,Africa Sub-Saharan,Male,Under 18,1
 2020-09-30,2020,3,Syria,Middle East,Female,18-29,30
 2020-09-30,2020,3,Syria,Middle East,Female,30-49,18
 2020-09-30,2020,3,Syria,Middle East,Female,50-69,2
@@ -6370,6 +6370,7 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2020-12-31,2020,4,Somalia,Africa Sub-Saharan,Male,50-69,2
 2020-12-31,2020,4,Somalia,Africa Sub-Saharan,Male,70+,1
 2020-12-31,2020,4,Somalia,Africa Sub-Saharan,Male,Under 18,17
+2020-12-31,2020,4,South Sudan,Africa Sub-Saharan,Male,30-49,1
 2020-12-31,2020,4,Sri Lanka,Asia South,Female,18-29,2
 2020-12-31,2020,4,Sri Lanka,Asia South,Female,30-49,12
 2020-12-31,2020,4,Sri Lanka,Asia South,Female,Under 18,8
@@ -6390,7 +6391,6 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2020-12-31,2020,4,Sudan,Africa North,Male,50-69,10
 2020-12-31,2020,4,Sudan,Africa North,Male,70+,1
 2020-12-31,2020,4,Sudan,Africa North,Male,Under 18,32
-2020-12-31,2020,4,Sudan (South),Africa Sub-Saharan,Male,30-49,1
 2020-12-31,2020,4,Syria,Middle East,Female,18-29,64
 2020-12-31,2020,4,Syria,Middle East,Female,30-49,21
 2020-12-31,2020,4,Syria,Middle East,Female,50-69,3
@@ -6426,86 +6426,80 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2020-12-31,2020,4,Zimbabwe,Africa Sub-Saharan,Female,50-69,1
 2020-12-31,2020,4,Zimbabwe,Africa Sub-Saharan,Female,Under 18,2
 2020-12-31,2020,4,Zimbabwe,Africa Sub-Saharan,Male,Under 18,3
-2021-03-31,2021,1,Afghanistan,Asia Central,Female,18-29,11
-2021-03-31,2021,1,Afghanistan,Asia Central,Female,30-49,9
+2021-03-31,2021,1,Afghanistan,Asia Central,Female,18-29,10
+2021-03-31,2021,1,Afghanistan,Asia Central,Female,30-49,8
 2021-03-31,2021,1,Afghanistan,Asia Central,Female,50-69,2
-2021-03-31,2021,1,Afghanistan,Asia Central,Female,Under 18,19
-2021-03-31,2021,1,Afghanistan,Asia Central,Male,18-29,3
+2021-03-31,2021,1,Afghanistan,Asia Central,Female,Under 18,21
+2021-03-31,2021,1,Afghanistan,Asia Central,Male,18-29,1
 2021-03-31,2021,1,Afghanistan,Asia Central,Male,30-49,1
-2021-03-31,2021,1,Afghanistan,Asia Central,Male,Under 18,20
+2021-03-31,2021,1,Afghanistan,Asia Central,Male,Under 18,22
 2021-03-31,2021,1,Albania,Europe Other,Female,Under 18,1
 2021-03-31,2021,1,Algeria,Africa North,Female,30-49,1
 2021-03-31,2021,1,Algeria,Africa North,Female,Under 18,1
 2021-03-31,2021,1,Algeria,Africa North,Male,Under 18,2
-2021-03-31,2021,1,Angola,Africa Sub-Saharan,Male,30-49,1
 2021-03-31,2021,1,Bangladesh,Asia South,Female,18-29,1
 2021-03-31,2021,1,Bangladesh,Asia South,Female,30-49,3
 2021-03-31,2021,1,Bangladesh,Asia South,Female,Under 18,4
-2021-03-31,2021,1,Bangladesh,Asia South,Male,50-69,1
 2021-03-31,2021,1,Bangladesh,Asia South,Male,Under 18,5
-2021-03-31,2021,1,Burkina,Africa Sub-Saharan,Male,Under 18,1
+2021-03-31,2021,1,Burkina Faso,Africa Sub-Saharan,Male,Under 18,1
 2021-03-31,2021,1,Cameroon,Africa Sub-Saharan,Female,18-29,1
 2021-03-31,2021,1,Cameroon,Africa Sub-Saharan,Female,30-49,1
 2021-03-31,2021,1,Cameroon,Africa Sub-Saharan,Female,Under 18,6
 2021-03-31,2021,1,Cameroon,Africa Sub-Saharan,Male,18-29,1
 2021-03-31,2021,1,Cameroon,Africa Sub-Saharan,Male,50-69,2
-2021-03-31,2021,1,Cameroon,Africa Sub-Saharan,Male,Under 18,11
+2021-03-31,2021,1,Cameroon,Africa Sub-Saharan,Male,Under 18,8
 2021-03-31,2021,1,Chad,Africa Sub-Saharan,Male,30-49,2
 2021-03-31,2021,1,China,Asia East,Female,Under 18,3
 2021-03-31,2021,1,China,Asia East,Male,18-29,1
 2021-03-31,2021,1,China,Asia East,Male,30-49,1
 2021-03-31,2021,1,China,Asia East,Male,Under 18,4
-2021-03-31,2021,1,Congo,Africa Sub-Saharan,Female,30-49,1
-2021-03-31,2021,1,Congo,Africa Sub-Saharan,Female,Under 18,4
-2021-03-31,2021,1,Congo,Africa Sub-Saharan,Male,Under 18,2
-2021-03-31,2021,1,Congo (Democratic Republic),Africa Sub-Saharan,Female,18-29,5
-2021-03-31,2021,1,Congo (Democratic Republic),Africa Sub-Saharan,Female,30-49,3
-2021-03-31,2021,1,Congo (Democratic Republic),Africa Sub-Saharan,Female,Under 18,10
-2021-03-31,2021,1,Congo (Democratic Republic),Africa Sub-Saharan,Male,18-29,1
-2021-03-31,2021,1,Congo (Democratic Republic),Africa Sub-Saharan,Male,30-49,3
-2021-03-31,2021,1,Congo (Democratic Republic),Africa Sub-Saharan,Male,Under 18,4
+2021-03-31,2021,1,Congo,Africa Sub-Saharan,Female,18-29,3
+2021-03-31,2021,1,Congo,Africa Sub-Saharan,Female,30-49,3
+2021-03-31,2021,1,Congo,Africa Sub-Saharan,Female,Under 18,14
+2021-03-31,2021,1,Congo,Africa Sub-Saharan,Male,30-49,3
+2021-03-31,2021,1,Congo,Africa Sub-Saharan,Male,Under 18,4
+2021-03-31,2021,1,Congo (Democratic Republic),Africa Sub-Saharan,Female,18-29,2
 2021-03-31,2021,1,Egypt,Africa North,Female,30-49,4
 2021-03-31,2021,1,Egypt,Africa North,Female,Under 18,4
 2021-03-31,2021,1,Egypt,Africa North,Male,30-49,1
 2021-03-31,2021,1,Egypt,Africa North,Male,Under 18,4
-2021-03-31,2021,1,Eritrea,Africa Sub-Saharan,Female,18-29,121
-2021-03-31,2021,1,Eritrea,Africa Sub-Saharan,Female,30-49,35
+2021-03-31,2021,1,Eritrea,Africa Sub-Saharan,Female,18-29,123
+2021-03-31,2021,1,Eritrea,Africa Sub-Saharan,Female,30-49,28
 2021-03-31,2021,1,Eritrea,Africa Sub-Saharan,Female,50-69,1
-2021-03-31,2021,1,Eritrea,Africa Sub-Saharan,Female,Under 18,53
+2021-03-31,2021,1,Eritrea,Africa Sub-Saharan,Female,Under 18,45
 2021-03-31,2021,1,Eritrea,Africa Sub-Saharan,Male,18-29,3
 2021-03-31,2021,1,Eritrea,Africa Sub-Saharan,Male,30-49,24
 2021-03-31,2021,1,Eritrea,Africa Sub-Saharan,Male,50-69,1
-2021-03-31,2021,1,Eritrea,Africa Sub-Saharan,Male,Under 18,64
-2021-03-31,2021,1,Ethiopia,Africa Sub-Saharan,Female,18-29,16
-2021-03-31,2021,1,Ethiopia,Africa Sub-Saharan,Female,30-49,9
+2021-03-31,2021,1,Eritrea,Africa Sub-Saharan,Male,Under 18,57
+2021-03-31,2021,1,Eswatini,Africa Sub-Saharan,Male,Under 18,1
+2021-03-31,2021,1,Ethiopia,Africa Sub-Saharan,Female,18-29,12
+2021-03-31,2021,1,Ethiopia,Africa Sub-Saharan,Female,30-49,8
 2021-03-31,2021,1,Ethiopia,Africa Sub-Saharan,Female,Under 18,11
 2021-03-31,2021,1,Ethiopia,Africa Sub-Saharan,Male,18-29,1
-2021-03-31,2021,1,Ethiopia,Africa Sub-Saharan,Male,30-49,9
-2021-03-31,2021,1,Ethiopia,Africa Sub-Saharan,Male,Under 18,19
+2021-03-31,2021,1,Ethiopia,Africa Sub-Saharan,Male,30-49,8
+2021-03-31,2021,1,Ethiopia,Africa Sub-Saharan,Male,Under 18,14
 2021-03-31,2021,1,"Gambia, The",Africa Sub-Saharan,Female,30-49,1
 2021-03-31,2021,1,Georgia,Europe Other,Female,Under 18,2
-2021-03-31,2021,1,Guinea,Africa Sub-Saharan,Female,Under 18,1
 2021-03-31,2021,1,India,Asia South,Female,Under 18,1
 2021-03-31,2021,1,India,Asia South,Male,18-29,1
 2021-03-31,2021,1,India,Asia South,Male,Under 18,1
-2021-03-31,2021,1,Iran,Middle East,Female,18-29,13
-2021-03-31,2021,1,Iran,Middle East,Female,30-49,62
-2021-03-31,2021,1,Iran,Middle East,Female,50-69,5
-2021-03-31,2021,1,Iran,Middle East,Female,Under 18,46
-2021-03-31,2021,1,Iran,Middle East,Male,18-29,5
-2021-03-31,2021,1,Iran,Middle East,Male,30-49,16
-2021-03-31,2021,1,Iran,Middle East,Male,50-69,10
+2021-03-31,2021,1,Iran,Middle East,Female,18-29,12
+2021-03-31,2021,1,Iran,Middle East,Female,30-49,61
+2021-03-31,2021,1,Iran,Middle East,Female,50-69,4
+2021-03-31,2021,1,Iran,Middle East,Female,Under 18,44
+2021-03-31,2021,1,Iran,Middle East,Male,18-29,4
+2021-03-31,2021,1,Iran,Middle East,Male,30-49,17
+2021-03-31,2021,1,Iran,Middle East,Male,50-69,9
 2021-03-31,2021,1,Iran,Middle East,Male,70+,1
-2021-03-31,2021,1,Iran,Middle East,Male,Under 18,44
-2021-03-31,2021,1,Iraq,Middle East,Female,18-29,6
-2021-03-31,2021,1,Iraq,Middle East,Female,30-49,13
-2021-03-31,2021,1,Iraq,Middle East,Female,Under 18,21
-2021-03-31,2021,1,Iraq,Middle East,Male,18-29,1
+2021-03-31,2021,1,Iran,Middle East,Male,Under 18,45
+2021-03-31,2021,1,Iraq,Middle East,Female,18-29,5
+2021-03-31,2021,1,Iraq,Middle East,Female,30-49,12
+2021-03-31,2021,1,Iraq,Middle East,Female,50-69,1
+2021-03-31,2021,1,Iraq,Middle East,Female,Under 18,22
 2021-03-31,2021,1,Iraq,Middle East,Male,30-49,2
 2021-03-31,2021,1,Iraq,Middle East,Male,50-69,1
-2021-03-31,2021,1,Iraq,Middle East,Male,Under 18,18
+2021-03-31,2021,1,Iraq,Middle East,Male,Under 18,19
 2021-03-31,2021,1,Ivory Coast,Africa Sub-Saharan,Female,Under 18,1
-2021-03-31,2021,1,Ivory Coast,Africa Sub-Saharan,Male,Under 18,1
 2021-03-31,2021,1,Jordan,Middle East,Female,30-49,1
 2021-03-31,2021,1,Kenya,Africa Sub-Saharan,Female,Under 18,1
 2021-03-31,2021,1,Kenya,Africa Sub-Saharan,Male,Under 18,4
@@ -6513,29 +6507,35 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2021-03-31,2021,1,Kyrgyzstan,Asia Central,Female,30-49,1
 2021-03-31,2021,1,Kyrgyzstan,Asia Central,Female,Under 18,1
 2021-03-31,2021,1,Lebanon,Middle East,Male,50-69,1
-2021-03-31,2021,1,Libya,Africa North,Female,18-29,1
-2021-03-31,2021,1,Libya,Africa North,Female,30-49,3
+2021-03-31,2021,1,Libya,Africa North,Female,18-29,2
+2021-03-31,2021,1,Libya,Africa North,Female,30-49,2
 2021-03-31,2021,1,Libya,Africa North,Female,Under 18,3
 2021-03-31,2021,1,Libya,Africa North,Male,Under 18,4
 2021-03-31,2021,1,Morocco,Africa North,Female,30-49,1
 2021-03-31,2021,1,Morocco,Africa North,Female,Under 18,1
-2021-03-31,2021,1,Namibia,Africa Sub-Saharan,Female,Under 18,3
+2021-03-31,2021,1,Namibia,Africa Sub-Saharan,Female,Under 18,1
 2021-03-31,2021,1,Namibia,Africa Sub-Saharan,Male,Under 18,1
 2021-03-31,2021,1,Nigeria,Africa Sub-Saharan,Female,30-49,1
 2021-03-31,2021,1,Nigeria,Africa Sub-Saharan,Female,Under 18,5
 2021-03-31,2021,1,Nigeria,Africa Sub-Saharan,Male,Under 18,6
 2021-03-31,2021,1,Occupied Palestinian Territories,Middle East,Female,18-29,1
-2021-03-31,2021,1,Occupied Palestinian Territories,Middle East,Female,30-49,3
-2021-03-31,2021,1,Occupied Palestinian Territories,Middle East,Female,Under 18,6
+2021-03-31,2021,1,Occupied Palestinian Territories,Middle East,Female,Under 18,2
 2021-03-31,2021,1,Occupied Palestinian Territories,Middle East,Male,30-49,1
-2021-03-31,2021,1,Occupied Palestinian Territories,Middle East,Male,50-69,1
-2021-03-31,2021,1,Occupied Palestinian Territories,Middle East,Male,Under 18,9
-2021-03-31,2021,1,Other and unknown,Other,Female,30-49,2
-2021-03-31,2021,1,Other and unknown,Other,Female,Under 18,4
+2021-03-31,2021,1,Occupied Palestinian Territories,Middle East,Male,Under 18,2
+2021-03-31,2021,1,Other and unknown,Other,Female,18-29,3
+2021-03-31,2021,1,Other and unknown,Other,Female,30-49,4
+2021-03-31,2021,1,Other and unknown,Other,Female,50-69,4
+2021-03-31,2021,1,Other and unknown,Other,Female,Under 18,12
 2021-03-31,2021,1,Other and unknown,Other,Male,18-29,1
-2021-03-31,2021,1,Other and unknown,Other,Male,30-49,3
+2021-03-31,2021,1,Other and unknown,Other,Male,30-49,1
+2021-03-31,2021,1,Other and unknown,Other,Male,50-69,1
+2021-03-31,2021,1,Other and unknown,Other,Male,Under 18,15
+2021-03-31,2021,1,Other and unknown,Other,Female,30-49,2
+2021-03-31,2021,1,Other and unknown,Other,Female,Under 18,3
+2021-03-31,2021,1,Other and unknown,Other,Male,18-29,1
+2021-03-31,2021,1,Other and unknown,Other,Male,30-49,1
 2021-03-31,2021,1,Other and unknown,Other,Male,Under 18,3
-2021-03-31,2021,1,Pakistan,Asia South,Female,18-29,2
+2021-03-31,2021,1,Pakistan,Asia South,Female,18-29,1
 2021-03-31,2021,1,Pakistan,Asia South,Female,30-49,2
 2021-03-31,2021,1,Pakistan,Asia South,Female,Under 18,8
 2021-03-31,2021,1,Pakistan,Asia South,Male,30-49,1
@@ -6543,67 +6543,58 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2021-03-31,2021,1,Pakistan,Asia South,Male,Under 18,8
 2021-03-31,2021,1,Philippines,Asia South East,Female,18-29,1
 2021-03-31,2021,1,Philippines,Asia South East,Female,30-49,1
-2021-03-31,2021,1,Refugee,Other,Female,30-49,3
-2021-03-31,2021,1,Refugee,Other,Female,50-69,1
-2021-03-31,2021,1,Refugee,Other,Female,Under 18,6
-2021-03-31,2021,1,Refugee,Other,Male,30-49,1
-2021-03-31,2021,1,Refugee,Other,Male,50-69,1
-2021-03-31,2021,1,Refugee,Other,Male,Under 18,8
 2021-03-31,2021,1,Rwanda,Africa Sub-Saharan,Male,50-69,1
 2021-03-31,2021,1,Rwanda,Africa Sub-Saharan,Male,Under 18,1
 2021-03-31,2021,1,Saudi Arabia,Middle East,Female,30-49,1
-2021-03-31,2021,1,Senegal,Africa Sub-Saharan,Female,Under 18,4
+2021-03-31,2021,1,Senegal,Africa Sub-Saharan,Female,Under 18,5
 2021-03-31,2021,1,Senegal,Africa Sub-Saharan,Male,Under 18,2
 2021-03-31,2021,1,Sierra Leone,Africa Sub-Saharan,Female,Under 18,3
 2021-03-31,2021,1,Sierra Leone,Africa Sub-Saharan,Male,Under 18,1
 2021-03-31,2021,1,Somalia,Africa Sub-Saharan,Female,18-29,5
 2021-03-31,2021,1,Somalia,Africa Sub-Saharan,Female,30-49,5
-2021-03-31,2021,1,Somalia,Africa Sub-Saharan,Female,50-69,2
+2021-03-31,2021,1,Somalia,Africa Sub-Saharan,Female,50-69,1
 2021-03-31,2021,1,Somalia,Africa Sub-Saharan,Female,Under 18,12
 2021-03-31,2021,1,Somalia,Africa Sub-Saharan,Male,18-29,3
-2021-03-31,2021,1,Somalia,Africa Sub-Saharan,Male,30-49,4
+2021-03-31,2021,1,Somalia,Africa Sub-Saharan,Male,30-49,5
 2021-03-31,2021,1,Somalia,Africa Sub-Saharan,Male,Under 18,23
+2021-03-31,2021,1,South Sudan,Africa Sub-Saharan,Male,18-29,1
 2021-03-31,2021,1,Sri Lanka,Asia South,Female,18-29,2
-2021-03-31,2021,1,Sri Lanka,Asia South,Female,30-49,13
+2021-03-31,2021,1,Sri Lanka,Asia South,Female,30-49,11
 2021-03-31,2021,1,Sri Lanka,Asia South,Female,Under 18,9
-2021-03-31,2021,1,Sri Lanka,Asia South,Male,18-29,1
 2021-03-31,2021,1,Sri Lanka,Asia South,Male,50-69,1
-2021-03-31,2021,1,Sri Lanka,Asia South,Male,Under 18,11
-2021-03-31,2021,1,Stateless,Other,Female,30-49,4
-2021-03-31,2021,1,Stateless,Other,Female,50-69,2
-2021-03-31,2021,1,Stateless,Other,Female,Under 18,13
-2021-03-31,2021,1,Stateless,Other,Male,18-29,1
-2021-03-31,2021,1,Stateless,Other,Male,Under 18,12
-2021-03-31,2021,1,Sudan,Africa North,Female,18-29,27
+2021-03-31,2021,1,Sri Lanka,Asia South,Male,Under 18,9
+2021-03-31,2021,1,Stateless,Other,Female,30-49,2
+2021-03-31,2021,1,Stateless,Other,Female,50-69,1
+2021-03-31,2021,1,Stateless,Other,Female,Under 18,7
+2021-03-31,2021,1,Stateless,Other,Male,50-69,1
+2021-03-31,2021,1,Stateless,Other,Male,Under 18,7
+2021-03-31,2021,1,Sudan,Africa North,Female,18-29,25
 2021-03-31,2021,1,Sudan,Africa North,Female,30-49,13
-2021-03-31,2021,1,Sudan,Africa North,Female,Under 18,31
-2021-03-31,2021,1,Sudan,Africa North,Male,30-49,10
+2021-03-31,2021,1,Sudan,Africa North,Female,Under 18,28
+2021-03-31,2021,1,Sudan,Africa North,Male,30-49,9
 2021-03-31,2021,1,Sudan,Africa North,Male,50-69,6
-2021-03-31,2021,1,Sudan,Africa North,Male,Under 18,38
-2021-03-31,2021,1,Sudan (South),Africa Sub-Saharan,Male,18-29,1
-2021-03-31,2021,1,Swaziland,Africa Sub-Saharan,Male,Under 18,1
-2021-03-31,2021,1,Syria,Middle East,Female,18-29,36
-2021-03-31,2021,1,Syria,Middle East,Female,30-49,25
-2021-03-31,2021,1,Syria,Middle East,Female,50-69,2
-2021-03-31,2021,1,Syria,Middle East,Female,Under 18,46
-2021-03-31,2021,1,Syria,Middle East,Male,18-29,4
+2021-03-31,2021,1,Sudan,Africa North,Male,Under 18,41
+2021-03-31,2021,1,Syria,Middle East,Female,18-29,34
+2021-03-31,2021,1,Syria,Middle East,Female,30-49,22
+2021-03-31,2021,1,Syria,Middle East,Female,50-69,1
+2021-03-31,2021,1,Syria,Middle East,Female,Under 18,42
+2021-03-31,2021,1,Syria,Middle East,Male,18-29,1
 2021-03-31,2021,1,Syria,Middle East,Male,30-49,5
 2021-03-31,2021,1,Syria,Middle East,Male,50-69,4
 2021-03-31,2021,1,Syria,Middle East,Male,70+,2
 2021-03-31,2021,1,Syria,Middle East,Male,Under 18,47
-2021-03-31,2021,1,Turkey,Europe Other,Female,18-29,3
+2021-03-31,2021,1,Turkey,Europe Other,Female,18-29,4
 2021-03-31,2021,1,Turkey,Europe Other,Female,30-49,11
-2021-03-31,2021,1,Turkey,Europe Other,Female,50-69,3
+2021-03-31,2021,1,Turkey,Europe Other,Female,50-69,2
 2021-03-31,2021,1,Turkey,Europe Other,Female,Under 18,16
 2021-03-31,2021,1,Turkey,Europe Other,Male,30-49,1
 2021-03-31,2021,1,Turkey,Europe Other,Male,50-69,1
 2021-03-31,2021,1,Turkey,Europe Other,Male,Under 18,19
-2021-03-31,2021,1,Uganda,Africa Sub-Saharan,Female,18-29,2
+2021-03-31,2021,1,Uganda,Africa Sub-Saharan,Female,18-29,5
 2021-03-31,2021,1,Uganda,Africa Sub-Saharan,Female,30-49,1
-2021-03-31,2021,1,Uganda,Africa Sub-Saharan,Female,Under 18,16
-2021-03-31,2021,1,Uganda,Africa Sub-Saharan,Male,18-29,1
-2021-03-31,2021,1,Uganda,Africa Sub-Saharan,Male,30-49,1
-2021-03-31,2021,1,Uganda,Africa Sub-Saharan,Male,Under 18,14
+2021-03-31,2021,1,Uganda,Africa Sub-Saharan,Female,Under 18,13
+2021-03-31,2021,1,Uganda,Africa Sub-Saharan,Male,18-29,2
+2021-03-31,2021,1,Uganda,Africa Sub-Saharan,Male,Under 18,11
 2021-03-31,2021,1,Ukraine,Europe Other,Female,Under 18,1
 2021-03-31,2021,1,Ukraine,Europe Other,Male,Under 18,1
 2021-03-31,2021,1,Vietnam,Asia South East,Female,18-29,1
@@ -6613,59 +6604,55 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2021-03-31,2021,1,Vietnam,Asia South East,Male,Under 18,14
 2021-03-31,2021,1,Yemen,Middle East,Female,18-29,6
 2021-03-31,2021,1,Yemen,Middle East,Female,30-49,6
-2021-03-31,2021,1,Yemen,Middle East,Female,50-69,1
-2021-03-31,2021,1,Yemen,Middle East,Female,Under 18,17
+2021-03-31,2021,1,Yemen,Middle East,Female,Under 18,16
 2021-03-31,2021,1,Yemen,Middle East,Male,18-29,1
 2021-03-31,2021,1,Yemen,Middle East,Male,30-49,2
 2021-03-31,2021,1,Yemen,Middle East,Male,50-69,1
-2021-03-31,2021,1,Yemen,Middle East,Male,Under 18,24
+2021-03-31,2021,1,Yemen,Middle East,Male,Under 18,20
 2021-03-31,2021,1,Zimbabwe,Africa Sub-Saharan,Female,50-69,1
 2021-03-31,2021,1,Zimbabwe,Africa Sub-Saharan,Female,Under 18,3
 2021-03-31,2021,1,Zimbabwe,Africa Sub-Saharan,Male,30-49,1
 2021-03-31,2021,1,Zimbabwe,Africa Sub-Saharan,Male,Under 18,5
-2021-06-30,2021,2,Afghanistan,Asia Central,Female,18-29,12
-2021-06-30,2021,2,Afghanistan,Asia Central,Female,30-49,16
-2021-06-30,2021,2,Afghanistan,Asia Central,Female,Under 18,23
+2021-06-30,2021,2,Afghanistan,Asia Central,Female,18-29,13
+2021-06-30,2021,2,Afghanistan,Asia Central,Female,30-49,11
+2021-06-30,2021,2,Afghanistan,Asia Central,Female,Under 18,22
 2021-06-30,2021,2,Afghanistan,Asia Central,Male,50-69,2
-2021-06-30,2021,2,Afghanistan,Asia Central,Male,Under 18,19
+2021-06-30,2021,2,Afghanistan,Asia Central,Male,Under 18,14
 2021-06-30,2021,2,Bangladesh,Asia South,Female,18-29,1
 2021-06-30,2021,2,Bangladesh,Asia South,Female,30-49,1
 2021-06-30,2021,2,Burundi,Africa Sub-Saharan,Male,18-29,1
-2021-06-30,2021,2,Cameroon,Africa Sub-Saharan,Female,18-29,1
 2021-06-30,2021,2,Cameroon,Africa Sub-Saharan,Female,30-49,1
-2021-06-30,2021,2,Cameroon,Africa Sub-Saharan,Female,Under 18,5
-2021-06-30,2021,2,Cameroon,Africa Sub-Saharan,Male,Under 18,9
+2021-06-30,2021,2,Cameroon,Africa Sub-Saharan,Female,Under 18,6
+2021-06-30,2021,2,Cameroon,Africa Sub-Saharan,Male,Under 18,6
 2021-06-30,2021,2,Chad,Africa Sub-Saharan,Female,Under 18,1
 2021-06-30,2021,2,Chad,Africa Sub-Saharan,Male,Under 18,2
 2021-06-30,2021,2,China,Asia East,Female,18-29,1
-2021-06-30,2021,2,Congo,Africa Sub-Saharan,Female,Under 18,2
-2021-06-30,2021,2,Congo,Africa Sub-Saharan,Male,30-49,1
-2021-06-30,2021,2,Congo,Africa Sub-Saharan,Male,Under 18,1
-2021-06-30,2021,2,Congo (Democratic Republic),Africa Sub-Saharan,Female,18-29,3
-2021-06-30,2021,2,Congo (Democratic Republic),Africa Sub-Saharan,Female,30-49,2
-2021-06-30,2021,2,Congo (Democratic Republic),Africa Sub-Saharan,Female,Under 18,7
-2021-06-30,2021,2,Congo (Democratic Republic),Africa Sub-Saharan,Male,18-29,2
-2021-06-30,2021,2,Congo (Democratic Republic),Africa Sub-Saharan,Male,30-49,3
-2021-06-30,2021,2,Congo (Democratic Republic),Africa Sub-Saharan,Male,Under 18,7
+2021-06-30,2021,2,Congo,Africa Sub-Saharan,Female,18-29,2
+2021-06-30,2021,2,Congo,Africa Sub-Saharan,Female,30-49,2
+2021-06-30,2021,2,Congo,Africa Sub-Saharan,Female,Under 18,9
+2021-06-30,2021,2,Congo,Africa Sub-Saharan,Male,18-29,3
+2021-06-30,2021,2,Congo,Africa Sub-Saharan,Male,30-49,3
+2021-06-30,2021,2,Congo,Africa Sub-Saharan,Male,Under 18,7
+2021-06-30,2021,2,Congo (Democratic Republic),Africa Sub-Saharan,Female,18-29,1
+2021-06-30,2021,2,Congo (Democratic Republic),Africa Sub-Saharan,Male,30-49,1
 2021-06-30,2021,2,Denmark,EU 14,Male,30-49,1
-2021-06-30,2021,2,Egypt,Africa North,Female,30-49,3
+2021-06-30,2021,2,Egypt,Africa North,Female,30-49,2
 2021-06-30,2021,2,Egypt,Africa North,Female,50-69,1
-2021-06-30,2021,2,Egypt,Africa North,Female,Under 18,8
-2021-06-30,2021,2,Egypt,Africa North,Male,Under 18,3
-2021-06-30,2021,2,Eritrea,Africa Sub-Saharan,Female,18-29,117
-2021-06-30,2021,2,Eritrea,Africa Sub-Saharan,Female,30-49,27
+2021-06-30,2021,2,Egypt,Africa North,Female,Under 18,7
+2021-06-30,2021,2,Eritrea,Africa Sub-Saharan,Female,18-29,107
+2021-06-30,2021,2,Eritrea,Africa Sub-Saharan,Female,30-49,22
 2021-06-30,2021,2,Eritrea,Africa Sub-Saharan,Female,50-69,1
-2021-06-30,2021,2,Eritrea,Africa Sub-Saharan,Female,Under 18,44
-2021-06-30,2021,2,Eritrea,Africa Sub-Saharan,Male,18-29,7
-2021-06-30,2021,2,Eritrea,Africa Sub-Saharan,Male,30-49,21
-2021-06-30,2021,2,Eritrea,Africa Sub-Saharan,Male,50-69,2
-2021-06-30,2021,2,Eritrea,Africa Sub-Saharan,Male,Under 18,35
-2021-06-30,2021,2,Ethiopia,Africa Sub-Saharan,Female,18-29,9
+2021-06-30,2021,2,Eritrea,Africa Sub-Saharan,Female,Under 18,42
+2021-06-30,2021,2,Eritrea,Africa Sub-Saharan,Male,18-29,8
+2021-06-30,2021,2,Eritrea,Africa Sub-Saharan,Male,30-49,19
+2021-06-30,2021,2,Eritrea,Africa Sub-Saharan,Male,50-69,1
+2021-06-30,2021,2,Eritrea,Africa Sub-Saharan,Male,Under 18,33
+2021-06-30,2021,2,Ethiopia,Africa Sub-Saharan,Female,18-29,8
 2021-06-30,2021,2,Ethiopia,Africa Sub-Saharan,Female,30-49,7
-2021-06-30,2021,2,Ethiopia,Africa Sub-Saharan,Female,Under 18,6
-2021-06-30,2021,2,Ethiopia,Africa Sub-Saharan,Male,18-29,2
+2021-06-30,2021,2,Ethiopia,Africa Sub-Saharan,Female,Under 18,7
+2021-06-30,2021,2,Ethiopia,Africa Sub-Saharan,Male,18-29,1
 2021-06-30,2021,2,Ethiopia,Africa Sub-Saharan,Male,30-49,4
-2021-06-30,2021,2,Ethiopia,Africa Sub-Saharan,Male,Under 18,13
+2021-06-30,2021,2,Ethiopia,Africa Sub-Saharan,Male,Under 18,15
 2021-06-30,2021,2,"Gambia, The",Africa Sub-Saharan,Female,Under 18,7
 2021-06-30,2021,2,"Gambia, The",Africa Sub-Saharan,Male,Under 18,3
 2021-06-30,2021,2,Ghana,Africa Sub-Saharan,Female,Under 18,2
@@ -6675,141 +6662,132 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2021-06-30,2021,2,Guinea,Africa Sub-Saharan,Female,Under 18,1
 2021-06-30,2021,2,Guinea,Africa Sub-Saharan,Male,Under 18,7
 2021-06-30,2021,2,India,Asia South,Female,30-49,1
-2021-06-30,2021,2,India,Asia South,Female,50-69,1
 2021-06-30,2021,2,India,Asia South,Female,Under 18,1
 2021-06-30,2021,2,India,Asia South,Male,50-69,1
 2021-06-30,2021,2,India,Asia South,Male,Under 18,1
-2021-06-30,2021,2,Iran,Middle East,Female,18-29,31
-2021-06-30,2021,2,Iran,Middle East,Female,30-49,103
-2021-06-30,2021,2,Iran,Middle East,Female,50-69,4
+2021-06-30,2021,2,Iran,Middle East,Female,18-29,28
+2021-06-30,2021,2,Iran,Middle East,Female,30-49,99
+2021-06-30,2021,2,Iran,Middle East,Female,50-69,3
 2021-06-30,2021,2,Iran,Middle East,Female,Under 18,72
-2021-06-30,2021,2,Iran,Middle East,Male,18-29,4
+2021-06-30,2021,2,Iran,Middle East,Male,18-29,2
 2021-06-30,2021,2,Iran,Middle East,Male,30-49,16
-2021-06-30,2021,2,Iran,Middle East,Male,50-69,11
+2021-06-30,2021,2,Iran,Middle East,Male,50-69,7
 2021-06-30,2021,2,Iran,Middle East,Male,70+,1
-2021-06-30,2021,2,Iran,Middle East,Male,Under 18,82
-2021-06-30,2021,2,Iraq,Middle East,Female,18-29,2
-2021-06-30,2021,2,Iraq,Middle East,Female,30-49,10
-2021-06-30,2021,2,Iraq,Middle East,Female,Under 18,13
+2021-06-30,2021,2,Iran,Middle East,Male,Under 18,83
+2021-06-30,2021,2,Iraq,Middle East,Female,18-29,1
+2021-06-30,2021,2,Iraq,Middle East,Female,30-49,8
+2021-06-30,2021,2,Iraq,Middle East,Female,Under 18,8
 2021-06-30,2021,2,Iraq,Middle East,Male,30-49,3
 2021-06-30,2021,2,Iraq,Middle East,Male,50-69,2
-2021-06-30,2021,2,Iraq,Middle East,Male,Under 18,5
+2021-06-30,2021,2,Iraq,Middle East,Male,Under 18,4
 2021-06-30,2021,2,Ivory Coast,Africa Sub-Saharan,Female,Under 18,1
 2021-06-30,2021,2,Ivory Coast,Africa Sub-Saharan,Male,30-49,1
 2021-06-30,2021,2,Ivory Coast,Africa Sub-Saharan,Male,Under 18,1
 2021-06-30,2021,2,Jordan,Middle East,Female,18-29,1
-2021-06-30,2021,2,Kenya,Africa Sub-Saharan,Female,Under 18,2
-2021-06-30,2021,2,Kenya,Africa Sub-Saharan,Male,18-29,1
-2021-06-30,2021,2,Kenya,Africa Sub-Saharan,Male,Under 18,1
-2021-06-30,2021,2,Kuwait,Middle East,Female,30-49,1
+2021-06-30,2021,2,Kenya,Africa Sub-Saharan,Male,30-49,1
+2021-06-30,2021,2,Kuwait,Middle East,Female,30-49,2
 2021-06-30,2021,2,Kyrgyzstan,Asia Central,Female,30-49,1
 2021-06-30,2021,2,Kyrgyzstan,Asia Central,Female,Under 18,2
 2021-06-30,2021,2,Kyrgyzstan,Asia Central,Male,Under 18,1
-2021-06-30,2021,2,Libya,Africa North,Female,18-29,2
+2021-06-30,2021,2,Libya,Africa North,Female,18-29,1
 2021-06-30,2021,2,Libya,Africa North,Female,30-49,3
-2021-06-30,2021,2,Libya,Africa North,Female,Under 18,6
-2021-06-30,2021,2,Libya,Africa North,Male,18-29,1
+2021-06-30,2021,2,Libya,Africa North,Female,Under 18,5
 2021-06-30,2021,2,Libya,Africa North,Male,Under 18,4
 2021-06-30,2021,2,Malawi,Africa Sub-Saharan,Female,Under 18,1
-2021-06-30,2021,2,Morocco,Africa North,Female,30-49,1
-2021-06-30,2021,2,Morocco,Africa North,Female,Under 18,1
 2021-06-30,2021,2,Namibia,Africa Sub-Saharan,Female,Under 18,5
-2021-06-30,2021,2,Namibia,Africa Sub-Saharan,Male,Under 18,3
-2021-06-30,2021,2,Nigeria,Africa Sub-Saharan,Female,18-29,2
-2021-06-30,2021,2,Nigeria,Africa Sub-Saharan,Female,30-49,1
+2021-06-30,2021,2,Namibia,Africa Sub-Saharan,Male,Under 18,2
 2021-06-30,2021,2,Nigeria,Africa Sub-Saharan,Female,Under 18,3
 2021-06-30,2021,2,Nigeria,Africa Sub-Saharan,Male,18-29,2
 2021-06-30,2021,2,Nigeria,Africa Sub-Saharan,Male,50-69,1
-2021-06-30,2021,2,Nigeria,Africa Sub-Saharan,Male,Under 18,6
-2021-06-30,2021,2,Occupied Palestinian Territories,Middle East,Female,18-29,2
-2021-06-30,2021,2,Occupied Palestinian Territories,Middle East,Female,30-49,4
+2021-06-30,2021,2,Nigeria,Africa Sub-Saharan,Male,Under 18,5
+2021-06-30,2021,2,Occupied Palestinian Territories,Middle East,Female,18-29,1
+2021-06-30,2021,2,Occupied Palestinian Territories,Middle East,Female,30-49,3
 2021-06-30,2021,2,Occupied Palestinian Territories,Middle East,Female,Under 18,3
-2021-06-30,2021,2,Occupied Palestinian Territories,Middle East,Male,18-29,1
 2021-06-30,2021,2,Occupied Palestinian Territories,Middle East,Male,Under 18,9
-2021-06-30,2021,2,Other and unknown,Other,Female,18-29,1
+2021-06-30,2021,2,Other and unknown,Other,Female,18-29,5
+2021-06-30,2021,2,Other and unknown,Other,Female,30-49,5
+2021-06-30,2021,2,Other and unknown,Other,Female,50-69,1
+2021-06-30,2021,2,Other and unknown,Other,Female,Under 18,12
+2021-06-30,2021,2,Other and unknown,Other,Male,18-29,1
+2021-06-30,2021,2,Other and unknown,Other,Male,30-49,1
+2021-06-30,2021,2,Other and unknown,Other,Male,Under 18,12
+2021-06-30,2021,2,Other and unknown,Other,Female,18-29,2
+2021-06-30,2021,2,Other and unknown,Other,Female,30-49,1
+2021-06-30,2021,2,Other and unknown,Other,Female,50-69,1
 2021-06-30,2021,2,Other and unknown,Other,Female,Under 18,2
-2021-06-30,2021,2,Other and unknown,Other,Male,Under 18,4
-2021-06-30,2021,2,Pakistan,Asia South,Female,18-29,3
-2021-06-30,2021,2,Pakistan,Asia South,Female,30-49,4
-2021-06-30,2021,2,Pakistan,Asia South,Female,50-69,4
-2021-06-30,2021,2,Pakistan,Asia South,Female,Under 18,11
-2021-06-30,2021,2,Pakistan,Asia South,Male,18-29,3
-2021-06-30,2021,2,Pakistan,Asia South,Male,30-49,4
-2021-06-30,2021,2,Pakistan,Asia South,Male,50-69,3
-2021-06-30,2021,2,Pakistan,Asia South,Male,Under 18,10
+2021-06-30,2021,2,Other and unknown,Other,Male,18-29,2
+2021-06-30,2021,2,Other and unknown,Other,Male,Under 18,2
+2021-06-30,2021,2,Pakistan,Asia South,Female,18-29,1
+2021-06-30,2021,2,Pakistan,Asia South,Female,30-49,3
+2021-06-30,2021,2,Pakistan,Asia South,Female,50-69,3
+2021-06-30,2021,2,Pakistan,Asia South,Female,Under 18,10
+2021-06-30,2021,2,Pakistan,Asia South,Male,18-29,1
+2021-06-30,2021,2,Pakistan,Asia South,Male,30-49,3
+2021-06-30,2021,2,Pakistan,Asia South,Male,50-69,2
+2021-06-30,2021,2,Pakistan,Asia South,Male,Under 18,8
 2021-06-30,2021,2,Philippines,Asia South East,Female,Under 18,1
 2021-06-30,2021,2,Philippines,Asia South East,Male,Under 18,1
-2021-06-30,2021,2,Refugee,Other,Female,18-29,1
-2021-06-30,2021,2,Refugee,Other,Female,30-49,1
-2021-06-30,2021,2,Refugee,Other,Female,50-69,1
-2021-06-30,2021,2,Refugee,Other,Male,18-29,2
-2021-06-30,2021,2,Refugee,Other,Male,30-49,1
-2021-06-30,2021,2,Refugee,Other,Male,Under 18,3
 2021-06-30,2021,2,Russia,Europe Other,Female,30-49,4
 2021-06-30,2021,2,Russia,Europe Other,Female,Under 18,4
 2021-06-30,2021,2,Russia,Europe Other,Male,Under 18,4
 2021-06-30,2021,2,Rwanda,Africa Sub-Saharan,Female,Under 18,2
 2021-06-30,2021,2,Rwanda,Africa Sub-Saharan,Male,30-49,1
 2021-06-30,2021,2,Sierra Leone,Africa Sub-Saharan,Male,Under 18,1
-2021-06-30,2021,2,Somalia,Africa Sub-Saharan,Female,18-29,1
-2021-06-30,2021,2,Somalia,Africa Sub-Saharan,Female,30-49,2
-2021-06-30,2021,2,Somalia,Africa Sub-Saharan,Female,50-69,1
-2021-06-30,2021,2,Somalia,Africa Sub-Saharan,Female,Under 18,11
+2021-06-30,2021,2,Somalia,Africa Sub-Saharan,Female,18-29,4
+2021-06-30,2021,2,Somalia,Africa Sub-Saharan,Female,Under 18,3
 2021-06-30,2021,2,Somalia,Africa Sub-Saharan,Male,18-29,1
-2021-06-30,2021,2,Somalia,Africa Sub-Saharan,Male,30-49,5
-2021-06-30,2021,2,Somalia,Africa Sub-Saharan,Male,50-69,1
-2021-06-30,2021,2,Somalia,Africa Sub-Saharan,Male,Under 18,8
-2021-06-30,2021,2,Sri Lanka,Asia South,Female,18-29,4
-2021-06-30,2021,2,Sri Lanka,Asia South,Female,30-49,12
+2021-06-30,2021,2,Somalia,Africa Sub-Saharan,Male,30-49,3
+2021-06-30,2021,2,Somalia,Africa Sub-Saharan,Male,70+,1
+2021-06-30,2021,2,Somalia,Africa Sub-Saharan,Male,Under 18,5
+2021-06-30,2021,2,Sri Lanka,Asia South,Female,18-29,3
+2021-06-30,2021,2,Sri Lanka,Asia South,Female,30-49,11
 2021-06-30,2021,2,Sri Lanka,Asia South,Female,50-69,4
-2021-06-30,2021,2,Sri Lanka,Asia South,Female,Under 18,13
-2021-06-30,2021,2,Sri Lanka,Asia South,Male,18-29,2
+2021-06-30,2021,2,Sri Lanka,Asia South,Female,Under 18,12
+2021-06-30,2021,2,Sri Lanka,Asia South,Male,18-29,1
 2021-06-30,2021,2,Sri Lanka,Asia South,Male,30-49,1
 2021-06-30,2021,2,Sri Lanka,Asia South,Male,50-69,1
-2021-06-30,2021,2,Sri Lanka,Asia South,Male,Under 18,9
-2021-06-30,2021,2,Stateless,Other,Female,18-29,3
-2021-06-30,2021,2,Stateless,Other,Female,30-49,8
-2021-06-30,2021,2,Stateless,Other,Female,50-69,2
-2021-06-30,2021,2,Stateless,Other,Female,Under 18,13
+2021-06-30,2021,2,Sri Lanka,Asia South,Male,Under 18,10
+2021-06-30,2021,2,Stateless,Other,Female,18-29,1
+2021-06-30,2021,2,Stateless,Other,Female,30-49,2
+2021-06-30,2021,2,Stateless,Other,Female,Under 18,1
+2021-06-30,2021,2,Stateless,Other,Male,18-29,1
 2021-06-30,2021,2,Stateless,Other,Male,30-49,1
-2021-06-30,2021,2,Stateless,Other,Male,Under 18,12
-2021-06-30,2021,2,Sudan,Africa North,Female,18-29,60
-2021-06-30,2021,2,Sudan,Africa North,Female,30-49,26
-2021-06-30,2021,2,Sudan,Africa North,Female,Under 18,39
-2021-06-30,2021,2,Sudan,Africa North,Male,30-49,7
-2021-06-30,2021,2,Sudan,Africa North,Male,50-69,6
+2021-06-30,2021,2,Stateless,Other,Male,Under 18,4
+2021-06-30,2021,2,Sudan,Africa North,Female,18-29,50
+2021-06-30,2021,2,Sudan,Africa North,Female,30-49,24
+2021-06-30,2021,2,Sudan,Africa North,Female,Under 18,38
+2021-06-30,2021,2,Sudan,Africa North,Male,30-49,8
+2021-06-30,2021,2,Sudan,Africa North,Male,50-69,4
 2021-06-30,2021,2,Sudan,Africa North,Male,Under 18,34
-2021-06-30,2021,2,Syria,Middle East,Female,18-29,53
-2021-06-30,2021,2,Syria,Middle East,Female,30-49,21
-2021-06-30,2021,2,Syria,Middle East,Female,Under 18,59
-2021-06-30,2021,2,Syria,Middle East,Male,18-29,2
+2021-06-30,2021,2,Syria,Middle East,Female,18-29,49
+2021-06-30,2021,2,Syria,Middle East,Female,30-49,18
+2021-06-30,2021,2,Syria,Middle East,Female,Under 18,52
+2021-06-30,2021,2,Syria,Middle East,Male,18-29,1
 2021-06-30,2021,2,Syria,Middle East,Male,30-49,4
-2021-06-30,2021,2,Syria,Middle East,Male,Under 18,67
+2021-06-30,2021,2,Syria,Middle East,Male,Under 18,63
 2021-06-30,2021,2,Tanzania,Africa Sub-Saharan,Male,50-69,1
-2021-06-30,2021,2,Tanzania,Africa Sub-Saharan,Male,Under 18,1
 2021-06-30,2021,2,Turkey,Europe Other,Female,18-29,1
 2021-06-30,2021,2,Turkey,Europe Other,Female,30-49,7
-2021-06-30,2021,2,Turkey,Europe Other,Female,Under 18,8
-2021-06-30,2021,2,Turkey,Europe Other,Male,18-29,1
+2021-06-30,2021,2,Turkey,Europe Other,Female,Under 18,7
 2021-06-30,2021,2,Turkey,Europe Other,Male,30-49,3
-2021-06-30,2021,2,Turkey,Europe Other,Male,Under 18,10
-2021-06-30,2021,2,Uganda,Africa Sub-Saharan,Female,18-29,3
-2021-06-30,2021,2,Uganda,Africa Sub-Saharan,Female,30-49,3
+2021-06-30,2021,2,Turkey,Europe Other,Male,Under 18,11
+2021-06-30,2021,2,Uganda,Africa Sub-Saharan,Female,18-29,2
+2021-06-30,2021,2,Uganda,Africa Sub-Saharan,Female,30-49,1
 2021-06-30,2021,2,Uganda,Africa Sub-Saharan,Female,50-69,1
 2021-06-30,2021,2,Uganda,Africa Sub-Saharan,Female,Under 18,5
-2021-06-30,2021,2,Uganda,Africa Sub-Saharan,Male,18-29,3
+2021-06-30,2021,2,Uganda,Africa Sub-Saharan,Male,18-29,2
 2021-06-30,2021,2,Uganda,Africa Sub-Saharan,Male,30-49,1
-2021-06-30,2021,2,Uganda,Africa Sub-Saharan,Male,Under 18,9
+2021-06-30,2021,2,Uganda,Africa Sub-Saharan,Male,Under 18,10
 2021-06-30,2021,2,Ukraine,Europe Other,Male,Under 18,1
 2021-06-30,2021,2,Vietnam,Asia South East,Female,18-29,1
 2021-06-30,2021,2,Vietnam,Asia South East,Female,30-49,1
 2021-06-30,2021,2,Vietnam,Asia South East,Female,Under 18,3
 2021-06-30,2021,2,Vietnam,Asia South East,Male,30-49,1
-2021-06-30,2021,2,Vietnam,Asia South East,Male,Under 18,6
+2021-06-30,2021,2,Vietnam,Asia South East,Male,Under 18,5
 2021-06-30,2021,2,Yemen,Middle East,Female,18-29,6
-2021-06-30,2021,2,Yemen,Middle East,Female,30-49,12
+2021-06-30,2021,2,Yemen,Middle East,Female,30-49,10
 2021-06-30,2021,2,Yemen,Middle East,Female,50-69,2
-2021-06-30,2021,2,Yemen,Middle East,Female,Under 18,18
+2021-06-30,2021,2,Yemen,Middle East,Female,Under 18,17
 2021-06-30,2021,2,Yemen,Middle East,Male,18-29,1
 2021-06-30,2021,2,Yemen,Middle East,Male,30-49,1
 2021-06-30,2021,2,Yemen,Middle East,Male,Under 18,21
@@ -6818,42 +6796,46 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2021-06-30,2021,2,Zimbabwe,Africa Sub-Saharan,Male,18-29,2
 2021-06-30,2021,2,Zimbabwe,Africa Sub-Saharan,Male,Under 18,4
 2021-09-30,2021,3,Afghanistan,Asia Central,Female,18-29,9
-2021-09-30,2021,3,Afghanistan,Asia Central,Female,30-49,13
+2021-09-30,2021,3,Afghanistan,Asia Central,Female,30-49,10
 2021-09-30,2021,3,Afghanistan,Asia Central,Female,50-69,1
-2021-09-30,2021,3,Afghanistan,Asia Central,Female,Under 18,18
-2021-09-30,2021,3,Afghanistan,Asia Central,Male,Under 18,27
+2021-09-30,2021,3,Afghanistan,Asia Central,Female,Under 18,15
+2021-09-30,2021,3,Afghanistan,Asia Central,Male,Under 18,22
 2021-09-30,2021,3,Albania,Europe Other,Male,Under 18,1
 2021-09-30,2021,3,Angola,Africa Sub-Saharan,Female,Under 18,1
 2021-09-30,2021,3,Azerbaijan,Europe Other,Female,Under 18,1
 2021-09-30,2021,3,Azerbaijan,Europe Other,Male,Under 18,1
+2021-09-30,2021,3,Bangladesh,Asia South,Female,18-29,1
 2021-09-30,2021,3,Bangladesh,Asia South,Female,30-49,3
-2021-09-30,2021,3,Bangladesh,Asia South,Female,Under 18,5
+2021-09-30,2021,3,Bangladesh,Asia South,Female,Under 18,4
 2021-09-30,2021,3,Brazil,America Central and South,Male,30-49,1
 2021-09-30,2021,3,Cameroon,Africa Sub-Saharan,Female,18-29,1
 2021-09-30,2021,3,Cameroon,Africa Sub-Saharan,Female,30-49,2
 2021-09-30,2021,3,Cameroon,Africa Sub-Saharan,Female,Under 18,8
 2021-09-30,2021,3,Cameroon,Africa Sub-Saharan,Male,50-69,1
 2021-09-30,2021,3,Cameroon,Africa Sub-Saharan,Male,Under 18,14
+2021-09-30,2021,3,Chad,Africa Sub-Saharan,Male,30-49,1
 2021-09-30,2021,3,China,Asia East,Male,30-49,1
+2021-09-30,2021,3,Congo,Africa Sub-Saharan,Female,18-29,2
+2021-09-30,2021,3,Congo,Africa Sub-Saharan,Female,Under 18,3
+2021-09-30,2021,3,Congo,Africa Sub-Saharan,Male,18-29,2
 2021-09-30,2021,3,Congo,Africa Sub-Saharan,Male,30-49,1
-2021-09-30,2021,3,Congo (Democratic Republic),Africa Sub-Saharan,Female,18-29,1
-2021-09-30,2021,3,Congo (Democratic Republic),Africa Sub-Saharan,Female,Under 18,8
+2021-09-30,2021,3,Congo,Africa Sub-Saharan,Male,50-69,1
+2021-09-30,2021,3,Congo,Africa Sub-Saharan,Male,Under 18,3
+2021-09-30,2021,3,Congo (Democratic Republic),Africa Sub-Saharan,Female,18-29,2
+2021-09-30,2021,3,Congo (Democratic Republic),Africa Sub-Saharan,Female,Under 18,2
 2021-09-30,2021,3,Congo (Democratic Republic),Africa Sub-Saharan,Male,30-49,1
-2021-09-30,2021,3,Congo (Democratic Republic),Africa Sub-Saharan,Male,50-69,1
-2021-09-30,2021,3,Congo (Democratic Republic),Africa Sub-Saharan,Male,Under 18,7
 2021-09-30,2021,3,Egypt,Africa North,Female,18-29,1
-2021-09-30,2021,3,Egypt,Africa North,Female,30-49,3
-2021-09-30,2021,3,Egypt,Africa North,Female,Under 18,7
+2021-09-30,2021,3,Egypt,Africa North,Female,30-49,2
+2021-09-30,2021,3,Egypt,Africa North,Female,Under 18,5
 2021-09-30,2021,3,Egypt,Africa North,Male,30-49,1
-2021-09-30,2021,3,Egypt,Africa North,Male,Under 18,11
-2021-09-30,2021,3,Equatorial Guinea,Africa Sub-Saharan,Male,18-29,1
-2021-09-30,2021,3,Equatorial Guinea,Africa Sub-Saharan,Male,Under 18,1
-2021-09-30,2021,3,Eritrea,Africa Sub-Saharan,Female,18-29,97
-2021-09-30,2021,3,Eritrea,Africa Sub-Saharan,Female,30-49,23
-2021-09-30,2021,3,Eritrea,Africa Sub-Saharan,Female,Under 18,28
-2021-09-30,2021,3,Eritrea,Africa Sub-Saharan,Male,18-29,9
-2021-09-30,2021,3,Eritrea,Africa Sub-Saharan,Male,30-49,13
-2021-09-30,2021,3,Eritrea,Africa Sub-Saharan,Male,Under 18,28
+2021-09-30,2021,3,Egypt,Africa North,Male,Under 18,10
+2021-09-30,2021,3,Equatorial Guinea,Africa Sub-Saharan,Male,18-29,2
+2021-09-30,2021,3,Eritrea,Africa Sub-Saharan,Female,18-29,93
+2021-09-30,2021,3,Eritrea,Africa Sub-Saharan,Female,30-49,22
+2021-09-30,2021,3,Eritrea,Africa Sub-Saharan,Female,Under 18,23
+2021-09-30,2021,3,Eritrea,Africa Sub-Saharan,Male,18-29,8
+2021-09-30,2021,3,Eritrea,Africa Sub-Saharan,Male,30-49,14
+2021-09-30,2021,3,Eritrea,Africa Sub-Saharan,Male,Under 18,27
 2021-09-30,2021,3,Ethiopia,Africa Sub-Saharan,Female,18-29,16
 2021-09-30,2021,3,Ethiopia,Africa Sub-Saharan,Female,30-49,6
 2021-09-30,2021,3,Ethiopia,Africa Sub-Saharan,Female,Under 18,7
@@ -6871,27 +6853,28 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2021-09-30,2021,3,Guinea,Africa Sub-Saharan,Female,Under 18,1
 2021-09-30,2021,3,India,Asia South,Female,50-69,1
 2021-09-30,2021,3,India,Asia South,Male,Under 18,2
-2021-09-30,2021,3,Iran,Middle East,Female,18-29,38
+2021-09-30,2021,3,Iran,Middle East,Female,18-29,35
 2021-09-30,2021,3,Iran,Middle East,Female,30-49,109
 2021-09-30,2021,3,Iran,Middle East,Female,50-69,6
-2021-09-30,2021,3,Iran,Middle East,Female,Under 18,70
-2021-09-30,2021,3,Iran,Middle East,Male,18-29,2
-2021-09-30,2021,3,Iran,Middle East,Male,30-49,19
+2021-09-30,2021,3,Iran,Middle East,Female,Under 18,66
+2021-09-30,2021,3,Iran,Middle East,Male,18-29,3
+2021-09-30,2021,3,Iran,Middle East,Male,30-49,18
 2021-09-30,2021,3,Iran,Middle East,Male,50-69,11
-2021-09-30,2021,3,Iran,Middle East,Male,Under 18,89
+2021-09-30,2021,3,Iran,Middle East,Male,70+,1
+2021-09-30,2021,3,Iran,Middle East,Male,Under 18,87
 2021-09-30,2021,3,Iraq,Middle East,Female,18-29,4
 2021-09-30,2021,3,Iraq,Middle East,Female,30-49,5
 2021-09-30,2021,3,Iraq,Middle East,Female,50-69,1
 2021-09-30,2021,3,Iraq,Middle East,Female,Under 18,11
-2021-09-30,2021,3,Iraq,Middle East,Male,18-29,1
 2021-09-30,2021,3,Iraq,Middle East,Male,30-49,3
-2021-09-30,2021,3,Iraq,Middle East,Male,Under 18,13
+2021-09-30,2021,3,Iraq,Middle East,Male,Under 18,14
 2021-09-30,2021,3,Ivory Coast,Africa Sub-Saharan,Female,18-29,1
-2021-09-30,2021,3,Ivory Coast,Africa Sub-Saharan,Male,Under 18,2
+2021-09-30,2021,3,Ivory Coast,Africa Sub-Saharan,Male,Under 18,1
 2021-09-30,2021,3,Jordan,Middle East,Female,18-29,1
 2021-09-30,2021,3,Jordan,Middle East,Female,Under 18,1
 2021-09-30,2021,3,Jordan,Middle East,Male,30-49,1
-2021-09-30,2021,3,Kenya,Africa Sub-Saharan,Female,Under 18,2
+2021-09-30,2021,3,Kenya,Africa Sub-Saharan,Female,18-29,1
+2021-09-30,2021,3,Kenya,Africa Sub-Saharan,Female,Under 18,1
 2021-09-30,2021,3,Kuwait,Middle East,Female,30-49,1
 2021-09-30,2021,3,Kuwait,Middle East,Male,Under 18,1
 2021-09-30,2021,3,Lebanon,Middle East,Male,50-69,1
@@ -6901,68 +6884,69 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2021-09-30,2021,3,Morocco,Africa North,Male,Under 18,1
 2021-09-30,2021,3,Namibia,Africa Sub-Saharan,Female,Under 18,1
 2021-09-30,2021,3,Namibia,Africa Sub-Saharan,Male,Under 18,1
+2021-09-30,2021,3,Nigeria,Africa Sub-Saharan,Female,18-29,1
 2021-09-30,2021,3,Nigeria,Africa Sub-Saharan,Female,30-49,1
-2021-09-30,2021,3,Nigeria,Africa Sub-Saharan,Female,Under 18,5
-2021-09-30,2021,3,Nigeria,Africa Sub-Saharan,Male,Under 18,3
+2021-09-30,2021,3,Nigeria,Africa Sub-Saharan,Female,Under 18,4
+2021-09-30,2021,3,Nigeria,Africa Sub-Saharan,Male,18-29,1
+2021-09-30,2021,3,Nigeria,Africa Sub-Saharan,Male,Under 18,2
 2021-09-30,2021,3,Occupied Palestinian Territories,Middle East,Female,18-29,2
-2021-09-30,2021,3,Occupied Palestinian Territories,Middle East,Female,30-49,1
 2021-09-30,2021,3,Occupied Palestinian Territories,Middle East,Female,Under 18,1
+2021-09-30,2021,3,Other and unknown,Other,Female,18-29,4
+2021-09-30,2021,3,Other and unknown,Other,Female,30-49,8
+2021-09-30,2021,3,Other and unknown,Other,Female,50-69,3
+2021-09-30,2021,3,Other and unknown,Other,Female,Under 18,15
+2021-09-30,2021,3,Other and unknown,Other,Male,18-29,3
+2021-09-30,2021,3,Other and unknown,Other,Male,Under 18,20
 2021-09-30,2021,3,Other and unknown,Other,Female,18-29,1
 2021-09-30,2021,3,Other and unknown,Other,Female,30-49,1
-2021-09-30,2021,3,Other and unknown,Other,Female,50-69,1
-2021-09-30,2021,3,Other and unknown,Other,Female,Under 18,6
+2021-09-30,2021,3,Other and unknown,Other,Female,50-69,2
+2021-09-30,2021,3,Other and unknown,Other,Female,Under 18,3
 2021-09-30,2021,3,Other and unknown,Other,Male,30-49,1
-2021-09-30,2021,3,Other and unknown,Other,Male,Under 18,5
+2021-09-30,2021,3,Other and unknown,Other,Male,Under 18,3
 2021-09-30,2021,3,Pakistan,Asia South,Female,18-29,2
-2021-09-30,2021,3,Pakistan,Asia South,Female,30-49,3
+2021-09-30,2021,3,Pakistan,Asia South,Female,30-49,2
 2021-09-30,2021,3,Pakistan,Asia South,Female,50-69,1
-2021-09-30,2021,3,Pakistan,Asia South,Female,Under 18,7
-2021-09-30,2021,3,Pakistan,Asia South,Male,18-29,1
+2021-09-30,2021,3,Pakistan,Asia South,Female,Under 18,6
+2021-09-30,2021,3,Pakistan,Asia South,Male,18-29,3
 2021-09-30,2021,3,Pakistan,Asia South,Male,30-49,1
 2021-09-30,2021,3,Pakistan,Asia South,Male,50-69,2
-2021-09-30,2021,3,Pakistan,Asia South,Male,Under 18,5
-2021-09-30,2021,3,Refugee,Other,Female,18-29,1
-2021-09-30,2021,3,Refugee,Other,Female,30-49,10
-2021-09-30,2021,3,Refugee,Other,Female,Under 18,11
-2021-09-30,2021,3,Refugee,Other,Male,Under 18,11
+2021-09-30,2021,3,Pakistan,Asia South,Male,Under 18,1
 2021-09-30,2021,3,Russia,Europe Other,Female,50-69,1
 2021-09-30,2021,3,Sierra Leone,Africa Sub-Saharan,Male,30-49,1
 2021-09-30,2021,3,Somalia,Africa Sub-Saharan,Female,18-29,3
-2021-09-30,2021,3,Somalia,Africa Sub-Saharan,Female,30-49,5
-2021-09-30,2021,3,Somalia,Africa Sub-Saharan,Female,Under 18,14
-2021-09-30,2021,3,Somalia,Africa Sub-Saharan,Male,18-29,1
-2021-09-30,2021,3,Somalia,Africa Sub-Saharan,Male,30-49,2
-2021-09-30,2021,3,Somalia,Africa Sub-Saharan,Male,70+,1
-2021-09-30,2021,3,Somalia,Africa Sub-Saharan,Male,Under 18,13
-2021-09-30,2021,3,South Africa,Africa Sub-Saharan,Male,Under 18,2
+2021-09-30,2021,3,Somalia,Africa Sub-Saharan,Female,30-49,4
+2021-09-30,2021,3,Somalia,Africa Sub-Saharan,Female,Under 18,11
+2021-09-30,2021,3,Somalia,Africa Sub-Saharan,Male,30-49,1
+2021-09-30,2021,3,Somalia,Africa Sub-Saharan,Male,Under 18,14
+2021-09-30,2021,3,South Africa,Africa Sub-Saharan,Male,18-29,1
+2021-09-30,2021,3,South Africa,Africa Sub-Saharan,Male,Under 18,1
+2021-09-30,2021,3,South Sudan,Africa Sub-Saharan,Female,18-29,1
+2021-09-30,2021,3,South Sudan,Africa Sub-Saharan,Female,30-49,1
+2021-09-30,2021,3,South Sudan,Africa Sub-Saharan,Male,30-49,1
 2021-09-30,2021,3,Sri Lanka,Asia South,Female,18-29,2
 2021-09-30,2021,3,Sri Lanka,Asia South,Female,30-49,7
 2021-09-30,2021,3,Sri Lanka,Asia South,Female,Under 18,4
+2021-09-30,2021,3,Sri Lanka,Asia South,Male,18-29,1
 2021-09-30,2021,3,Sri Lanka,Asia South,Male,30-49,1
-2021-09-30,2021,3,Sri Lanka,Asia South,Male,Under 18,10
-2021-09-30,2021,3,Stateless,Other,Female,18-29,2
-2021-09-30,2021,3,Stateless,Other,Female,30-49,8
-2021-09-30,2021,3,Stateless,Other,Female,50-69,4
-2021-09-30,2021,3,Stateless,Other,Female,Under 18,20
-2021-09-30,2021,3,Stateless,Other,Male,18-29,1
-2021-09-30,2021,3,Stateless,Other,Male,Under 18,25
-2021-09-30,2021,3,Sudan,Africa North,Female,18-29,108
-2021-09-30,2021,3,Sudan,Africa North,Female,30-49,32
-2021-09-30,2021,3,Sudan,Africa North,Female,50-69,5
-2021-09-30,2021,3,Sudan,Africa North,Female,Under 18,38
+2021-09-30,2021,3,Sri Lanka,Asia South,Male,Under 18,9
+2021-09-30,2021,3,Stateless,Other,Female,18-29,1
+2021-09-30,2021,3,Stateless,Other,Female,30-49,9
+2021-09-30,2021,3,Stateless,Other,Female,Under 18,12
+2021-09-30,2021,3,Stateless,Other,Male,Under 18,12
+2021-09-30,2021,3,Sudan,Africa North,Female,18-29,100
+2021-09-30,2021,3,Sudan,Africa North,Female,30-49,33
+2021-09-30,2021,3,Sudan,Africa North,Female,50-69,4
+2021-09-30,2021,3,Sudan,Africa North,Female,Under 18,37
 2021-09-30,2021,3,Sudan,Africa North,Male,18-29,2
-2021-09-30,2021,3,Sudan,Africa North,Male,30-49,11
+2021-09-30,2021,3,Sudan,Africa North,Male,30-49,10
 2021-09-30,2021,3,Sudan,Africa North,Male,50-69,1
-2021-09-30,2021,3,Sudan,Africa North,Male,Under 18,51
-2021-09-30,2021,3,Sudan (South),Africa Sub-Saharan,Female,18-29,1
-2021-09-30,2021,3,Sudan (South),Africa Sub-Saharan,Female,30-49,1
-2021-09-30,2021,3,Sudan (South),Africa Sub-Saharan,Male,30-49,1
+2021-09-30,2021,3,Sudan,Africa North,Male,Under 18,45
 2021-09-30,2021,3,Syria,Middle East,Female,18-29,86
-2021-09-30,2021,3,Syria,Middle East,Female,30-49,20
+2021-09-30,2021,3,Syria,Middle East,Female,30-49,19
 2021-09-30,2021,3,Syria,Middle East,Female,50-69,3
-2021-09-30,2021,3,Syria,Middle East,Female,Under 18,90
+2021-09-30,2021,3,Syria,Middle East,Female,Under 18,87
 2021-09-30,2021,3,Syria,Middle East,Male,18-29,3
-2021-09-30,2021,3,Syria,Middle East,Male,30-49,5
+2021-09-30,2021,3,Syria,Middle East,Male,30-49,4
 2021-09-30,2021,3,Syria,Middle East,Male,50-69,1
 2021-09-30,2021,3,Syria,Middle East,Male,Under 18,90
 2021-09-30,2021,3,Tajikistan,Asia Central,Female,30-49,1
@@ -6973,21 +6957,23 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2021-09-30,2021,3,Thailand,Asia South East,Female,Under 18,3
 2021-09-30,2021,3,Thailand,Asia South East,Male,Under 18,1
 2021-09-30,2021,3,Turkey,Europe Other,Female,18-29,2
-2021-09-30,2021,3,Turkey,Europe Other,Female,30-49,13
+2021-09-30,2021,3,Turkey,Europe Other,Female,30-49,11
 2021-09-30,2021,3,Turkey,Europe Other,Female,50-69,1
-2021-09-30,2021,3,Turkey,Europe Other,Female,Under 18,16
+2021-09-30,2021,3,Turkey,Europe Other,Female,Under 18,15
 2021-09-30,2021,3,Turkey,Europe Other,Male,30-49,1
-2021-09-30,2021,3,Turkey,Europe Other,Male,Under 18,14
+2021-09-30,2021,3,Turkey,Europe Other,Male,Under 18,13
 2021-09-30,2021,3,Turkmenistan,Asia Central,Female,30-49,1
 2021-09-30,2021,3,Turkmenistan,Asia Central,Female,Under 18,1
 2021-09-30,2021,3,Turkmenistan,Asia Central,Male,Under 18,1
-2021-09-30,2021,3,Uganda,Africa Sub-Saharan,Female,Under 18,5
+2021-09-30,2021,3,Uganda,Africa Sub-Saharan,Female,18-29,1
+2021-09-30,2021,3,Uganda,Africa Sub-Saharan,Female,Under 18,4
 2021-09-30,2021,3,Uganda,Africa Sub-Saharan,Male,30-49,1
 2021-09-30,2021,3,Uganda,Africa Sub-Saharan,Male,Under 18,3
-2021-09-30,2021,3,United States,America North,Female,Under 18,1
+2021-09-30,2021,3,United States,American North,Female,Under 18,1
+2021-09-30,2021,3,Vietnam,Asia South East,Female,18-29,2
 2021-09-30,2021,3,Vietnam,Asia South East,Female,30-49,2
-2021-09-30,2021,3,Vietnam,Asia South East,Female,Under 18,13
-2021-09-30,2021,3,Vietnam,Asia South East,Male,Under 18,7
+2021-09-30,2021,3,Vietnam,Asia South East,Female,Under 18,9
+2021-09-30,2021,3,Vietnam,Asia South East,Male,Under 18,6
 2021-09-30,2021,3,Yemen,Middle East,Female,18-29,5
 2021-09-30,2021,3,Yemen,Middle East,Female,30-49,11
 2021-09-30,2021,3,Yemen,Middle East,Female,Under 18,16
@@ -6995,81 +6981,84 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2021-09-30,2021,3,Yemen,Middle East,Male,Under 18,18
 2021-09-30,2021,3,Zambia,Africa Sub-Saharan,Female,Under 18,1
 2021-09-30,2021,3,Zambia,Africa Sub-Saharan,Male,Under 18,1
+2021-09-30,2021,3,Zimbabwe,Africa Sub-Saharan,Female,18-29,1
 2021-09-30,2021,3,Zimbabwe,Africa Sub-Saharan,Female,30-49,1
-2021-09-30,2021,3,Zimbabwe,Africa Sub-Saharan,Female,Under 18,3
+2021-09-30,2021,3,Zimbabwe,Africa Sub-Saharan,Female,Under 18,2
 2021-12-31,2021,4,Afghanistan,Asia Central,Female,18-29,3
-2021-12-31,2021,4,Afghanistan,Asia Central,Female,30-49,7
-2021-12-31,2021,4,Afghanistan,Asia Central,Female,Under 18,11
+2021-12-31,2021,4,Afghanistan,Asia Central,Female,30-49,6
+2021-12-31,2021,4,Afghanistan,Asia Central,Female,Under 18,8
+2021-12-31,2021,4,Afghanistan,Asia Central,Male,18-29,1
 2021-12-31,2021,4,Afghanistan,Asia Central,Male,50-69,1
-2021-12-31,2021,4,Afghanistan,Asia Central,Male,Under 18,13
+2021-12-31,2021,4,Afghanistan,Asia Central,Male,Under 18,9
 2021-12-31,2021,4,Algeria,Africa North,Male,30-49,1
 2021-12-31,2021,4,Angola,Africa Sub-Saharan,Male,30-49,1
-2021-12-31,2021,4,Bangladesh,Asia South,Female,30-49,4
+2021-12-31,2021,4,Bangladesh,Asia South,Female,30-49,3
 2021-12-31,2021,4,Bangladesh,Asia South,Female,Under 18,2
+2021-12-31,2021,4,Bangladesh,Asia South,Male,18-29,1
 2021-12-31,2021,4,Bangladesh,Asia South,Male,50-69,1
-2021-12-31,2021,4,Bangladesh,Asia South,Male,Under 18,2
-2021-12-31,2021,4,Benin,Africa Sub-Saharan,Female,Under 18,1
-2021-12-31,2021,4,Benin,Africa Sub-Saharan,Male,Under 18,2
-2021-12-31,2021,4,Botswana,Africa Sub-Saharan,Female,Under 18,2
+2021-12-31,2021,4,Botswana,Africa Sub-Saharan,Female,18-29,1
+2021-12-31,2021,4,Botswana,Africa Sub-Saharan,Female,Under 18,1
 2021-12-31,2021,4,Burundi,Africa Sub-Saharan,Female,18-29,2
 2021-12-31,2021,4,Burundi,Africa Sub-Saharan,Female,Under 18,1
 2021-12-31,2021,4,Burundi,Africa Sub-Saharan,Male,Under 18,1
-2021-12-31,2021,4,Cameroon,Africa Sub-Saharan,Female,18-29,2
+2021-12-31,2021,4,Cameroon,Africa Sub-Saharan,Female,18-29,1
 2021-12-31,2021,4,Cameroon,Africa Sub-Saharan,Female,Under 18,1
 2021-12-31,2021,4,Cameroon,Africa Sub-Saharan,Male,30-49,1
-2021-12-31,2021,4,Cameroon,Africa Sub-Saharan,Male,Under 18,2
-2021-12-31,2021,4,Congo (Democratic Republic),Africa Sub-Saharan,Female,30-49,2
-2021-12-31,2021,4,Congo (Democratic Republic),Africa Sub-Saharan,Female,Under 18,6
-2021-12-31,2021,4,Congo (Democratic Republic),Africa Sub-Saharan,Male,Under 18,6
-2021-12-31,2021,4,Egypt,Africa North,Female,18-29,2
-2021-12-31,2021,4,Egypt,Africa North,Female,30-49,4
-2021-12-31,2021,4,Egypt,Africa North,Female,Under 18,7
-2021-12-31,2021,4,Egypt,Africa North,Male,Under 18,5
-2021-12-31,2021,4,Eritrea,Africa Sub-Saharan,Female,18-29,88
-2021-12-31,2021,4,Eritrea,Africa Sub-Saharan,Female,30-49,15
-2021-12-31,2021,4,Eritrea,Africa Sub-Saharan,Female,50-69,3
-2021-12-31,2021,4,Eritrea,Africa Sub-Saharan,Female,Under 18,24
-2021-12-31,2021,4,Eritrea,Africa Sub-Saharan,Male,18-29,4
+2021-12-31,2021,4,Cameroon,Africa Sub-Saharan,Male,Under 18,1
+2021-12-31,2021,4,Congo,Africa Sub-Saharan,Female,30-49,1
+2021-12-31,2021,4,Congo,Africa Sub-Saharan,Female,Under 18,3
+2021-12-31,2021,4,Congo,Africa Sub-Saharan,Male,Under 18,4
+2021-12-31,2021,4,Congo (Democratic Republic),Africa Sub-Saharan,Female,Under 18,2
+2021-12-31,2021,4,Congo (Democratic Republic),Africa Sub-Saharan,Male,Under 18,2
+2021-12-31,2021,4,Egypt,Africa North,Female,18-29,1
+2021-12-31,2021,4,Egypt,Africa North,Female,30-49,3
+2021-12-31,2021,4,Egypt,Africa North,Female,Under 18,5
+2021-12-31,2021,4,Egypt,Africa North,Male,Under 18,4
+2021-12-31,2021,4,Eritrea,Africa Sub-Saharan,Female,18-29,65
+2021-12-31,2021,4,Eritrea,Africa Sub-Saharan,Female,30-49,17
+2021-12-31,2021,4,Eritrea,Africa Sub-Saharan,Female,50-69,2
+2021-12-31,2021,4,Eritrea,Africa Sub-Saharan,Female,Under 18,12
+2021-12-31,2021,4,Eritrea,Africa Sub-Saharan,Male,18-29,3
 2021-12-31,2021,4,Eritrea,Africa Sub-Saharan,Male,30-49,7
 2021-12-31,2021,4,Eritrea,Africa Sub-Saharan,Male,50-69,1
-2021-12-31,2021,4,Eritrea,Africa Sub-Saharan,Male,Under 18,35
-2021-12-31,2021,4,Ethiopia,Africa Sub-Saharan,Female,18-29,17
-2021-12-31,2021,4,Ethiopia,Africa Sub-Saharan,Female,30-49,6
+2021-12-31,2021,4,Eritrea,Africa Sub-Saharan,Male,Under 18,21
+2021-12-31,2021,4,Ethiopia,Africa Sub-Saharan,Female,18-29,16
+2021-12-31,2021,4,Ethiopia,Africa Sub-Saharan,Female,30-49,5
 2021-12-31,2021,4,Ethiopia,Africa Sub-Saharan,Female,Under 18,4
+2021-12-31,2021,4,Ethiopia,Africa Sub-Saharan,Male,18-29,1
 2021-12-31,2021,4,Ethiopia,Africa Sub-Saharan,Male,30-49,2
-2021-12-31,2021,4,Ethiopia,Africa Sub-Saharan,Male,Under 18,9
+2021-12-31,2021,4,Ethiopia,Africa Sub-Saharan,Male,Under 18,7
+2021-12-31,2021,4,Ethiopia,Africa Sub-Saharan,Unknown Sex,30-49,1
 2021-12-31,2021,4,Ghana,Africa Sub-Saharan,Male,Under 18,1
 2021-12-31,2021,4,Guinea,Africa Sub-Saharan,Female,Under 18,2
 2021-12-31,2021,4,Guinea,Africa Sub-Saharan,Male,Under 18,1
 2021-12-31,2021,4,India,Asia South,Female,18-29,1
-2021-12-31,2021,4,Iran,Middle East,Female,18-29,18
-2021-12-31,2021,4,Iran,Middle East,Female,30-49,60
+2021-12-31,2021,4,Iran,Middle East,Female,18-29,15
+2021-12-31,2021,4,Iran,Middle East,Female,30-49,55
 2021-12-31,2021,4,Iran,Middle East,Female,50-69,2
-2021-12-31,2021,4,Iran,Middle East,Female,Under 18,51
+2021-12-31,2021,4,Iran,Middle East,Female,Under 18,46
 2021-12-31,2021,4,Iran,Middle East,Male,18-29,1
-2021-12-31,2021,4,Iran,Middle East,Male,30-49,8
-2021-12-31,2021,4,Iran,Middle East,Male,50-69,7
+2021-12-31,2021,4,Iran,Middle East,Male,30-49,6
+2021-12-31,2021,4,Iran,Middle East,Male,50-69,8
 2021-12-31,2021,4,Iran,Middle East,Male,70+,1
-2021-12-31,2021,4,Iran,Middle East,Male,Under 18,59
+2021-12-31,2021,4,Iran,Middle East,Male,Under 18,43
 2021-12-31,2021,4,Iraq,Middle East,Female,18-29,1
 2021-12-31,2021,4,Iraq,Middle East,Female,30-49,2
-2021-12-31,2021,4,Iraq,Middle East,Female,Under 18,3
+2021-12-31,2021,4,Iraq,Middle East,Female,Under 18,2
 2021-12-31,2021,4,Iraq,Middle East,Male,30-49,2
 2021-12-31,2021,4,Iraq,Middle East,Male,70+,1
 2021-12-31,2021,4,Iraq,Middle East,Male,Under 18,2
-2021-12-31,2021,4,Ivory Coast,Africa Sub-Saharan,Female,18-29,1
+2021-12-31,2021,4,Ivory Coast,Africa Sub-Saharan,Female,30-49,1
 2021-12-31,2021,4,Ivory Coast,Africa Sub-Saharan,Male,Under 18,2
 2021-12-31,2021,4,Jordan,Middle East,Female,Under 18,2
 2021-12-31,2021,4,Jordan,Middle East,Male,30-49,1
 2021-12-31,2021,4,Jordan,Middle East,Male,Under 18,1
-2021-12-31,2021,4,Kenya,Africa Sub-Saharan,Female,Under 18,1
 2021-12-31,2021,4,Kenya,Africa Sub-Saharan,Male,18-29,2
-2021-12-31,2021,4,Kenya,Africa Sub-Saharan,Male,Under 18,2
+2021-12-31,2021,4,Kenya,Africa Sub-Saharan,Male,Under 18,1
 2021-12-31,2021,4,Kuwait,Middle East,Female,30-49,3
 2021-12-31,2021,4,Kuwait,Middle East,Female,Under 18,1
-2021-12-31,2021,4,Kuwait,Middle East,Male,Under 18,3
-2021-12-31,2021,4,Liberia,Africa Sub-Saharan,Male,Under 18,1
-2021-12-31,2021,4,Libya,Africa North,Female,18-29,2
+2021-12-31,2021,4,Kuwait,Middle East,Male,Under 18,2
+2021-12-31,2021,4,Libya,Africa North,Female,18-29,1
 2021-12-31,2021,4,Libya,Africa North,Female,30-49,1
 2021-12-31,2021,4,Libya,Africa North,Female,Under 18,1
 2021-12-31,2021,4,Libya,Africa North,Male,Under 18,1
@@ -7081,449 +7070,422 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2021-12-31,2021,4,Nigeria,Africa Sub-Saharan,Male,18-29,1
 2021-12-31,2021,4,Nigeria,Africa Sub-Saharan,Male,Under 18,1
 2021-12-31,2021,4,Occupied Palestinian Territories,Middle East,Female,18-29,1
-2021-12-31,2021,4,Occupied Palestinian Territories,Middle East,Female,30-49,1
 2021-12-31,2021,4,Occupied Palestinian Territories,Middle East,Male,Under 18,1
-2021-12-31,2021,4,Other and unknown,Other,Female,30-49,1
+2021-12-31,2021,4,Other and unknown,Other,Female,18-29,1
+2021-12-31,2021,4,Other and unknown,Other,Female,30-49,2
 2021-12-31,2021,4,Other and unknown,Other,Female,Under 18,6
 2021-12-31,2021,4,Other and unknown,Other,Male,50-69,1
+2021-12-31,2021,4,Other and unknown,Other,Male,Under 18,4
+2021-12-31,2021,4,Other and unknown,Other,Female,30-49,2
+2021-12-31,2021,4,Other and unknown,Other,Female,Under 18,5
+2021-12-31,2021,4,Other and unknown,Other,Male,50-69,1
 2021-12-31,2021,4,Other and unknown,Other,Male,Under 18,3
-2021-12-31,2021,4,Pakistan,Asia South,Female,18-29,4
-2021-12-31,2021,4,Pakistan,Asia South,Female,30-49,7
+2021-12-31,2021,4,Pakistan,Asia South,Female,18-29,6
+2021-12-31,2021,4,Pakistan,Asia South,Female,30-49,5
 2021-12-31,2021,4,Pakistan,Asia South,Female,50-69,4
-2021-12-31,2021,4,Pakistan,Asia South,Female,Under 18,15
-2021-12-31,2021,4,Pakistan,Asia South,Male,30-49,4
+2021-12-31,2021,4,Pakistan,Asia South,Female,Under 18,11
+2021-12-31,2021,4,Pakistan,Asia South,Male,30-49,2
 2021-12-31,2021,4,Pakistan,Asia South,Male,50-69,2
-2021-12-31,2021,4,Pakistan,Asia South,Male,Under 18,13
-2021-12-31,2021,4,Refugee,Other,Female,30-49,1
-2021-12-31,2021,4,Refugee,Other,Female,Under 18,2
-2021-12-31,2021,4,Refugee,Other,Male,50-69,1
-2021-12-31,2021,4,Refugee,Other,Male,Under 18,4
+2021-12-31,2021,4,Pakistan,Asia South,Male,Under 18,11
 2021-12-31,2021,4,Russia,Europe Other,Female,30-49,1
 2021-12-31,2021,4,Russia,Europe Other,Female,Under 18,1
-2021-12-31,2021,4,Russia,Europe Other,Male,Under 18,2
+2021-12-31,2021,4,Russia,Europe Other,Male,18-29,1
+2021-12-31,2021,4,Russia,Europe Other,Male,Under 18,1
 2021-12-31,2021,4,Rwanda,Africa Sub-Saharan,Female,18-29,1
 2021-12-31,2021,4,Rwanda,Africa Sub-Saharan,Male,50-69,1
 2021-12-31,2021,4,Rwanda,Africa Sub-Saharan,Male,Under 18,1
 2021-12-31,2021,4,Sierra Leone,Africa Sub-Saharan,Female,Under 18,1
 2021-12-31,2021,4,Sierra Leone,Africa Sub-Saharan,Male,Under 18,2
-2021-12-31,2021,4,Somalia,Africa Sub-Saharan,Female,18-29,1
+2021-12-31,2021,4,Somalia,Africa Sub-Saharan,Female,18-29,2
 2021-12-31,2021,4,Somalia,Africa Sub-Saharan,Female,30-49,4
-2021-12-31,2021,4,Somalia,Africa Sub-Saharan,Female,Under 18,15
+2021-12-31,2021,4,Somalia,Africa Sub-Saharan,Female,Under 18,14
 2021-12-31,2021,4,Somalia,Africa Sub-Saharan,Male,30-49,3
-2021-12-31,2021,4,Somalia,Africa Sub-Saharan,Male,Under 18,17
+2021-12-31,2021,4,Somalia,Africa Sub-Saharan,Male,Under 18,16
+2021-12-31,2021,4,South Sudan,Africa Sub-Saharan,Male,30-49,1
 2021-12-31,2021,4,Sri Lanka,Asia South,Female,18-29,1
 2021-12-31,2021,4,Sri Lanka,Asia South,Female,30-49,4
 2021-12-31,2021,4,Sri Lanka,Asia South,Female,50-69,1
 2021-12-31,2021,4,Sri Lanka,Asia South,Female,Under 18,3
-2021-12-31,2021,4,Sri Lanka,Asia South,Male,18-29,1
-2021-12-31,2021,4,Sri Lanka,Asia South,Male,30-49,1
+2021-12-31,2021,4,Sri Lanka,Asia South,Male,30-49,2
 2021-12-31,2021,4,Sri Lanka,Asia South,Male,Under 18,5
-2021-12-31,2021,4,St. Vincent and the Grenadines,America Central and South,Male,30-49,1
-2021-12-31,2021,4,Stateless,Other,Female,18-29,2
-2021-12-31,2021,4,Stateless,Other,Female,30-49,1
-2021-12-31,2021,4,Stateless,Other,Female,Under 18,5
-2021-12-31,2021,4,Stateless,Other,Male,50-69,1
-2021-12-31,2021,4,Stateless,Other,Male,Under 18,3
-2021-12-31,2021,4,Sudan,Africa North,Female,18-29,89
-2021-12-31,2021,4,Sudan,Africa North,Female,30-49,30
+2021-12-31,2021,4,St Vincent & the Grenadines,America Central and South,Male,30-49,1
+2021-12-31,2021,4,Stateless,Other,Female,Under 18,1
+2021-12-31,2021,4,Stateless,Other,Male,Under 18,2
+2021-12-31,2021,4,Sudan,Africa North,Female,18-29,80
+2021-12-31,2021,4,Sudan,Africa North,Female,30-49,31
 2021-12-31,2021,4,Sudan,Africa North,Female,50-69,2
-2021-12-31,2021,4,Sudan,Africa North,Female,Under 18,44
+2021-12-31,2021,4,Sudan,Africa North,Female,Under 18,38
 2021-12-31,2021,4,Sudan,Africa North,Male,18-29,2
-2021-12-31,2021,4,Sudan,Africa North,Male,30-49,5
+2021-12-31,2021,4,Sudan,Africa North,Male,30-49,4
 2021-12-31,2021,4,Sudan,Africa North,Male,50-69,4
-2021-12-31,2021,4,Sudan,Africa North,Male,Under 18,40
-2021-12-31,2021,4,Sudan (South),Africa Sub-Saharan,Male,30-49,1
+2021-12-31,2021,4,Sudan,Africa North,Male,Under 18,37
 2021-12-31,2021,4,Sweden,EU 14,Female,30-49,1
-2021-12-31,2021,4,Sweden,EU 14,Female,Under 18,1
 2021-12-31,2021,4,Sweden,EU 14,Male,Under 18,1
-2021-12-31,2021,4,Syria,Middle East,Female,18-29,50
+2021-12-31,2021,4,Syria,Middle East,Female,18-29,45
 2021-12-31,2021,4,Syria,Middle East,Female,30-49,14
-2021-12-31,2021,4,Syria,Middle East,Female,Under 18,86
+2021-12-31,2021,4,Syria,Middle East,Female,Under 18,81
 2021-12-31,2021,4,Syria,Middle East,Male,30-49,2
 2021-12-31,2021,4,Syria,Middle East,Male,50-69,2
 2021-12-31,2021,4,Syria,Middle East,Male,70+,1
-2021-12-31,2021,4,Syria,Middle East,Male,Under 18,68
+2021-12-31,2021,4,Syria,Middle East,Male,Under 18,61
 2021-12-31,2021,4,Tanzania,Africa Sub-Saharan,Female,30-49,1
 2021-12-31,2021,4,Tanzania,Africa Sub-Saharan,Female,Under 18,1
 2021-12-31,2021,4,Tanzania,Africa Sub-Saharan,Male,Under 18,2
 2021-12-31,2021,4,Thailand,Asia South East,Female,18-29,1
 2021-12-31,2021,4,Thailand,Asia South East,Male,Under 18,1
-2021-12-31,2021,4,Turkey,Europe Other,Female,30-49,12
+2021-12-31,2021,4,Turkey,Europe Other,Female,30-49,9
 2021-12-31,2021,4,Turkey,Europe Other,Female,50-69,1
-2021-12-31,2021,4,Turkey,Europe Other,Female,Under 18,11
+2021-12-31,2021,4,Turkey,Europe Other,Female,Under 18,10
 2021-12-31,2021,4,Turkey,Europe Other,Male,18-29,1
 2021-12-31,2021,4,Turkey,Europe Other,Male,30-49,1
-2021-12-31,2021,4,Turkey,Europe Other,Male,Under 18,8
+2021-12-31,2021,4,Turkey,Europe Other,Male,Under 18,6
 2021-12-31,2021,4,Uganda,Africa Sub-Saharan,Female,18-29,3
 2021-12-31,2021,4,Uganda,Africa Sub-Saharan,Female,Under 18,6
-2021-12-31,2021,4,Uganda,Africa Sub-Saharan,Male,18-29,2
-2021-12-31,2021,4,Uganda,Africa Sub-Saharan,Male,30-49,1
+2021-12-31,2021,4,Uganda,Africa Sub-Saharan,Male,18-29,1
+2021-12-31,2021,4,Uganda,Africa Sub-Saharan,Male,30-49,2
 2021-12-31,2021,4,Uganda,Africa Sub-Saharan,Male,Under 18,4
 2021-12-31,2021,4,United Arab Emirates,Middle East,Female,50-69,1
 2021-12-31,2021,4,Uzbekistan,Asia Central,Female,Under 18,1
 2021-12-31,2021,4,Venezuela,America Central and South,Female,30-49,1
 2021-12-31,2021,4,Venezuela,America Central and South,Male,Under 18,2
-2021-12-31,2021,4,Vietnam,Asia South East,Female,30-49,1
 2021-12-31,2021,4,Vietnam,Asia South East,Female,Under 18,2
-2021-12-31,2021,4,Vietnam,Asia South East,Male,Under 18,1
-2021-12-31,2021,4,Yemen,Middle East,Female,18-29,8
-2021-12-31,2021,4,Yemen,Middle East,Female,30-49,4
+2021-12-31,2021,4,Yemen,Middle East,Female,18-29,7
+2021-12-31,2021,4,Yemen,Middle East,Female,30-49,3
 2021-12-31,2021,4,Yemen,Middle East,Female,Under 18,5
 2021-12-31,2021,4,Yemen,Middle East,Male,18-29,1
 2021-12-31,2021,4,Yemen,Middle East,Male,30-49,2
-2021-12-31,2021,4,Yemen,Middle East,Male,Under 18,14
+2021-12-31,2021,4,Yemen,Middle East,Male,Under 18,10
 2021-12-31,2021,4,Zimbabwe,Africa Sub-Saharan,Female,50-69,1
 2021-12-31,2021,4,Zimbabwe,Africa Sub-Saharan,Female,Under 18,1
 2021-12-31,2021,4,Zimbabwe,Africa Sub-Saharan,Male,30-49,1
-2022-03-31,2022,1,Afghanistan,Asia Central,Female,Under 18,6
 2022-03-31,2022,1,Afghanistan,Asia Central,Female,18-29,6
 2022-03-31,2022,1,Afghanistan,Asia Central,Female,30-49,1
 2022-03-31,2022,1,Afghanistan,Asia Central,Female,50-69,2
-2022-03-31,2022,1,Afghanistan,Asia Central,Male,Under 18,9
+2022-03-31,2022,1,Afghanistan,Asia Central,Female,Under 18,5
 2022-03-31,2022,1,Afghanistan,Asia Central,Male,18-29,1
 2022-03-31,2022,1,Afghanistan,Asia Central,Male,30-49,1
 2022-03-31,2022,1,Afghanistan,Asia Central,Male,50-69,1
+2022-03-31,2022,1,Afghanistan,Asia Central,Male,Under 18,7
 2022-03-31,2022,1,Albania,Europe Other,Male,18-29,1
 2022-03-31,2022,1,Albania,Europe Other,Male,30-49,1
 2022-03-31,2022,1,Azerbaijan,Europe Other,Male,18-29,2
 2022-03-31,2022,1,Bahrain,Middle East,Female,18-29,1
-2022-03-31,2022,1,Bangladesh,Asia South,Female,Under 18,1
 2022-03-31,2022,1,Bangladesh,Asia South,Female,18-29,1
-2022-03-31,2022,1,Bangladesh,Asia South,Female,30-49,2
-2022-03-31,2022,1,Bangladesh,Asia South,Male,Under 18,3
+2022-03-31,2022,1,Bangladesh,Asia South,Female,30-49,1
+2022-03-31,2022,1,Bangladesh,Asia South,Female,Under 18,1
 2022-03-31,2022,1,Bangladesh,Asia South,Male,30-49,1
+2022-03-31,2022,1,Bangladesh,Asia South,Male,Under 18,3
 2022-03-31,2022,1,Benin,Africa Sub-Saharan,Female,Under 18,1
 2022-03-31,2022,1,Bolivia,America Central and South,Female,Under 18,1
-2022-03-31,2022,1,Bolivia,America Central and South,Male,Under 18,1
-2022-03-31,2022,1,Burma,Asia South East,Female,Under 18,1
-2022-03-31,2022,1,Burma,Asia South East,Female,30-49,1
-2022-03-31,2022,1,Burma,Asia South East,Male,Under 18,2
-2022-03-31,2022,1,Burundi,Africa Sub-Saharan,Female,Under 18,1
-2022-03-31,2022,1,Cameroon,Africa Sub-Saharan,Female,Under 18,2
+2022-03-31,2022,1,Bolivia,America Central and South,Male,18-29,1
+2022-03-31,2022,1,Cameroon,Africa Sub-Saharan,Female,18-29,1
 2022-03-31,2022,1,Cameroon,Africa Sub-Saharan,Female,30-49,1
-2022-03-31,2022,1,Cameroon,Africa Sub-Saharan,Male,Under 18,1
+2022-03-31,2022,1,Cameroon,Africa Sub-Saharan,Female,Under 18,1
 2022-03-31,2022,1,Cameroon,Africa Sub-Saharan,Male,18-29,1
+2022-03-31,2022,1,Cameroon,Africa Sub-Saharan,Male,Under 18,1
+2022-03-31,2022,1,Congo,Africa Sub-Saharan,Female,30-49,2
+2022-03-31,2022,1,Congo,Africa Sub-Saharan,Female,Under 18,3
+2022-03-31,2022,1,Congo,Africa Sub-Saharan,Male,18-29,1
 2022-03-31,2022,1,Congo,Africa Sub-Saharan,Male,Under 18,1
-2022-03-31,2022,1,Congo (Democratic Republic),Africa Sub-Saharan,Female,Under 18,3
-2022-03-31,2022,1,Congo (Democratic Republic),Africa Sub-Saharan,Female,30-49,2
-2022-03-31,2022,1,Congo (Democratic Republic),Africa Sub-Saharan,Male,Under 18,1
-2022-03-31,2022,1,Cuba,America Central and South,Female,Under 18,1
 2022-03-31,2022,1,Cuba,America Central and South,Female,18-29,1
-2022-03-31,2022,1,Egypt,Africa North,Female,Under 18,5
-2022-03-31,2022,1,Egypt,Africa North,Female,18-29,2
+2022-03-31,2022,1,Cuba,America Central and South,Female,Under 18,1
+2022-03-31,2022,1,Egypt,Africa North,Female,18-29,1
 2022-03-31,2022,1,Egypt,Africa North,Female,30-49,3
-2022-03-31,2022,1,Egypt,Africa North,Male,Under 18,5
-2022-03-31,2022,1,Eritrea,Africa Sub-Saharan,Female,Under 18,21
-2022-03-31,2022,1,Eritrea,Africa Sub-Saharan,Female,18-29,55
-2022-03-31,2022,1,Eritrea,Africa Sub-Saharan,Female,30-49,16
+2022-03-31,2022,1,Egypt,Africa North,Female,Under 18,5
+2022-03-31,2022,1,Egypt,Africa North,Male,Under 18,4
+2022-03-31,2022,1,Eritrea,Africa Sub-Saharan,Female,18-29,40
+2022-03-31,2022,1,Eritrea,Africa Sub-Saharan,Female,30-49,14
 2022-03-31,2022,1,Eritrea,Africa Sub-Saharan,Female,50-69,1
-2022-03-31,2022,1,Eritrea,Africa Sub-Saharan,Male,Under 18,28
-2022-03-31,2022,1,Eritrea,Africa Sub-Saharan,Male,18-29,3
-2022-03-31,2022,1,Eritrea,Africa Sub-Saharan,Male,30-49,6
+2022-03-31,2022,1,Eritrea,Africa Sub-Saharan,Female,Under 18,16
+2022-03-31,2022,1,Eritrea,Africa Sub-Saharan,Male,18-29,2
+2022-03-31,2022,1,Eritrea,Africa Sub-Saharan,Male,30-49,7
 2022-03-31,2022,1,Eritrea,Africa Sub-Saharan,Male,50-69,1
-2022-03-31,2022,1,Eritrea,Africa Sub-Saharan,Male,70+,1
-2022-03-31,2022,1,Ethiopia,Africa Sub-Saharan,Female,Under 18,4
-2022-03-31,2022,1,Ethiopia,Africa Sub-Saharan,Female,18-29,8
+2022-03-31,2022,1,Eritrea,Africa Sub-Saharan,Male,Under 18,20
+2022-03-31,2022,1,Ethiopia,Africa Sub-Saharan,Female,18-29,7
 2022-03-31,2022,1,Ethiopia,Africa Sub-Saharan,Female,30-49,3
-2022-03-31,2022,1,Ethiopia,Africa Sub-Saharan,Male,Under 18,4
+2022-03-31,2022,1,Ethiopia,Africa Sub-Saharan,Female,Under 18,4
+2022-03-31,2022,1,Ethiopia,Africa Sub-Saharan,Male,18-29,2
 2022-03-31,2022,1,Ethiopia,Africa Sub-Saharan,Male,30-49,5
-2022-03-31,2022,1,Greece,EU 14,Male,Under 18,1
+2022-03-31,2022,1,Ethiopia,Africa Sub-Saharan,Male,Under 18,2
 2022-03-31,2022,1,Guinea,Africa Sub-Saharan,Female,Under 18,1
 2022-03-31,2022,1,Guinea,Africa Sub-Saharan,Male,Under 18,1
-2022-03-31,2022,1,India,Asia South,Female,Under 18,1
 2022-03-31,2022,1,India,Asia South,Female,30-49,1
+2022-03-31,2022,1,India,Asia South,Female,Under 18,1
 2022-03-31,2022,1,India,Asia South,Male,18-29,1
-2022-03-31,2022,1,Iran,Middle East,Female,Under 18,76
-2022-03-31,2022,1,Iran,Middle East,Female,18-29,28
-2022-03-31,2022,1,Iran,Middle East,Female,30-49,92
+2022-03-31,2022,1,Iran,Middle East,Female,18-29,29
+2022-03-31,2022,1,Iran,Middle East,Female,30-49,90
 2022-03-31,2022,1,Iran,Middle East,Female,50-69,3
-2022-03-31,2022,1,Iran,Middle East,Male,Under 18,74
+2022-03-31,2022,1,Iran,Middle East,Female,Under 18,68
 2022-03-31,2022,1,Iran,Middle East,Male,18-29,3
 2022-03-31,2022,1,Iran,Middle East,Male,30-49,13
 2022-03-31,2022,1,Iran,Middle East,Male,50-69,7
-2022-03-31,2022,1,Iraq,Middle East,Female,Under 18,6
+2022-03-31,2022,1,Iran,Middle East,Male,Under 18,69
 2022-03-31,2022,1,Iraq,Middle East,Female,18-29,3
 2022-03-31,2022,1,Iraq,Middle East,Female,30-49,2
-2022-03-31,2022,1,Iraq,Middle East,Female,50-69,1
-2022-03-31,2022,1,Iraq,Middle East,Male,Under 18,3
+2022-03-31,2022,1,Iraq,Middle East,Female,Under 18,4
 2022-03-31,2022,1,Iraq,Middle East,Male,30-49,1
-2022-03-31,2022,1,Ivory Coast,Africa Sub-Saharan,Male,Under 18,1
-2022-03-31,2022,1,Jordan,Middle East,Female,Under 18,4
+2022-03-31,2022,1,Iraq,Middle East,Male,Under 18,3
+2022-03-31,2022,1,Ivory Coast,Africa Sub-Saharan,Male,18-29,1
 2022-03-31,2022,1,Jordan,Middle East,Female,18-29,1
 2022-03-31,2022,1,Jordan,Middle East,Female,30-49,1
-2022-03-31,2022,1,Jordan,Middle East,Male,Under 18,1
+2022-03-31,2022,1,Jordan,Middle East,Female,Under 18,4
 2022-03-31,2022,1,Jordan,Middle East,Male,18-29,1
+2022-03-31,2022,1,Jordan,Middle East,Male,Under 18,1
 2022-03-31,2022,1,Kenya,Africa Sub-Saharan,Female,30-49,1
 2022-03-31,2022,1,Kosovo,Europe Other,Male,Under 18,2
-2022-03-31,2022,1,Kuwait,Middle East,Female,Under 18,1
 2022-03-31,2022,1,Kuwait,Middle East,Female,18-29,1
 2022-03-31,2022,1,Kuwait,Middle East,Female,50-69,1
+2022-03-31,2022,1,Kuwait,Middle East,Female,Under 18,1
 2022-03-31,2022,1,Kuwait,Middle East,Male,Under 18,2
 2022-03-31,2022,1,Lebanon,Middle East,Male,Under 18,2
-2022-03-31,2022,1,Mauritania,Africa North,Female,Under 18,2
 2022-03-31,2022,1,Mauritania,Africa North,Female,30-49,1
-2022-03-31,2022,1,Mauritania,Africa North,Male,Under 18,1
+2022-03-31,2022,1,Mauritania,Africa North,Female,Under 18,2
 2022-03-31,2022,1,Morocco,Africa North,Male,18-29,1
 2022-03-31,2022,1,Namibia,Africa Sub-Saharan,Female,Under 18,1
-2022-03-31,2022,1,Nigeria,Africa Sub-Saharan,Female,Under 18,1
+2022-03-31,2022,1,Nigeria,Africa Sub-Saharan,Female,18-29,1
 2022-03-31,2022,1,Nigeria,Africa Sub-Saharan,Male,50-69,1
+2022-03-31,2022,1,Occupied Palestinian Territories,Middle East,Female,30-49,1
 2022-03-31,2022,1,Occupied Palestinian Territories,Middle East,Female,Under 18,3
-2022-03-31,2022,1,Occupied Palestinian Territories,Middle East,Female,18-29,1
-2022-03-31,2022,1,Occupied Palestinian Territories,Middle East,Female,30-49,2
-2022-03-31,2022,1,Occupied Palestinian Territories,Middle East,Male,Under 18,6
-2022-03-31,2022,1,Occupied Palestinian Territories,Middle East,Male,30-49,1
-2022-03-31,2022,1,Other and unknown,Other,Female,Under 18,2
-2022-03-31,2022,1,Other and unknown,Other,Female,30-49,1
-2022-03-31,2022,1,Pakistan,Asia South,Female,Under 18,7
+2022-03-31,2022,1,Occupied Palestinian Territories,Middle East,Male,Under 18,4
+2022-03-31,2022,1,Other and unknown,Other,Female,30-49,5
+2022-03-31,2022,1,Other and unknown,Other,Female,Under 18,5
+2022-03-31,2022,1,Other and unknown,Other,Male,18-29,2
+2022-03-31,2022,1,Other and unknown,Other,Male,30-49,1
+2022-03-31,2022,1,Other and unknown,Other,Male,Under 18,11
+2022-03-31,2022,1,Other and unknown,Other,Female,18-29,1
+2022-03-31,2022,1,Other and unknown,Other,Female,30-49,2
+2022-03-31,2022,1,Other and unknown,Other,Female,Under 18,1
 2022-03-31,2022,1,Pakistan,Asia South,Female,18-29,1
 2022-03-31,2022,1,Pakistan,Asia South,Female,30-49,2
 2022-03-31,2022,1,Pakistan,Asia South,Female,50-69,1
-2022-03-31,2022,1,Pakistan,Asia South,Male,Under 18,11
-2022-03-31,2022,1,Pakistan,Asia South,Male,30-49,4
+2022-03-31,2022,1,Pakistan,Asia South,Female,Under 18,7
+2022-03-31,2022,1,Pakistan,Asia South,Male,18-29,1
+2022-03-31,2022,1,Pakistan,Asia South,Male,30-49,3
 2022-03-31,2022,1,Pakistan,Asia South,Male,50-69,2
+2022-03-31,2022,1,Pakistan,Asia South,Male,Under 18,8
 2022-03-31,2022,1,Philippines,Asia South East,Female,Under 18,1
-2022-03-31,2022,1,Philippines,Asia South East,Male,Under 18,1
-2022-03-31,2022,1,Refugee,Other,Female,Under 18,4
-2022-03-31,2022,1,Refugee,Other,Female,18-29,1
-2022-03-31,2022,1,Refugee,Other,Female,30-49,2
-2022-03-31,2022,1,Refugee,Other,Male,Under 18,6
-2022-03-31,2022,1,Refugee,Other,Male,30-49,1
+2022-03-31,2022,1,Philippines,Asia South East,Male,18-29,1
 2022-03-31,2022,1,Russia,Europe Other,Female,50-69,1
-2022-03-31,2022,1,Rwanda,Africa Sub-Saharan,Female,Under 18,2
+2022-03-31,2022,1,Rwanda,Africa Sub-Saharan,Female,18-29,1
+2022-03-31,2022,1,Rwanda,Africa Sub-Saharan,Female,Under 18,1
 2022-03-31,2022,1,Rwanda,Africa Sub-Saharan,Male,Under 18,1
 2022-03-31,2022,1,Sierra Leone,Africa Sub-Saharan,Female,Under 18,2
 2022-03-31,2022,1,Sierra Leone,Africa Sub-Saharan,Male,Under 18,4
-2022-03-31,2022,1,Somalia,Africa Sub-Saharan,Female,Under 18,15
-2022-03-31,2022,1,Somalia,Africa Sub-Saharan,Female,18-29,3
+2022-03-31,2022,1,Somalia,Africa Sub-Saharan,Female,18-29,4
 2022-03-31,2022,1,Somalia,Africa Sub-Saharan,Female,30-49,3
 2022-03-31,2022,1,Somalia,Africa Sub-Saharan,Female,50-69,1
-2022-03-31,2022,1,Somalia,Africa Sub-Saharan,Male,Under 18,15
-2022-03-31,2022,1,Somalia,Africa Sub-Saharan,Male,18-29,1
-2022-03-31,2022,1,Somalia,Africa Sub-Saharan,Male,30-49,1
-2022-03-31,2022,1,Somalia,Africa Sub-Saharan,Male,50-69,1
-2022-03-31,2022,1,Sri Lanka,Asia South,Female,Under 18,5
+2022-03-31,2022,1,Somalia,Africa Sub-Saharan,Female,Under 18,12
+2022-03-31,2022,1,Somalia,Africa Sub-Saharan,Male,18-29,4
+2022-03-31,2022,1,Somalia,Africa Sub-Saharan,Male,30-49,2
+2022-03-31,2022,1,Somalia,Africa Sub-Saharan,Male,Under 18,12
 2022-03-31,2022,1,Sri Lanka,Asia South,Female,18-29,1
 2022-03-31,2022,1,Sri Lanka,Asia South,Female,30-49,5
 2022-03-31,2022,1,Sri Lanka,Asia South,Female,50-69,2
+2022-03-31,2022,1,Sri Lanka,Asia South,Female,Under 18,5
 2022-03-31,2022,1,Sri Lanka,Asia South,Male,Under 18,4
+2022-03-31,2022,1,Stateless,Other,Female,30-49,1
 2022-03-31,2022,1,Stateless,Other,Female,Under 18,4
-2022-03-31,2022,1,Stateless,Other,Female,30-49,4
-2022-03-31,2022,1,Stateless,Other,Male,Under 18,9
-2022-03-31,2022,1,Sudan,Africa North,Female,Under 18,35
-2022-03-31,2022,1,Sudan,Africa North,Female,18-29,86
-2022-03-31,2022,1,Sudan,Africa North,Female,30-49,24
-2022-03-31,2022,1,Sudan,Africa North,Male,Under 18,38
-2022-03-31,2022,1,Sudan,Africa North,Male,18-29,1
+2022-03-31,2022,1,Stateless,Other,Male,Under 18,6
+2022-03-31,2022,1,Sudan,Africa North,Female,18-29,74
+2022-03-31,2022,1,Sudan,Africa North,Female,30-49,31
+2022-03-31,2022,1,Sudan,Africa North,Female,Under 18,30
+2022-03-31,2022,1,Sudan,Africa North,Male,18-29,4
 2022-03-31,2022,1,Sudan,Africa North,Male,30-49,5
 2022-03-31,2022,1,Sudan,Africa North,Male,50-69,2
-2022-03-31,2022,1,Syria,Middle East,Female,Under 18,124
-2022-03-31,2022,1,Syria,Middle East,Female,18-29,90
-2022-03-31,2022,1,Syria,Middle East,Female,30-49,38
+2022-03-31,2022,1,Sudan,Africa North,Male,Under 18,34
+2022-03-31,2022,1,Syria,Middle East,Female,18-29,82
+2022-03-31,2022,1,Syria,Middle East,Female,30-49,42
 2022-03-31,2022,1,Syria,Middle East,Female,50-69,5
-2022-03-31,2022,1,Syria,Middle East,Male,Under 18,130
-2022-03-31,2022,1,Syria,Middle East,Male,18-29,1
+2022-03-31,2022,1,Syria,Middle East,Female,Under 18,122
+2022-03-31,2022,1,Syria,Middle East,Male,18-29,3
 2022-03-31,2022,1,Syria,Middle East,Male,30-49,2
 2022-03-31,2022,1,Syria,Middle East,Male,50-69,1
 2022-03-31,2022,1,Syria,Middle East,Male,70+,1
-2022-03-31,2022,1,Turkey,Europe Other,Female,Under 18,10
+2022-03-31,2022,1,Syria,Middle East,Male,Under 18,127
 2022-03-31,2022,1,Turkey,Europe Other,Female,18-29,3
 2022-03-31,2022,1,Turkey,Europe Other,Female,30-49,12
+2022-03-31,2022,1,Turkey,Europe Other,Female,Under 18,10
 2022-03-31,2022,1,Turkey,Europe Other,Male,Under 18,17
-2022-03-31,2022,1,Uganda,Africa Sub-Saharan,Female,Under 18,6
 2022-03-31,2022,1,Uganda,Africa Sub-Saharan,Female,30-49,3
-2022-03-31,2022,1,Uganda,Africa Sub-Saharan,Male,Under 18,3
+2022-03-31,2022,1,Uganda,Africa Sub-Saharan,Female,Under 18,5
 2022-03-31,2022,1,Uganda,Africa Sub-Saharan,Male,30-49,2
-2022-03-31,2022,1,Ukraine,Europe Other,Female,Under 18,2
+2022-03-31,2022,1,Uganda,Africa Sub-Saharan,Male,Under 18,3
 2022-03-31,2022,1,Ukraine,Europe Other,Female,30-49,1
+2022-03-31,2022,1,Ukraine,Europe Other,Female,Under 18,2
 2022-03-31,2022,1,Uzbekistan,Asia Central,Female,30-49,1
 2022-03-31,2022,1,Uzbekistan,Asia Central,Male,Under 18,2
 2022-03-31,2022,1,Vietnam,Asia South East,Female,Under 18,1
-2022-03-31,2022,1,Vietnam,Asia South East,Female,30-49,1
-2022-03-31,2022,1,Vietnam,Asia South East,Male,Under 18,1
-2022-03-31,2022,1,Yemen,Middle East,Female,Under 18,17
-2022-03-31,2022,1,Yemen,Middle East,Female,18-29,5
+2022-03-31,2022,1,Yemen,Middle East,Female,18-29,4
 2022-03-31,2022,1,Yemen,Middle East,Female,30-49,8
-2022-03-31,2022,1,Yemen,Middle East,Male,Under 18,10
-2022-03-31,2022,1,Zambia,Africa Sub-Saharan,Female,Under 18,2
+2022-03-31,2022,1,Yemen,Middle East,Female,Under 18,16
+2022-03-31,2022,1,Yemen,Middle East,Male,18-29,1
+2022-03-31,2022,1,Yemen,Middle East,Male,Under 18,6
 2022-03-31,2022,1,Zambia,Africa Sub-Saharan,Female,30-49,1
-2022-03-31,2022,1,Zimbabwe,Africa Sub-Saharan,Female,Under 18,3
+2022-03-31,2022,1,Zambia,Africa Sub-Saharan,Female,Under 18,2
+2022-03-31,2022,1,Zimbabwe,Africa Sub-Saharan,Female,18-29,1
+2022-03-31,2022,1,Zimbabwe,Africa Sub-Saharan,Female,Under 18,1
 2022-03-31,2022,1,Zimbabwe,Africa Sub-Saharan,Male,Under 18,1
-2022-06-30,2022,2,Afghanistan,Asia Central,Female,Under 18,3
-2022-06-30,2022,2,Afghanistan,Asia Central,Female,18-29,6
+2022-06-30,2022,2,Afghanistan,Asia Central,Female,18-29,4
 2022-06-30,2022,2,Afghanistan,Asia Central,Female,30-49,3
+2022-06-30,2022,2,Afghanistan,Asia Central,Female,Under 18,5
 2022-06-30,2022,2,Afghanistan,Asia Central,Male,Under 18,9
-2022-06-30,2022,2,Bangladesh,Asia South,Female,Under 18,2
 2022-06-30,2022,2,Bangladesh,Asia South,Female,18-29,1
-2022-06-30,2022,2,Bangladesh,Asia South,Female,30-49,5
-2022-06-30,2022,2,Bangladesh,Asia South,Male,Under 18,5
+2022-06-30,2022,2,Bangladesh,Asia South,Female,30-49,3
+2022-06-30,2022,2,Bangladesh,Asia South,Female,Under 18,2
+2022-06-30,2022,2,Bangladesh,Asia South,Male,Under 18,4
 2022-06-30,2022,2,Benin,Africa Sub-Saharan,Female,Under 18,1
 2022-06-30,2022,2,Benin,Africa Sub-Saharan,Male,Under 18,2
 2022-06-30,2022,2,Cambodia,Asia South East,Female,18-29,1
 2022-06-30,2022,2,Cambodia,Asia South East,Male,Under 18,1
 2022-06-30,2022,2,Cameroon,Africa Sub-Saharan,Female,Under 18,1
-2022-06-30,2022,2,Cameroon,Africa Sub-Saharan,Male,Under 18,3
-2022-06-30,2022,2,Chad,Africa Sub-Saharan,Female,30-49,1
+2022-06-30,2022,2,Cameroon,Africa Sub-Saharan,Male,18-29,1
+2022-06-30,2022,2,Cameroon,Africa Sub-Saharan,Male,Under 18,1
 2022-06-30,2022,2,China,Asia East,Female,Under 18,1
-2022-06-30,2022,2,Congo (Democratic Republic),Africa Sub-Saharan,Female,Under 18,3
-2022-06-30,2022,2,Congo (Democratic Republic),Africa Sub-Saharan,Female,18-29,1
-2022-06-30,2022,2,Congo (Democratic Republic),Africa Sub-Saharan,Male,Under 18,1
-2022-06-30,2022,2,Congo (Democratic Republic),Africa Sub-Saharan,Male,18-29,1
-2022-06-30,2022,2,Congo (Democratic Republic),Africa Sub-Saharan,Male,30-49,2
+2022-06-30,2022,2,Congo,Africa Sub-Saharan,Female,18-29,1
+2022-06-30,2022,2,Congo,Africa Sub-Saharan,Female,Under 18,3
+2022-06-30,2022,2,Congo,Africa Sub-Saharan,Male,18-29,1
+2022-06-30,2022,2,Congo,Africa Sub-Saharan,Male,30-49,2
+2022-06-30,2022,2,Congo,Africa Sub-Saharan,Male,Under 18,1
 2022-06-30,2022,2,Cuba,America Central and South,Male,Under 18,1
-2022-06-30,2022,2,Eritrea,Africa Sub-Saharan,Female,Under 18,17
-2022-06-30,2022,2,Eritrea,Africa Sub-Saharan,Female,18-29,24
-2022-06-30,2022,2,Eritrea,Africa Sub-Saharan,Female,30-49,12
-2022-06-30,2022,2,Eritrea,Africa Sub-Saharan,Female,50-69,1
-2022-06-30,2022,2,Eritrea,Africa Sub-Saharan,Male,Under 18,21
-2022-06-30,2022,2,Eritrea,Africa Sub-Saharan,Male,18-29,1
-2022-06-30,2022,2,Eritrea,Africa Sub-Saharan,Male,30-49,8
-2022-06-30,2022,2,Ethiopia,Africa Sub-Saharan,Female,Under 18,1
+2022-06-30,2022,2,Eritrea,Africa Sub-Saharan,Female,18-29,17
+2022-06-30,2022,2,Eritrea,Africa Sub-Saharan,Female,30-49,9
+2022-06-30,2022,2,Eritrea,Africa Sub-Saharan,Female,Under 18,13
+2022-06-30,2022,2,Eritrea,Africa Sub-Saharan,Male,18-29,2
+2022-06-30,2022,2,Eritrea,Africa Sub-Saharan,Male,30-49,7
+2022-06-30,2022,2,Eritrea,Africa Sub-Saharan,Male,Under 18,18
 2022-06-30,2022,2,Ethiopia,Africa Sub-Saharan,Female,18-29,3
-2022-06-30,2022,2,Ethiopia,Africa Sub-Saharan,Male,Under 18,2
+2022-06-30,2022,2,Ethiopia,Africa Sub-Saharan,Female,Under 18,1
 2022-06-30,2022,2,Ethiopia,Africa Sub-Saharan,Male,30-49,2
-2022-06-30,2022,2,"Gambia, The",Africa Sub-Saharan,Male,Under 18,2
+2022-06-30,2022,2,Ethiopia,Africa Sub-Saharan,Male,Under 18,1
 2022-06-30,2022,2,"Gambia, The",Africa Sub-Saharan,Male,30-49,1
+2022-06-30,2022,2,"Gambia, The",Africa Sub-Saharan,Male,Under 18,2
 2022-06-30,2022,2,Greece,EU 14,Female,30-49,1
 2022-06-30,2022,2,Honduras,America Central and South,Female,18-29,1
-2022-06-30,2022,2,Iran,Middle East,Female,Under 18,48
-2022-06-30,2022,2,Iran,Middle East,Female,18-29,18
-2022-06-30,2022,2,Iran,Middle East,Female,30-49,75
-2022-06-30,2022,2,Iran,Middle East,Female,50-69,4
-2022-06-30,2022,2,Iran,Middle East,Male,Under 18,51
+2022-06-30,2022,2,Iran,Middle East,Female,18-29,16
+2022-06-30,2022,2,Iran,Middle East,Female,30-49,72
+2022-06-30,2022,2,Iran,Middle East,Female,50-69,3
+2022-06-30,2022,2,Iran,Middle East,Female,Under 18,50
 2022-06-30,2022,2,Iran,Middle East,Male,18-29,3
 2022-06-30,2022,2,Iran,Middle East,Male,30-49,3
-2022-06-30,2022,2,Iran,Middle East,Male,50-69,9
-2022-06-30,2022,2,Iraq,Middle East,Female,Under 18,5
+2022-06-30,2022,2,Iran,Middle East,Male,50-69,6
+2022-06-30,2022,2,Iran,Middle East,Male,Under 18,47
 2022-06-30,2022,2,Iraq,Middle East,Female,18-29,1
 2022-06-30,2022,2,Iraq,Middle East,Female,30-49,4
 2022-06-30,2022,2,Iraq,Middle East,Female,50-69,1
+2022-06-30,2022,2,Iraq,Middle East,Female,Under 18,5
 2022-06-30,2022,2,Iraq,Middle East,Male,Under 18,3
-2022-06-30,2022,2,Kyrgyzstan,Asia Central,Female,Under 18,1
-2022-06-30,2022,2,Kyrgyzstan,Asia Central,Female,18-29,1
-2022-06-30,2022,2,Kyrgyzstan,Asia Central,Male,Under 18,1
-2022-06-30,2022,2,Libya,Africa North,Female,Under 18,3
 2022-06-30,2022,2,Libya,Africa North,Female,30-49,2
+2022-06-30,2022,2,Libya,Africa North,Female,Under 18,3
 2022-06-30,2022,2,Libya,Africa North,Male,Under 18,4
 2022-06-30,2022,2,Mauritania,Africa North,Male,Under 18,1
 2022-06-30,2022,2,Nigeria,Africa Sub-Saharan,Male,Under 18,3
-2022-06-30,2022,2,Occupied Palestinian Territories,Middle East,Female,30-49,1
-2022-06-30,2022,2,Occupied Palestinian Territories,Middle East,Female,50-69,1
-2022-06-30,2022,2,Occupied Palestinian Territories,Middle East,Male,18-29,1
-2022-06-30,2022,2,Other and unknown,Other,Female,Under 18,1
 2022-06-30,2022,2,Other and unknown,Other,Female,18-29,1
-2022-06-30,2022,2,Pakistan,Asia South,Female,Under 18,8
+2022-06-30,2022,2,Other and unknown,Other,Female,50-69,1
+2022-06-30,2022,2,Other and unknown,Other,Female,Under 18,1
+2022-06-30,2022,2,Other and unknown,Other,Male,Under 18,2
+2022-06-30,2022,2,Other and unknown,Other,Female,18-29,1
+2022-06-30,2022,2,Other and unknown,Other,Female,Under 18,1
 2022-06-30,2022,2,Pakistan,Asia South,Female,18-29,1
 2022-06-30,2022,2,Pakistan,Asia South,Female,30-49,7
 2022-06-30,2022,2,Pakistan,Asia South,Female,50-69,2
-2022-06-30,2022,2,Pakistan,Asia South,Male,Under 18,14
+2022-06-30,2022,2,Pakistan,Asia South,Female,Under 18,8
 2022-06-30,2022,2,Pakistan,Asia South,Male,18-29,2
 2022-06-30,2022,2,Pakistan,Asia South,Male,30-49,6
 2022-06-30,2022,2,Pakistan,Asia South,Male,50-69,1
-2022-06-30,2022,2,Refugee,Other,Female,Under 18,3
-2022-06-30,2022,2,Refugee,Other,Female,18-29,1
-2022-06-30,2022,2,Refugee,Other,Female,30-49,4
-2022-06-30,2022,2,Refugee,Other,Male,Under 18,2
+2022-06-30,2022,2,Pakistan,Asia South,Male,Under 18,15
 2022-06-30,2022,2,Russia,Europe Other,Male,30-49,1
 2022-06-30,2022,2,Russia,Europe Other,Male,50-69,1
 2022-06-30,2022,2,Sierra Leone,Africa Sub-Saharan,Female,Under 18,2
-2022-06-30,2022,2,Somalia,Africa Sub-Saharan,Female,Under 18,9
 2022-06-30,2022,2,Somalia,Africa Sub-Saharan,Female,18-29,2
 2022-06-30,2022,2,Somalia,Africa Sub-Saharan,Female,30-49,1
-2022-06-30,2022,2,Somalia,Africa Sub-Saharan,Male,Under 18,3
-2022-06-30,2022,2,Somalia,Africa Sub-Saharan,Male,30-49,3
-2022-06-30,2022,2,Sri Lanka,Asia South,Female,Under 18,7
+2022-06-30,2022,2,Somalia,Africa Sub-Saharan,Female,Under 18,7
+2022-06-30,2022,2,Somalia,Africa Sub-Saharan,Male,30-49,1
+2022-06-30,2022,2,Somalia,Africa Sub-Saharan,Male,Under 18,2
 2022-06-30,2022,2,Sri Lanka,Asia South,Female,18-29,2
-2022-06-30,2022,2,Sri Lanka,Asia South,Female,30-49,8
+2022-06-30,2022,2,Sri Lanka,Asia South,Female,30-49,6
 2022-06-30,2022,2,Sri Lanka,Asia South,Female,50-69,1
-2022-06-30,2022,2,Sri Lanka,Asia South,Male,Under 18,3
+2022-06-30,2022,2,Sri Lanka,Asia South,Female,Under 18,4
 2022-06-30,2022,2,Sri Lanka,Asia South,Male,18-29,1
-2022-06-30,2022,2,Stateless,Other,Female,Under 18,1
+2022-06-30,2022,2,Sri Lanka,Asia South,Male,Under 18,2
 2022-06-30,2022,2,Stateless,Other,Female,18-29,1
-2022-06-30,2022,2,Stateless,Other,Female,50-69,1
+2022-06-30,2022,2,Stateless,Other,Female,30-49,2
+2022-06-30,2022,2,Stateless,Other,Female,Under 18,4
 2022-06-30,2022,2,Stateless,Other,Male,Under 18,2
-2022-06-30,2022,2,Sudan,Africa North,Female,Under 18,14
-2022-06-30,2022,2,Sudan,Africa North,Female,18-29,31
+2022-06-30,2022,2,Sudan,Africa North,Female,18-29,27
 2022-06-30,2022,2,Sudan,Africa North,Female,30-49,13
-2022-06-30,2022,2,Sudan,Africa North,Male,Under 18,11
+2022-06-30,2022,2,Sudan,Africa North,Female,Under 18,14
 2022-06-30,2022,2,Sudan,Africa North,Male,18-29,1
-2022-06-30,2022,2,Sudan,Africa North,Male,30-49,2
-2022-06-30,2022,2,Syria,Middle East,Female,Under 18,60
-2022-06-30,2022,2,Syria,Middle East,Female,18-29,55
-2022-06-30,2022,2,Syria,Middle East,Female,30-49,19
-2022-06-30,2022,2,Syria,Middle East,Male,Under 18,56
+2022-06-30,2022,2,Sudan,Africa North,Male,30-49,1
+2022-06-30,2022,2,Sudan,Africa North,Male,Under 18,10
+2022-06-30,2022,2,Syria,Middle East,Female,18-29,52
+2022-06-30,2022,2,Syria,Middle East,Female,30-49,17
+2022-06-30,2022,2,Syria,Middle East,Female,Under 18,58
 2022-06-30,2022,2,Syria,Middle East,Male,18-29,4
 2022-06-30,2022,2,Syria,Middle East,Male,30-49,2
 2022-06-30,2022,2,Syria,Middle East,Male,50-69,1
-2022-06-30,2022,2,Turkey,Europe Other,Female,Under 18,14
+2022-06-30,2022,2,Syria,Middle East,Male,Under 18,52
 2022-06-30,2022,2,Turkey,Europe Other,Female,18-29,1
-2022-06-30,2022,2,Turkey,Europe Other,Female,30-49,11
-2022-06-30,2022,2,Turkey,Europe Other,Male,Under 18,10
+2022-06-30,2022,2,Turkey,Europe Other,Female,30-49,9
+2022-06-30,2022,2,Turkey,Europe Other,Female,Under 18,13
 2022-06-30,2022,2,Turkey,Europe Other,Male,18-29,1
-2022-06-30,2022,2,Uganda,Africa Sub-Saharan,Female,Under 18,6
+2022-06-30,2022,2,Turkey,Europe Other,Male,Under 18,9
 2022-06-30,2022,2,Uganda,Africa Sub-Saharan,Female,18-29,1
-2022-06-30,2022,2,Uganda,Africa Sub-Saharan,Male,Under 18,3
+2022-06-30,2022,2,Uganda,Africa Sub-Saharan,Female,Under 18,5
 2022-06-30,2022,2,Uganda,Africa Sub-Saharan,Male,18-29,1
-2022-06-30,2022,2,Vietnam,Asia South East,Female,Under 18,13
+2022-06-30,2022,2,Uganda,Africa Sub-Saharan,Male,Under 18,3
 2022-06-30,2022,2,Vietnam,Asia South East,Female,18-29,2
 2022-06-30,2022,2,Vietnam,Asia South East,Female,30-49,4
-2022-06-30,2022,2,Vietnam,Asia South East,Male,Under 18,8
+2022-06-30,2022,2,Vietnam,Asia South East,Female,Under 18,13
 2022-06-30,2022,2,Vietnam,Asia South East,Male,18-29,1
-2022-06-30,2022,2,Yemen,Middle East,Female,Under 18,15
+2022-06-30,2022,2,Vietnam,Asia South East,Male,Under 18,8
 2022-06-30,2022,2,Yemen,Middle East,Female,18-29,8
-2022-06-30,2022,2,Yemen,Middle East,Female,30-49,10
-2022-06-30,2022,2,Yemen,Middle East,Male,Under 18,20
+2022-06-30,2022,2,Yemen,Middle East,Female,30-49,9
+2022-06-30,2022,2,Yemen,Middle East,Female,Under 18,14
 2022-06-30,2022,2,Yemen,Middle East,Male,18-29,1
 2022-06-30,2022,2,Yemen,Middle East,Male,50-69,1
+2022-06-30,2022,2,Yemen,Middle East,Male,Under 18,19
 2022-09-30,2022,3,Afghanistan,Asia Central,Female,18-29,3
-2022-09-30,2022,3,Afghanistan,Asia Central,Female,30-49,14
-2022-09-30,2022,3,Afghanistan,Asia Central,Female,Under 18,22
+2022-09-30,2022,3,Afghanistan,Asia Central,Female,30-49,13
+2022-09-30,2022,3,Afghanistan,Asia Central,Female,Under 18,19
 2022-09-30,2022,3,Afghanistan,Asia Central,Male,18-29,1
-2022-09-30,2022,3,Afghanistan,Asia Central,Male,Under 18,21
+2022-09-30,2022,3,Afghanistan,Asia Central,Male,Under 18,20
 2022-09-30,2022,3,Bahrain,Middle East,Female,30-49,1
 2022-09-30,2022,3,Bangladesh,Asia South,Female,30-49,5
 2022-09-30,2022,3,Bangladesh,Asia South,Female,50-69,1
 2022-09-30,2022,3,Bangladesh,Asia South,Female,Under 18,1
 2022-09-30,2022,3,Bangladesh,Asia South,Male,Under 18,1
-2022-09-30,2022,3,Burma,Asia South East,Female,30-49,2
-2022-09-30,2022,3,Burma,Asia South East,Female,Under 18,3
-2022-09-30,2022,3,Burma,Asia South East,Male,Under 18,1
 2022-09-30,2022,3,Cameroon,Africa Sub-Saharan,Female,18-29,2
-2022-09-30,2022,3,Cameroon,Africa Sub-Saharan,Female,Under 18,1
 2022-09-30,2022,3,Cameroon,Africa Sub-Saharan,Male,30-49,1
 2022-09-30,2022,3,Cameroon,Africa Sub-Saharan,Male,Under 18,1
-2022-09-30,2022,3,Chad,Africa Sub-Saharan,Female,30-49,1
 2022-09-30,2022,3,China,Asia East,Female,30-49,1
 2022-09-30,2022,3,China,Asia East,Male,Under 18,1
 2022-09-30,2022,3,Congo,Africa Sub-Saharan,Female,18-29,1
-2022-09-30,2022,3,Congo,Africa Sub-Saharan,Female,Under 18,1
+2022-09-30,2022,3,Congo,Africa Sub-Saharan,Female,30-49,1
+2022-09-30,2022,3,Congo,Africa Sub-Saharan,Female,Under 18,3
 2022-09-30,2022,3,Congo,Africa Sub-Saharan,Male,18-29,1
-2022-09-30,2022,3,Congo (Democratic Republic),Africa Sub-Saharan,Female,30-49,1
-2022-09-30,2022,3,Congo (Democratic Republic),Africa Sub-Saharan,Female,Under 18,2
-2022-09-30,2022,3,Congo (Democratic Republic),Africa Sub-Saharan,Male,Under 18,5
+2022-09-30,2022,3,Congo,Africa Sub-Saharan,Male,Under 18,5
 2022-09-30,2022,3,Egypt,Africa North,Female,18-29,1
 2022-09-30,2022,3,Egypt,Africa North,Female,30-49,2
 2022-09-30,2022,3,Egypt,Africa North,Female,Under 18,5
-2022-09-30,2022,3,El Salvador,America Central and South,Female,30-49,1
-2022-09-30,2022,3,El Salvador,America Central and South,Female,Under 18,2
-2022-09-30,2022,3,Eritrea,Africa Sub-Saharan,Female,18-29,71
-2022-09-30,2022,3,Eritrea,Africa Sub-Saharan,Female,30-49,23
+2022-09-30,2022,3,Eritrea,Africa Sub-Saharan,Female,18-29,60
+2022-09-30,2022,3,Eritrea,Africa Sub-Saharan,Female,30-49,19
 2022-09-30,2022,3,Eritrea,Africa Sub-Saharan,Female,70+,1
-2022-09-30,2022,3,Eritrea,Africa Sub-Saharan,Female,Under 18,26
-2022-09-30,2022,3,Eritrea,Africa Sub-Saharan,Male,18-29,5
-2022-09-30,2022,3,Eritrea,Africa Sub-Saharan,Male,30-49,13
-2022-09-30,2022,3,Eritrea,Africa Sub-Saharan,Male,Under 18,24
-2022-09-30,2022,3,Ethiopia,Africa Sub-Saharan,Female,18-29,9
+2022-09-30,2022,3,Eritrea,Africa Sub-Saharan,Female,Under 18,24
+2022-09-30,2022,3,Eritrea,Africa Sub-Saharan,Male,18-29,4
+2022-09-30,2022,3,Eritrea,Africa Sub-Saharan,Male,30-49,10
+2022-09-30,2022,3,Eritrea,Africa Sub-Saharan,Male,Under 18,22
+2022-09-30,2022,3,Ethiopia,Africa Sub-Saharan,Female,18-29,8
 2022-09-30,2022,3,Ethiopia,Africa Sub-Saharan,Female,30-49,7
 2022-09-30,2022,3,Ethiopia,Africa Sub-Saharan,Female,Under 18,4
 2022-09-30,2022,3,Ethiopia,Africa Sub-Saharan,Male,18-29,1
-2022-09-30,2022,3,Ethiopia,Africa Sub-Saharan,Male,30-49,2
-2022-09-30,2022,3,Ethiopia,Africa Sub-Saharan,Male,Under 18,5
+2022-09-30,2022,3,Ethiopia,Africa Sub-Saharan,Male,30-49,3
+2022-09-30,2022,3,Ethiopia,Africa Sub-Saharan,Male,Under 18,4
 2022-09-30,2022,3,"Gambia, The",Africa Sub-Saharan,Male,Under 18,1
 2022-09-30,2022,3,Ghana,Africa Sub-Saharan,Female,Under 18,1
 2022-09-30,2022,3,Ghana,Africa Sub-Saharan,Male,Under 18,1
 2022-09-30,2022,3,Guinea,Africa Sub-Saharan,Female,Under 18,1
 2022-09-30,2022,3,Guinea,Africa Sub-Saharan,Male,Under 18,1
-2022-09-30,2022,3,Iran,Middle East,Female,18-29,9
+2022-09-30,2022,3,Iran,Middle East,Female,18-29,8
 2022-09-30,2022,3,Iran,Middle East,Female,30-49,27
 2022-09-30,2022,3,Iran,Middle East,Female,50-69,3
 2022-09-30,2022,3,Iran,Middle East,Female,Under 18,24
@@ -7551,37 +7513,35 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2022-09-30,2022,3,Lebanon,Middle East,Female,30-49,1
 2022-09-30,2022,3,Lebanon,Middle East,Female,Under 18,2
 2022-09-30,2022,3,Liberia,Africa Sub-Saharan,Male,Under 18,1
-2022-09-30,2022,3,Libya,Africa North,Female,30-49,2
-2022-09-30,2022,3,Libya,Africa North,Male,Under 18,6
-2022-09-30,2022,3,Namibia,Africa Sub-Saharan,Female,Under 18,3
-2022-09-30,2022,3,Namibia,Africa Sub-Saharan,Male,18-29,2
+2022-09-30,2022,3,Libya,Africa North,Female,30-49,1
+2022-09-30,2022,3,Libya,Africa North,Male,Under 18,4
+2022-09-30,2022,3,Namibia,Africa Sub-Saharan,Female,Under 18,1
+2022-09-30,2022,3,Namibia,Africa Sub-Saharan,Male,18-29,1
 2022-09-30,2022,3,Namibia,Africa Sub-Saharan,Male,Under 18,1
 2022-09-30,2022,3,Nigeria,Africa Sub-Saharan,Female,18-29,1
 2022-09-30,2022,3,Nigeria,Africa Sub-Saharan,Male,Under 18,1
-2022-09-30,2022,3,Occupied Palestinian Territories,Middle East,Female,30-49,2
-2022-09-30,2022,3,Occupied Palestinian Territories,Middle East,Female,50-69,1
+2022-09-30,2022,3,Occupied Palestinian Territories,Middle East,Female,30-49,1
 2022-09-30,2022,3,Occupied Palestinian Territories,Middle East,Female,Under 18,6
-2022-09-30,2022,3,Occupied Palestinian Territories,Middle East,Male,18-29,1
 2022-09-30,2022,3,Occupied Palestinian Territories,Middle East,Male,Under 18,1
-2022-09-30,2022,3,Other and unknown,Other,Male,30-49,1
+2022-09-30,2022,3,Other and unknown,Other,Female,18-29,1
+2022-09-30,2022,3,Other and unknown,Other,Female,30-49,4
+2022-09-30,2022,3,Other and unknown,Other,Female,50-69,1
+2022-09-30,2022,3,Other and unknown,Other,Female,Under 18,6
+2022-09-30,2022,3,Other and unknown,Other,Male,Under 18,2
 2022-09-30,2022,3,Other and unknown,Other,Female,18-29,1
 2022-09-30,2022,3,Other and unknown,Other,Female,30-49,5
 2022-09-30,2022,3,Other and unknown,Other,Female,50-69,1
 2022-09-30,2022,3,Other and unknown,Other,Female,Under 18,8
 2022-09-30,2022,3,Other and unknown,Other,Male,Under 18,12
 2022-09-30,2022,3,Pakistan,Asia South,Female,18-29,2
-2022-09-30,2022,3,Pakistan,Asia South,Female,30-49,10
+2022-09-30,2022,3,Pakistan,Asia South,Female,30-49,9
 2022-09-30,2022,3,Pakistan,Asia South,Female,Under 18,14
 2022-09-30,2022,3,Pakistan,Asia South,Male,18-29,1
 2022-09-30,2022,3,Pakistan,Asia South,Male,30-49,5
 2022-09-30,2022,3,Pakistan,Asia South,Male,50-69,1
-2022-09-30,2022,3,Pakistan,Asia South,Male,Under 18,8
+2022-09-30,2022,3,Pakistan,Asia South,Male,Under 18,7
 2022-09-30,2022,3,Philippines,Asia South East,Female,Under 18,1
 2022-09-30,2022,3,Philippines,Asia South East,Male,Under 18,4
-2022-09-30,2022,3,Refugee,Other,Female,18-29,4
-2022-09-30,2022,3,Refugee,Other,Female,30-49,9
-2022-09-30,2022,3,Refugee,Other,Female,Under 18,15
-2022-09-30,2022,3,Refugee,Other,Male,Under 18,14
 2022-09-30,2022,3,Russia,Europe Other,Female,30-49,2
 2022-09-30,2022,3,Russia,Europe Other,Female,50-69,1
 2022-09-30,2022,3,Russia,Europe Other,Female,Under 18,1
@@ -7596,32 +7556,32 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2022-09-30,2022,3,Somalia,Africa Sub-Saharan,Female,30-49,2
 2022-09-30,2022,3,Somalia,Africa Sub-Saharan,Female,Under 18,7
 2022-09-30,2022,3,Somalia,Africa Sub-Saharan,Male,18-29,1
-2022-09-30,2022,3,Somalia,Africa Sub-Saharan,Male,30-49,3
-2022-09-30,2022,3,Somalia,Africa Sub-Saharan,Male,Under 18,11
+2022-09-30,2022,3,Somalia,Africa Sub-Saharan,Male,30-49,2
+2022-09-30,2022,3,Somalia,Africa Sub-Saharan,Male,Under 18,10
+2022-09-30,2022,3,South Sudan,Africa Sub-Saharan,Male,30-49,1
 2022-09-30,2022,3,Sri Lanka,Asia South,Female,18-29,1
 2022-09-30,2022,3,Sri Lanka,Asia South,Female,30-49,9
 2022-09-30,2022,3,Sri Lanka,Asia South,Female,Under 18,9
 2022-09-30,2022,3,Sri Lanka,Asia South,Male,18-29,1
 2022-09-30,2022,3,Sri Lanka,Asia South,Male,Under 18,7
-2022-09-30,2022,3,Stateless,Other,Female,18-29,1
-2022-09-30,2022,3,Stateless,Other,Female,30-49,1
-2022-09-30,2022,3,Stateless,Other,Female,Under 18,3
-2022-09-30,2022,3,Stateless,Other,Male,30-49,1
-2022-09-30,2022,3,Stateless,Other,Male,Under 18,1
-2022-09-30,2022,3,Sudan,Africa North,Female,18-29,82
-2022-09-30,2022,3,Sudan,Africa North,Female,30-49,25
+2022-09-30,2022,3,Stateless,Other,Female,18-29,4
+2022-09-30,2022,3,Stateless,Other,Female,30-49,9
+2022-09-30,2022,3,Stateless,Other,Female,Under 18,15
+2022-09-30,2022,3,Stateless,Other,Male,18-29,1
+2022-09-30,2022,3,Stateless,Other,Male,Under 18,14
+2022-09-30,2022,3,Sudan,Africa North,Female,18-29,71
+2022-09-30,2022,3,Sudan,Africa North,Female,30-49,23
 2022-09-30,2022,3,Sudan,Africa North,Female,Under 18,21
 2022-09-30,2022,3,Sudan,Africa North,Male,18-29,4
-2022-09-30,2022,3,Sudan,Africa North,Male,30-49,5
+2022-09-30,2022,3,Sudan,Africa North,Male,30-49,4
 2022-09-30,2022,3,Sudan,Africa North,Male,50-69,4
-2022-09-30,2022,3,Sudan,Africa North,Male,Under 18,30
+2022-09-30,2022,3,Sudan,Africa North,Male,Under 18,29
 2022-09-30,2022,3,Sweden,EU 14,Female,Under 18,2
-2022-09-30,2022,3,Syria,Middle East,Female,18-29,48
-2022-09-30,2022,3,Syria,Middle East,Female,30-49,23
-2022-09-30,2022,3,Syria,Middle East,Female,50-69,1
-2022-09-30,2022,3,Syria,Middle East,Female,Under 18,53
-2022-09-30,2022,3,Syria,Middle East,Male,18-29,2
-2022-09-30,2022,3,Syria,Middle East,Male,30-49,3
+2022-09-30,2022,3,Syria,Middle East,Female,18-29,43
+2022-09-30,2022,3,Syria,Middle East,Female,30-49,22
+2022-09-30,2022,3,Syria,Middle East,Female,Under 18,48
+2022-09-30,2022,3,Syria,Middle East,Male,18-29,1
+2022-09-30,2022,3,Syria,Middle East,Male,30-49,4
 2022-09-30,2022,3,Syria,Middle East,Male,50-69,1
 2022-09-30,2022,3,Syria,Middle East,Male,Under 18,65
 2022-09-30,2022,3,Thailand,Asia South East,Female,30-49,2
@@ -7633,9 +7593,9 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2022-09-30,2022,3,Turkey,Europe Other,Male,Under 18,11
 2022-09-30,2022,3,Uganda,Africa Sub-Saharan,Female,18-29,2
 2022-09-30,2022,3,Uganda,Africa Sub-Saharan,Female,30-49,1
-2022-09-30,2022,3,Uganda,Africa Sub-Saharan,Female,Under 18,7
+2022-09-30,2022,3,Uganda,Africa Sub-Saharan,Female,Under 18,6
 2022-09-30,2022,3,Uganda,Africa Sub-Saharan,Male,18-29,2
-2022-09-30,2022,3,Uganda,Africa Sub-Saharan,Male,Under 18,8
+2022-09-30,2022,3,Uganda,Africa Sub-Saharan,Male,Under 18,5
 2022-09-30,2022,3,Vietnam,Asia South East,Female,18-29,3
 2022-09-30,2022,3,Vietnam,Asia South East,Female,30-49,4
 2022-09-30,2022,3,Vietnam,Asia South East,Female,Under 18,12
@@ -7649,71 +7609,64 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2022-09-30,2022,3,Yemen,Middle East,Male,18-29,1
 2022-09-30,2022,3,Yemen,Middle East,Male,30-49,1
 2022-09-30,2022,3,Yemen,Middle East,Male,Under 18,23
-2022-09-30,2022,3,Zimbabwe,Africa Sub-Saharan,Female,Under 18,1
-2022-09-30,2022,3,Zimbabwe,Africa Sub-Saharan,Male,18-29,1
 2022-12-31,2022,4,Afghanistan,Asia Central,Female,18-29,4
-2022-12-31,2022,4,Afghanistan,Asia Central,Female,30-49,6
+2022-12-31,2022,4,Afghanistan,Asia Central,Female,30-49,5
 2022-12-31,2022,4,Afghanistan,Asia Central,Female,Under 18,14
-2022-12-31,2022,4,Afghanistan,Asia Central,Male,Under 18,8
+2022-12-31,2022,4,Afghanistan,Asia Central,Male,Under 18,7
 2022-12-31,2022,4,Albania,Europe Other,Female,Under 18,1
 2022-12-31,2022,4,Algeria,Africa North,Male,18-29,1
-2022-12-31,2022,4,Bahrain,Middle East,Female,30-49,1
 2022-12-31,2022,4,Bangladesh,Asia South,Female,18-29,1
 2022-12-31,2022,4,Bangladesh,Asia South,Female,30-49,3
 2022-12-31,2022,4,Bangladesh,Asia South,Female,Under 18,2
 2022-12-31,2022,4,Bangladesh,Asia South,Male,Under 18,2
-2022-12-31,2022,4,Botswana,Africa Sub-Saharan,Male,Under 18,3
 2022-12-31,2022,4,Burundi,Africa Sub-Saharan,Female,18-29,1
 2022-12-31,2022,4,Burundi,Africa Sub-Saharan,Female,Under 18,1
 2022-12-31,2022,4,Burundi,Africa Sub-Saharan,Male,Under 18,1
 2022-12-31,2022,4,Cameroon,Africa Sub-Saharan,Female,18-29,4
 2022-12-31,2022,4,Cameroon,Africa Sub-Saharan,Female,30-49,1
 2022-12-31,2022,4,Cameroon,Africa Sub-Saharan,Female,Under 18,3
-2022-12-31,2022,4,Cameroon,Africa Sub-Saharan,Male,Under 18,6
-2022-12-31,2022,4,Congo (Democratic Republic),Africa Sub-Saharan,Female,30-49,1
-2022-12-31,2022,4,Congo (Democratic Republic),Africa Sub-Saharan,Female,Under 18,1
-2022-12-31,2022,4,Congo (Democratic Republic),Africa Sub-Saharan,Male,18-29,2
-2022-12-31,2022,4,Congo (Democratic Republic),Africa Sub-Saharan,Male,50-69,2
-2022-12-31,2022,4,Congo (Democratic Republic),Africa Sub-Saharan,Male,Under 18,2
+2022-12-31,2022,4,Cameroon,Africa Sub-Saharan,Male,Under 18,4
+2022-12-31,2022,4,Congo,Africa Sub-Saharan,Female,30-49,1
+2022-12-31,2022,4,Congo,Africa Sub-Saharan,Female,Under 18,1
+2022-12-31,2022,4,Congo,Africa Sub-Saharan,Male,18-29,2
+2022-12-31,2022,4,Congo,Africa Sub-Saharan,Male,50-69,2
+2022-12-31,2022,4,Congo,Africa Sub-Saharan,Male,Under 18,1
 2022-12-31,2022,4,Egypt,Africa North,Female,18-29,1
-2022-12-31,2022,4,Egypt,Africa North,Female,Under 18,2
+2022-12-31,2022,4,Egypt,Africa North,Female,Under 18,1
 2022-12-31,2022,4,Egypt,Africa North,Male,30-49,1
-2022-12-31,2022,4,Egypt,Africa North,Male,Under 18,4
-2022-12-31,2022,4,Eritrea,Africa Sub-Saharan,Female,18-29,66
-2022-12-31,2022,4,Eritrea,Africa Sub-Saharan,Female,30-49,34
-2022-12-31,2022,4,Eritrea,Africa Sub-Saharan,Female,Under 18,26
-2022-12-31,2022,4,Eritrea,Africa Sub-Saharan,Male,18-29,7
-2022-12-31,2022,4,Eritrea,Africa Sub-Saharan,Male,30-49,11
-2022-12-31,2022,4,Eritrea,Africa Sub-Saharan,Male,50-69,4
-2022-12-31,2022,4,Eritrea,Africa Sub-Saharan,Male,Under 18,27
-2022-12-31,2022,4,Ethiopia,Africa Sub-Saharan,Female,18-29,10
+2022-12-31,2022,4,Egypt,Africa North,Male,Under 18,3
+2022-12-31,2022,4,Eritrea,Africa Sub-Saharan,Female,18-29,58
+2022-12-31,2022,4,Eritrea,Africa Sub-Saharan,Female,30-49,33
+2022-12-31,2022,4,Eritrea,Africa Sub-Saharan,Female,Under 18,23
+2022-12-31,2022,4,Eritrea,Africa Sub-Saharan,Male,18-29,5
+2022-12-31,2022,4,Eritrea,Africa Sub-Saharan,Male,30-49,10
+2022-12-31,2022,4,Eritrea,Africa Sub-Saharan,Male,50-69,3
+2022-12-31,2022,4,Eritrea,Africa Sub-Saharan,Male,Under 18,23
+2022-12-31,2022,4,Ethiopia,Africa Sub-Saharan,Female,18-29,9
 2022-12-31,2022,4,Ethiopia,Africa Sub-Saharan,Female,30-49,1
 2022-12-31,2022,4,Ethiopia,Africa Sub-Saharan,Female,Under 18,4
 2022-12-31,2022,4,Ethiopia,Africa Sub-Saharan,Male,18-29,1
-2022-12-31,2022,4,Ethiopia,Africa Sub-Saharan,Male,30-49,3
+2022-12-31,2022,4,Ethiopia,Africa Sub-Saharan,Male,30-49,2
 2022-12-31,2022,4,Ethiopia,Africa Sub-Saharan,Male,Under 18,4
 2022-12-31,2022,4,"Gambia, The",Africa Sub-Saharan,Female,30-49,2
 2022-12-31,2022,4,"Gambia, The",Africa Sub-Saharan,Female,Under 18,4
 2022-12-31,2022,4,"Gambia, The",Africa Sub-Saharan,Male,18-29,1
 2022-12-31,2022,4,"Gambia, The",Africa Sub-Saharan,Male,Under 18,4
-2022-12-31,2022,4,Greece,EU 14,Female,18-29,1
-2022-12-31,2022,4,Greece,EU 14,Male,Under 18,1
 2022-12-31,2022,4,Guinea,Africa Sub-Saharan,Female,18-29,2
 2022-12-31,2022,4,Guinea,Africa Sub-Saharan,Female,30-49,1
 2022-12-31,2022,4,Guinea,Africa Sub-Saharan,Female,Under 18,3
 2022-12-31,2022,4,Guinea,Africa Sub-Saharan,Male,Under 18,2
 2022-12-31,2022,4,Iran,Middle East,Female,18-29,6
-2022-12-31,2022,4,Iran,Middle East,Female,30-49,17
+2022-12-31,2022,4,Iran,Middle East,Female,30-49,15
 2022-12-31,2022,4,Iran,Middle East,Female,50-69,4
-2022-12-31,2022,4,Iran,Middle East,Female,Under 18,9
+2022-12-31,2022,4,Iran,Middle East,Female,Under 18,4
 2022-12-31,2022,4,Iran,Middle East,Male,18-29,1
 2022-12-31,2022,4,Iran,Middle East,Male,30-49,1
 2022-12-31,2022,4,Iran,Middle East,Male,50-69,3
 2022-12-31,2022,4,Iran,Middle East,Male,70+,2
-2022-12-31,2022,4,Iran,Middle East,Male,Under 18,18
+2022-12-31,2022,4,Iran,Middle East,Male,Under 18,15
 2022-12-31,2022,4,Iraq,Middle East,Female,18-29,1
 2022-12-31,2022,4,Iraq,Middle East,Female,30-49,3
-2022-12-31,2022,4,Iraq,Middle East,Female,50-69,1
 2022-12-31,2022,4,Iraq,Middle East,Female,Under 18,2
 2022-12-31,2022,4,Iraq,Middle East,Male,18-29,2
 2022-12-31,2022,4,Iraq,Middle East,Male,Under 18,2
@@ -7726,7 +7679,6 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2022-12-31,2022,4,Kuwait,Middle East,Male,Under 18,2
 2022-12-31,2022,4,Kyrgyzstan,Asia Central,Female,Under 18,1
 2022-12-31,2022,4,Kyrgyzstan,Asia Central,Male,Under 18,2
-2022-12-31,2022,4,Lebanon,Middle East,Female,Under 18,1
 2022-12-31,2022,4,Libya,Africa North,Female,30-49,3
 2022-12-31,2022,4,Libya,Africa North,Female,Under 18,4
 2022-12-31,2022,4,Libya,Africa North,Male,Under 18,6
@@ -7738,36 +7690,34 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2022-12-31,2022,4,Nigeria,Africa Sub-Saharan,Female,Under 18,1
 2022-12-31,2022,4,Nigeria,Africa Sub-Saharan,Male,18-29,2
 2022-12-31,2022,4,Nigeria,Africa Sub-Saharan,Male,Under 18,2
-2022-12-31,2022,4,Occupied Palestinian Territories,Middle East,Female,18-29,2
+2022-12-31,2022,4,Occupied Palestinian Territories,Middle East,Female,18-29,1
 2022-12-31,2022,4,Occupied Palestinian Territories,Middle East,Female,30-49,2
-2022-12-31,2022,4,Occupied Palestinian Territories,Middle East,Female,Under 18,2
-2022-12-31,2022,4,Occupied Palestinian Territories,Middle East,Male,50-69,1
+2022-12-31,2022,4,Occupied Palestinian Territories,Middle East,Female,Under 18,1
 2022-12-31,2022,4,Occupied Palestinian Territories,Middle East,Male,Under 18,1
-2022-12-31,2022,4,Other and unknown,Other,Female,30-49,11
+2022-12-31,2022,4,Other and unknown,Other,Female,18-29,5
+2022-12-31,2022,4,Other and unknown,Other,Female,30-49,3
+2022-12-31,2022,4,Other and unknown,Other,Female,50-69,2
+2022-12-31,2022,4,Other and unknown,Other,Female,Under 18,3
+2022-12-31,2022,4,Other and unknown,Other,Male,50-69,1
+2022-12-31,2022,4,Other and unknown,Other,Male,Under 18,5
+2022-12-31,2022,4,Other and unknown,Other,Female,30-49,9
 2022-12-31,2022,4,Other and unknown,Other,Female,50-69,1
 2022-12-31,2022,4,Other and unknown,Other,Female,Under 18,7
 2022-12-31,2022,4,Other and unknown,Other,Male,18-29,1
 2022-12-31,2022,4,Other and unknown,Other,Male,Under 18,6
 2022-12-31,2022,4,Pakistan,Asia South,Female,18-29,1
 2022-12-31,2022,4,Pakistan,Asia South,Female,30-49,1
-2022-12-31,2022,4,Pakistan,Asia South,Female,Under 18,6
-2022-12-31,2022,4,Pakistan,Asia South,Male,18-29,3
-2022-12-31,2022,4,Pakistan,Asia South,Male,30-49,3
+2022-12-31,2022,4,Pakistan,Asia South,Female,Under 18,5
+2022-12-31,2022,4,Pakistan,Asia South,Male,18-29,2
+2022-12-31,2022,4,Pakistan,Asia South,Male,30-49,2
 2022-12-31,2022,4,Pakistan,Asia South,Male,50-69,2
-2022-12-31,2022,4,Pakistan,Asia South,Male,Under 18,8
+2022-12-31,2022,4,Pakistan,Asia South,Male,Under 18,5
 2022-12-31,2022,4,Qatar,Middle East,Male,18-29,1
-2022-12-31,2022,4,Refugee,Other,Female,18-29,1
-2022-12-31,2022,4,Refugee,Other,Female,30-49,7
-2022-12-31,2022,4,Refugee,Other,Female,50-69,2
-2022-12-31,2022,4,Refugee,Other,Female,Under 18,6
-2022-12-31,2022,4,Refugee,Other,Male,18-29,1
-2022-12-31,2022,4,Refugee,Other,Male,30-49,1
-2022-12-31,2022,4,Refugee,Other,Male,Under 18,5
 2022-12-31,2022,4,Senegal,Africa Sub-Saharan,Female,30-49,1
 2022-12-31,2022,4,Sierra Leone,Africa Sub-Saharan,Female,30-49,1
 2022-12-31,2022,4,Sierra Leone,Africa Sub-Saharan,Female,Under 18,2
 2022-12-31,2022,4,Sierra Leone,Africa Sub-Saharan,Male,Under 18,1
-2022-12-31,2022,4,Somalia,Africa Sub-Saharan,Female,18-29,2
+2022-12-31,2022,4,Somalia,Africa Sub-Saharan,Female,18-29,3
 2022-12-31,2022,4,Somalia,Africa Sub-Saharan,Female,50-69,1
 2022-12-31,2022,4,Somalia,Africa Sub-Saharan,Female,Under 18,5
 2022-12-31,2022,4,Somalia,Africa Sub-Saharan,Male,18-29,2
@@ -7775,48 +7725,46 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2022-12-31,2022,4,Somalia,Africa Sub-Saharan,Male,50-69,1
 2022-12-31,2022,4,Somalia,Africa Sub-Saharan,Male,70+,1
 2022-12-31,2022,4,Somalia,Africa Sub-Saharan,Male,Under 18,6
-2022-12-31,2022,4,Sri Lanka,Asia South,Female,18-29,1
-2022-12-31,2022,4,Sri Lanka,Asia South,Female,30-49,9
-2022-12-31,2022,4,Sri Lanka,Asia South,Female,Under 18,11
-2022-12-31,2022,4,Sri Lanka,Asia South,Male,Under 18,8
-2022-12-31,2022,4,Stateless,Other,Female,18-29,4
-2022-12-31,2022,4,Stateless,Other,Female,30-49,3
+2022-12-31,2022,4,Sri Lanka,Asia South,Female,30-49,8
+2022-12-31,2022,4,Sri Lanka,Asia South,Female,Under 18,7
+2022-12-31,2022,4,Sri Lanka,Asia South,Male,Under 18,7
+2022-12-31,2022,4,Stateless,Other,Female,30-49,8
 2022-12-31,2022,4,Stateless,Other,Female,50-69,2
-2022-12-31,2022,4,Stateless,Other,Female,Under 18,2
-2022-12-31,2022,4,Stateless,Other,Male,70+,1
-2022-12-31,2022,4,Stateless,Other,Male,Under 18,6
-2022-12-31,2022,4,Sudan,Africa North,Female,18-29,77
-2022-12-31,2022,4,Sudan,Africa North,Female,30-49,12
+2022-12-31,2022,4,Stateless,Other,Female,Under 18,6
+2022-12-31,2022,4,Stateless,Other,Male,18-29,1
+2022-12-31,2022,4,Stateless,Other,Male,30-49,1
+2022-12-31,2022,4,Stateless,Other,Male,Under 18,5
+2022-12-31,2022,4,Sudan,Africa North,Female,18-29,68
+2022-12-31,2022,4,Sudan,Africa North,Female,30-49,10
 2022-12-31,2022,4,Sudan,Africa North,Female,50-69,1
 2022-12-31,2022,4,Sudan,Africa North,Female,70+,1
-2022-12-31,2022,4,Sudan,Africa North,Female,Under 18,13
+2022-12-31,2022,4,Sudan,Africa North,Female,Under 18,10
 2022-12-31,2022,4,Sudan,Africa North,Male,18-29,1
 2022-12-31,2022,4,Sudan,Africa North,Male,30-49,2
 2022-12-31,2022,4,Sudan,Africa North,Male,50-69,6
 2022-12-31,2022,4,Sudan,Africa North,Male,70+,2
-2022-12-31,2022,4,Sudan,Africa North,Male,Under 18,23
-2022-12-31,2022,4,Syria,Middle East,Female,18-29,35
-2022-12-31,2022,4,Syria,Middle East,Female,30-49,14
-2022-12-31,2022,4,Syria,Middle East,Female,50-69,3
-2022-12-31,2022,4,Syria,Middle East,Female,Under 18,42
-2022-12-31,2022,4,Syria,Middle East,Male,18-29,10
+2022-12-31,2022,4,Sudan,Africa North,Male,Under 18,19
+2022-12-31,2022,4,Syria,Middle East,Female,18-29,29
+2022-12-31,2022,4,Syria,Middle East,Female,30-49,12
+2022-12-31,2022,4,Syria,Middle East,Female,50-69,2
+2022-12-31,2022,4,Syria,Middle East,Female,Under 18,37
+2022-12-31,2022,4,Syria,Middle East,Male,18-29,9
 2022-12-31,2022,4,Syria,Middle East,Male,30-49,4
 2022-12-31,2022,4,Syria,Middle East,Male,50-69,2
-2022-12-31,2022,4,Syria,Middle East,Male,Under 18,29
+2022-12-31,2022,4,Syria,Middle East,Male,Under 18,23
 2022-12-31,2022,4,Turkey,Europe Other,Female,18-29,2
 2022-12-31,2022,4,Turkey,Europe Other,Female,30-49,12
 2022-12-31,2022,4,Turkey,Europe Other,Female,Under 18,5
 2022-12-31,2022,4,Turkey,Europe Other,Male,18-29,2
 2022-12-31,2022,4,Turkey,Europe Other,Male,Under 18,12
 2022-12-31,2022,4,Uganda,Africa Sub-Saharan,Female,18-29,1
-2022-12-31,2022,4,Uganda,Africa Sub-Saharan,Female,Under 18,9
+2022-12-31,2022,4,Uganda,Africa Sub-Saharan,Female,Under 18,8
 2022-12-31,2022,4,Uganda,Africa Sub-Saharan,Male,30-49,1
-2022-12-31,2022,4,Uganda,Africa Sub-Saharan,Male,Under 18,8
-2022-12-31,2022,4,Vietnam,Asia South East,Female,30-49,2
-2022-12-31,2022,4,Vietnam,Asia South East,Female,Under 18,3
-2022-12-31,2022,4,Vietnam,Asia South East,Male,18-29,1
+2022-12-31,2022,4,Uganda,Africa Sub-Saharan,Male,Under 18,7
+2022-12-31,2022,4,Vietnam,Asia South East,Female,30-49,1
+2022-12-31,2022,4,Vietnam,Asia South East,Female,Under 18,2
 2022-12-31,2022,4,Vietnam,Asia South East,Male,30-49,1
-2022-12-31,2022,4,Vietnam,Asia South East,Male,Under 18,5
+2022-12-31,2022,4,Vietnam,Asia South East,Male,Under 18,4
 2022-12-31,2022,4,Yemen,Middle East,Female,18-29,1
 2022-12-31,2022,4,Yemen,Middle East,Female,30-49,6
 2022-12-31,2022,4,Yemen,Middle East,Female,50-69,1
@@ -7824,14 +7772,11 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2022-12-31,2022,4,Yemen,Middle East,Male,18-29,1
 2022-12-31,2022,4,Yemen,Middle East,Male,Under 18,9
 2022-12-31,2022,4,Zimbabwe,Africa Sub-Saharan,Female,18-29,2
-2022-12-31,2022,4,Zimbabwe,Africa Sub-Saharan,Female,Under 18,2
-2022-12-31,2022,4,Zimbabwe,Africa Sub-Saharan,Male,18-29,2
+2022-12-31,2022,4,Zimbabwe,Africa Sub-Saharan,Female,Under 18,1
+2022-12-31,2022,4,Zimbabwe,Africa Sub-Saharan,Male,18-29,1
 2022-12-31,2022,4,Zimbabwe,Africa Sub-Saharan,Male,30-49,1
 2022-12-31,2022,4,Zimbabwe,Africa Sub-Saharan,Male,50-69,1
 2022-12-31,2022,4,Zimbabwe,Africa Sub-Saharan,Male,Under 18,4
-2023-03-31,2023,1,Other and unknown,Other,Female,18-29,3
-2023-03-31,2023,1,Other and unknown,Other,Female,Under 18,8
-2023-03-31,2023,1,Other and unknown,Other,Male,Under 18,5
 2023-03-31,2023,1,Afghanistan,Asia Central,Female,18-29,14
 2023-03-31,2023,1,Afghanistan,Asia Central,Female,30-49,18
 2023-03-31,2023,1,Afghanistan,Asia Central,Female,50-69,2
@@ -7946,6 +7891,9 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2023-03-31,2023,1,Occupied Palestinian Territories,Middle East,Male,18-29,1
 2023-03-31,2023,1,Occupied Palestinian Territories,Middle East,Male,30-49,2
 2023-03-31,2023,1,Occupied Palestinian Territories,Middle East,Male,Under 18,2
+2023-03-31,2023,1,Other and unknown,Other,Female,18-29,3
+2023-03-31,2023,1,Other and unknown,Other,Female,Under 18,8
+2023-03-31,2023,1,Other and unknown,Other,Male,Under 18,5
 2023-03-31,2023,1,Other and unknown,Other,Female,30-49,3
 2023-03-31,2023,1,Other and unknown,Other,Female,50-69,1
 2023-03-31,2023,1,Other and unknown,Other,Female,70+,2
@@ -8035,3 +7983,179 @@ Date,Year,Quarter,Nationality,Region,Sex,Age,Visas granted
 2023-03-31,2023,1,Yemen,Middle East,Male,Under 18,19
 2023-03-31,2023,1,Zimbabwe,Africa Sub-Saharan,Female,Under 18,3
 2023-03-31,2023,1,Zimbabwe,Africa Sub-Saharan,Male,18-29,2
+2023-06-30,2023,2,Afghanistan,Asia Central,Female,18-29,10
+2023-06-30,2023,2,Afghanistan,Asia Central,Female,30-49,10
+2023-06-30,2023,2,Afghanistan,Asia Central,Female,50-69,3
+2023-06-30,2023,2,Afghanistan,Asia Central,Female,Under 18,23
+2023-06-30,2023,2,Afghanistan,Asia Central,Male,18-29,3
+2023-06-30,2023,2,Afghanistan,Asia Central,Male,Under 18,25
+2023-06-30,2023,2,Albania,Europe Other,Male,50-69,1
+2023-06-30,2023,2,Bangladesh,Asia South,Female,30-49,1
+2023-06-30,2023,2,Bangladesh,Asia South,Male,Under 18,4
+2023-06-30,2023,2,Burundi,Africa Sub-Saharan,Male,50-69,2
+2023-06-30,2023,2,Cameroon,Africa Sub-Saharan,Female,18-29,1
+2023-06-30,2023,2,Cameroon,Africa Sub-Saharan,Female,Under 18,3
+2023-06-30,2023,2,Cameroon,Africa Sub-Saharan,Male,Under 18,4
+2023-06-30,2023,2,Chad,Africa Sub-Saharan,Female,30-49,2
+2023-06-30,2023,2,Chad,Africa Sub-Saharan,Male,Under 18,3
+2023-06-30,2023,2,China,Asia East,Female,Under 18,3
+2023-06-30,2023,2,China,Asia East,Male,Under 18,1
+2023-06-30,2023,2,Congo,Africa Sub-Saharan,Female,18-29,2
+2023-06-30,2023,2,Congo,Africa Sub-Saharan,Female,Under 18,10
+2023-06-30,2023,2,Congo,Africa Sub-Saharan,Male,18-29,2
+2023-06-30,2023,2,Congo,Africa Sub-Saharan,Male,Under 18,7
+2023-06-30,2023,2,Dominica,America Central and South,Male,Under 18,1
+2023-06-30,2023,2,Egypt,Africa North,Female,18-29,1
+2023-06-30,2023,2,Egypt,Africa North,Female,30-49,4
+2023-06-30,2023,2,Egypt,Africa North,Female,Under 18,5
+2023-06-30,2023,2,Egypt,Africa North,Male,Under 18,4
+2023-06-30,2023,2,El Salvador,America Central and South,Female,Under 18,1
+2023-06-30,2023,2,Eritrea,Africa Sub-Saharan,Female,18-29,61
+2023-06-30,2023,2,Eritrea,Africa Sub-Saharan,Female,30-49,24
+2023-06-30,2023,2,Eritrea,Africa Sub-Saharan,Female,Under 18,35
+2023-06-30,2023,2,Eritrea,Africa Sub-Saharan,Male,18-29,7
+2023-06-30,2023,2,Eritrea,Africa Sub-Saharan,Male,30-49,19
+2023-06-30,2023,2,Eritrea,Africa Sub-Saharan,Male,Under 18,41
+2023-06-30,2023,2,Ethiopia,Africa Sub-Saharan,Female,18-29,5
+2023-06-30,2023,2,Ethiopia,Africa Sub-Saharan,Female,30-49,3
+2023-06-30,2023,2,Ethiopia,Africa Sub-Saharan,Female,Under 18,11
+2023-06-30,2023,2,Ethiopia,Africa Sub-Saharan,Male,18-29,2
+2023-06-30,2023,2,Ethiopia,Africa Sub-Saharan,Male,30-49,3
+2023-06-30,2023,2,Ethiopia,Africa Sub-Saharan,Male,50-69,1
+2023-06-30,2023,2,Ethiopia,Africa Sub-Saharan,Male,Under 18,3
+2023-06-30,2023,2,"Gambia, The",Africa Sub-Saharan,Female,Under 18,1
+2023-06-30,2023,2,"Gambia, The",Africa Sub-Saharan,Male,Under 18,1
+2023-06-30,2023,2,Georgia,Europe Other,Male,Under 18,1
+2023-06-30,2023,2,Ghana,Africa Sub-Saharan,Male,Under 18,1
+2023-06-30,2023,2,Guinea,Africa Sub-Saharan,Male,18-29,2
+2023-06-30,2023,2,India,Asia South,Female,18-29,1
+2023-06-30,2023,2,India,Asia South,Female,Under 18,1
+2023-06-30,2023,2,India,Asia South,Male,30-49,1
+2023-06-30,2023,2,India,Asia South,Male,Under 18,1
+2023-06-30,2023,2,Iran,Middle East,Female,18-29,11
+2023-06-30,2023,2,Iran,Middle East,Female,30-49,28
+2023-06-30,2023,2,Iran,Middle East,Female,50-69,2
+2023-06-30,2023,2,Iran,Middle East,Female,Under 18,20
+2023-06-30,2023,2,Iran,Middle East,Male,18-29,3
+2023-06-30,2023,2,Iran,Middle East,Male,30-49,2
+2023-06-30,2023,2,Iran,Middle East,Male,50-69,7
+2023-06-30,2023,2,Iran,Middle East,Male,Under 18,32
+2023-06-30,2023,2,Iraq,Middle East,Female,18-29,1
+2023-06-30,2023,2,Iraq,Middle East,Female,50-69,1
+2023-06-30,2023,2,Iraq,Middle East,Female,Under 18,2
+2023-06-30,2023,2,Iraq,Middle East,Male,30-49,1
+2023-06-30,2023,2,Iraq,Middle East,Male,50-69,1
+2023-06-30,2023,2,Iraq,Middle East,Male,Under 18,4
+2023-06-30,2023,2,Ivory Coast,Africa Sub-Saharan,Female,Under 18,2
+2023-06-30,2023,2,Ivory Coast,Africa Sub-Saharan,Male,Under 18,1
+2023-06-30,2023,2,Kenya,Africa Sub-Saharan,Female,Under 18,1
+2023-06-30,2023,2,Kenya,Africa Sub-Saharan,Male,18-29,1
+2023-06-30,2023,2,Kenya,Africa Sub-Saharan,Male,Under 18,1
+2023-06-30,2023,2,Kuwait,Middle East,Female,30-49,2
+2023-06-30,2023,2,Kuwait,Middle East,Female,50-69,1
+2023-06-30,2023,2,Kuwait,Middle East,Female,Under 18,3
+2023-06-30,2023,2,Kuwait,Middle East,Male,18-29,1
+2023-06-30,2023,2,Kuwait,Middle East,Male,Under 18,4
+2023-06-30,2023,2,Libya,Africa North,Female,18-29,1
+2023-06-30,2023,2,Libya,Africa North,Female,Under 18,1
+2023-06-30,2023,2,Libya,Africa North,Male,50-69,1
+2023-06-30,2023,2,Libya,Africa North,Male,Under 18,1
+2023-06-30,2023,2,Morocco,Africa North,Female,30-49,1
+2023-06-30,2023,2,Namibia,Africa Sub-Saharan,Female,Under 18,5
+2023-06-30,2023,2,Namibia,Africa Sub-Saharan,Male,Under 18,8
+2023-06-30,2023,2,Nicaragua,America Central and South,Female,30-49,1
+2023-06-30,2023,2,Nicaragua,America Central and South,Female,Under 18,1
+2023-06-30,2023,2,Nicaragua,America Central and South,Male,Under 18,2
+2023-06-30,2023,2,Nigeria,Africa Sub-Saharan,Female,18-29,1
+2023-06-30,2023,2,Nigeria,Africa Sub-Saharan,Female,Under 18,3
+2023-06-30,2023,2,Nigeria,Africa Sub-Saharan,Male,30-49,1
+2023-06-30,2023,2,Nigeria,Africa Sub-Saharan,Male,Under 18,6
+2023-06-30,2023,2,Occupied Palestinian Territories,Middle East,Female,Under 18,1
+2023-06-30,2023,2,Occupied Palestinian Territories,Middle East,Male,30-49,1
+2023-06-30,2023,2,Occupied Palestinian Territories,Middle East,Male,Under 18,1
+2023-06-30,2023,2,Other and unknown,Other,Female,18-29,5
+2023-06-30,2023,2,Other and unknown,Other,Female,30-49,4
+2023-06-30,2023,2,Other and unknown,Other,Female,70+,1
+2023-06-30,2023,2,Other and unknown,Other,Female,Under 18,14
+2023-06-30,2023,2,Other and unknown,Other,Male,18-29,1
+2023-06-30,2023,2,Other and unknown,Other,Male,Under 18,9
+2023-06-30,2023,2,Other and unknown,Other,Female,30-49,4
+2023-06-30,2023,2,Other and unknown,Other,Female,50-69,1
+2023-06-30,2023,2,Other and unknown,Other,Female,Under 18,8
+2023-06-30,2023,2,Other and unknown,Other,Male,18-29,1
+2023-06-30,2023,2,Other and unknown,Other,Male,Under 18,8
+2023-06-30,2023,2,Pakistan,Asia South,Female,18-29,3
+2023-06-30,2023,2,Pakistan,Asia South,Female,30-49,5
+2023-06-30,2023,2,Pakistan,Asia South,Female,Under 18,12
+2023-06-30,2023,2,Pakistan,Asia South,Male,18-29,6
+2023-06-30,2023,2,Pakistan,Asia South,Male,30-49,2
+2023-06-30,2023,2,Pakistan,Asia South,Male,50-69,1
+2023-06-30,2023,2,Pakistan,Asia South,Male,Under 18,17
+2023-06-30,2023,2,Philippines,Asia South East,Female,Under 18,1
+2023-06-30,2023,2,Russia,Europe Other,Female,30-49,1
+2023-06-30,2023,2,Russia,Europe Other,Female,Under 18,1
+2023-06-30,2023,2,Russia,Europe Other,Male,Under 18,2
+2023-06-30,2023,2,Rwanda,Africa Sub-Saharan,Female,Under 18,1
+2023-06-30,2023,2,Sierra Leone,Africa Sub-Saharan,Female,Under 18,3
+2023-06-30,2023,2,Sierra Leone,Africa Sub-Saharan,Male,Under 18,3
+2023-06-30,2023,2,Somalia,Africa Sub-Saharan,Female,18-29,3
+2023-06-30,2023,2,Somalia,Africa Sub-Saharan,Female,Under 18,12
+2023-06-30,2023,2,Somalia,Africa Sub-Saharan,Male,18-29,3
+2023-06-30,2023,2,Somalia,Africa Sub-Saharan,Male,50-69,1
+2023-06-30,2023,2,Somalia,Africa Sub-Saharan,Male,Under 18,11
+2023-06-30,2023,2,South Sudan,Africa Sub-Saharan,Female,Under 18,1
+2023-06-30,2023,2,Sri Lanka,Asia South,Female,18-29,1
+2023-06-30,2023,2,Sri Lanka,Asia South,Female,30-49,5
+2023-06-30,2023,2,Sri Lanka,Asia South,Female,50-69,1
+2023-06-30,2023,2,Sri Lanka,Asia South,Female,Under 18,1
+2023-06-30,2023,2,Sri Lanka,Asia South,Male,18-29,1
+2023-06-30,2023,2,Sri Lanka,Asia South,Male,Under 18,3
+2023-06-30,2023,2,Stateless,Other,Female,18-29,5
+2023-06-30,2023,2,Stateless,Other,Female,30-49,7
+2023-06-30,2023,2,Stateless,Other,Female,50-69,1
+2023-06-30,2023,2,Stateless,Other,Female,Under 18,10
+2023-06-30,2023,2,Stateless,Other,Male,Under 18,10
+2023-06-30,2023,2,Sudan,Africa North,Female,18-29,42
+2023-06-30,2023,2,Sudan,Africa North,Female,30-49,10
+2023-06-30,2023,2,Sudan,Africa North,Female,Under 18,6
+2023-06-30,2023,2,Sudan,Africa North,Male,18-29,6
+2023-06-30,2023,2,Sudan,Africa North,Male,70+,1
+2023-06-30,2023,2,Sudan,Africa North,Male,Under 18,6
+2023-06-30,2023,2,Syria,Middle East,Female,18-29,51
+2023-06-30,2023,2,Syria,Middle East,Female,30-49,23
+2023-06-30,2023,2,Syria,Middle East,Female,50-69,7
+2023-06-30,2023,2,Syria,Middle East,Female,70+,1
+2023-06-30,2023,2,Syria,Middle East,Female,Under 18,55
+2023-06-30,2023,2,Syria,Middle East,Male,18-29,8
+2023-06-30,2023,2,Syria,Middle East,Male,30-49,2
+2023-06-30,2023,2,Syria,Middle East,Male,50-69,2
+2023-06-30,2023,2,Syria,Middle East,Male,70+,1
+2023-06-30,2023,2,Syria,Middle East,Male,Under 18,82
+2023-06-30,2023,2,Tanzania,Africa Sub-Saharan,Female,30-49,1
+2023-06-30,2023,2,Tanzania,Africa Sub-Saharan,Male,Under 18,1
+2023-06-30,2023,2,Turkey,Europe Other,Female,18-29,3
+2023-06-30,2023,2,Turkey,Europe Other,Female,30-49,4
+2023-06-30,2023,2,Turkey,Europe Other,Female,50-69,1
+2023-06-30,2023,2,Turkey,Europe Other,Female,Under 18,4
+2023-06-30,2023,2,Turkey,Europe Other,Male,18-29,1
+2023-06-30,2023,2,Turkey,Europe Other,Male,50-69,1
+2023-06-30,2023,2,Turkey,Europe Other,Male,Under 18,3
+2023-06-30,2023,2,Uganda,Africa Sub-Saharan,Female,18-29,1
+2023-06-30,2023,2,Uganda,Africa Sub-Saharan,Female,Under 18,8
+2023-06-30,2023,2,Uganda,Africa Sub-Saharan,Male,18-29,2
+2023-06-30,2023,2,Uganda,Africa Sub-Saharan,Male,Under 18,7
+2023-06-30,2023,2,Vietnam,Asia South East,Female,18-29,2
+2023-06-30,2023,2,Vietnam,Asia South East,Female,30-49,2
+2023-06-30,2023,2,Vietnam,Asia South East,Female,Under 18,9
+2023-06-30,2023,2,Vietnam,Asia South East,Male,18-29,1
+2023-06-30,2023,2,Vietnam,Asia South East,Male,Under 18,18
+2023-06-30,2023,2,Yemen,Middle East,Female,18-29,8
+2023-06-30,2023,2,Yemen,Middle East,Female,30-49,10
+2023-06-30,2023,2,Yemen,Middle East,Female,50-69,1
+2023-06-30,2023,2,Yemen,Middle East,Female,Under 18,13
+2023-06-30,2023,2,Yemen,Middle East,Male,18-29,2
+2023-06-30,2023,2,Yemen,Middle East,Male,Under 18,14
+2023-06-30,2023,2,Zimbabwe,Africa Sub-Saharan,Female,30-49,1
+2023-06-30,2023,2,Zimbabwe,Africa Sub-Saharan,Female,Under 18,1
+2023-06-30,2023,2,Zimbabwe,Africa Sub-Saharan,Male,18-29,1
+2023-06-30,2023,2,Zimbabwe,Africa Sub-Saharan,Male,Under 18,3

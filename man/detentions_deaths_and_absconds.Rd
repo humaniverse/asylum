@@ -4,14 +4,15 @@
 \name{detentions_deaths_and_absconds}
 \alias{detentions_deaths_and_absconds}
 \title{Deaths of persons detained under Immigration Act Powers and absconds from
-detention, 2017 to 2021}
+detention, 2017 to 2022}
 \format{
-A data frame with 5 rows and 4 variables:
+A data frame with 6 rows and 5 variables:
 \describe{
   \item{Year}{Year}
   \item{Deaths of persons detained under Immigration Powers}{Deaths of persons detained under Immigration Powers}
   \item{Of which occurred in the detention estate}{Of which occurred in the detention estate}
-  \item{Absconds from detention}{Absconds from detention}
+  \item{Escapes from detention centres}{Escapes from detention centres}
+  \item{Absconds from escort}{Absconds from escort}
   ...
 }
 }
@@ -23,6 +24,6 @@ detentions_deaths_and_absconds
 }
 \description{
 Deaths of persons detained under Immigration Act Powers and absconds from
-detention, 2017 to 2021
+detention, 2017 to 2022
 }
 \keyword{datasets}

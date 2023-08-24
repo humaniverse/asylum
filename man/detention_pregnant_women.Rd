@@ -5,7 +5,7 @@
 \alias{detention_pregnant_women}
 \title{Number of pregnant women detained in the immigration detention estate}
 \format{
-A data frame with 27 rows and 4 variables:
+A data frame with 28 rows and 4 variables:
 \describe{
   \item{Date}{Date}
   \item{Year}{Year}

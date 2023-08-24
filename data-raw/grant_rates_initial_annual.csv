@@ -2,7 +2,7 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2001,Afghanistan,Asia Central,9819,2544,0.7942247027420529
 2001,Albania,Europe Other,182,1565,0.10417859187178019
 2001,Algeria,Africa North,140,2589,0.05130084279956028
-2001,American Samoa,Oceania,1,0,1
+2001,American Samoa (United States),Oceania,1,0,1
 2001,Andorra,Europe Other,1,0,1
 2001,Angola,Africa Sub-Saharan,615,674,0.47711404189294027
 2001,Argentina,America Central and South,3,1,0.75
@@ -15,7 +15,7 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2001,Belarus,Europe Other,11,505,0.02131782945736434
 2001,Belgium,EU 14,0,1,0
 2001,Benin,Africa Sub-Saharan,2,12,0.14285714285714285
-2001,Bermuda (British),Other,1,1,0.5
+2001,Bermuda (British),America North,1,1,0.5
 2001,Bhutan,Asia South,24,69,0.25806451612903225
 2001,Bolivia,America Central and South,5,49,0.09259259259259259
 2001,Bosnia and Herzegovina,Europe Other,31,160,0.16230366492146597
@@ -24,8 +24,7 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2001,British overseas citizens,Other,8,15,0.34782608695652173
 2001,Brunei,Asia South East,1,1,0.5
 2001,Bulgaria,EU 2,15,128,0.1048951048951049
-2001,Burkina,Africa Sub-Saharan,1,21,0.045454545454545456
-2001,Burma,Asia South East,35,89,0.28225806451612906
+2001,Burkina Faso,Africa Sub-Saharan,1,21,0.045454545454545456
 2001,Burundi,Africa Sub-Saharan,474,634,0.427797833935018
 2001,Cambodia,Asia South East,0,3,0
 2001,Cameroon,Africa Sub-Saharan,76,498,0.13240418118466898
@@ -42,7 +41,7 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2001,Cuba,America Central and South,2,28,0.06666666666666667
 2001,Cyprus,EU Other,4,26,0.13333333333333333
 2001,Cyprus (Northern part of),Europe Other,49,352,0.12219451371571072
-2001,Czech Republic,EU 8,7,887,0.007829977628635347
+2001,Czechia,EU 8,7,887,0.007829977628635347
 2001,Djibouti,Africa Sub-Saharan,0,4,0
 2001,Dominican Republic,America Central and South,1,3,0.25
 2001,Ecuador,America Central and South,23,496,0.04431599229287091
@@ -51,6 +50,7 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2001,Equatorial Guinea,Africa Sub-Saharan,0,4,0
 2001,Eritrea,Africa Sub-Saharan,351,954,0.2689655172413793
 2001,Estonia,EU 8,1,276,0.0036101083032490976
+2001,Eswatini,Africa Sub-Saharan,0,1,0
 2001,Ethiopia,Africa Sub-Saharan,330,844,0.28109028960817717
 2001,Fiji,Oceania,0,5,0
 2001,France,EU 14,0,4,0
@@ -60,7 +60,7 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2001,Ghana,Africa Sub-Saharan,93,330,0.2198581560283688
 2001,Greece,EU 14,0,1,0
 2001,Grenada,America Central and South,1,2,0.3333333333333333
-2001,Guadeloupe,America Central and South,0,1,0
+2001,Guadeloupe (French),America Central and South,0,1,0
 2001,Guatemala,America Central and South,0,1,0
 2001,Guinea,Africa Sub-Saharan,34,76,0.3090909090909091
 2001,Guinea-Bissau,Africa Sub-Saharan,0,25,0
@@ -80,8 +80,6 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2001,Jordan,Middle East,9,42,0.17647058823529413
 2001,Kazakhstan,Asia Central,8,36,0.18181818181818182
 2001,Kenya,Africa Sub-Saharan,96,820,0.10480349344978165
-2001,Korea (North),Asia East,0,14,0
-2001,Korea (South),Asia East,0,4,0
 2001,Kuwait,Middle East,19,44,0.30158730158730157
 2001,Kyrgyzstan,Asia Central,2,10,0.16666666666666666
 2001,Latvia,EU 8,7,405,0.01699029126213592
@@ -92,7 +90,6 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2001,Liechtenstein,Europe Other,0,1,0
 2001,Lithuania,EU 8,31,664,0.04460431654676259
 2001,Macau,Asia East,1,4,0.2
-2001,Macedonia,Europe Other,152,493,0.23565891472868217
 2001,Madagascar,Africa Sub-Saharan,0,1,0
 2001,Malawi,Africa Sub-Saharan,2,54,0.03571428571428571
 2001,Malaysia,Asia South East,1,25,0.038461538461538464
@@ -106,12 +103,15 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2001,Mongolia,Asia East,2,181,0.01092896174863388
 2001,Morocco,Africa North,1,50,0.0196078431372549
 2001,Mozambique,Africa Sub-Saharan,2,5,0.2857142857142857
+2001,Myanmar (Burma),Asia South East,35,89,0.28225806451612906
 2001,Namibia,Africa Sub-Saharan,1,3,0.25
 2001,Nepal,Asia South,42,971,0.04146100691016782
 2001,Netherlands,EU 14,0,2,0
 2001,Nicaragua,America Central and South,0,2,0
 2001,Niger,Africa Sub-Saharan,1,23,0.041666666666666664
 2001,Nigeria,Africa Sub-Saharan,157,1110,0.1239147592738753
+2001,North Korea,Asia East,0,14,0
+2001,North Macedonia,Europe Other,152,493,0.23565891472868217
 2001,Occupied Palestinian Territories,Middle East,3,68,0.04225352112676056
 2001,Oman,Middle East,0,4,0
 2001,Other and unknown,Other,108,341,0.24053452115812918
@@ -135,16 +135,16 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2001,Slovenia,EU 8,0,4,0
 2001,Somalia,Africa Sub-Saharan,4906,3524,0.5819691577698695
 2001,South Africa,Africa Sub-Saharan,5,136,0.03546099290780142
+2001,South Korea,Asia East,0,4,0
 2001,Spain,EU 14,0,7,0
 2001,Sri Lanka,Asia South,1979,8371,0.19120772946859904
-2001,St. Helena (British),Other,0,1,0
-2001,St. Lucia,America Central and South,1,1,0.5
-2001,St. Pierre and Miquelon,America Central and South,0,1,0
-2001,St. Vincent and the Grenadines,America Central and South,1,1,0.5
+2001,"St Helena, Ascension and Tristan de Cunha (British)",Other,0,1,0
+2001,St Lucia,America Central and South,1,1,0.5
+2001,St Pierre and Miquelon (French),America North,0,1,0
+2001,St Vincent and the Grenadines,America Central and South,1,1,0.5
 2001,Stateless,Other,0,2,0
 2001,Sudan,Africa North,174,596,0.22597402597402597
-2001,Surinam,America Central and South,2,1,0.6666666666666666
-2001,Swaziland,Africa Sub-Saharan,0,1,0
+2001,Suriname,America Central and South,2,1,0.6666666666666666
 2001,Switzerland,Europe Other,0,3,0
 2001,Syria,Middle East,35,178,0.1643192488262911
 2001,Taiwan,Asia East,0,5,0
@@ -156,7 +156,7 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2001,Tunisia,Africa North,8,40,0.16666666666666666
 2001,Turkey,Europe Other,487,7340,0.06222051871726077
 2001,Turkmenistan,Asia Central,0,3,0
-2001,Turks and Caicos Islands (British),Other,0,1,0
+2001,Turks and Caicos Islands (British),America Central and South,0,1,0
 2001,Uganda,Africa Sub-Saharan,145,957,0.13157894736842105
 2001,Ukraine,Europe Other,36,1142,0.030560271646859084
 2001,United Arab Emirates,Middle East,4,1,0.8
@@ -172,7 +172,7 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2002,Afghanistan,Asia Central,4879,3298,0.5966735966735967
 2002,Albania,Europe Other,307,946,0.24501197126895452
 2002,Algeria,Africa North,55,1074,0.048715677590788306
-2002,American Samoa,Oceania,0,1,0
+2002,American Samoa (United States),Oceania,0,1,0
 2002,Angola,Africa Sub-Saharan,764,578,0.5692995529061102
 2002,Antigua and Barbuda,America Central and South,0,2,0
 2002,Argentina,America Central and South,1,4,0.2
@@ -191,8 +191,7 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2002,British overseas citizens,Other,6,20,0.23076923076923078
 2002,Brunei,Asia South East,1,0,1
 2002,Bulgaria,EU 2,0,82,0
-2002,Burkina,Africa Sub-Saharan,1,13,0.07142857142857142
-2002,Burma,Asia South East,27,56,0.3253012048192771
+2002,Burkina Faso,Africa Sub-Saharan,1,13,0.07142857142857142
 2002,Burundi,Africa Sub-Saharan,343,342,0.5007299270072992
 2002,Cambodia,Asia South East,0,2,0
 2002,Cameroon,Africa Sub-Saharan,81,439,0.15576923076923077
@@ -210,13 +209,14 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2002,Cuba,America Central and South,1,17,0.05555555555555555
 2002,Cyprus,EU Other,3,40,0.06976744186046512
 2002,Cyprus (Northern part of),Europe Other,11,43,0.2037037037037037
-2002,Czech Republic,EU 8,10,1219,0.008136696501220505
+2002,Czechia,EU 8,10,1219,0.008136696501220505
 2002,Djibouti,Africa Sub-Saharan,1,3,0.25
 2002,Dominican Republic,America Central and South,1,1,0.5
 2002,Ecuador,America Central and South,30,292,0.09316770186335403
 2002,Egypt,Africa North,4,70,0.05405405405405406
 2002,Eritrea,Africa Sub-Saharan,352,756,0.3176895306859206
 2002,Estonia,EU 8,1,45,0.021739130434782608
+2002,Eswatini,Africa Sub-Saharan,0,1,0
 2002,Ethiopia,Africa Sub-Saharan,220,484,0.3125
 2002,Fiji,Oceania,0,3,0
 2002,France,EU 14,0,6,0
@@ -245,8 +245,6 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2002,Jordan,Middle East,0,14,0
 2002,Kazakhstan,Asia Central,0,33,0
 2002,Kenya,Africa Sub-Saharan,59,301,0.1638888888888889
-2002,Korea (North),Asia East,1,2,0.3333333333333333
-2002,Korea (South),Asia East,0,3,0
 2002,Kuwait,Middle East,8,17,0.32
 2002,Kyrgyzstan,Asia Central,1,13,0.07142857142857142
 2002,Latvia,EU 8,4,233,0.016877637130801686
@@ -256,7 +254,6 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2002,Libya,Africa North,111,76,0.5935828877005348
 2002,Lithuania,EU 8,1,341,0.0029239766081871343
 2002,Macau,Asia East,0,3,0
-2002,Macedonia,Europe Other,141,296,0.32265446224256294
 2002,Malawi,Africa Sub-Saharan,6,55,0.09836065573770492
 2002,Malaysia,Asia South East,0,19,0
 2002,Maldives,Asia South,0,9,0
@@ -269,11 +266,14 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2002,Mongolia,Asia East,8,156,0.04878048780487805
 2002,Morocco,Africa North,2,31,0.06060606060606061
 2002,Mozambique,Africa Sub-Saharan,0,3,0
+2002,Myanmar (Burma),Asia South East,27,56,0.3253012048192771
 2002,Namibia,Africa Sub-Saharan,0,9,0
 2002,Nepal,Asia South,20,561,0.03442340791738382
 2002,Netherlands,EU 14,0,2,0
 2002,Niger,Africa Sub-Saharan,0,6,0
 2002,Nigeria,Africa Sub-Saharan,101,1009,0.09099099099099099
+2002,North Korea,Asia East,1,2,0.3333333333333333
+2002,North Macedonia,Europe Other,141,296,0.32265446224256294
 2002,Norway,Europe Other,0,1,0
 2002,Occupied Palestinian Territories,Middle East,17,224,0.07053941908713693
 2002,Oman,Middle East,0,1,0
@@ -299,13 +299,13 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2002,Slovenia,EU 8,0,3,0
 2002,Somalia,Africa Sub-Saharan,3920,2817,0.5818613626243135
 2002,South Africa,Africa Sub-Saharan,1,191,0.005208333333333333
+2002,South Korea,Asia East,0,3,0
 2002,Spain,EU 14,0,2,0
 2002,Sri Lanka,Asia South,615,3669,0.14355742296918766
-2002,St. Lucia,America Central and South,0,2,0
-2002,St. Vincent and the Grenadines,America Central and South,0,1,0
+2002,St Lucia,America Central and South,0,2,0
+2002,St Vincent and the Grenadines,America Central and South,0,1,0
 2002,Stateless,Other,1,3,0.25
 2002,Sudan,Africa North,110,453,0.19538188277087035
-2002,Swaziland,Africa Sub-Saharan,0,1,0
 2002,Syria,Middle East,23,73,0.23958333333333334
 2002,Taiwan,Asia East,0,1,0
 2002,Tajikistan,Asia Central,0,11,0
@@ -317,7 +317,7 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2002,Tunisia,Africa North,2,12,0.14285714285714285
 2002,Turkey,Europe Other,350,3147,0.10008578781812982
 2002,Turkmenistan,Asia Central,2,2,0.5
-2002,Turks and Caicos Islands (British),Other,0,1,0
+2002,Turks and Caicos Islands (British),America Central and South,0,1,0
 2002,Uganda,Africa Sub-Saharan,158,511,0.23617339312406577
 2002,Ukraine,Europe Other,10,299,0.032362459546925564
 2002,United Arab Emirates,Middle East,0,1,0
@@ -349,8 +349,7 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2003,Brazil,America Central and South,1,21,0.045454545454545456
 2003,British overseas citizens,Other,1,11,0.08333333333333333
 2003,Bulgaria,EU 2,2,37,0.05128205128205128
-2003,Burkina,Africa Sub-Saharan,2,9,0.18181818181818182
-2003,Burma,Asia South East,33,107,0.2357142857142857
+2003,Burkina Faso,Africa Sub-Saharan,2,9,0.18181818181818182
 2003,Burundi,Africa Sub-Saharan,341,432,0.4411384217335058
 2003,Cameroon,Africa Sub-Saharan,64,526,0.10847457627118644
 2003,Canada,America North,0,3,0
@@ -366,13 +365,14 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2003,Cuba,America Central and South,2,18,0.1
 2003,Cyprus,EU Other,0,18,0
 2003,Cyprus (Northern part of),Europe Other,0,36,0
-2003,Czech Republic,EU 8,1,108,0.009174311926605505
+2003,Czechia,EU 8,1,108,0.009174311926605505
 2003,Dominican Republic,America Central and South,1,0,1
 2003,Ecuador,America Central and South,14,220,0.05982905982905983
 2003,Egypt,Africa North,7,54,0.11475409836065574
 2003,Equatorial Guinea,Africa Sub-Saharan,1,3,0.25
 2003,Eritrea,Africa Sub-Saharan,239,877,0.21415770609318996
 2003,Estonia,EU 8,2,34,0.05555555555555555
+2003,Eswatini,Africa Sub-Saharan,0,2,0
 2003,Ethiopia,Africa Sub-Saharan,150,591,0.20242914979757085
 2003,Fiji,Oceania,0,4,0
 2003,France,EU 14,0,1,0
@@ -399,8 +399,6 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2003,Jordan,Middle East,0,23,0
 2003,Kazakhstan,Asia Central,0,15,0
 2003,Kenya,Africa Sub-Saharan,57,246,0.18811881188118812
-2003,Korea (North),Asia East,0,1,0
-2003,Korea (South),Asia East,1,1,0.5
 2003,Kuwait,Middle East,11,52,0.1746031746031746
 2003,Kyrgyzstan,Asia Central,3,26,0.10344827586206896
 2003,Laos,Asia South East,0,1,0
@@ -411,7 +409,6 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2003,Libya,Africa North,23,183,0.11165048543689321
 2003,Lithuania,EU 8,6,124,0.046153846153846156
 2003,Macau,Asia East,0,1,0
-2003,Macedonia,Europe Other,32,75,0.29906542056074764
 2003,Malawi,Africa Sub-Saharan,2,149,0.013245033112582781
 2003,Malaysia,Asia South East,0,28,0
 2003,Maldives,Asia South,0,2,0
@@ -424,11 +421,14 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2003,Mongolia,Asia East,6,168,0.034482758620689655
 2003,Morocco,Africa North,4,25,0.13793103448275862
 2003,Mozambique,Africa Sub-Saharan,0,2,0
+2003,Myanmar (Burma),Asia South East,33,107,0.2357142857142857
 2003,Namibia,Africa Sub-Saharan,0,2,0
 2003,Nepal,Asia South,5,288,0.017064846416382253
 2003,Nicaragua,America Central and South,0,1,0
 2003,Niger,Africa Sub-Saharan,1,9,0.1
 2003,Nigeria,Africa Sub-Saharan,71,1038,0.06402164111812443
+2003,North Korea,Asia East,0,1,0
+2003,North Macedonia,Europe Other,32,75,0.29906542056074764
 2003,Occupied Palestinian Territories,Middle East,41,1198,0.033091202582728005
 2003,Oman,Middle East,0,1,0
 2003,Other and unknown,Other,42,185,0.18502202643171806
@@ -453,11 +453,11 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2003,Solomon Islands,Oceania,0,1,0
 2003,Somalia,Africa Sub-Saharan,2216,3833,0.3663415440568689
 2003,South Africa,Africa Sub-Saharan,6,243,0.024096385542168676
+2003,South Korea,Asia East,1,1,0.5
 2003,Sri Lanka,Asia South,117,1355,0.07948369565217392
-2003,St. Lucia,America Central and South,0,1,0
+2003,St Lucia,America Central and South,0,1,0
 2003,Stateless,Other,1,6,0.14285714285714285
 2003,Sudan,Africa North,155,593,0.2072192513368984
-2003,Swaziland,Africa Sub-Saharan,0,2,0
 2003,Syria,Middle East,9,119,0.0703125
 2003,Tajikistan,Asia Central,0,6,0
 2003,Tanzania,Africa Sub-Saharan,10,42,0.19230769230769232
@@ -497,8 +497,7 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2004,British overseas citizens,Other,0,2,0
 2004,Brunei,Asia South East,0,1,0
 2004,Bulgaria,EU 2,2,19,0.09523809523809523
-2004,Burkina,Africa Sub-Saharan,0,13,0
-2004,Burma,Asia South East,16,80,0.16666666666666666
+2004,Burkina Faso,Africa Sub-Saharan,0,13,0
 2004,Burundi,Africa Sub-Saharan,121,249,0.327027027027027
 2004,Cameroon,Africa Sub-Saharan,70,336,0.1724137931034483
 2004,Canada,America North,0,3,0
@@ -515,7 +514,7 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2004,Cuba,America Central and South,0,19,0
 2004,Cyprus,EU Other,1,4,0.2
 2004,Cyprus (Northern part of),Europe Other,0,18,0
-2004,Czech Republic,EU 8,0,52,0
+2004,Czechia,EU 8,0,52,0
 2004,Djibouti,Africa Sub-Saharan,0,5,0
 2004,Dominica,America Central and South,0,3,0
 2004,Dominican Republic,America Central and South,1,3,0.25
@@ -525,6 +524,7 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2004,Equatorial Guinea,Africa Sub-Saharan,0,4,0
 2004,Eritrea,Africa Sub-Saharan,259,737,0.2600401606425703
 2004,Estonia,EU 8,0,13,0
+2004,Eswatini,Africa Sub-Saharan,0,3,0
 2004,Ethiopia,Africa Sub-Saharan,145,516,0.21936459909228442
 2004,France,EU 14,0,2,0
 2004,Gabon,Africa Sub-Saharan,0,2,0
@@ -550,8 +550,6 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2004,Jordan,Middle East,1,13,0.07142857142857142
 2004,Kazakhstan,Asia Central,2,6,0.25
 2004,Kenya,Africa Sub-Saharan,35,172,0.16908212560386474
-2004,Korea (North),Asia East,10,46,0.17857142857142858
-2004,Korea (South),Asia East,0,1,0
 2004,Kuwait,Middle East,2,37,0.05128205128205128
 2004,Kyrgyzstan,Asia Central,2,16,0.1111111111111111
 2004,Latvia,EU 8,0,17,0
@@ -560,7 +558,6 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2004,Liberia,Africa Sub-Saharan,67,434,0.13373253493013973
 2004,Libya,Africa North,16,157,0.09248554913294797
 2004,Lithuania,EU 8,1,48,0.02040816326530612
-2004,Macedonia,Europe Other,13,26,0.3333333333333333
 2004,Madagascar,Africa Sub-Saharan,0,2,0
 2004,Malawi,Africa Sub-Saharan,7,150,0.044585987261146494
 2004,Malaysia,Asia South East,1,9,0.1
@@ -573,12 +570,15 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2004,Mongolia,Asia East,10,122,0.07575757575757576
 2004,Morocco,Africa North,3,28,0.0967741935483871
 2004,Mozambique,Africa Sub-Saharan,0,4,0
+2004,Myanmar (Burma),Asia South East,16,80,0.16666666666666666
 2004,Namibia,Africa Sub-Saharan,0,2,0
 2004,Nepal,Asia South,6,194,0.03
 2004,Netherlands,EU 14,0,1,0
 2004,Nicaragua,America Central and South,0,1,0
 2004,Niger,Africa Sub-Saharan,0,7,0
 2004,Nigeria,Africa Sub-Saharan,51,988,0.04908565928777671
+2004,North Korea,Asia East,10,46,0.17857142857142858
+2004,North Macedonia,Europe Other,13,26,0.3333333333333333
 2004,Occupied Palestinian Territories,Middle East,32,513,0.05871559633027523
 2004,Oman,Middle East,1,0,1
 2004,Other and unknown,Other,2,24,0.07692307692307693
@@ -602,11 +602,11 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2004,Slovenia,EU 8,0,1,0
 2004,Somalia,Africa Sub-Saharan,918,2357,0.28030534351145037
 2004,South Africa,Africa Sub-Saharan,2,229,0.008658008658008658
+2004,South Korea,Asia East,0,1,0
 2004,Sri Lanka,Asia South,98,623,0.13592233009708737
-2004,St. Lucia,America Central and South,0,4,0
+2004,St Lucia,America Central and South,0,4,0
 2004,Stateless,Other,0,5,0
 2004,Sudan,Africa North,159,1304,0.10868079289131921
-2004,Swaziland,Africa Sub-Saharan,0,3,0
 2004,Syria,Middle East,28,254,0.09929078014184398
 2004,Tajikistan,Asia Central,0,4,0
 2004,Tanzania,Africa Sub-Saharan,8,20,0.2857142857142857
@@ -644,8 +644,7 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2005,Brazil,America Central and South,0,7,0
 2005,British overseas citizens,Other,1,0,1
 2005,Bulgaria,EU 2,4,2,0.6666666666666666
-2005,Burkina,Africa Sub-Saharan,1,9,0.1
-2005,Burma,Asia South East,26,35,0.4262295081967213
+2005,Burkina Faso,Africa Sub-Saharan,1,9,0.1
 2005,Burundi,Africa Sub-Saharan,43,98,0.3049645390070922
 2005,Cambodia,Asia South East,0,1,0
 2005,Cameroon,Africa Sub-Saharan,53,243,0.17905405405405406
@@ -662,7 +661,7 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2005,Croatia,EU Other,5,19,0.20833333333333334
 2005,Cuba,America Central and South,1,13,0.07142857142857142
 2005,Cyprus (Northern part of),Europe Other,1,2,0.3333333333333333
-2005,Czech Republic,EU 8,0,7,0
+2005,Czechia,EU 8,0,7,0
 2005,Djibouti,Africa Sub-Saharan,1,0,1
 2005,Dominica,America Central and South,0,1,0
 2005,Ecuador,America Central and South,1,20,0.047619047619047616
@@ -670,6 +669,7 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2005,Equatorial Guinea,Africa Sub-Saharan,0,3,0
 2005,Eritrea,Africa Sub-Saharan,691,963,0.41777509068923824
 2005,Estonia,EU 8,0,2,0
+2005,Eswatini,Africa Sub-Saharan,0,2,0
 2005,Ethiopia,Africa Sub-Saharan,50,345,0.12658227848101267
 2005,France,EU 14,0,2,0
 2005,Gabon,Africa Sub-Saharan,0,2,0
@@ -696,8 +696,6 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2005,Jordan,Middle East,0,7,0
 2005,Kazakhstan,Asia Central,0,7,0
 2005,Kenya,Africa Sub-Saharan,13,93,0.12264150943396226
-2005,Korea (North),Asia East,15,9,0.625
-2005,Korea (South),Asia East,0,1,0
 2005,Kuwait,Middle East,15,19,0.4411764705882353
 2005,Kyrgyzstan,Asia Central,0,5,0
 2005,Lebanon,Middle East,7,77,0.08333333333333333
@@ -705,7 +703,6 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2005,Liberia,Africa Sub-Saharan,18,195,0.08450704225352113
 2005,Libya,Africa North,13,132,0.0896551724137931
 2005,Lithuania,EU 8,0,9,0
-2005,Macedonia,Europe Other,0,12,0
 2005,Malawi,Africa Sub-Saharan,2,110,0.017857142857142856
 2005,Malaysia,Asia South East,0,12,0
 2005,Maldives,Asia South,4,0,1
@@ -716,10 +713,13 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2005,Mongolia,Asia East,3,93,0.03125
 2005,Morocco,Africa North,8,29,0.21621621621621623
 2005,Mozambique,Africa Sub-Saharan,1,4,0.2
+2005,Myanmar (Burma),Asia South East,26,35,0.4262295081967213
 2005,Namibia,Africa Sub-Saharan,0,2,0
 2005,Nepal,Asia South,2,68,0.02857142857142857
 2005,Niger,Africa Sub-Saharan,0,7,0
 2005,Nigeria,Africa Sub-Saharan,69,806,0.07885714285714286
+2005,North Korea,Asia East,15,9,0.625
+2005,North Macedonia,Europe Other,0,12,0
 2005,Occupied Palestinian Territories,Middle East,28,411,0.06378132118451026
 2005,Oman,Middle East,0,1,0
 2005,Other and unknown,Other,4,15,0.21052631578947367
@@ -740,12 +740,12 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2005,Slovakia,EU 8,0,2,0
 2005,Somalia,Africa Sub-Saharan,853,999,0.4605831533477322
 2005,South Africa,Africa Sub-Saharan,0,88,0
+2005,South Korea,Asia East,0,1,0
 2005,Sri Lanka,Asia South,64,454,0.12355212355212356
-2005,St. Lucia,America Central and South,0,2,0
-2005,St. Vincent and the Grenadines,America Central and South,0,1,0
+2005,St Lucia,America Central and South,0,2,0
+2005,St Vincent and the Grenadines,America Central and South,0,1,0
 2005,Stateless,Other,0,8,0
 2005,Sudan,Africa North,93,901,0.09356136820925554
-2005,Swaziland,Africa Sub-Saharan,0,2,0
 2005,Sweden,EU 14,0,1,0
 2005,Syria,Middle East,41,317,0.11452513966480447
 2005,Taiwan,Asia East,0,1,0
@@ -784,8 +784,7 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2006,Brazil,America Central and South,0,4,0
 2006,British overseas citizens,Other,5,2,0.7142857142857143
 2006,Bulgaria,EU 2,2,6,0.25
-2006,Burkina,Africa Sub-Saharan,0,1,0
-2006,Burma,Asia South East,32,31,0.5079365079365079
+2006,Burkina Faso,Africa Sub-Saharan,0,1,0
 2006,Burundi,Africa Sub-Saharan,9,34,0.20930232558139536
 2006,Cameroon,Africa Sub-Saharan,28,187,0.13023255813953488
 2006,Canada,America North,0,2,0
@@ -798,13 +797,14 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2006,Congo (Democratic Republic),Africa Sub-Saharan,128,472,0.21333333333333335
 2006,Croatia,EU Other,0,14,0
 2006,Cuba,America Central and South,1,13,0.07142857142857142
-2006,Czech Republic,EU 8,0,2,0
+2006,Czechia,EU 8,0,2,0
 2006,Djibouti,Africa Sub-Saharan,0,4,0
 2006,Dominica,America Central and South,0,1,0
 2006,Ecuador,America Central and South,0,11,0
 2006,Egypt,Africa North,3,17,0.15
 2006,El Salvador,America Central and South,0,1,0
 2006,Eritrea,Africa Sub-Saharan,854,1313,0.3940932164282418
+2006,Eswatini,Africa Sub-Saharan,1,3,0.25
 2006,Ethiopia,Africa Sub-Saharan,41,187,0.17982456140350878
 2006,Gabon,Africa Sub-Saharan,0,1,0
 2006,"Gambia, The",Africa Sub-Saharan,10,90,0.1
@@ -827,7 +827,6 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2006,Jordan,Middle East,0,9,0
 2006,Kazakhstan,Asia Central,0,4,0
 2006,Kenya,Africa Sub-Saharan,9,78,0.10344827586206896
-2006,Korea (North),Asia East,23,10,0.696969696969697
 2006,Kuwait,Middle East,53,81,0.39552238805970147
 2006,Kyrgyzstan,Asia Central,1,6,0.14285714285714285
 2006,Laos,Asia South East,0,1,0
@@ -835,7 +834,6 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2006,Lebanon,Middle East,8,122,0.06153846153846154
 2006,Liberia,Africa Sub-Saharan,7,40,0.14893617021276595
 2006,Libya,Africa North,7,81,0.07954545454545454
-2006,Macedonia,Europe Other,0,3,0
 2006,Malawi,Africa Sub-Saharan,2,52,0.037037037037037035
 2006,Malaysia,Asia South East,0,9,0
 2006,Mali,Africa Sub-Saharan,0,8,0
@@ -846,10 +844,13 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2006,Mongolia,Asia East,6,33,0.15384615384615385
 2006,Morocco,Africa North,0,21,0
 2006,Mozambique,Africa Sub-Saharan,0,3,0
+2006,Myanmar (Burma),Asia South East,32,31,0.5079365079365079
 2006,Namibia,Africa Sub-Saharan,0,10,0
 2006,Nepal,Asia South,0,45,0
 2006,Niger,Africa Sub-Saharan,0,7,0
 2006,Nigeria,Africa Sub-Saharan,54,559,0.08809135399673736
+2006,North Korea,Asia East,23,10,0.696969696969697
+2006,North Macedonia,Europe Other,0,3,0
 2006,Occupied Palestinian Territories,Middle East,6,220,0.02654867256637168
 2006,Oman,Middle East,0,1,0
 2006,Other and unknown,Other,5,9,0.35714285714285715
@@ -871,11 +872,10 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2006,South Africa,Africa Sub-Saharan,1,56,0.017543859649122806
 2006,Spain,EU 14,0,1,0
 2006,Sri Lanka,Asia South,62,369,0.14385150812064965
-2006,St. Lucia,America Central and South,0,5,0
-2006,St. Vincent and the Grenadines,America Central and South,0,1,0
+2006,St Lucia,America Central and South,0,5,0
+2006,St Vincent and the Grenadines,America Central and South,0,1,0
 2006,Stateless,Other,1,1,0.5
 2006,Sudan,Africa North,70,509,0.12089810017271158
-2006,Swaziland,Africa Sub-Saharan,1,3,0.25
 2006,Syria,Middle East,31,146,0.1751412429378531
 2006,Taiwan,Asia East,0,1,0
 2006,Tanzania,Africa Sub-Saharan,0,14,0
@@ -912,16 +912,15 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2007,Bosnia and Herzegovina,Europe Other,2,7,0.2222222222222222
 2007,Botswana,Africa Sub-Saharan,0,3,0
 2007,Brazil,America Central and South,1,16,0.058823529411764705
-2007,British overseas citizens,Other,5,4,0.5555555555555556
+2007,British overseas citizens,Other,7,14,0.3333333333333333
 2007,Bulgaria,EU 2,1,1,0.5
-2007,Burkina,Africa Sub-Saharan,0,3,0
-2007,Burma,Asia South East,111,40,0.7350993377483444
+2007,Burkina Faso,Africa Sub-Saharan,0,3,0
 2007,Burundi,Africa Sub-Saharan,11,25,0.3055555555555556
 2007,Cameroon,Africa Sub-Saharan,44,166,0.20952380952380953
 2007,Chad,Africa Sub-Saharan,8,2,0.8
 2007,Chile,America Central and South,0,1,0
 2007,China,Asia East,143,1860,0.07139291063404893
-2007,Christmas Island,Oceania,0,2,0
+2007,Christmas Island (Australian),Other,0,2,0
 2007,Colombia,America Central and South,3,30,0.09090909090909091
 2007,Congo,Africa Sub-Saharan,8,24,0.25
 2007,Congo (Democratic Republic),Africa Sub-Saharan,138,314,0.3053097345132743
@@ -929,7 +928,7 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2007,Croatia,EU Other,1,7,0.125
 2007,Cuba,America Central and South,2,11,0.15384615384615385
 2007,Cyprus (Northern part of),Europe Other,0,1,0
-2007,Czech Republic,EU 8,0,3,0
+2007,Czechia,EU 8,0,3,0
 2007,Denmark,EU 14,0,1,0
 2007,Djibouti,Africa Sub-Saharan,0,1,0
 2007,Dominica,America Central and South,0,2,0
@@ -937,9 +936,9 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2007,Ecuador,America Central and South,0,13,0
 2007,Egypt,Africa North,4,38,0.09523809523809523
 2007,Eritrea,Africa Sub-Saharan,1172,711,0.6224110462028678
+2007,Eswatini,Africa Sub-Saharan,0,8,0
 2007,Ethiopia,Africa Sub-Saharan,38,78,0.3275862068965517
 2007,Fiji,Oceania,1,0,1
-2007,Former Yugoslavia,Europe Other,2,10,0.16666666666666666
 2007,France,EU 14,0,1,0
 2007,Gabon,Africa Sub-Saharan,0,1,0
 2007,"Gambia, The",Africa Sub-Saharan,12,73,0.1411764705882353
@@ -964,8 +963,6 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2007,Jordan,Middle East,1,14,0.06666666666666667
 2007,Kazakhstan,Asia Central,0,6,0
 2007,Kenya,Africa Sub-Saharan,16,93,0.14678899082568808
-2007,Korea (North),Asia East,151,25,0.8579545454545454
-2007,Korea (South),Asia East,0,12,0
 2007,Kosovo,Europe Other,10,57,0.14925373134328357
 2007,Kuwait,Middle East,71,82,0.46405228758169936
 2007,Kyrgyzstan,Asia Central,2,3,0.4
@@ -976,7 +973,6 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2007,Libya,Africa North,8,41,0.16326530612244897
 2007,Lithuania,EU 8,0,6,0
 2007,Macau,Asia East,0,1,0
-2007,Macedonia,Europe Other,0,11,0
 2007,Malawi,Africa Sub-Saharan,3,53,0.05357142857142857
 2007,Malaysia,Asia South East,1,15,0.0625
 2007,Mali,Africa Sub-Saharan,0,1,0
@@ -987,12 +983,15 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2007,Mongolia,Asia East,2,21,0.08695652173913043
 2007,Morocco,Africa North,1,20,0.047619047619047616
 2007,Mozambique,Africa Sub-Saharan,0,2,0
+2007,Myanmar (Burma),Asia South East,111,40,0.7350993377483444
 2007,Namibia,Africa Sub-Saharan,0,3,0
 2007,Nepal,Asia South,1,27,0.03571428571428571
 2007,Netherlands,EU 14,0,1,0
 2007,Nicaragua,America Central and South,0,1,0
 2007,Niger,Africa Sub-Saharan,1,5,0.16666666666666666
 2007,Nigeria,Africa Sub-Saharan,37,597,0.0583596214511041
+2007,North Korea,Asia East,151,25,0.8579545454545454
+2007,North Macedonia,Europe Other,0,11,0
 2007,Occupied Palestinian Territories,Middle East,29,331,0.08055555555555556
 2007,Oman,Middle East,1,0,1
 2007,Other and unknown,Other,5,1,0.8333333333333334
@@ -1003,19 +1002,19 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2007,Russia,Europe Other,9,83,0.09782608695652174
 2007,Rwanda,Africa Sub-Saharan,4,26,0.13333333333333333
 2007,Senegal,Africa Sub-Saharan,2,16,0.1111111111111111
-2007,Serbia,Europe Other,6,19,0.24
+2007,Serbia and Montenegro,Europe Other,6,19,0.24
 2007,Seychelles,Africa Sub-Saharan,0,1,0
 2007,Sierra Leone,Africa Sub-Saharan,26,79,0.24761904761904763
 2007,Somalia,Africa Sub-Saharan,910,702,0.5645161290322581
 2007,South Africa,Africa Sub-Saharan,2,85,0.022988505747126436
+2007,South Korea,Asia East,0,12,0
 2007,Spain,EU 14,0,1,0
 2007,Sri Lanka,Asia South,124,812,0.13247863247863248
-2007,St. Kitts and Nevis,America Central and South,0,1,0
-2007,St. Lucia,America Central and South,0,4,0
-2007,St. Vincent and the Grenadines,America Central and South,0,2,0
+2007,St Kitts and Nevis,America Central and South,0,1,0
+2007,St Lucia,America Central and South,0,4,0
+2007,St Vincent and the Grenadines,America Central and South,0,2,0
 2007,Stateless,Other,10,13,0.43478260869565216
 2007,Sudan,Africa North,83,304,0.2144702842377261
-2007,Swaziland,Africa Sub-Saharan,0,8,0
 2007,Syria,Middle East,39,110,0.26174496644295303
 2007,Tajikistan,Asia Central,1,0,1
 2007,Tanzania,Africa Sub-Saharan,1,18,0.05263157894736842
@@ -1053,9 +1052,8 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2008,Bosnia and Herzegovina,Europe Other,3,2,0.6
 2008,Botswana,Africa Sub-Saharan,1,4,0.2
 2008,Brazil,America Central and South,0,15,0
-2008,British overseas citizens,Other,0,1,0
-2008,Burkina,Africa Sub-Saharan,0,3,0
-2008,Burma,Asia South East,127,47,0.7298850574712644
+2008,British overseas citizens,Other,1,3,0.25
+2008,Burkina Faso,Africa Sub-Saharan,0,3,0
 2008,Burundi,Africa Sub-Saharan,4,4,0.5
 2008,Cameroon,Africa Sub-Saharan,20,92,0.17857142857142858
 2008,Central African Republic,Africa Sub-Saharan,0,1,0
@@ -1068,16 +1066,16 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2008,Cuba,America Central and South,1,5,0.16666666666666666
 2008,Cyprus,EU Other,0,1,0
 2008,Cyprus (Northern part of),Europe Other,0,1,0
-2008,Czech Republic,EU 8,0,2,0
+2008,Czechia,EU 8,0,2,0
 2008,Djibouti,Africa Sub-Saharan,0,1,0
 2008,Dominican Republic,America Central and South,0,1,0
 2008,Ecuador,America Central and South,0,9,0
 2008,Egypt,Africa North,4,29,0.12121212121212122
 2008,Equatorial Guinea,Africa Sub-Saharan,0,1,0
 2008,Eritrea,Africa Sub-Saharan,1231,754,0.6201511335012595
+2008,Eswatini,Africa Sub-Saharan,4,5,0.4444444444444444
 2008,Ethiopia,Africa Sub-Saharan,25,62,0.28735632183908044
 2008,Fiji,Oceania,0,1,0
-2008,Former Yugoslavia,Europe Other,1,2,0.3333333333333333
 2008,"Gambia, The",Africa Sub-Saharan,18,61,0.22784810126582278
 2008,Georgia,Europe Other,3,42,0.06666666666666667
 2008,Ghana,Africa Sub-Saharan,1,94,0.010526315789473684
@@ -1098,8 +1096,6 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2008,Jordan,Middle East,0,15,0
 2008,Kazakhstan,Asia Central,0,2,0
 2008,Kenya,Africa Sub-Saharan,12,109,0.09917355371900827
-2008,Korea (North),Asia East,174,99,0.6373626373626373
-2008,Korea (South),Asia East,1,7,0.125
 2008,Kosovo,Europe Other,14,35,0.2857142857142857
 2008,Kuwait,Middle East,67,73,0.4785714285714286
 2008,Kyrgyzstan,Asia Central,0,2,0
@@ -1108,7 +1104,6 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2008,Liberia,Africa Sub-Saharan,3,16,0.15789473684210525
 2008,Libya,Africa North,5,27,0.15625
 2008,Lithuania,EU 8,0,1,0
-2008,Macedonia,Europe Other,1,8,0.1111111111111111
 2008,Malawi,Africa Sub-Saharan,3,72,0.04
 2008,Malaysia,Asia South East,1,18,0.05263157894736842
 2008,Mali,Africa Sub-Saharan,3,5,0.375
@@ -1119,11 +1114,14 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2008,Mongolia,Asia East,2,16,0.1111111111111111
 2008,Morocco,Africa North,4,17,0.19047619047619047
 2008,Mozambique,Africa Sub-Saharan,0,3,0
+2008,Myanmar (Burma),Asia South East,127,47,0.7298850574712644
 2008,Namibia,Africa Sub-Saharan,0,5,0
 2008,Nepal,Asia South,0,18,0
 2008,Nicaragua,America Central and South,0,3,0
 2008,Niger,Africa Sub-Saharan,0,3,0
 2008,Nigeria,Africa Sub-Saharan,45,562,0.07413509060955518
+2008,North Korea,Asia East,174,99,0.6373626373626373
+2008,North Macedonia,Europe Other,1,8,0.1111111111111111
 2008,Occupied Palestinian Territories,Middle East,27,181,0.12980769230769232
 2008,Oman,Middle East,1,1,0.5
 2008,Other and unknown,Other,6,0,1
@@ -1139,19 +1137,19 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2008,Rwanda,Africa Sub-Saharan,2,11,0.15384615384615385
 2008,Saudi Arabia,Middle East,0,14,0
 2008,Senegal,Africa Sub-Saharan,0,8,0
-2008,Serbia,Europe Other,3,2,0.6
+2008,Serbia and Montenegro,Europe Other,3,2,0.6
 2008,Seychelles,Africa Sub-Saharan,0,1,0
 2008,Sierra Leone,Africa Sub-Saharan,7,37,0.1590909090909091
 2008,Singapore,Asia South East,0,1,0
 2008,Somalia,Africa Sub-Saharan,562,552,0.5044883303411131
 2008,South Africa,Africa Sub-Saharan,4,76,0.05
+2008,South Korea,Asia East,1,7,0.125
 2008,Spain,EU 14,0,1,0
 2008,Sri Lanka,Asia South,206,668,0.23569794050343248
-2008,St. Lucia,America Central and South,0,5,0
-2008,St. Vincent and the Grenadines,America Central and South,0,1,0
+2008,St Lucia,America Central and South,0,5,0
+2008,St Vincent and the Grenadines,America Central and South,0,1,0
 2008,Stateless,Other,2,2,0.5
 2008,Sudan,Africa North,53,138,0.2774869109947644
-2008,Swaziland,Africa Sub-Saharan,4,5,0.4444444444444444
 2008,Syria,Middle East,28,81,0.25688073394495414
 2008,Tajikistan,Asia Central,2,3,0.4
 2008,Tanzania,Africa Sub-Saharan,0,21,0
@@ -1187,10 +1185,9 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2009,Bosnia and Herzegovina,Europe Other,3,3,0.5
 2009,Botswana,Africa Sub-Saharan,0,7,0
 2009,Brazil,America Central and South,1,22,0.043478260869565216
-2009,British overseas citizens,Other,0,5,0
+2009,British overseas citizens,Other,1,6,0.14285714285714285
 2009,Bulgaria,EU 2,0,1,0
-2009,Burkina,Africa Sub-Saharan,0,2,0
-2009,Burma,Asia South East,117,91,0.5625
+2009,Burkina Faso,Africa Sub-Saharan,0,2,0
 2009,Burundi,Africa Sub-Saharan,3,14,0.17647058823529413
 2009,Cameroon,Africa Sub-Saharan,13,72,0.15294117647058825
 2009,Canada,America North,0,3,0
@@ -1198,7 +1195,7 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2009,Chad,Africa Sub-Saharan,1,11,0.08333333333333333
 2009,Chile,America Central and South,0,2,0
 2009,China,Asia East,93,738,0.11191335740072202
-2009,Christmas Island,Oceania,1,1,0.5
+2009,Christmas Island (Australian),Other,1,1,0.5
 2009,Colombia,America Central and South,3,11,0.21428571428571427
 2009,Congo,Africa Sub-Saharan,5,22,0.18518518518518517
 2009,Congo (Democratic Republic),Africa Sub-Saharan,61,191,0.24206349206349206
@@ -1209,9 +1206,9 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2009,Egypt,Africa North,10,42,0.19230769230769232
 2009,Equatorial Guinea,Africa Sub-Saharan,0,2,0
 2009,Eritrea,Africa Sub-Saharan,898,871,0.5076314301865461
+2009,Eswatini,Africa Sub-Saharan,0,6,0
 2009,Ethiopia,Africa Sub-Saharan,39,75,0.34210526315789475
 2009,Fiji,Oceania,0,2,0
-2009,Former Yugoslavia,Europe Other,1,1,0.5
 2009,France,EU 14,1,0,1
 2009,Gabon,Africa Sub-Saharan,0,1,0
 2009,"Gambia, The",Africa Sub-Saharan,27,132,0.16981132075471697
@@ -1235,8 +1232,6 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2009,Jordan,Middle East,2,10,0.16666666666666666
 2009,Kazakhstan,Asia Central,0,2,0
 2009,Kenya,Africa Sub-Saharan,8,75,0.0963855421686747
-2009,Korea (North),Asia East,4,43,0.0851063829787234
-2009,Korea (South),Asia East,0,8,0
 2009,Kosovo,Europe Other,11,26,0.2972972972972973
 2009,Kuwait,Middle East,40,81,0.3305785123966942
 2009,Kyrgyzstan,Asia Central,1,3,0.25
@@ -1245,7 +1240,6 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2009,Lesotho,Africa Sub-Saharan,0,2,0
 2009,Liberia,Africa Sub-Saharan,0,18,0
 2009,Libya,Africa North,16,47,0.25396825396825395
-2009,Macedonia,Europe Other,0,3,0
 2009,Malawi,Africa Sub-Saharan,5,137,0.035211267605633804
 2009,Malaysia,Asia South East,3,20,0.13043478260869565
 2009,Maldives,Asia South,0,1,0
@@ -1257,12 +1251,15 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2009,Mongolia,Asia East,5,13,0.2777777777777778
 2009,Morocco,Africa North,9,26,0.2571428571428571
 2009,Mozambique,Africa Sub-Saharan,0,3,0
+2009,Myanmar (Burma),Asia South East,117,91,0.5625
 2009,Namibia,Africa Sub-Saharan,0,11,0
 2009,Nepal,Asia South,1,9,0.1
 2009,New Zealand,Oceania,1,1,0.5
 2009,Nicaragua,America Central and South,0,2,0
 2009,Niger,Africa Sub-Saharan,0,5,0
 2009,Nigeria,Africa Sub-Saharan,39,517,0.07014388489208633
+2009,North Korea,Asia East,4,43,0.0851063829787234
+2009,North Macedonia,Europe Other,0,3,0
 2009,Occupied Palestinian Territories,Middle East,20,195,0.09302325581395349
 2009,Other and unknown,Other,2,6,0.25
 2009,Pakistan,Asia South,97,1009,0.08770343580470162
@@ -1275,17 +1272,17 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2009,Rwanda,Africa Sub-Saharan,5,16,0.23809523809523808
 2009,Saudi Arabia,Middle East,4,21,0.16
 2009,Senegal,Africa Sub-Saharan,1,22,0.043478260869565216
-2009,Serbia,Europe Other,0,1,0
+2009,Serbia and Montenegro,Europe Other,0,1,0
 2009,Seychelles,Africa Sub-Saharan,0,3,0
 2009,Sierra Leone,Africa Sub-Saharan,11,51,0.1774193548387097
 2009,Somalia,Africa Sub-Saharan,488,566,0.4629981024667932
 2009,South Africa,Africa Sub-Saharan,10,117,0.07874015748031496
+2009,South Korea,Asia East,0,8,0
 2009,Sri Lanka,Asia South,190,1061,0.1518784972022382
-2009,St. Lucia,America Central and South,0,4,0
-2009,St. Vincent and the Grenadines,America Central and South,0,1,0
+2009,St Lucia,America Central and South,0,4,0
+2009,St Vincent and the Grenadines,America Central and South,0,1,0
 2009,Stateless,Other,6,27,0.18181818181818182
 2009,Sudan,Africa North,91,158,0.3654618473895582
-2009,Swaziland,Africa Sub-Saharan,0,6,0
 2009,Syria,Middle East,38,110,0.25675675675675674
 2009,Tajikistan,Asia Central,1,1,0.5
 2009,Tanzania,Africa Sub-Saharan,6,27,0.18181818181818182
@@ -1324,9 +1321,8 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2010,Bosnia and Herzegovina,Europe Other,3,7,0.3
 2010,Botswana,Africa Sub-Saharan,3,12,0.2
 2010,Brazil,America Central and South,3,30,0.09090909090909091
-2010,British overseas citizens,Other,0,1,0
-2010,Burkina,Africa Sub-Saharan,0,2,0
-2010,Burma,Asia South East,103,176,0.36917562724014336
+2010,British overseas citizens,Other,0,3,0
+2010,Burkina Faso,Africa Sub-Saharan,0,2,0
 2010,Burundi,Africa Sub-Saharan,3,11,0.21428571428571427
 2010,Cambodia,Asia South East,0,1,0
 2010,Cameroon,Africa Sub-Saharan,32,77,0.29357798165137616
@@ -1348,9 +1344,9 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2010,El Salvador,America Central and South,0,1,0
 2010,Equatorial Guinea,Africa Sub-Saharan,0,1,0
 2010,Eritrea,Africa Sub-Saharan,559,364,0.6056338028169014
+2010,Eswatini,Africa Sub-Saharan,2,3,0.4
 2010,Ethiopia,Africa Sub-Saharan,35,92,0.27559055118110237
 2010,Fiji,Oceania,0,1,0
-2010,Former Yugoslavia,Europe Other,0,2,0
 2010,"Gambia, The",Africa Sub-Saharan,86,179,0.32452830188679244
 2010,Georgia,Europe Other,2,49,0.0392156862745098
 2010,Ghana,Africa Sub-Saharan,6,153,0.03773584905660377
@@ -1373,8 +1369,6 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2010,Jordan,Middle East,2,14,0.125
 2010,Kazakhstan,Asia Central,0,2,0
 2010,Kenya,Africa Sub-Saharan,15,95,0.13636363636363635
-2010,Korea (North),Asia East,7,86,0.07526881720430108
-2010,Korea (South),Asia East,0,8,0
 2010,Kosovo,Europe Other,5,23,0.17857142857142858
 2010,Kuwait,Middle East,27,51,0.34615384615384615
 2010,Kyrgyzstan,Asia Central,2,14,0.125
@@ -1385,7 +1379,6 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2010,Libya,Africa North,12,79,0.13186813186813187
 2010,Lithuania,EU 8,0,4,0
 2010,Macau,Asia East,0,1,0
-2010,Macedonia,Europe Other,0,3,0
 2010,Madagascar,Africa Sub-Saharan,0,1,0
 2010,Malawi,Africa Sub-Saharan,18,139,0.11464968152866242
 2010,Malaysia,Asia South East,4,34,0.10526315789473684
@@ -1398,12 +1391,15 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2010,Mongolia,Asia East,3,30,0.09090909090909091
 2010,Morocco,Africa North,16,22,0.42105263157894735
 2010,Mozambique,Africa Sub-Saharan,0,2,0
+2010,Myanmar (Burma),Asia South East,103,176,0.36917562724014336
 2010,Namibia,Africa Sub-Saharan,1,17,0.05555555555555555
 2010,Nepal,Asia South,1,19,0.05
 2010,Netherlands,EU 14,0,1,0
 2010,Nicaragua,America Central and South,0,2,0
 2010,Niger,Africa Sub-Saharan,1,6,0.14285714285714285
 2010,Nigeria,Africa Sub-Saharan,57,700,0.07529722589167767
+2010,North Korea,Asia East,7,86,0.07526881720430108
+2010,North Macedonia,Europe Other,0,3,0
 2010,Occupied Palestinian Territories,Middle East,30,170,0.15
 2010,Oman,Middle East,0,1,0
 2010,Other and unknown,Other,1,4,0.2
@@ -1417,20 +1413,20 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2010,Rwanda,Africa Sub-Saharan,6,21,0.2222222222222222
 2010,Saudi Arabia,Middle East,3,7,0.3
 2010,Senegal,Africa Sub-Saharan,7,33,0.175
-2010,Serbia,Europe Other,0,1,0
+2010,Serbia and Montenegro,Europe Other,0,1,0
 2010,Seychelles,Africa Sub-Saharan,0,1,0
 2010,Sierra Leone,Africa Sub-Saharan,12,66,0.15384615384615385
 2010,Singapore,Asia South East,0,1,0
 2010,Slovakia,EU 8,0,1,0
 2010,Somalia,Africa Sub-Saharan,433,408,0.5148632580261593
 2010,South Africa,Africa Sub-Saharan,17,118,0.1259259259259259
+2010,South Korea,Asia East,0,8,0
 2010,Sri Lanka,Asia South,229,1384,0.14197148171109733
-2010,St. Kitts and Nevis,America Central and South,2,0,1
-2010,St. Lucia,America Central and South,0,3,0
-2010,St. Vincent and the Grenadines,America Central and South,0,5,0
+2010,St Kitts and Nevis,America Central and South,2,0,1
+2010,St Lucia,America Central and South,0,3,0
+2010,St Vincent and the Grenadines,America Central and South,0,5,0
 2010,Stateless,Other,22,59,0.2716049382716049
 2010,Sudan,Africa North,377,210,0.6422487223168655
-2010,Swaziland,Africa Sub-Saharan,2,3,0.4
 2010,Syria,Middle East,34,119,0.2222222222222222
 2010,Taiwan,Asia East,0,2,0
 2010,Tanzania,Africa Sub-Saharan,5,27,0.15625
@@ -1470,10 +1466,9 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2011,Bosnia and Herzegovina,Europe Other,1,2,0.3333333333333333
 2011,Botswana,Africa Sub-Saharan,0,9,0
 2011,Brazil,America Central and South,0,14,0
-2011,British overseas citizens,Other,1,2,0.3333333333333333
+2011,British overseas citizens,Other,1,4,0.2
 2011,Bulgaria,EU 2,0,2,0
-2011,Burkina,Africa Sub-Saharan,0,2,0
-2011,Burma,Asia South East,92,76,0.5476190476190477
+2011,Burkina Faso,Africa Sub-Saharan,0,2,0
 2011,Burundi,Africa Sub-Saharan,4,3,0.5714285714285714
 2011,Cameroon,Africa Sub-Saharan,26,46,0.3611111111111111
 2011,Canada,America North,0,3,0
@@ -1492,9 +1487,9 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2011,Egypt,Africa North,27,76,0.2621359223300971
 2011,El Salvador,America Central and South,0,1,0
 2011,Eritrea,Africa Sub-Saharan,647,221,0.7453917050691244
+2011,Eswatini,Africa Sub-Saharan,1,4,0.2
 2011,Ethiopia,Africa Sub-Saharan,40,65,0.38095238095238093
 2011,Fiji,Oceania,0,1,0
-2011,Former Yugoslavia,Europe Other,0,2,0
 2011,Gabon,Africa Sub-Saharan,0,1,0
 2011,"Gambia, The",Africa Sub-Saharan,78,152,0.3391304347826087
 2011,Georgia,Europe Other,4,23,0.14814814814814814
@@ -1518,8 +1513,6 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2011,Jordan,Middle East,2,11,0.15384615384615385
 2011,Kazakhstan,Asia Central,1,2,0.3333333333333333
 2011,Kenya,Africa Sub-Saharan,33,70,0.32038834951456313
-2011,Korea (North),Asia East,5,29,0.14705882352941177
-2011,Korea (South),Asia East,2,3,0.4
 2011,Kosovo,Europe Other,8,10,0.4444444444444444
 2011,Kuwait,Middle East,27,31,0.46551724137931033
 2011,Kyrgyzstan,Asia Central,2,4,0.3333333333333333
@@ -1530,7 +1523,6 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2011,Liberia,Africa Sub-Saharan,1,10,0.09090909090909091
 2011,Libya,Africa North,102,476,0.17647058823529413
 2011,Lithuania,EU 8,0,1,0
-2011,Macedonia,Europe Other,1,3,0.25
 2011,Malawi,Africa Sub-Saharan,21,91,0.1875
 2011,Malaysia,Asia South East,10,40,0.2
 2011,Mali,Africa Sub-Saharan,2,6,0.25
@@ -1541,12 +1533,15 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2011,Mongolia,Asia East,10,25,0.2857142857142857
 2011,Morocco,Africa North,20,39,0.3389830508474576
 2011,Mozambique,Africa Sub-Saharan,0,2,0
+2011,Myanmar (Burma),Asia South East,92,76,0.5476190476190477
 2011,Namibia,Africa Sub-Saharan,0,11,0
 2011,Nauru,Oceania,0,2,0
 2011,Nepal,Asia South,0,33,0
 2011,Nicaragua,America Central and South,1,0,1
 2011,Niger,Africa Sub-Saharan,0,3,0
 2011,Nigeria,Africa Sub-Saharan,82,542,0.13141025641025642
+2011,North Korea,Asia East,5,29,0.14705882352941177
+2011,North Macedonia,Europe Other,1,3,0.25
 2011,Occupied Palestinian Territories,Middle East,27,127,0.17532467532467533
 2011,Oman,Middle East,0,3,0
 2011,Other and unknown,Other,1,5,0.16666666666666666
@@ -1561,21 +1556,21 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2011,Rwanda,Africa Sub-Saharan,12,14,0.46153846153846156
 2011,Saudi Arabia,Middle East,6,3,0.6666666666666666
 2011,Senegal,Africa Sub-Saharan,10,29,0.2564102564102564
-2011,Serbia,Europe Other,1,3,0.25
+2011,Serbia and Montenegro,Europe Other,1,3,0.25
 2011,Sierra Leone,Africa Sub-Saharan,17,47,0.265625
 2011,Singapore,Asia South East,0,2,0
 2011,Somalia,Africa Sub-Saharan,408,173,0.7022375215146299
 2011,South Africa,Africa Sub-Saharan,6,63,0.08695652173913043
+2011,South Korea,Asia East,2,3,0.4
+2011,South Sudan,Africa Sub-Saharan,0,1,0
 2011,Spain,EU 14,0,1,0
 2011,Sri Lanka,Asia South,323,1281,0.2013715710723192
-2011,St. Kitts and Nevis,America Central and South,0,1,0
-2011,St. Lucia,America Central and South,0,3,0
-2011,St. Vincent and the Grenadines,America Central and South,1,4,0.2
+2011,St Kitts and Nevis,America Central and South,0,1,0
+2011,St Lucia,America Central and South,0,3,0
+2011,St Vincent and the Grenadines,America Central and South,1,4,0.2
 2011,Stateless,Other,50,76,0.3968253968253968
 2011,Sudan,Africa North,484,165,0.7457627118644068
-2011,Sudan (South),Africa Sub-Saharan,0,1,0
-2011,Surinam,America Central and South,0,1,0
-2011,Swaziland,Africa Sub-Saharan,1,4,0.2
+2011,Suriname,America Central and South,0,1,0
 2011,Syria,Middle East,99,158,0.3852140077821012
 2011,Taiwan,Asia East,0,1,0
 2011,Tajikistan,Asia Central,0,2,0
@@ -1619,17 +1614,16 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2012,Bosnia and Herzegovina,Europe Other,2,3,0.4
 2012,Botswana,Africa Sub-Saharan,1,10,0.09090909090909091
 2012,Brazil,America Central and South,0,8,0
-2012,British overseas citizens,Other,0,1,0
+2012,British overseas citizens,Other,1,1,0.5
 2012,Bulgaria,EU 2,0,2,0
-2012,Burkina,Africa Sub-Saharan,0,1,0
-2012,Burma,Asia South East,52,29,0.6419753086419753
+2012,Burkina Faso,Africa Sub-Saharan,0,1,0
 2012,Burundi,Africa Sub-Saharan,0,4,0
 2012,Cameroon,Africa Sub-Saharan,31,65,0.3229166666666667
 2012,Canada,America North,0,4,0
 2012,Central African Republic,Africa Sub-Saharan,0,4,0
 2012,Chad,Africa Sub-Saharan,0,9,0
 2012,China,Asia East,99,443,0.18265682656826568
-2012,Christmas Island,Oceania,0,1,0
+2012,Christmas Island (Australian),Other,0,1,0
 2012,Colombia,America Central and South,0,13,0
 2012,Comoros,Africa Sub-Saharan,2,0,1
 2012,Congo,Africa Sub-Saharan,5,12,0.29411764705882354
@@ -1642,9 +1636,9 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2012,Egypt,Africa North,42,117,0.2641509433962264
 2012,El Salvador,America Central and South,0,2,0
 2012,Eritrea,Africa Sub-Saharan,589,118,0.8330975954738331
+2012,Eswatini,Africa Sub-Saharan,4,3,0.5714285714285714
 2012,Ethiopia,Africa Sub-Saharan,46,69,0.4
 2012,Fiji,Oceania,2,1,0.6666666666666666
-2012,Former Yugoslavia,Europe Other,1,0,1
 2012,Gabon,Africa Sub-Saharan,0,1,0
 2012,"Gambia, The",Africa Sub-Saharan,101,164,0.38113207547169814
 2012,Georgia,Europe Other,2,17,0.10526315789473684
@@ -1667,8 +1661,6 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2012,Japan,Asia East,0,1,0
 2012,Jordan,Middle East,2,16,0.1111111111111111
 2012,Kenya,Africa Sub-Saharan,12,61,0.1643835616438356
-2012,Korea (North),Asia East,5,11,0.3125
-2012,Korea (South),Asia East,0,4,0
 2012,Kosovo,Europe Other,1,8,0.1111111111111111
 2012,Kuwait,Middle East,33,33,0.5
 2012,Kyrgyzstan,Asia Central,2,2,0.5
@@ -1678,7 +1670,6 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2012,Liberia,Africa Sub-Saharan,1,3,0.25
 2012,Libya,Africa North,50,130,0.2777777777777778
 2012,Lithuania,EU 8,0,4,0
-2012,Macedonia,Europe Other,1,1,0.5
 2012,Madagascar,Africa Sub-Saharan,0,1,0
 2012,Malawi,Africa Sub-Saharan,22,75,0.2268041237113402
 2012,Malaysia,Asia South East,11,29,0.275
@@ -1691,9 +1682,12 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2012,Mongolia,Asia East,1,11,0.08333333333333333
 2012,Morocco,Africa North,13,31,0.29545454545454547
 2012,Mozambique,Africa Sub-Saharan,1,0,1
+2012,Myanmar (Burma),Asia South East,52,29,0.6419753086419753
 2012,Namibia,Africa Sub-Saharan,0,15,0
 2012,Nepal,Asia South,1,42,0.023255813953488372
 2012,Nigeria,Africa Sub-Saharan,108,602,0.15211267605633802
+2012,North Korea,Asia East,5,11,0.3125
+2012,North Macedonia,Europe Other,1,1,0.5
 2012,Norway,Europe Other,0,1,0
 2012,Occupied Palestinian Territories,Middle East,22,77,0.2222222222222222
 2012,Pakistan,Asia South,378,2075,0.154097024052181
@@ -1705,18 +1699,18 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2012,Rwanda,Africa Sub-Saharan,2,10,0.16666666666666666
 2012,Saudi Arabia,Middle East,6,2,0.75
 2012,Senegal,Africa Sub-Saharan,11,27,0.2894736842105263
-2012,Serbia,Europe Other,0,2,0
+2012,Serbia and Montenegro,Europe Other,0,2,0
 2012,Sierra Leone,Africa Sub-Saharan,13,44,0.22807017543859648
 2012,Slovakia,EU 8,0,2,0
 2012,Somalia,Africa Sub-Saharan,342,141,0.7080745341614907
 2012,South Africa,Africa Sub-Saharan,5,34,0.1282051282051282
+2012,South Korea,Asia East,0,4,0
 2012,Sri Lanka,Asia South,333,1051,0.24060693641618497
-2012,St. Kitts and Nevis,America Central and South,0,1,0
-2012,St. Lucia,America Central and South,2,3,0.4
-2012,St. Vincent and the Grenadines,America Central and South,4,1,0.8
+2012,St Kitts and Nevis,America Central and South,0,1,0
+2012,St Lucia,America Central and South,2,3,0.4
+2012,St Vincent and the Grenadines,America Central and South,4,1,0.8
 2012,Stateless,Other,60,48,0.5555555555555556
 2012,Sudan,Africa North,429,160,0.7283531409168081
-2012,Swaziland,Africa Sub-Saharan,4,3,0.5714285714285714
 2012,Syria,Middle East,661,188,0.7785630153121319
 2012,Taiwan,Asia East,0,2,0
 2012,Tanzania,Africa Sub-Saharan,4,16,0.2
@@ -1753,8 +1747,8 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2013,Bolivia,America Central and South,1,2,0.3333333333333333
 2013,Botswana,Africa Sub-Saharan,0,3,0
 2013,Brazil,America Central and South,4,8,0.3333333333333333
-2013,Burkina,Africa Sub-Saharan,1,1,0.5
-2013,Burma,Asia South East,19,15,0.5588235294117647
+2013,British overseas citizens,Other,0,1,0
+2013,Burkina Faso,Africa Sub-Saharan,1,1,0.5
 2013,Burundi,Africa Sub-Saharan,3,5,0.375
 2013,Cameroon,Africa Sub-Saharan,35,77,0.3125
 2013,Canada,America North,0,5,0
@@ -1767,7 +1761,7 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2013,Congo,Africa Sub-Saharan,3,15,0.16666666666666666
 2013,Congo (Democratic Republic),Africa Sub-Saharan,68,87,0.43870967741935485
 2013,Cuba,America Central and South,1,1,0.5
-2013,Czech Republic,EU 8,0,4,0
+2013,Czechia,EU 8,0,4,0
 2013,Dominica,America Central and South,0,2,0
 2013,Ecuador,America Central and South,0,5,0
 2013,Egypt,Africa North,40,148,0.2127659574468085
@@ -1775,9 +1769,9 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2013,Equatorial Guinea,Africa Sub-Saharan,0,1,0
 2013,Eritrea,Africa Sub-Saharan,790,173,0.8203530633437176
 2013,Estonia,EU 8,0,1,0
+2013,Eswatini,Africa Sub-Saharan,2,3,0.4
 2013,Ethiopia,Africa Sub-Saharan,56,76,0.42424242424242425
 2013,Fiji,Oceania,0,2,0
-2013,Former Yugoslavia,Europe Other,0,1,0
 2013,France,EU 14,0,1,0
 2013,Gabon,Africa Sub-Saharan,0,1,0
 2013,"Gambia, The",Africa Sub-Saharan,75,124,0.3768844221105528
@@ -1800,8 +1794,6 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2013,Jordan,Middle East,0,16,0
 2013,Kazakhstan,Asia Central,1,2,0.3333333333333333
 2013,Kenya,Africa Sub-Saharan,5,62,0.07462686567164178
-2013,Korea (North),Asia East,8,15,0.34782608695652173
-2013,Korea (South),Asia East,1,2,0.3333333333333333
 2013,Kosovo,Europe Other,5,15,0.25
 2013,Kuwait,Middle East,24,18,0.5714285714285714
 2013,Kyrgyzstan,Asia Central,1,8,0.1111111111111111
@@ -1811,7 +1803,6 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2013,Liberia,Africa Sub-Saharan,2,2,0.5
 2013,Libya,Africa North,61,106,0.3652694610778443
 2013,Lithuania,EU 8,0,11,0
-2013,Macedonia,Europe Other,1,0,1
 2013,Malawi,Africa Sub-Saharan,22,71,0.23655913978494625
 2013,Malaysia,Asia South East,7,29,0.19444444444444445
 2013,Maldives,Asia South,1,0,1
@@ -1822,11 +1813,14 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2013,Moldova,Europe Other,0,1,0
 2013,Mongolia,Asia East,3,10,0.23076923076923078
 2013,Morocco,Africa North,15,28,0.3488372093023256
+2013,Myanmar (Burma),Asia South East,19,15,0.5588235294117647
 2013,Namibia,Africa Sub-Saharan,0,11,0
 2013,Nepal,Asia South,1,38,0.02564102564102564
 2013,Netherlands,EU 14,0,2,0
 2013,Niger,Africa Sub-Saharan,0,6,0
 2013,Nigeria,Africa Sub-Saharan,105,637,0.14150943396226415
+2013,North Korea,Asia East,8,15,0.34782608695652173
+2013,North Macedonia,Europe Other,1,0,1
 2013,Occupied Palestinian Territories,Middle East,30,50,0.375
 2013,Other and unknown,Other,1,3,0.25
 2013,Pakistan,Asia South,590,2035,0.22476190476190477
@@ -1841,18 +1835,18 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2013,Rwanda,Africa Sub-Saharan,6,11,0.35294117647058826
 2013,Saudi Arabia,Middle East,7,4,0.6363636363636364
 2013,Senegal,Africa Sub-Saharan,7,20,0.25925925925925924
-2013,Serbia,Europe Other,0,2,0
+2013,Serbia and Montenegro,Europe Other,0,2,0
 2013,Seychelles,Africa Sub-Saharan,0,1,0
 2013,Sierra Leone,Africa Sub-Saharan,30,36,0.45454545454545453
 2013,Slovakia,EU 8,0,2,0
 2013,Somalia,Africa Sub-Saharan,246,160,0.6059113300492611
 2013,South Africa,Africa Sub-Saharan,7,33,0.175
+2013,South Korea,Asia East,1,2,0.3333333333333333
 2013,Sri Lanka,Asia South,263,1025,0.20419254658385094
-2013,St. Kitts and Nevis,America Central and South,0,3,0
-2013,St. Vincent and the Grenadines,America Central and South,1,3,0.25
+2013,St Kitts and Nevis,America Central and South,0,3,0
+2013,St Vincent and the Grenadines,America Central and South,1,3,0.25
 2013,Stateless,Other,22,32,0.4074074074074074
 2013,Sudan,Africa North,433,161,0.7289562289562289
-2013,Swaziland,Africa Sub-Saharan,2,3,0.4
 2013,Syria,Middle East,1119,202,0.8470855412566237
 2013,Taiwan,Asia East,0,1,0
 2013,Tanzania,Africa Sub-Saharan,2,31,0.06060606060606061
@@ -1875,7 +1869,7 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2014,Afghanistan,Asia Central,328,615,0.34782608695652173
 2014,Albania,Europe Other,241,787,0.23443579766536965
 2014,Algeria,Africa North,16,108,0.12903225806451613
-2014,American Samoa,Oceania,0,1,0
+2014,American Samoa (United States),Oceania,0,1,0
 2014,Angola,Africa Sub-Saharan,13,31,0.29545454545454547
 2014,Antigua and Barbuda,America Central and South,1,0,1
 2014,Argentina,America Central and South,0,1,0
@@ -1893,9 +1887,8 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2014,Bosnia and Herzegovina,Europe Other,0,6,0
 2014,Botswana,Africa Sub-Saharan,1,6,0.14285714285714285
 2014,Brazil,America Central and South,0,15,0
-2014,British overseas citizens,Other,0,1,0
-2014,Burkina,Africa Sub-Saharan,0,1,0
-2014,Burma,Asia South East,41,45,0.47674418604651164
+2014,British overseas citizens,Other,0,25,0
+2014,Burkina Faso,Africa Sub-Saharan,0,1,0
 2014,Burundi,Africa Sub-Saharan,1,3,0.25
 2014,Cameroon,Africa Sub-Saharan,29,75,0.27884615384615385
 2014,Canada,America North,0,1,0
@@ -1910,7 +1903,7 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2014,Costa Rica,America Central and South,0,2,0
 2014,Cuba,America Central and South,2,1,0.6666666666666666
 2014,Cyprus (Northern part of),Europe Other,1,0,1
-2014,Czech Republic,EU 8,0,2,0
+2014,Czechia,EU 8,0,2,0
 2014,Djibouti,Africa Sub-Saharan,1,1,0.5
 2014,Dominica,America Central and South,0,1,0
 2014,Ecuador,America Central and South,0,3,0
@@ -1918,8 +1911,8 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2014,El Salvador,America Central and South,1,11,0.08333333333333333
 2014,Equatorial Guinea,Africa Sub-Saharan,0,1,0
 2014,Eritrea,Africa Sub-Saharan,2155,308,0.8749492488834755
+2014,Eswatini,Africa Sub-Saharan,8,6,0.5714285714285714
 2014,Ethiopia,Africa Sub-Saharan,52,95,0.35374149659863946
-2014,Former Yugoslavia,Europe Other,0,24,0
 2014,France,EU 14,1,1,0.5
 2014,"Gambia, The",Africa Sub-Saharan,79,112,0.41361256544502617
 2014,Georgia,Europe Other,0,21,0
@@ -1945,8 +1938,6 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2014,Jordan,Middle East,1,15,0.0625
 2014,Kazakhstan,Asia Central,1,4,0.2
 2014,Kenya,Africa Sub-Saharan,17,43,0.2833333333333333
-2014,Korea (North),Asia East,6,16,0.2727272727272727
-2014,Korea (South),Asia East,0,6,0
 2014,Kosovo,Europe Other,4,34,0.10526315789473684
 2014,Kuwait,Middle East,14,15,0.4827586206896552
 2014,Kyrgyzstan,Asia Central,2,2,0.5
@@ -1956,7 +1947,6 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2014,Liberia,Africa Sub-Saharan,3,8,0.2727272727272727
 2014,Libya,Africa North,48,115,0.294478527607362
 2014,Lithuania,EU 8,0,15,0
-2014,Macedonia,Europe Other,1,2,0.3333333333333333
 2014,Malawi,Africa Sub-Saharan,10,55,0.15384615384615385
 2014,Malaysia,Asia South East,11,20,0.3548387096774194
 2014,Maldives,Asia South,1,0,1
@@ -1969,11 +1959,14 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2014,Montenegro,Europe Other,0,1,0
 2014,Morocco,Africa North,15,38,0.2830188679245283
 2014,Mozambique,Africa Sub-Saharan,0,1,0
+2014,Myanmar (Burma),Asia South East,41,45,0.47674418604651164
 2014,Namibia,Africa Sub-Saharan,0,14,0
 2014,Nepal,Asia South,1,33,0.029411764705882353
 2014,Nicaragua,America Central and South,0,1,0
 2014,Niger,Africa Sub-Saharan,1,3,0.25
 2014,Nigeria,Africa Sub-Saharan,150,607,0.19815059445178335
+2014,North Korea,Asia East,6,16,0.2727272727272727
+2014,North Macedonia,Europe Other,1,2,0.3333333333333333
 2014,Occupied Palestinian Territories,Middle East,31,56,0.3563218390804598
 2014,Oman,Middle East,2,0,1
 2014,Other and unknown,Other,1,9,0.1
@@ -1990,21 +1983,21 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2014,Rwanda,Africa Sub-Saharan,9,7,0.5625
 2014,Saudi Arabia,Middle East,4,10,0.2857142857142857
 2014,Senegal,Africa Sub-Saharan,2,19,0.09523809523809523
-2014,Serbia,Europe Other,0,3,0
+2014,Serbia and Montenegro,Europe Other,0,3,0
 2014,Seychelles,Africa Sub-Saharan,0,4,0
 2014,Sierra Leone,Africa Sub-Saharan,18,49,0.26865671641791045
 2014,Singapore,Asia South East,0,2,0
 2014,Somalia,Africa Sub-Saharan,156,179,0.46567164179104475
 2014,South Africa,Africa Sub-Saharan,6,36,0.14285714285714285
+2014,South Korea,Asia East,0,6,0
+2014,South Sudan,Africa Sub-Saharan,3,2,0.6
 2014,Spain,EU 14,0,1,0
 2014,Sri Lanka,Asia South,157,1060,0.12900575184880855
-2014,St. Kitts and Nevis,America Central and South,0,1,0
-2014,St. Lucia,America Central and South,2,2,0.5
-2014,St. Vincent and the Grenadines,America Central and South,1,2,0.3333333333333333
+2014,St Kitts and Nevis,America Central and South,0,1,0
+2014,St Lucia,America Central and South,2,2,0.5
+2014,St Vincent and the Grenadines,America Central and South,1,2,0.3333333333333333
 2014,Stateless,Other,44,58,0.43137254901960786
 2014,Sudan,Africa North,776,207,0.7894201424211598
-2014,Sudan (South),Africa Sub-Saharan,3,2,0.6
-2014,Swaziland,Africa Sub-Saharan,8,6,0.5714285714285714
 2014,Syria,Middle East,1195,169,0.876099706744868
 2014,Tanzania,Africa Sub-Saharan,6,16,0.2727272727272727
 2014,Thailand,Asia South East,1,7,0.125
@@ -2047,8 +2040,7 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2015,Brazil,America Central and South,1,11,0.08333333333333333
 2015,British overseas citizens,Other,4,1,0.8
 2015,Bulgaria,EU 2,0,4,0
-2015,Burkina,Africa Sub-Saharan,0,2,0
-2015,Burma,Asia South East,53,130,0.2896174863387978
+2015,Burkina Faso,Africa Sub-Saharan,0,2,0
 2015,Burundi,Africa Sub-Saharan,4,6,0.4
 2015,Cambodia,Asia South East,0,1,0
 2015,Cameroon,Africa Sub-Saharan,49,93,0.34507042253521125
@@ -2063,7 +2055,7 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2015,Costa Rica,America Central and South,0,1,0
 2015,Cuba,America Central and South,0,2,0
 2015,Cyprus (Northern part of),Europe Other,0,3,0
-2015,Czech Republic,EU 8,0,3,0
+2015,Czechia,EU 8,0,3,0
 2015,Denmark,EU 14,0,1,0
 2015,Djibouti,Africa Sub-Saharan,1,0,1
 2015,Dominica,America Central and South,2,1,0.6666666666666666
@@ -2073,6 +2065,7 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2015,Equatorial Guinea,Africa Sub-Saharan,0,2,0
 2015,Eritrea,Africa Sub-Saharan,1531,1660,0.4797869006581009
 2015,Estonia,EU 8,0,1,0
+2015,Eswatini,Africa Sub-Saharan,15,6,0.7142857142857143
 2015,Ethiopia,Africa Sub-Saharan,348,271,0.5621970920840065
 2015,Fiji,Oceania,0,2,0
 2015,France,EU 14,0,2,0
@@ -2102,8 +2095,6 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2015,Jordan,Middle East,4,18,0.18181818181818182
 2015,Kazakhstan,Asia Central,1,6,0.14285714285714285
 2015,Kenya,Africa Sub-Saharan,11,64,0.14666666666666667
-2015,Korea (North),Asia East,0,23,0
-2015,Korea (South),Asia East,1,11,0.08333333333333333
 2015,Kosovo,Europe Other,0,26,0
 2015,Kuwait,Middle East,25,27,0.4807692307692308
 2015,Kyrgyzstan,Asia Central,3,3,0.5
@@ -2114,7 +2105,6 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2015,Liberia,Africa Sub-Saharan,0,5,0
 2015,Libya,Africa North,85,406,0.17311608961303462
 2015,Lithuania,EU 8,0,33,0
-2015,Macedonia,Europe Other,0,1,0
 2015,Madagascar,Africa Sub-Saharan,0,1,0
 2015,Malawi,Africa Sub-Saharan,21,73,0.22340425531914893
 2015,Malaysia,Asia South East,14,32,0.30434782608695654
@@ -2127,10 +2117,13 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2015,Mongolia,Asia East,3,10,0.23076923076923078
 2015,Morocco,Africa North,13,49,0.20967741935483872
 2015,Mozambique,Africa Sub-Saharan,0,1,0
+2015,Myanmar (Burma),Asia South East,53,130,0.2896174863387978
 2015,Namibia,Africa Sub-Saharan,5,13,0.2777777777777778
 2015,Nepal,Asia South,1,44,0.022222222222222223
 2015,Niger,Africa Sub-Saharan,1,2,0.3333333333333333
 2015,Nigeria,Africa Sub-Saharan,135,783,0.14705882352941177
+2015,North Korea,Asia East,0,23,0
+2015,North Macedonia,Europe Other,0,1,0
 2015,Occupied Palestinian Territories,Middle East,45,89,0.3358208955223881
 2015,Oman,Middle East,1,5,0.16666666666666666
 2015,Other and unknown,Other,1,2,0.3333333333333333
@@ -2145,21 +2138,21 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2015,Rwanda,Africa Sub-Saharan,6,13,0.3157894736842105
 2015,Saudi Arabia,Middle East,9,8,0.5294117647058824
 2015,Senegal,Africa Sub-Saharan,8,21,0.27586206896551724
-2015,Serbia,Europe Other,0,1,0
+2015,Serbia and Montenegro,Europe Other,0,1,0
 2015,Seychelles,Africa Sub-Saharan,0,1,0
 2015,Sierra Leone,Africa Sub-Saharan,10,51,0.16393442622950818
 2015,Singapore,Asia South East,0,1,0
 2015,Slovakia,EU 8,0,5,0
 2015,Somalia,Africa Sub-Saharan,198,271,0.42217484008528783
 2015,South Africa,Africa Sub-Saharan,7,52,0.11864406779661017
+2015,South Korea,Asia East,1,11,0.08333333333333333
+2015,South Sudan,Africa Sub-Saharan,8,2,0.8
 2015,Spain,EU 14,0,1,0
 2015,Sri Lanka,Asia South,179,1358,0.11646063760572543
-2015,St. Lucia,America Central and South,1,8,0.1111111111111111
-2015,St. Vincent and the Grenadines,America Central and South,4,6,0.4
+2015,St Lucia,America Central and South,1,8,0.1111111111111111
+2015,St Vincent and the Grenadines,America Central and South,4,6,0.4
 2015,Stateless,Other,124,88,0.5849056603773585
 2015,Sudan,Africa North,2296,399,0.8519480519480519
-2015,Sudan (South),Africa Sub-Saharan,8,2,0.8
-2015,Swaziland,Africa Sub-Saharan,15,6,0.7142857142857143
 2015,Syria,Middle East,1796,285,0.8630466122056704
 2015,Tajikistan,Asia Central,0,3,0
 2015,Tanzania,Africa Sub-Saharan,9,23,0.28125
@@ -2201,8 +2194,7 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2016,Brazil,America Central and South,0,14,0
 2016,British overseas citizens,Other,1,1,0.5
 2016,Bulgaria,EU 2,0,2,0
-2016,Burkina,Africa Sub-Saharan,0,2,0
-2016,Burma,Asia South East,7,61,0.10294117647058823
+2016,Burkina Faso,Africa Sub-Saharan,0,2,0
 2016,Burundi,Africa Sub-Saharan,2,9,0.18181818181818182
 2016,Cameroon,Africa Sub-Saharan,25,76,0.24752475247524752
 2016,Canada,America North,0,2,0
@@ -2214,7 +2206,7 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2016,Congo (Democratic Republic),Africa Sub-Saharan,47,94,0.3333333333333333
 2016,Croatia,EU Other,0,1,0
 2016,Cuba,America Central and South,0,1,0
-2016,Czech Republic,EU 8,0,1,0
+2016,Czechia,EU 8,0,1,0
 2016,Djibouti,Africa Sub-Saharan,0,1,0
 2016,Dominica,America Central and South,2,4,0.3333333333333333
 2016,Dominican Republic,America Central and South,0,1,0
@@ -2224,10 +2216,11 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2016,Equatorial Guinea,Africa Sub-Saharan,0,1,0
 2016,Eritrea,Africa Sub-Saharan,1237,601,0.6730141458106638
 2016,Estonia,EU 8,0,2,0
+2016,Eswatini,Africa Sub-Saharan,3,6,0.3333333333333333
 2016,Ethiopia,Africa Sub-Saharan,188,172,0.5222222222222223
 2016,Fiji,Oceania,0,1,0
 2016,France,EU 14,0,4,0
-2016,French Guiana,America Central and South,1,0,1
+2016,French Guiana (French),America Central and South,1,0,1
 2016,"Gambia, The",Africa Sub-Saharan,17,115,0.12878787878787878
 2016,Georgia,Europe Other,0,27,0
 2016,Germany,EU 14,0,2,0
@@ -2252,8 +2245,6 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2016,Jordan,Middle East,1,7,0.125
 2016,Kazakhstan,Asia Central,1,0,1
 2016,Kenya,Africa Sub-Saharan,8,51,0.13559322033898305
-2016,Korea (North),Asia East,0,10,0
-2016,Korea (South),Asia East,0,3,0
 2016,Kosovo,Europe Other,1,6,0.14285714285714285
 2016,Kuwait,Middle East,9,24,0.2727272727272727
 2016,Kyrgyzstan,Asia Central,1,3,0.25
@@ -2263,7 +2254,6 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2016,Liberia,Africa Sub-Saharan,0,3,0
 2016,Libya,Africa North,38,163,0.1890547263681592
 2016,Lithuania,EU 8,0,19,0
-2016,Macedonia,Europe Other,1,1,0.5
 2016,Malawi,Africa Sub-Saharan,7,50,0.12280701754385964
 2016,Malaysia,Asia South East,13,38,0.2549019607843137
 2016,Maldives,Asia South,2,0,1
@@ -2274,12 +2264,15 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2016,Mongolia,Asia East,1,7,0.125
 2016,Morocco,Africa North,1,42,0.023255813953488372
 2016,Mozambique,Africa Sub-Saharan,0,1,0
+2016,Myanmar (Burma),Asia South East,7,61,0.10294117647058823
 2016,Namibia,Africa Sub-Saharan,4,8,0.3333333333333333
 2016,Nepal,Asia South,0,77,0
 2016,Netherlands,EU 14,0,3,0
 2016,Nicaragua,America Central and South,0,1,0
 2016,Niger,Africa Sub-Saharan,0,1,0
 2016,Nigeria,Africa Sub-Saharan,78,698,0.10051546391752578
+2016,North Korea,Asia East,0,10,0
+2016,North Macedonia,Europe Other,1,1,0.5
 2016,Occupied Palestinian Territories,Middle East,11,55,0.16666666666666666
 2016,Oman,Middle East,2,0,1
 2016,Other and unknown,Other,1,6,0.14285714285714285
@@ -2297,21 +2290,21 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2016,Sao Tome and Principe,Africa Sub-Saharan,0,1,0
 2016,Saudi Arabia,Middle East,19,8,0.7037037037037037
 2016,Senegal,Africa Sub-Saharan,3,15,0.16666666666666666
-2016,Serbia,Europe Other,0,2,0
+2016,Serbia and Montenegro,Europe Other,0,2,0
 2016,Seychelles,Africa Sub-Saharan,1,1,0.5
 2016,Sierra Leone,Africa Sub-Saharan,15,31,0.32608695652173914
 2016,Slovakia,EU 8,0,2,0
 2016,Somalia,Africa Sub-Saharan,103,159,0.3931297709923664
 2016,South Africa,Africa Sub-Saharan,4,30,0.11764705882352941
+2016,South Korea,Asia East,0,3,0
+2016,South Sudan,Africa Sub-Saharan,2,0,1
 2016,Spain,EU 14,0,1,0
 2016,Sri Lanka,Asia South,44,687,0.060191518467852256
-2016,St. Kitts and Nevis,America Central and South,0,3,0
-2016,St. Lucia,America Central and South,3,8,0.2727272727272727
-2016,St. Vincent and the Grenadines,America Central and South,0,4,0
+2016,St Kitts and Nevis,America Central and South,0,3,0
+2016,St Lucia,America Central and South,3,8,0.2727272727272727
+2016,St Vincent and the Grenadines,America Central and South,0,4,0
 2016,Stateless,Other,74,116,0.3894736842105263
 2016,Sudan,Africa North,1173,211,0.8475433526011561
-2016,Sudan (South),Africa Sub-Saharan,2,0,1
-2016,Swaziland,Africa Sub-Saharan,3,6,0.3333333333333333
 2016,Syria,Middle East,1590,256,0.8613217768147345
 2016,Tajikistan,Asia Central,2,0,1
 2016,Tanzania,Africa Sub-Saharan,4,30,0.11764705882352941
@@ -2351,8 +2344,7 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2017,Brazil,America Central and South,0,10,0
 2017,British overseas citizens,Other,1,2,0.3333333333333333
 2017,Bulgaria,EU 2,0,1,0
-2017,Burkina,Africa Sub-Saharan,0,5,0
-2017,Burma,Asia South East,5,18,0.21739130434782608
+2017,Burkina Faso,Africa Sub-Saharan,0,5,0
 2017,Burundi,Africa Sub-Saharan,6,9,0.4
 2017,Cambodia,Asia South East,0,1,0
 2017,Cameroon,Africa Sub-Saharan,38,124,0.2345679012345679
@@ -2367,7 +2359,7 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2017,Costa Rica,America Central and South,0,1,0
 2017,Croatia,EU Other,0,1,0
 2017,Cuba,America Central and South,0,3,0
-2017,Czech Republic,EU 8,0,4,0
+2017,Czechia,EU 8,0,4,0
 2017,Denmark,EU 14,0,1,0
 2017,Djibouti,Africa Sub-Saharan,0,2,0
 2017,Dominica,America Central and South,4,1,0.8
@@ -2376,6 +2368,7 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2017,El Salvador,America Central and South,18,19,0.4864864864864865
 2017,Eritrea,Africa Sub-Saharan,1145,279,0.8040730337078652
 2017,Estonia,EU 8,0,1,0
+2017,Eswatini,Africa Sub-Saharan,1,1,0.5
 2017,Ethiopia,Africa Sub-Saharan,156,150,0.5098039215686274
 2017,France,EU 14,0,1,0
 2017,Gabon,Africa Sub-Saharan,0,2,0
@@ -2403,8 +2396,6 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2017,Jordan,Middle East,3,18,0.14285714285714285
 2017,Kazakhstan,Asia Central,1,5,0.16666666666666666
 2017,Kenya,Africa Sub-Saharan,7,59,0.10606060606060606
-2017,Korea (North),Asia East,0,6,0
-2017,Korea (South),Asia East,0,3,0
 2017,Kosovo,Europe Other,1,13,0.07142857142857142
 2017,Kuwait,Middle East,16,22,0.42105263157894735
 2017,Kyrgyzstan,Asia Central,0,3,0
@@ -2413,7 +2404,6 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2017,Liberia,Africa Sub-Saharan,2,5,0.2857142857142857
 2017,Libya,Africa North,88,90,0.4943820224719101
 2017,Lithuania,EU 8,0,13,0
-2017,Macedonia,Europe Other,0,1,0
 2017,Malawi,Africa Sub-Saharan,5,37,0.11904761904761904
 2017,Malaysia,Asia South East,15,40,0.2727272727272727
 2017,Maldives,Asia South,5,4,0.5555555555555556
@@ -2425,12 +2415,15 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2017,Mongolia,Asia East,1,7,0.125
 2017,Morocco,Africa North,8,55,0.12698412698412698
 2017,Mozambique,Africa Sub-Saharan,2,3,0.4
+2017,Myanmar (Burma),Asia South East,5,18,0.21739130434782608
 2017,Namibia,Africa Sub-Saharan,2,21,0.08695652173913043
 2017,Nepal,Asia South,1,101,0.00980392156862745
 2017,Netherlands,EU 14,0,2,0
 2017,New Zealand,Oceania,0,1,0
 2017,Niger,Africa Sub-Saharan,1,1,0.5
 2017,Nigeria,Africa Sub-Saharan,100,723,0.12150668286755771
+2017,North Korea,Asia East,0,6,0
+2017,North Macedonia,Europe Other,0,1,0
 2017,Occupied Palestinian Territories,Middle East,13,47,0.21666666666666667
 2017,Oman,Middle East,1,4,0.2
 2017,Other and unknown,Other,0,4,0
@@ -2447,22 +2440,22 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2017,Rwanda,Africa Sub-Saharan,1,17,0.05555555555555555
 2017,Saudi Arabia,Middle East,18,17,0.5142857142857142
 2017,Senegal,Africa Sub-Saharan,2,18,0.1
-2017,Serbia,Europe Other,1,0,1
+2017,Serbia and Montenegro,Europe Other,1,0,1
 2017,Seychelles,Africa Sub-Saharan,0,1,0
 2017,Sierra Leone,Africa Sub-Saharan,7,23,0.23333333333333334
 2017,Singapore,Asia South East,1,1,0.5
 2017,Slovakia,EU 8,0,2,0
 2017,Somalia,Africa Sub-Saharan,130,163,0.44368600682593856
 2017,South Africa,Africa Sub-Saharan,3,46,0.061224489795918366
+2017,South Korea,Asia East,0,3,0
+2017,South Sudan,Africa Sub-Saharan,6,3,0.6666666666666666
 2017,Spain,EU 14,0,2,0
 2017,Sri Lanka,Asia South,49,596,0.07596899224806201
-2017,St. Kitts and Nevis,America Central and South,0,3,0
-2017,St. Lucia,America Central and South,0,10,0
-2017,St. Vincent and the Grenadines,America Central and South,1,7,0.125
+2017,St Kitts and Nevis,America Central and South,0,3,0
+2017,St Lucia,America Central and South,0,10,0
+2017,St Vincent and the Grenadines,America Central and South,1,7,0.125
 2017,Stateless,Other,79,83,0.4876543209876543
 2017,Sudan,Africa North,816,510,0.6153846153846154
-2017,Sudan (South),Africa Sub-Saharan,6,3,0.6666666666666666
-2017,Swaziland,Africa Sub-Saharan,1,1,0.5
 2017,Sweden,EU 14,0,4,0
 2017,Syria,Middle East,689,147,0.8241626794258373
 2017,Taiwan,Asia East,0,2,0
@@ -2505,8 +2498,7 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2018,Brazil,America Central and South,3,19,0.13636363636363635
 2018,British overseas citizens,Other,2,1,0.6666666666666666
 2018,Bulgaria,EU 2,0,1,0
-2018,Burkina,Africa Sub-Saharan,1,6,0.14285714285714285
-2018,Burma,Asia South East,6,41,0.1276595744680851
+2018,Burkina Faso,Africa Sub-Saharan,1,6,0.14285714285714285
 2018,Burundi,Africa Sub-Saharan,4,15,0.21052631578947367
 2018,Cameroon,Africa Sub-Saharan,64,146,0.3047619047619048
 2018,Canada,America North,0,3,0
@@ -2528,6 +2520,7 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2018,El Salvador,America Central and South,11,30,0.2682926829268293
 2018,Equatorial Guinea,Africa Sub-Saharan,1,0,1
 2018,Eritrea,Africa Sub-Saharan,820,464,0.6386292834890965
+2018,Eswatini,Africa Sub-Saharan,3,2,0.6
 2018,Ethiopia,Africa Sub-Saharan,172,317,0.35173824130879344
 2018,France,EU 14,0,2,0
 2018,Gabon,Africa Sub-Saharan,1,1,0.5
@@ -2556,8 +2549,6 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2018,Jordan,Middle East,5,19,0.20833333333333334
 2018,Kazakhstan,Asia Central,4,9,0.3076923076923077
 2018,Kenya,Africa Sub-Saharan,10,65,0.13333333333333333
-2018,Korea (North),Asia East,3,5,0.375
-2018,Korea (South),Asia East,0,2,0
 2018,Kosovo,Europe Other,3,5,0.375
 2018,Kuwait,Middle East,44,49,0.4731182795698925
 2018,Kyrgyzstan,Asia Central,4,7,0.36363636363636365
@@ -2568,7 +2559,6 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2018,Liberia,Africa Sub-Saharan,0,2,0
 2018,Libya,Africa North,489,21,0.9588235294117647
 2018,Lithuania,EU 8,0,5,0
-2018,Macedonia,Europe Other,0,1,0
 2018,Malawi,Africa Sub-Saharan,6,42,0.125
 2018,Malaysia,Asia South East,62,75,0.45255474452554745
 2018,Maldives,Asia South,6,0,1
@@ -2579,10 +2569,13 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2018,Mongolia,Asia East,0,6,0
 2018,Morocco,Africa North,21,57,0.2692307692307692
 2018,Mozambique,Africa Sub-Saharan,0,5,0
+2018,Myanmar (Burma),Asia South East,6,41,0.1276595744680851
 2018,Namibia,Africa Sub-Saharan,11,82,0.11827956989247312
 2018,Nepal,Asia South,5,50,0.09090909090909091
 2018,Nicaragua,America Central and South,0,2,0
 2018,Nigeria,Africa Sub-Saharan,133,570,0.1891891891891892
+2018,North Korea,Asia East,3,5,0.375
+2018,North Macedonia,Europe Other,0,1,0
 2018,Occupied Palestinian Territories,Middle East,34,116,0.22666666666666666
 2018,Oman,Middle East,3,3,0.5
 2018,Other and unknown,Other,1,5,0.16666666666666666
@@ -2598,21 +2591,21 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2018,Sao Tome and Principe,Africa Sub-Saharan,1,0,1
 2018,Saudi Arabia,Middle East,22,13,0.6285714285714286
 2018,Senegal,Africa Sub-Saharan,7,15,0.3181818181818182
-2018,Serbia,Europe Other,0,2,0
+2018,Serbia and Montenegro,Europe Other,0,2,0
 2018,Seychelles,Africa Sub-Saharan,1,1,0.5
 2018,Sierra Leone,Africa Sub-Saharan,16,31,0.3404255319148936
 2018,Singapore,Asia South East,1,2,0.3333333333333333
 2018,Slovakia,EU 8,0,3,0
 2018,Somalia,Africa Sub-Saharan,113,107,0.5136363636363637
 2018,South Africa,Africa Sub-Saharan,4,37,0.0975609756097561
+2018,South Korea,Asia East,0,2,0
+2018,South Sudan,Africa Sub-Saharan,9,9,0.5
 2018,Sri Lanka,Asia South,49,504,0.08860759493670886
-2018,St. Kitts and Nevis,America Central and South,2,2,0.5
-2018,St. Lucia,America Central and South,2,10,0.16666666666666666
-2018,St. Vincent and the Grenadines,America Central and South,8,7,0.5333333333333333
+2018,St Kitts and Nevis,America Central and South,2,2,0.5
+2018,St Lucia,America Central and South,2,10,0.16666666666666666
+2018,St Vincent and the Grenadines,America Central and South,8,7,0.5333333333333333
 2018,Stateless,Other,64,104,0.38095238095238093
 2018,Sudan,Africa North,561,726,0.4358974358974359
-2018,Sudan (South),Africa Sub-Saharan,9,9,0.5
-2018,Swaziland,Africa Sub-Saharan,3,2,0.6
 2018,Syria,Middle East,500,88,0.8503401360544217
 2018,Tanzania,Africa Sub-Saharan,5,34,0.1282051282051282
 2018,Thailand,Asia South East,3,20,0.13043478260869565
@@ -2653,8 +2646,7 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2019,Brazil,America Central and South,5,46,0.09803921568627451
 2019,British overseas citizens,Other,6,2,0.75
 2019,Bulgaria,EU 2,0,3,0
-2019,Burkina,Africa Sub-Saharan,0,4,0
-2019,Burma,Asia South East,7,8,0.4666666666666667
+2019,Burkina Faso,Africa Sub-Saharan,0,4,0
 2019,Burundi,Africa Sub-Saharan,5,1,0.8333333333333334
 2019,Cameroon,Africa Sub-Saharan,47,53,0.47
 2019,Canada,America North,0,2,0
@@ -2666,7 +2658,7 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2019,Congo (Democratic Republic),Africa Sub-Saharan,29,50,0.3670886075949367
 2019,Costa Rica,America Central and South,0,1,0
 2019,Cyprus (Northern part of),Europe Other,0,1,0
-2019,Czech Republic,EU 8,0,2,0
+2019,Czechia,EU 8,0,2,0
 2019,Djibouti,Africa Sub-Saharan,1,0,1
 2019,Dominica,America Central and South,1,4,0.2
 2019,East Timor,Asia South East,2,1,0.6666666666666666
@@ -2703,8 +2695,6 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2019,Jordan,Middle East,3,16,0.15789473684210525
 2019,Kazakhstan,Asia Central,0,8,0
 2019,Kenya,Africa Sub-Saharan,24,53,0.3116883116883117
-2019,Korea (North),Asia East,0,4,0
-2019,Korea (South),Asia East,0,2,0
 2019,Kosovo,Europe Other,4,9,0.3076923076923077
 2019,Kuwait,Middle East,21,19,0.525
 2019,Kyrgyzstan,Asia Central,3,4,0.42857142857142855
@@ -2724,12 +2714,14 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2019,Mongolia,Asia East,2,9,0.18181818181818182
 2019,Morocco,Africa North,16,31,0.3404255319148936
 2019,Mozambique,Africa Sub-Saharan,0,3,0
+2019,Myanmar (Burma),Asia South East,7,8,0.4666666666666667
 2019,Namibia,Africa Sub-Saharan,15,128,0.1048951048951049
 2019,Nepal,Asia South,3,32,0.08571428571428572
 2019,Netherlands,EU 14,0,2,0
 2019,Nicaragua,America Central and South,5,13,0.2777777777777778
 2019,Niger,Africa Sub-Saharan,1,4,0.2
 2019,Nigeria,Africa Sub-Saharan,200,465,0.3007518796992481
+2019,North Korea,Asia East,0,4,0
 2019,Occupied Palestinian Territories,Middle East,41,49,0.45555555555555555
 2019,Oman,Middle East,1,2,0.3333333333333333
 2019,Other and unknown,Other,4,0,1
@@ -2750,14 +2742,15 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2019,Slovakia,EU 8,0,3,0
 2019,Somalia,Africa Sub-Saharan,138,70,0.6634615384615384
 2019,South Africa,Africa Sub-Saharan,9,47,0.16071428571428573
+2019,South Korea,Asia East,0,2,0
+2019,South Sudan,Africa Sub-Saharan,9,5,0.6428571428571429
 2019,Spain,EU 14,0,1,0
 2019,Sri Lanka,Asia South,82,154,0.3474576271186441
-2019,St. Kitts and Nevis,America Central and South,0,4,0
-2019,St. Lucia,America Central and South,2,10,0.16666666666666666
-2019,St. Vincent and the Grenadines,America Central and South,6,1,0.8571428571428571
+2019,St Kitts and Nevis,America Central and South,0,4,0
+2019,St Lucia,America Central and South,2,10,0.16666666666666666
+2019,St Vincent and the Grenadines,America Central and South,6,1,0.8571428571428571
 2019,Stateless,Other,75,74,0.5033557046979866
 2019,Sudan,Africa North,1428,247,0.8525373134328358
-2019,Sudan (South),Africa Sub-Saharan,9,5,0.6428571428571429
 2019,Sweden,EU 14,0,2,0
 2019,Syria,Middle East,539,62,0.8968386023294509
 2019,Taiwan,Asia East,0,1,0
@@ -2797,8 +2790,7 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2020,Brazil,America Central and South,3,47,0.06
 2020,British overseas citizens,Other,1,0,1
 2020,Bulgaria,EU 2,0,1,0
-2020,Burkina,Africa Sub-Saharan,1,1,0.5
-2020,Burma,Asia South East,2,6,0.25
+2020,Burkina Faso,Africa Sub-Saharan,1,1,0.5
 2020,Burundi,Africa Sub-Saharan,2,4,0.3333333333333333
 2020,Cameroon,Africa Sub-Saharan,48,35,0.5783132530120482
 2020,Canada,America North,0,1,0
@@ -2818,6 +2810,7 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2020,Egypt,Africa North,40,70,0.36363636363636365
 2020,El Salvador,America Central and South,98,84,0.5384615384615384
 2020,Eritrea,Africa Sub-Saharan,786,279,0.7380281690140845
+2020,Eswatini,Africa Sub-Saharan,1,1,0.5
 2020,Ethiopia,Africa Sub-Saharan,34,162,0.17346938775510204
 2020,"Gambia, The",Africa Sub-Saharan,17,27,0.38636363636363635
 2020,Georgia,Europe Other,3,18,0.14285714285714285
@@ -2842,7 +2835,6 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2020,Jordan,Middle East,6,14,0.3
 2020,Kazakhstan,Asia Central,1,6,0.14285714285714285
 2020,Kenya,Africa Sub-Saharan,17,36,0.32075471698113206
-2020,Korea (South),Asia East,0,1,0
 2020,Kosovo,Europe Other,2,4,0.3333333333333333
 2020,Kuwait,Middle East,40,45,0.47058823529411764
 2020,Kyrgyzstan,Asia Central,1,3,0.25
@@ -2862,6 +2854,7 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2020,Mongolia,Asia East,2,8,0.2
 2020,Morocco,Africa North,17,27,0.38636363636363635
 2020,Mozambique,Africa Sub-Saharan,1,1,0.5
+2020,Myanmar (Burma),Asia South East,2,6,0.25
 2020,Namibia,Africa Sub-Saharan,13,109,0.10655737704918032
 2020,Nepal,Asia South,2,17,0.10526315789473684
 2020,Netherlands,EU 14,0,2,0
@@ -2885,16 +2878,16 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2020,Slovakia,EU 8,0,4,0
 2020,Somalia,Africa Sub-Saharan,78,48,0.6190476190476191
 2020,South Africa,Africa Sub-Saharan,4,32,0.1111111111111111
+2020,South Korea,Asia East,0,1,0
+2020,South Sudan,Africa Sub-Saharan,10,15,0.4
 2020,Spain,EU 14,0,1,0
 2020,Sri Lanka,Asia South,42,147,0.2222222222222222
-2020,St. Kitts and Nevis,America Central and South,0,1,0
-2020,St. Lucia,America Central and South,2,4,0.3333333333333333
-2020,St. Vincent and the Grenadines,America Central and South,1,2,0.3333333333333333
+2020,St Kitts and Nevis,America Central and South,0,1,0
+2020,St Lucia,America Central and South,2,4,0.3333333333333333
+2020,St Vincent and the Grenadines,America Central and South,1,2,0.3333333333333333
 2020,Stateless,Other,65,227,0.2226027397260274
 2020,Sudan,Africa North,706,522,0.5749185667752443
-2020,Sudan (South),Africa Sub-Saharan,10,15,0.4
-2020,Surinam,America Central and South,0,1,0
-2020,Swaziland,Africa Sub-Saharan,1,1,0.5
+2020,Suriname,America Central and South,0,1,0
 2020,Sweden,EU 14,0,1,0
 2020,Syria,Middle East,425,148,0.7417102966841187
 2020,Tajikistan,Asia Central,2,3,0.4
@@ -2933,8 +2926,7 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2021,Brazil,America Central and South,6,30,0.16666666666666666
 2021,British overseas citizens,Other,0,1,0
 2021,Bulgaria,EU 2,0,2,0
-2021,Burkina,Africa Sub-Saharan,1,1,0.5
-2021,Burma,Asia South East,16,1,0.9411764705882353
+2021,Burkina Faso,Africa Sub-Saharan,1,1,0.5
 2021,Burundi,Africa Sub-Saharan,3,2,0.6
 2021,Cameroon,Africa Sub-Saharan,71,41,0.6339285714285714
 2021,Central African Republic,Africa Sub-Saharan,1,2,0.3333333333333333
@@ -2947,7 +2939,7 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2021,Cuba,America Central and South,2,0,1
 2021,Cyprus,EU Other,0,1,0
 2021,Cyprus (Northern part of),Europe Other,0,1,0
-2021,Czech Republic,EU 8,0,4,0
+2021,Czechia,EU 8,0,4,0
 2021,Djibouti,Africa Sub-Saharan,2,0,1
 2021,Dominican Republic,America Central and South,0,1,0
 2021,Ecuador,America Central and South,0,2,0
@@ -2977,7 +2969,6 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2021,Jordan,Middle East,11,6,0.6470588235294118
 2021,Kazakhstan,Asia Central,5,3,0.625
 2021,Kenya,Africa Sub-Saharan,40,29,0.5797101449275363
-2021,Korea (North),Asia East,1,1,0.5
 2021,Kosovo,Europe Other,5,8,0.38461538461538464
 2021,Kuwait,Middle East,43,7,0.86
 2021,Kyrgyzstan,Asia Central,3,0,1
@@ -2997,12 +2988,14 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2021,Mexico,America Central and South,1,3,0.25
 2021,Mongolia,Asia East,1,4,0.2
 2021,Morocco,Africa North,20,29,0.40816326530612246
+2021,Myanmar (Burma),Asia South East,16,1,0.9411764705882353
 2021,Namibia,Africa Sub-Saharan,23,62,0.27058823529411763
 2021,Nepal,Asia South,4,23,0.14814814814814814
 2021,Netherlands,EU 14,0,1,0
 2021,Nicaragua,America Central and South,9,2,0.8181818181818182
 2021,Niger,Africa Sub-Saharan,3,0,1
 2021,Nigeria,Africa Sub-Saharan,107,140,0.4331983805668016
+2021,North Korea,Asia East,1,1,0.5
 2021,Occupied Palestinian Territories,Middle East,61,15,0.8026315789473685
 2021,Oman,Middle East,2,0,1
 2021,Other and unknown,Other,2,0,1
@@ -3022,12 +3015,12 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2021,Slovenia,EU 8,0,1,0
 2021,Somalia,Africa Sub-Saharan,165,35,0.825
 2021,South Africa,Africa Sub-Saharan,3,18,0.14285714285714285
+2021,South Sudan,Africa Sub-Saharan,10,1,0.9090909090909091
 2021,Spain,EU 14,0,2,0
 2021,Sri Lanka,Asia South,90,100,0.47368421052631576
-2021,St. Vincent and the Grenadines,America Central and South,3,4,0.42857142857142855
+2021,St Vincent and the Grenadines,America Central and South,3,4,0.42857142857142855
 2021,Stateless,Other,41,15,0.7321428571428571
 2021,Sudan,Africa North,820,37,0.9568261376896149
-2021,Sudan (South),Africa Sub-Saharan,10,1,0.9090909090909091
 2021,Syria,Middle East,983,14,0.9859578736208626
 2021,Tajikistan,Asia Central,0,1,0
 2021,Tanzania,Africa Sub-Saharan,6,5,0.5454545454545454
@@ -3048,235 +3041,256 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2021,Yemen,Middle East,267,4,0.985239852398524
 2021,Zambia,Africa Sub-Saharan,5,1,0.8333333333333334
 2021,Zimbabwe,Africa Sub-Saharan,22,30,0.4230769230769231
-2022,Afghanistan,Asia Central,1803,39,0.9788273615635179
-2022,Albania,Europe Other,357,376,0.4870395634379263
-2022,Algeria,Africa North,11,46,0.19298245614035087
-2022,Angola,Africa Sub-Saharan,9,7,0.5625
+2022,Afghanistan,Asia Central,1803,40,0.9782962561041779
+2022,Albania,Europe Other,361,387,0.48262032085561496
+2022,Algeria,Africa North,9,46,0.16363636363636364
+2022,Angola,Africa Sub-Saharan,8,7,0.5333333333333333
 2022,Antigua and Barbuda,America Central and South,2,0,1
 2022,Argentina,America Central and South,0,1,0
 2022,Armenia,Europe Other,0,1,0
-2022,Azerbaijan,Europe Other,6,2,0.75
+2022,Azerbaijan,Europe Other,6,3,0.6666666666666666
 2022,Bahrain,Middle East,1,0,1
-2022,Bangladesh,Asia South,104,195,0.34782608695652173
+2022,Bangladesh,Asia South,105,193,0.3523489932885906
 2022,Barbados,America Central and South,1,0,1
 2022,Belarus,Europe Other,6,2,0.75
 2022,Benin,Africa Sub-Saharan,3,1,0.75
 2022,Bolivia,America Central and South,1,1,0.5
 2022,Botswana,Africa Sub-Saharan,5,5,0.5
-2022,Brazil,America Central and South,2,37,0.05128205128205128
+2022,Brazil,America Central and South,2,38,0.05
 2022,British overseas citizens,Other,1,1,0.5
 2022,Bulgaria,EU 2,0,4,0
-2022,Burkina,Africa Sub-Saharan,2,0,1
-2022,Burma,Asia South East,13,2,0.8666666666666667
-2022,Burundi,Africa Sub-Saharan,2,3,0.4
-2022,Cameroon,Africa Sub-Saharan,67,29,0.6979166666666666
+2022,Burkina Faso,Africa Sub-Saharan,2,0,1
+2022,Burundi,Africa Sub-Saharan,2,4,0.3333333333333333
+2022,Cameroon,Africa Sub-Saharan,68,29,0.7010309278350515
 2022,Central African Republic,Africa Sub-Saharan,3,0,1
 2022,Chad,Africa Sub-Saharan,58,17,0.7733333333333333
-2022,China,Asia East,46,246,0.15753424657534246
+2022,China,Asia East,47,244,0.16151202749140894
 2022,Colombia,America Central and South,1,4,0.2
-2022,Congo,Africa Sub-Saharan,6,1,0.8571428571428571
-2022,Congo (Democratic Republic),Africa Sub-Saharan,34,10,0.7727272727272727
+2022,Congo,Africa Sub-Saharan,6,2,0.75
+2022,Congo (Democratic Republic),Africa Sub-Saharan,34,11,0.7555555555555555
 2022,Costa Rica,America Central and South,0,1,0
-2022,Cuba,America Central and South,4,0,1
-2022,Dominica,America Central and South,0,2,0
+2022,Cuba,America Central and South,3,0,1
+2022,Dominica,America Central and South,0,1,0
 2022,Ecuador,America Central and South,0,1,0
-2022,Egypt,Africa North,73,86,0.4591194968553459
-2022,El Salvador,America Central and South,131,161,0.4486301369863014
+2022,Egypt,Africa North,77,86,0.4723926380368098
+2022,El Salvador,America Central and South,130,161,0.44673539518900346
 2022,Equatorial Guinea,Africa Sub-Saharan,1,0,1
-2022,Eritrea,Africa Sub-Saharan,2426,39,0.9841784989858012
-2022,Ethiopia,Africa Sub-Saharan,243,107,0.6942857142857143
+2022,Eritrea,Africa Sub-Saharan,2463,42,0.9832335329341317
+2022,Ethiopia,Africa Sub-Saharan,245,105,0.7
 2022,Finland,EU 14,0,1,0
 2022,Gabon,Africa Sub-Saharan,1,0,1
-2022,"Gambia, The",Africa Sub-Saharan,11,9,0.55
-2022,Georgia,Europe Other,7,21,0.25
+2022,"Gambia, The",Africa Sub-Saharan,13,9,0.5909090909090909
+2022,Georgia,Europe Other,6,20,0.23076923076923078
 2022,Germany,EU 14,0,2,0
-2022,Ghana,Africa Sub-Saharan,14,26,0.35
+2022,Ghana,Africa Sub-Saharan,16,25,0.3902439024390244
 2022,Greece,EU 14,0,2,0
 2022,Grenada,America Central and South,2,3,0.4
 2022,Guatemala,America Central and South,0,3,0
-2022,Guinea,Africa Sub-Saharan,22,21,0.5116279069767442
+2022,Guinea,Africa Sub-Saharan,21,21,0.5
 2022,Guinea-Bissau,Africa Sub-Saharan,3,1,0.75
 2022,Guyana,America Central and South,2,0,1
-2022,Honduras,America Central and South,23,31,0.42592592592592593
-2022,Hong Kong,Asia East,8,9,0.47058823529411764
+2022,Honduras,America Central and South,22,31,0.41509433962264153
+2022,Hong Kong,Asia East,9,9,0.5
 2022,Hungary,EU 8,0,4,0
-2022,India,Asia South,9,216,0.04
+2022,India,Asia South,11,216,0.048458149779735685
 2022,Indonesia,Asia South East,7,0,1
-2022,Iran,Middle East,2510,622,0.801404853128991
-2022,Iraq,Middle East,597,474,0.5574229691876751
+2022,Iran,Middle East,2530,626,0.8016476552598225
+2022,Iraq,Middle East,594,474,0.5561797752808989
 2022,Ireland,EU 14,0,1,0
 2022,Israel,Middle East,0,1,0
 2022,Italy,EU 14,0,1,0
-2022,Ivory Coast,Africa Sub-Saharan,4,13,0.23529411764705882
-2022,Jamaica,America Central and South,4,11,0.26666666666666666
+2022,Ivory Coast,Africa Sub-Saharan,4,12,0.25
+2022,Jamaica,America Central and South,7,11,0.3888888888888889
 2022,Jordan,Middle East,6,5,0.5454545454545454
 2022,Kazakhstan,Asia Central,3,1,0.75
-2022,Kenya,Africa Sub-Saharan,28,21,0.5714285714285714
-2022,Korea (North),Asia East,0,1,0
-2022,Korea (South),Asia East,1,0,1
+2022,Kenya,Africa Sub-Saharan,28,16,0.6363636363636364
 2022,Kosovo,Europe Other,0,2,0
-2022,Kuwait,Middle East,57,10,0.8507462686567164
+2022,Kuwait,Middle East,47,10,0.8245614035087719
 2022,Kyrgyzstan,Asia Central,2,4,0.3333333333333333
 2022,Latvia,EU 8,0,3,0
-2022,Lebanon,Middle East,13,11,0.5416666666666666
+2022,Lebanon,Middle East,14,11,0.56
 2022,Liberia,Africa Sub-Saharan,1,4,0.2
-2022,Libya,Africa North,148,2,0.9866666666666667
+2022,Libya,Africa North,147,2,0.9865771812080537
 2022,Lithuania,EU 8,0,3,0
 2022,Malawi,Africa Sub-Saharan,1,1,0.5
-2022,Malaysia,Asia South East,25,41,0.3787878787878788
+2022,Malaysia,Asia South East,25,40,0.38461538461538464
 2022,Maldives,Asia South,1,0,1
 2022,Mali,Africa Sub-Saharan,8,3,0.7272727272727273
 2022,Mauritius,Africa Sub-Saharan,1,4,0.2
 2022,Mexico,America Central and South,0,3,0
 2022,Mongolia,Asia East,0,2,0
-2022,Morocco,Africa North,25,30,0.45454545454545453
-2022,Namibia,Africa Sub-Saharan,16,116,0.12121212121212122
+2022,Morocco,Africa North,27,30,0.47368421052631576
+2022,Myanmar (Burma),Asia South East,13,2,0.8666666666666667
+2022,Namibia,Africa Sub-Saharan,16,118,0.11940298507462686
 2022,Nepal,Asia South,3,24,0.1111111111111111
 2022,Nicaragua,America Central and South,8,8,0.5
 2022,Niger,Africa Sub-Saharan,1,0,1
-2022,Nigeria,Africa Sub-Saharan,155,121,0.5615942028985508
-2022,Occupied Palestinian Territories,Middle East,96,37,0.7218045112781954
+2022,Nigeria,Africa Sub-Saharan,153,125,0.5503597122302158
+2022,North Korea,Asia East,0,1,0
+2022,Occupied Palestinian Territories,Middle East,72,35,0.6728971962616822
 2022,Oman,Middle East,0,1,0
-2022,Other and unknown,Other,3,0,1
-2022,Pakistan,Asia South,349,225,0.60801393728223
-2022,Philippines,Asia South East,2,60,0.03225806451612903
-2022,Poland,EU 8,0,6,0
-2022,Portugal,EU 14,0,3,0
+2022,Other and unknown,Other,2,0,1
+2022,Pakistan,Asia South,339,222,0.6042780748663101
+2022,Philippines,Asia South East,3,61,0.046875
+2022,Poland,EU 8,0,5,0
+2022,Portugal,EU 14,0,2,0
 2022,Qatar,Middle East,0,1,0
-2022,Refugee,Other,253,7,0.9730769230769231
-2022,Romania,EU 2,0,9,0
-2022,Russia,Europe Other,93,22,0.808695652173913
-2022,Rwanda,Africa Sub-Saharan,4,4,0.5
+2022,Refugee,Other,397,13,0.9682926829268292
+2022,Romania,EU 2,0,11,0
+2022,Russia,Europe Other,90,22,0.8035714285714286
+2022,Rwanda,Africa Sub-Saharan,4,3,0.5714285714285714
 2022,Saudi Arabia,Middle East,33,3,0.9166666666666666
 2022,Senegal,Africa Sub-Saharan,8,3,0.7272727272727273
 2022,Sierra Leone,Africa Sub-Saharan,27,24,0.5294117647058824
 2022,Singapore,Asia South East,0,1,0
-2022,Somalia,Africa Sub-Saharan,230,56,0.8041958041958042
+2022,Somalia,Africa Sub-Saharan,223,58,0.7935943060498221
 2022,South Africa,Africa Sub-Saharan,3,9,0.25
-2022,Spain,EU 14,0,6,0
-2022,Sri Lanka,Asia South,175,63,0.7352941176470589
-2022,St. Kitts and Nevis,America Central and South,1,2,0.3333333333333333
-2022,St. Lucia,America Central and South,7,2,0.7777777777777778
-2022,St. Vincent and the Grenadines,America Central and South,3,0,1
-2022,Stateless,Other,173,12,0.9351351351351351
-2022,Sudan,Africa North,969,186,0.8389610389610389
-2022,Sudan (South),Africa Sub-Saharan,43,0,1
+2022,South Sudan,Africa Sub-Saharan,44,0,1
+2022,Spain,EU 14,0,5,0
+2022,Sri Lanka,Asia South,173,63,0.7330508474576272
+2022,St Kitts and Nevis,America Central and South,1,2,0.3333333333333333
+2022,St Lucia,America Central and South,7,3,0.7
+2022,St Vincent and the Grenadines,America Central and South,3,0,1
+2022,Stateless,Other,75,10,0.8823529411764706
+2022,Sudan,Africa North,984,189,0.8388746803069054
 2022,Sweden,EU 14,0,1,0
-2022,Syria,Middle East,1400,20,0.9859154929577465
+2022,Syria,Middle East,1406,23,0.9839048285514346
 2022,Tajikistan,Asia Central,4,9,0.3076923076923077
-2022,Tanzania,Africa Sub-Saharan,11,4,0.7333333333333333
+2022,Tanzania,Africa Sub-Saharan,11,5,0.6875
 2022,Thailand,Asia South East,1,12,0.07692307692307693
-2022,Togo,Africa Sub-Saharan,3,3,0.5
-2022,Trinidad and Tobago,America Central and South,6,6,0.5
-2022,Tunisia,Africa North,5,2,0.7142857142857143
-2022,Turkey,Europe Other,269,68,0.798219584569733
+2022,Togo,Africa Sub-Saharan,4,4,0.5
+2022,Trinidad and Tobago,America Central and South,6,7,0.46153846153846156
+2022,Tunisia,Africa North,5,1,0.8333333333333334
+2022,Turkey,Europe Other,279,68,0.8040345821325648
 2022,Turkmenistan,Asia Central,0,2,0
-2022,Uganda,Africa Sub-Saharan,74,5,0.9367088607594937
-2022,Ukraine,Europe Other,2,2,0.5
+2022,Uganda,Africa Sub-Saharan,73,5,0.9358974358974359
+2022,Ukraine,Europe Other,2,1,0.6666666666666666
 2022,United Arab Emirates,Middle East,2,0,1
 2022,United States,America North,1,5,0.16666666666666666
 2022,Uzbekistan,Asia Central,3,2,0.6
-2022,Venezuela,America Central and South,3,2,0.6
-2022,Vietnam,Asia South East,527,188,0.737062937062937
-2022,Yemen,Middle East,312,3,0.9904761904761905
+2022,Venezuela,America Central and South,3,1,0.75
+2022,Vietnam,Asia South East,524,184,0.7401129943502824
+2022,Yemen,Middle East,320,4,0.9876543209876543
 2022,Zambia,Africa Sub-Saharan,2,2,0.5
-2022,Zimbabwe,Africa Sub-Saharan,29,27,0.5178571428571429
-2023,Afghanistan,Asia Central,525,13,0.9758364312267658
-2023,Albania,Europe Other,113,375,0.23155737704918034
-2023,Algeria,Africa North,3,7,0.3
-2023,Angola,Africa Sub-Saharan,1,4,0.2
+2022,Zimbabwe,Africa Sub-Saharan,29,26,0.5272727272727272
+2023,Afghanistan,Asia Central,1072,24,0.9781021897810219
+2023,Albania,Europe Other,294,1699,0.14751630707476165
+2023,Algeria,Africa North,7,18,0.28
+2023,Angola,Africa Sub-Saharan,4,11,0.26666666666666666
 2023,Antigua and Barbuda,America Central and South,1,0,1
+2023,Argentina,America Central and South,0,1,0
+2023,Armenia,Europe Other,2,0,1
+2023,Australia,Oceania,0,1,0
+2023,Azerbaijan,Europe Other,3,1,0.75
 2023,Bahrain,Middle East,1,1,0.5
-2023,Bangladesh,Asia South,32,88,0.26666666666666666
-2023,Belarus,Europe Other,0,1,0
-2023,Bolivia,America Central and South,1,1,0.5
-2023,Botswana,Africa Sub-Saharan,0,5,0
-2023,Brazil,America Central and South,0,22,0
+2023,Bangladesh,Asia South,46,137,0.25136612021857924
+2023,Barbados,America Central and South,0,1,0
+2023,Belarus,Europe Other,3,2,0.6
+2023,Belize,America Central and South,1,0,1
+2023,Bolivia,America Central and South,1,3,0.25
+2023,Botswana,Africa Sub-Saharan,0,12,0
+2023,Brazil,America Central and South,0,51,0
 2023,British overseas citizens,Other,1,0,1
 2023,Burundi,Africa Sub-Saharan,1,1,0.5
-2023,Cameroon,Africa Sub-Saharan,9,5,0.6428571428571429
-2023,Central African Republic,Africa Sub-Saharan,1,0,1
-2023,Chad,Africa Sub-Saharan,17,4,0.8095238095238095
-2023,China,Asia East,9,73,0.10975609756097561
+2023,Cameroon,Africa Sub-Saharan,14,6,0.7
+2023,Central African Republic,Africa Sub-Saharan,2,0,1
+2023,Chad,Africa Sub-Saharan,31,13,0.7045454545454546
+2023,China,Asia East,17,126,0.11888111888111888
 2023,Colombia,America Central and South,0,1,0
-2023,Congo (Democratic Republic),Africa Sub-Saharan,3,2,0.6
+2023,Congo,Africa Sub-Saharan,1,1,0.5
+2023,Congo (Democratic Republic),Africa Sub-Saharan,9,5,0.6428571428571429
 2023,Cuba,America Central and South,0,1,0
-2023,Dominica,America Central and South,0,1,0
-2023,Ecuador,America Central and South,0,1,0
-2023,Egypt,Africa North,22,17,0.5641025641025641
-2023,El Salvador,America Central and South,52,7,0.8813559322033898
-2023,Eritrea,Africa Sub-Saharan,544,3,0.9945155393053017
-2023,Ethiopia,Africa Sub-Saharan,32,15,0.6808510638297872
+2023,Dominica,America Central and South,0,4,0
+2023,Ecuador,America Central and South,0,2,0
+2023,Egypt,Africa North,39,53,0.42391304347826086
+2023,El Salvador,America Central and South,143,13,0.9166666666666666
+2023,Eritrea,Africa Sub-Saharan,2494,4,0.9983987189751802
+2023,Ethiopia,Africa Sub-Saharan,119,27,0.815068493150685
 2023,France,EU 14,0,2,0
-2023,Gabon,Africa Sub-Saharan,1,0,1
-2023,"Gambia, The",Africa Sub-Saharan,8,3,0.7272727272727273
-2023,Georgia,Europe Other,3,4,0.42857142857142855
-2023,Ghana,Africa Sub-Saharan,3,8,0.2727272727272727
-2023,Guatemala,America Central and South,0,1,0
-2023,Guinea,Africa Sub-Saharan,8,3,0.7272727272727273
-2023,Honduras,America Central and South,8,9,0.47058823529411764
-2023,Hong Kong,Asia East,1,1,0.5
-2023,India,Asia South,3,72,0.04
-2023,Iran,Middle East,419,167,0.7150170648464164
-2023,Iraq,Middle East,149,167,0.47151898734177217
-2023,Jamaica,America Central and South,1,1,0.5
-2023,Jordan,Middle East,0,1,0
-2023,Kazakhstan,Asia Central,2,1,0.6666666666666666
-2023,Kenya,Africa Sub-Saharan,4,6,0.4
-2023,Kosovo,Europe Other,1,0,1
-2023,Kuwait,Middle East,9,2,0.8181818181818182
-2023,Lebanon,Middle East,3,3,0.5
-2023,Libya,Africa North,26,0,1
-2023,Lithuania,EU 8,0,4,0
-2023,Malawi,Africa Sub-Saharan,0,1,0
-2023,Malaysia,Asia South East,3,11,0.21428571428571427
-2023,Mali,Africa Sub-Saharan,1,0,1
-2023,Mauritius,Africa Sub-Saharan,0,2,0
-2023,Mexico,America Central and South,0,1,0
-2023,Morocco,Africa North,3,11,0.21428571428571427
-2023,Namibia,Africa Sub-Saharan,3,24,0.1111111111111111
-2023,Nepal,Asia South,0,25,0
-2023,Nicaragua,America Central and South,2,1,0.6666666666666666
-2023,Nigeria,Africa Sub-Saharan,26,34,0.43333333333333335
-2023,Occupied Palestinian Territories,Middle East,11,4,0.7333333333333333
-2023,Other and Unknown,Other,6,3,0.6666666666666666
-2023,Other and unknown,Other,0,2,0
-2023,Pakistan,Asia South,99,84,0.5409836065573771
-2023,Philippines,Asia South East,3,25,0.10714285714285714
+2023,Gabon,Africa Sub-Saharan,2,0,1
+2023,"Gambia, The",Africa Sub-Saharan,15,13,0.5357142857142857
+2023,Georgia,Europe Other,3,10,0.23076923076923078
+2023,Ghana,Africa Sub-Saharan,5,19,0.20833333333333334
+2023,Grenada,America Central and South,1,4,0.2
+2023,Guatemala,America Central and South,2,1,0.6666666666666666
+2023,Guinea,Africa Sub-Saharan,14,7,0.6666666666666666
+2023,Guinea-Bissau,Africa Sub-Saharan,0,1,0
+2023,Honduras,America Central and South,9,13,0.4090909090909091
+2023,Hong Kong,Asia East,4,4,0.5
+2023,Hungary,EU 8,0,1,0
+2023,India,Asia South,14,226,0.058333333333333334
+2023,Indonesia,Asia South East,6,2,0.75
+2023,Iran,Middle East,828,399,0.6748166259168704
+2023,Iraq,Middle East,281,408,0.40783744557329465
+2023,Ivory Coast,Africa Sub-Saharan,5,5,0.5
+2023,Jamaica,America Central and South,4,5,0.4444444444444444
+2023,Jordan,Middle East,3,4,0.42857142857142855
+2023,Kazakhstan,Asia Central,2,3,0.4
+2023,Kenya,Africa Sub-Saharan,10,13,0.43478260869565216
+2023,Kosovo,Europe Other,2,1,0.6666666666666666
+2023,Kuwait,Middle East,23,3,0.8846153846153846
+2023,Latvia,EU 8,0,1,0
+2023,Lebanon,Middle East,7,6,0.5384615384615384
+2023,Liberia,Africa Sub-Saharan,0,1,0
+2023,Libya,Africa North,55,2,0.9649122807017544
+2023,Lithuania,EU 8,0,5,0
+2023,Macau,Asia East,1,0,1
+2023,Malawi,Africa Sub-Saharan,2,1,0.6666666666666666
+2023,Malaysia,Asia South East,5,22,0.18518518518518517
+2023,Mali,Africa Sub-Saharan,5,1,0.8333333333333334
+2023,Mauritius,Africa Sub-Saharan,2,2,0.5
+2023,Mexico,America Central and South,0,2,0
+2023,Morocco,Africa North,5,26,0.16129032258064516
+2023,Myanmar (Burma),Asia South East,5,0,1
+2023,Namibia,Africa Sub-Saharan,5,34,0.1282051282051282
+2023,Nepal,Asia South,1,28,0.034482758620689655
+2023,Netherlands,EU 14,0,2,0
+2023,Nicaragua,America Central and South,4,1,0.8
+2023,Niger,Africa Sub-Saharan,2,0,1
+2023,Nigeria,Africa Sub-Saharan,102,89,0.5340314136125655
+2023,North Korea,Asia East,0,1,0
+2023,Occupied Palestinian Territories,Middle East,21,16,0.5675675675675675
+2023,Oman,Middle East,3,0,1
+2023,Other and unknown,Other,6,6,0.5
+2023,Pakistan,Asia South,170,161,0.513595166163142
+2023,Philippines,Asia South East,4,30,0.11764705882352941
 2023,Poland,EU 8,0,1,0
-2023,Portugal,EU 14,0,1,0
+2023,Portugal,EU 14,0,3,0
 2023,Qatar,Middle East,3,0,1
-2023,Refugee,Other,49,0,1
-2023,Romania,EU 2,0,2,0
-2023,Russia,Europe Other,15,7,0.6818181818181818
-2023,Saudi Arabia,Middle East,11,1,0.9166666666666666
-2023,Senegal,Africa Sub-Saharan,1,0,1
-2023,Sierra Leone,Africa Sub-Saharan,6,4,0.6
-2023,Somalia,Africa Sub-Saharan,43,17,0.7166666666666667
-2023,South Africa,Africa Sub-Saharan,1,4,0.2
-2023,Sri Lanka,Asia South,34,31,0.5230769230769231
-2023,St. Kitts and Nevis,America Central and South,0,1,0
-2023,St. Lucia,America Central and South,0,1,0
-2023,Stateless,Other,21,2,0.9130434782608695
-2023,Sudan,Africa North,288,58,0.8323699421965318
-2023,Sudan (South),Africa Sub-Saharan,7,0,1
-2023,Surinam,America Central and South,0,1,0
-2023,Syria,Middle East,438,4,0.9909502262443439
-2023,Tajikistan,Asia Central,5,4,0.5555555555555556
-2023,Tanzania,Africa Sub-Saharan,4,1,0.8
-2023,Thailand,Asia South East,2,6,0.25
-2023,Togo,Africa Sub-Saharan,0,2,0
-2023,Trinidad and Tobago,America Central and South,2,2,0.5
-2023,Tunisia,Africa North,1,2,0.3333333333333333
-2023,Turkey,Europe Other,74,20,0.7872340425531915
-2023,Uganda,Africa Sub-Saharan,4,2,0.6666666666666666
-2023,Ukraine,Europe Other,2,0,1
-2023,United Arab Emirates,Middle East,1,0,1
-2023,United States,America North,1,2,0.3333333333333333
+2023,Refugee,Other,105,2,0.9813084112149533
+2023,Romania,EU 2,1,5,0.16666666666666666
+2023,Russia,Europe Other,49,15,0.765625
+2023,Saudi Arabia,Middle East,34,2,0.9444444444444444
+2023,Senegal,Africa Sub-Saharan,2,1,0.6666666666666666
+2023,Sierra Leone,Africa Sub-Saharan,14,5,0.7368421052631579
+2023,Slovakia,EU 8,0,1,0
+2023,Somalia,Africa Sub-Saharan,103,43,0.7054794520547946
+2023,South Africa,Africa Sub-Saharan,5,5,0.5
+2023,South Sudan,Africa Sub-Saharan,21,1,0.9545454545454546
+2023,Sri Lanka,Asia South,66,47,0.584070796460177
+2023,St Kitts and Nevis,America Central and South,0,2,0
+2023,St Lucia,America Central and South,3,2,0.6
+2023,St Vincent and the Grenadines,America Central and South,0,2,0
+2023,Stateless,Other,47,3,0.94
+2023,Sudan,Africa North,596,64,0.9030303030303031
+2023,Suriname,America Central and South,0,1,0
+2023,Syria,Middle East,929,13,0.9861995753715499
+2023,Tajikistan,Asia Central,13,4,0.7647058823529411
+2023,Tanzania,Africa Sub-Saharan,6,4,0.6
+2023,Thailand,Asia South East,2,7,0.2222222222222222
+2023,Togo,Africa Sub-Saharan,5,2,0.7142857142857143
+2023,Trinidad and Tobago,America Central and South,3,5,0.375
+2023,Tunisia,Africa North,2,15,0.11764705882352941
+2023,Turkey,Europe Other,210,31,0.8713692946058091
+2023,Turkmenistan,Asia Central,1,1,0.5
+2023,Uganda,Africa Sub-Saharan,11,2,0.8461538461538461
+2023,Ukraine,Europe Other,9,1,0.9
+2023,United Arab Emirates,Middle East,2,1,0.6666666666666666
+2023,United States,America North,2,3,0.4
 2023,Uruguay,America Central and South,0,2,0
-2023,Uzbekistan,Asia Central,1,0,1
-2023,Venezuela,America Central and South,1,0,1
-2023,Vietnam,Asia South East,87,44,0.6641221374045801
-2023,Yemen,Middle East,40,1,0.975609756097561
-2023,Zambia,Africa Sub-Saharan,1,1,0.5
-2023,Zimbabwe,Africa Sub-Saharan,8,5,0.6153846153846154
+2023,Uzbekistan,Asia Central,2,1,0.6666666666666666
+2023,Venezuela,America Central and South,2,0,1
+2023,Vietnam,Asia South East,156,75,0.6753246753246753
+2023,Yemen,Middle East,70,1,0.9859154929577465
+2023,Zambia,Africa Sub-Saharan,1,2,0.3333333333333333
+2023,Zimbabwe,Africa Sub-Saharan,12,12,0.5

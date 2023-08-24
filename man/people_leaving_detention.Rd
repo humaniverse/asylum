@@ -5,7 +5,7 @@
 \alias{people_leaving_detention}
 \title{Number of occurrences of people leaving detention}
 \format{
-A data frame with 102,116 rows and 10 variables:
+A data frame with 104,181 rows and 10 variables:
 \describe{
   \item{Date}{Date}
   \item{Year}{Year}

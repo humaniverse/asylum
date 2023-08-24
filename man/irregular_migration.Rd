@@ -5,7 +5,7 @@
 \alias{irregular_migration}
 \title{Irregular migration to the UK}
 \format{
-A data frame with 9,114 rows and 9 variables:
+A data frame with 9,658 rows and 9 variables:
 \describe{
   \item{Date}{Date}
   \item{Year}{Year}
