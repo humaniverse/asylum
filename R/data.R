@@ -533,6 +533,23 @@
 #' @source \url{https://www.gov.uk/government/collections/migration-transparency-data#uk-visas-and-immigration}
 "asylum_costs_and_productivity"
 
+#' Breakdown of asylum productivity
+#'
+#' Breakdown of asylum productivity by month.
+#'
+#' @format A data frame with 42 rows and 6 variables:
+#' \describe{
+#'   \item{Date}{Date}
+#'   \item{Initial Decisions}{Number of initial decisions made}
+#'   \item{Substantive Interviews}{Number of substantive interviews completed}
+#'   \item{Total Principal Stages Completed}{Total number of initial decisions and substantive interviews}
+#'   \item{Asylum Caseworking Staff}{Number of asylum caseworking staff}
+#'   \item{Productivity}{Productivity of staff (total principal stages completed divided by asylum caseworking staff)}
+#'   ...
+#' }
+#' @source \url{https://www.gov.uk/government/collections/migration-transparency-data#uk-visas-and-immigration}
+"asylum_productivity_breakdown"
+
 #' NFRP - Destitution Change of Conditions Applications and Outcomes
 #'
 #' NFRP - Destitution Change of Conditions Applications and Outcomes. Data

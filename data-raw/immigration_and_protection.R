@@ -192,6 +192,25 @@ asylum_costs_and_productivity <-
 #   str_remove("[0-9]+,$") |>
 #   str_remove(" $")
 
+# ---- Breakdown of Asylum Productivity ----
+asylum_productivity_breakdown <-
+  read_ods(tf, sheet = "ASY_05(M)", skip = 3)
+
+"C:/Users/040026704/Downloads/Immigration_and_protection_Q2_2023.ods"
+
+asylum_productivity_breakdown <-
+  asylum_productivity_breakdown |>
+  janitor::remove_empty()
+
+names(asylum_productivity_breakdown) <-
+  c("Month", "Initial Decisions", "Substantive Interviews", "Total Principal Stages Completed", "Asylum Caseworking Staff", "Productivity")
+
+asylum_productivity_breakdown <-
+  asylum_productivity_breakdown |>
+  mutate(Date = as.Date(as.yearmon(Month, format = "%b-%y"), frac = 1)) |>
+  relocate(Date) |>
+  select(-Month)
+
 # ---- NFRP - Destitution Change of Conditions Applications and Outcomes ----
 nrpf_change_of_conditions_decisions <-
   read_ods(tf, sheet = "CoC_01", skip = 2)
@@ -292,6 +311,9 @@ readr::write_csv(asylum_work_in_progress, "data-raw/asylum_work_in_progress.csv"
 
 usethis::use_data(asylum_costs_and_productivity, overwrite = TRUE)
 readr::write_csv(asylum_costs_and_productivity, "data-raw/asylum_costs_and_productivity.csv")
+
+usethis::use_data(asylum_productivity_breakdown, overwrite = TRUE)
+readr::write_csv(asylum_productivity_breakdown, "data-raw/asylum_productivity_breakdown.csv")
 
 usethis::use_data(nrpf_change_of_conditions_decisions, overwrite = TRUE)
 readr::write_csv(nrpf_change_of_conditions_decisions, "data-raw/nrpf_change_of_conditions_decisions.csv")
