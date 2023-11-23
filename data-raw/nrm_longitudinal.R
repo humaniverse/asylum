@@ -117,9 +117,9 @@ nrm_conclusive_grounds <-
   ) |>
   fill(Year)
 
-# ---- Table 34: DtN reports by quarter ----
+# ---- Table 40: DtN reports by quarter ----
 nrm_duty_to_notify_longitudinal <-
-  read_ods(tf, sheet = "Table_34", skip = 5) |>
+  read_ods(tf, sheet = "Table_40", skip = 5) |>
   as_tibble()
 
 nrm_duty_to_notify_longitudinal <-
