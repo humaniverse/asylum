@@ -33,15 +33,15 @@ query_urls <-
     "dublin_regulation", "Dublin regulation", "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/962018/dublin-regulation-datasets-mar-2020.xlsx", "https://www.gov.uk/government/statistical-data-sets/asylum-and-resettlement-datasets",
 
     # Family reunion
-    "family_reunion", "Family reunion visa grants", "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1178024/family-reunion-visa-grants-datasets-jun-2023.xlsx", "https://www.gov.uk/government/statistical-data-sets/asylum-and-resettlement-datasets",
+    "family_reunion", "Family reunion visa grants", "https://assets.publishing.service.gov.uk/media/655bae1f544aea0019fb30e2/family-reunion-visa-grants-datasets-sep-2023.xlsx", "https://www.gov.uk/government/statistical-data-sets/asylum-and-resettlement-datasets",
 
     # Local authority data
     "local_authority_resettlement", "Resettlement by local authority", "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1178025/resettlement-local-authority-datasets-jun-2023.xlsx", "https://www.gov.uk/government/statistical-data-sets/asylum-and-resettlement-datasets",
     "local_authority_support", "Section 95 support by local authority", "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1178026/support-local-authority-datasets-jun-2023.xlsx", "https://www.gov.uk/government/statistical-data-sets/asylum-and-resettlement-datasets",
 
     # Detention
-    "detention_summary", "Detention summary tables", "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1178044/detention-summary-jun-2023-tables.ods", "https://www.gov.uk/government/statistical-data-sets/immigration-system-statistics-data-tables#detention",
-    "immigration_detention", "Immigration detention", "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1178045/detention-datasets-jun-2023.xlsx", "https://www.gov.uk/government/statistical-data-sets/returns-and-detention-datasets",
+    "detention_summary", "Detention summary tables", "https://assets.publishing.service.gov.uk/media/65563340544aea0019fb2ea5/detention-summary-sep-2023-tables.ods", "https://www.gov.uk/government/statistical-data-sets/immigration-system-statistics-data-tables#detention",
+    "immigration_detention", "Immigration detention", "https://assets.publishing.service.gov.uk/media/65563356544aea000dfb2ed4/detention-datasets-sep-2023.xlsx", "https://www.gov.uk/government/statistical-data-sets/returns-and-detention-datasets",
 
     # Returns
     "returns_summary", "Returns summary table", "https://assets.publishing.service.gov.uk/media/6556343c046ed400148b9a5a/returns-summary-sep-2023-tables.ods", "https://www.gov.uk/government/statistical-data-sets/immigration-system-statistics-data-tables#returns",
