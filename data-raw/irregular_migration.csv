@@ -9463,197 +9463,833 @@ Date,Year,Quarter,Method of entry,Nationality,Region,Sex,Age Group,Number of det
 2023-06-30,2023,2,Recorded detections in the UK,Vietnam,Asia South East,Male,18 to 24,1
 2023-06-30,2023,2,Recorded detections in the UK,Vietnam,Asia South East,Male,25 to 39,2
 2023-06-30,2023,2,Recorded detections in the UK,Vietnam,Asia South East,Male,40 and over,2
-2023-06-30,2023,2,Small boat arrivals,Afghanistan,Asia Central,Female,17 and under,13
-2023-06-30,2023,2,Small boat arrivals,Afghanistan,Asia Central,Female,18 to 24,8
-2023-06-30,2023,2,Small boat arrivals,Afghanistan,Asia Central,Female,25 to 39,15
-2023-06-30,2023,2,Small boat arrivals,Afghanistan,Asia Central,Female,40 and over,7
-2023-06-30,2023,2,Small boat arrivals,Afghanistan,Asia Central,Male,17 and under,113
-2023-06-30,2023,2,Small boat arrivals,Afghanistan,Asia Central,Male,18 to 24,238
-2023-06-30,2023,2,Small boat arrivals,Afghanistan,Asia Central,Male,25 to 39,161
-2023-06-30,2023,2,Small boat arrivals,Afghanistan,Asia Central,Male,40 and over,16
-2023-06-30,2023,2,Small boat arrivals,Afghanistan,Asia Central,Unknown,17 and under,2
-2023-06-30,2023,2,Small boat arrivals,Afghanistan,Asia Central,Unknown,18 to 24,3
-2023-06-30,2023,2,Small boat arrivals,Albania,Europe Other,Female,17 and under,6
-2023-06-30,2023,2,Small boat arrivals,Albania,Europe Other,Female,18 to 24,3
-2023-06-30,2023,2,Small boat arrivals,Albania,Europe Other,Female,25 to 39,7
-2023-06-30,2023,2,Small boat arrivals,Albania,Europe Other,Female,40 and over,4
-2023-06-30,2023,2,Small boat arrivals,Albania,Europe Other,Male,17 and under,7
-2023-06-30,2023,2,Small boat arrivals,Albania,Europe Other,Male,18 to 24,36
-2023-06-30,2023,2,Small boat arrivals,Albania,Europe Other,Male,25 to 39,47
-2023-06-30,2023,2,Small boat arrivals,Albania,Europe Other,Male,40 and over,10
-2023-06-30,2023,2,Small boat arrivals,Algeria,Africa North,Male,18 to 24,1
-2023-06-30,2023,2,Small boat arrivals,Algeria,Africa North,Male,25 to 39,1
-2023-06-30,2023,2,Small boat arrivals,Azerbaijan,Europe Other,Male,18 to 24,2
-2023-06-30,2023,2,Small boat arrivals,Azerbaijan,Europe Other,Male,40 and over,5
-2023-06-30,2023,2,Small boat arrivals,Bangladesh,Asia South,Male,25 to 39,1
-2023-06-30,2023,2,Small boat arrivals,Chad,Africa Sub-Saharan,Male,18 to 24,1
-2023-06-30,2023,2,Small boat arrivals,Chad,Africa Sub-Saharan,Male,25 to 39,1
+2023-06-30,2023,2,Small boat arrivals,Afghanistan,Asia Central,Female,17 and under,26
+2023-06-30,2023,2,Small boat arrivals,Afghanistan,Asia Central,Female,18 to 24,14
+2023-06-30,2023,2,Small boat arrivals,Afghanistan,Asia Central,Female,25 to 39,37
+2023-06-30,2023,2,Small boat arrivals,Afghanistan,Asia Central,Female,40 and over,19
+2023-06-30,2023,2,Small boat arrivals,Afghanistan,Asia Central,Male,17 and under,245
+2023-06-30,2023,2,Small boat arrivals,Afghanistan,Asia Central,Male,18 to 24,482
+2023-06-30,2023,2,Small boat arrivals,Afghanistan,Asia Central,Male,25 to 39,385
+2023-06-30,2023,2,Small boat arrivals,Afghanistan,Asia Central,Male,40 and over,37
+2023-06-30,2023,2,Small boat arrivals,Afghanistan,Asia Central,Male,Unknown,2
+2023-06-30,2023,2,Small boat arrivals,Albania,Europe Other,Female,17 and under,8
+2023-06-30,2023,2,Small boat arrivals,Albania,Europe Other,Female,18 to 24,5
+2023-06-30,2023,2,Small boat arrivals,Albania,Europe Other,Female,25 to 39,13
+2023-06-30,2023,2,Small boat arrivals,Albania,Europe Other,Female,40 and over,5
+2023-06-30,2023,2,Small boat arrivals,Albania,Europe Other,Male,17 and under,29
+2023-06-30,2023,2,Small boat arrivals,Albania,Europe Other,Male,18 to 24,84
+2023-06-30,2023,2,Small boat arrivals,Albania,Europe Other,Male,25 to 39,89
+2023-06-30,2023,2,Small boat arrivals,Albania,Europe Other,Male,40 and over,18
+2023-06-30,2023,2,Small boat arrivals,Albania,Europe Other,Unknown,18 to 24,1
+2023-06-30,2023,2,Small boat arrivals,Algeria,Africa North,Male,18 to 24,3
+2023-06-30,2023,2,Small boat arrivals,Algeria,Africa North,Male,25 to 39,13
+2023-06-30,2023,2,Small boat arrivals,Algeria,Africa North,Male,40 and over,1
+2023-06-30,2023,2,Small boat arrivals,Austria,EU 14,Male,17 and under,1
+2023-06-30,2023,2,Small boat arrivals,Azerbaijan,Europe Other,Male,40 and over,2
+2023-06-30,2023,2,Small boat arrivals,Bangladesh,Asia South,Male,25 to 39,2
+2023-06-30,2023,2,Small boat arrivals,Chad,Africa Sub-Saharan,Male,17 and under,1
+2023-06-30,2023,2,Small boat arrivals,Chad,Africa Sub-Saharan,Male,18 to 24,2
+2023-06-30,2023,2,Small boat arrivals,Chad,Africa Sub-Saharan,Male,25 to 39,2
 2023-06-30,2023,2,Small boat arrivals,China,Asia East,Female,25 to 39,1
 2023-06-30,2023,2,Small boat arrivals,China,Asia East,Male,25 to 39,1
-2023-06-30,2023,2,Small boat arrivals,Egypt,Africa North,Male,17 and under,18
-2023-06-30,2023,2,Small boat arrivals,Egypt,Africa North,Male,18 to 24,78
-2023-06-30,2023,2,Small boat arrivals,Egypt,Africa North,Male,25 to 39,82
-2023-06-30,2023,2,Small boat arrivals,Egypt,Africa North,Male,40 and over,14
-2023-06-30,2023,2,Small boat arrivals,Egypt,Africa North,Unknown,18 to 24,3
-2023-06-30,2023,2,Small boat arrivals,Egypt,Africa North,Unknown,25 to 39,1
-2023-06-30,2023,2,Small boat arrivals,Egypt,Africa North,Unknown,40 and over,1
-2023-06-30,2023,2,Small boat arrivals,Eritrea,Africa Sub-Saharan,Female,17 and under,18
-2023-06-30,2023,2,Small boat arrivals,Eritrea,Africa Sub-Saharan,Female,18 to 24,32
-2023-06-30,2023,2,Small boat arrivals,Eritrea,Africa Sub-Saharan,Female,25 to 39,42
-2023-06-30,2023,2,Small boat arrivals,Eritrea,Africa Sub-Saharan,Female,40 and over,3
-2023-06-30,2023,2,Small boat arrivals,Eritrea,Africa Sub-Saharan,Male,17 and under,30
-2023-06-30,2023,2,Small boat arrivals,Eritrea,Africa Sub-Saharan,Male,18 to 24,108
-2023-06-30,2023,2,Small boat arrivals,Eritrea,Africa Sub-Saharan,Male,25 to 39,131
-2023-06-30,2023,2,Small boat arrivals,Eritrea,Africa Sub-Saharan,Male,40 and over,11
-2023-06-30,2023,2,Small boat arrivals,Eritrea,Africa Sub-Saharan,Unknown,17 and under,1
-2023-06-30,2023,2,Small boat arrivals,Eritrea,Africa Sub-Saharan,Unknown,25 to 39,3
-2023-06-30,2023,2,Small boat arrivals,Ethiopia,Africa Sub-Saharan,Female,17 and under,7
-2023-06-30,2023,2,Small boat arrivals,Ethiopia,Africa Sub-Saharan,Female,18 to 24,2
-2023-06-30,2023,2,Small boat arrivals,Ethiopia,Africa Sub-Saharan,Female,25 to 39,5
-2023-06-30,2023,2,Small boat arrivals,Ethiopia,Africa Sub-Saharan,Male,17 and under,4
-2023-06-30,2023,2,Small boat arrivals,Ethiopia,Africa Sub-Saharan,Male,18 to 24,5
-2023-06-30,2023,2,Small boat arrivals,Ethiopia,Africa Sub-Saharan,Male,25 to 39,11
-2023-06-30,2023,2,Small boat arrivals,Ethiopia,Africa Sub-Saharan,Unknown,18 to 24,2
-2023-06-30,2023,2,Small boat arrivals,"Gambia, The",Africa Sub-Saharan,Male,18 to 24,2
-2023-06-30,2023,2,Small boat arrivals,"Gambia, The",Africa Sub-Saharan,Male,25 to 39,1
-2023-06-30,2023,2,Small boat arrivals,Georgia,Europe Other,Female,17 and under,1
+2023-06-30,2023,2,Small boat arrivals,Cyprus (Northern part of),Europe Other,Male,18 to 24,1
+2023-06-30,2023,2,Small boat arrivals,Egypt,Africa North,Female,25 to 39,1
+2023-06-30,2023,2,Small boat arrivals,Egypt,Africa North,Male,17 and under,22
+2023-06-30,2023,2,Small boat arrivals,Egypt,Africa North,Male,18 to 24,104
+2023-06-30,2023,2,Small boat arrivals,Egypt,Africa North,Male,25 to 39,129
+2023-06-30,2023,2,Small boat arrivals,Egypt,Africa North,Male,40 and over,24
+2023-06-30,2023,2,Small boat arrivals,Eritrea,Africa Sub-Saharan,Female,17 and under,24
+2023-06-30,2023,2,Small boat arrivals,Eritrea,Africa Sub-Saharan,Female,18 to 24,48
+2023-06-30,2023,2,Small boat arrivals,Eritrea,Africa Sub-Saharan,Female,25 to 39,56
+2023-06-30,2023,2,Small boat arrivals,Eritrea,Africa Sub-Saharan,Female,40 and over,4
+2023-06-30,2023,2,Small boat arrivals,Eritrea,Africa Sub-Saharan,Female,Unknown,1
+2023-06-30,2023,2,Small boat arrivals,Eritrea,Africa Sub-Saharan,Male,17 and under,49
+2023-06-30,2023,2,Small boat arrivals,Eritrea,Africa Sub-Saharan,Male,18 to 24,202
+2023-06-30,2023,2,Small boat arrivals,Eritrea,Africa Sub-Saharan,Male,25 to 39,234
+2023-06-30,2023,2,Small boat arrivals,Eritrea,Africa Sub-Saharan,Male,40 and over,15
+2023-06-30,2023,2,Small boat arrivals,Eritrea,Africa Sub-Saharan,Male,Unknown,1
+2023-06-30,2023,2,Small boat arrivals,Eritrea,Africa Sub-Saharan,Unknown,40 and over,1
+2023-06-30,2023,2,Small boat arrivals,Ethiopia,Africa Sub-Saharan,Female,17 and under,4
+2023-06-30,2023,2,Small boat arrivals,Ethiopia,Africa Sub-Saharan,Female,18 to 24,3
+2023-06-30,2023,2,Small boat arrivals,Ethiopia,Africa Sub-Saharan,Female,25 to 39,6
+2023-06-30,2023,2,Small boat arrivals,Ethiopia,Africa Sub-Saharan,Female,Unknown,1
+2023-06-30,2023,2,Small boat arrivals,Ethiopia,Africa Sub-Saharan,Male,17 and under,8
+2023-06-30,2023,2,Small boat arrivals,Ethiopia,Africa Sub-Saharan,Male,18 to 24,11
+2023-06-30,2023,2,Small boat arrivals,Ethiopia,Africa Sub-Saharan,Male,25 to 39,21
+2023-06-30,2023,2,Small boat arrivals,Ethiopia,Africa Sub-Saharan,Male,40 and over,3
+2023-06-30,2023,2,Small boat arrivals,France,EU 14,Female,17 and under,1
+2023-06-30,2023,2,Small boat arrivals,"Gambia, The",Africa Sub-Saharan,Male,17 and under,1
+2023-06-30,2023,2,Small boat arrivals,"Gambia, The",Africa Sub-Saharan,Male,18 to 24,3
+2023-06-30,2023,2,Small boat arrivals,"Gambia, The",Africa Sub-Saharan,Male,25 to 39,3
+2023-06-30,2023,2,Small boat arrivals,Georgia,Europe Other,Female,17 and under,3
 2023-06-30,2023,2,Small boat arrivals,Georgia,Europe Other,Female,18 to 24,1
-2023-06-30,2023,2,Small boat arrivals,Georgia,Europe Other,Female,25 to 39,6
-2023-06-30,2023,2,Small boat arrivals,Georgia,Europe Other,Female,40 and over,5
-2023-06-30,2023,2,Small boat arrivals,Georgia,Europe Other,Male,17 and under,2
-2023-06-30,2023,2,Small boat arrivals,Georgia,Europe Other,Male,18 to 24,4
-2023-06-30,2023,2,Small boat arrivals,Georgia,Europe Other,Male,25 to 39,51
-2023-06-30,2023,2,Small boat arrivals,Georgia,Europe Other,Male,40 and over,17
-2023-06-30,2023,2,Small boat arrivals,Georgia,Europe Other,Unknown,25 to 39,1
-2023-06-30,2023,2,Small boat arrivals,Guinea,Africa Sub-Saharan,Female,18 to 24,2
-2023-06-30,2023,2,Small boat arrivals,Guinea,Africa Sub-Saharan,Male,17 and under,1
-2023-06-30,2023,2,Small boat arrivals,Guinea,Africa Sub-Saharan,Male,25 to 39,7
-2023-06-30,2023,2,Small boat arrivals,India,Asia South,Female,17 and under,1
-2023-06-30,2023,2,Small boat arrivals,India,Asia South,Female,25 to 39,4
+2023-06-30,2023,2,Small boat arrivals,Georgia,Europe Other,Female,25 to 39,10
+2023-06-30,2023,2,Small boat arrivals,Georgia,Europe Other,Female,40 and over,12
+2023-06-30,2023,2,Small boat arrivals,Georgia,Europe Other,Male,17 and under,5
+2023-06-30,2023,2,Small boat arrivals,Georgia,Europe Other,Male,18 to 24,10
+2023-06-30,2023,2,Small boat arrivals,Georgia,Europe Other,Male,25 to 39,78
+2023-06-30,2023,2,Small boat arrivals,Georgia,Europe Other,Male,40 and over,32
+2023-06-30,2023,2,Small boat arrivals,Guinea,Africa Sub-Saharan,Female,18 to 24,1
+2023-06-30,2023,2,Small boat arrivals,Guinea,Africa Sub-Saharan,Male,17 and under,3
+2023-06-30,2023,2,Small boat arrivals,Guinea,Africa Sub-Saharan,Male,18 to 24,1
+2023-06-30,2023,2,Small boat arrivals,Guinea,Africa Sub-Saharan,Male,25 to 39,6
+2023-06-30,2023,2,Small boat arrivals,India,Asia South,Female,18 to 24,1
+2023-06-30,2023,2,Small boat arrivals,India,Asia South,Female,25 to 39,5
 2023-06-30,2023,2,Small boat arrivals,India,Asia South,Female,40 and over,1
-2023-06-30,2023,2,Small boat arrivals,India,Asia South,Male,18 to 24,59
-2023-06-30,2023,2,Small boat arrivals,India,Asia South,Male,25 to 39,97
-2023-06-30,2023,2,Small boat arrivals,India,Asia South,Male,40 and over,35
-2023-06-30,2023,2,Small boat arrivals,Iran,Middle East,Female,17 and under,17
-2023-06-30,2023,2,Small boat arrivals,Iran,Middle East,Female,18 to 24,8
-2023-06-30,2023,2,Small boat arrivals,Iran,Middle East,Female,25 to 39,46
-2023-06-30,2023,2,Small boat arrivals,Iran,Middle East,Female,40 and over,12
-2023-06-30,2023,2,Small boat arrivals,Iran,Middle East,Male,17 and under,39
-2023-06-30,2023,2,Small boat arrivals,Iran,Middle East,Male,18 to 24,77
-2023-06-30,2023,2,Small boat arrivals,Iran,Middle East,Male,25 to 39,146
-2023-06-30,2023,2,Small boat arrivals,Iran,Middle East,Male,40 and over,41
-2023-06-30,2023,2,Small boat arrivals,Iran,Middle East,Unknown,25 to 39,2
-2023-06-30,2023,2,Small boat arrivals,Iraq,Middle East,Female,17 and under,30
-2023-06-30,2023,2,Small boat arrivals,Iraq,Middle East,Female,18 to 24,14
-2023-06-30,2023,2,Small boat arrivals,Iraq,Middle East,Female,25 to 39,32
-2023-06-30,2023,2,Small boat arrivals,Iraq,Middle East,Female,40 and over,9
-2023-06-30,2023,2,Small boat arrivals,Iraq,Middle East,Male,17 and under,58
-2023-06-30,2023,2,Small boat arrivals,Iraq,Middle East,Male,18 to 24,56
-2023-06-30,2023,2,Small boat arrivals,Iraq,Middle East,Male,25 to 39,91
-2023-06-30,2023,2,Small boat arrivals,Iraq,Middle East,Male,40 and over,19
-2023-06-30,2023,2,Small boat arrivals,Ivory Coast,Africa Sub-Saharan,Male,18 to 24,2
-2023-06-30,2023,2,Small boat arrivals,Jordan,Middle East,Unknown,40 and over,1
+2023-06-30,2023,2,Small boat arrivals,India,Asia South,Male,17 and under,5
+2023-06-30,2023,2,Small boat arrivals,India,Asia South,Male,18 to 24,82
+2023-06-30,2023,2,Small boat arrivals,India,Asia South,Male,25 to 39,127
+2023-06-30,2023,2,Small boat arrivals,India,Asia South,Male,40 and over,52
+2023-06-30,2023,2,Small boat arrivals,India,Asia South,Male,Unknown,1
+2023-06-30,2023,2,Small boat arrivals,Iran,Middle East,Female,17 and under,24
+2023-06-30,2023,2,Small boat arrivals,Iran,Middle East,Female,18 to 24,18
+2023-06-30,2023,2,Small boat arrivals,Iran,Middle East,Female,25 to 39,67
+2023-06-30,2023,2,Small boat arrivals,Iran,Middle East,Female,40 and over,16
+2023-06-30,2023,2,Small boat arrivals,Iran,Middle East,Male,17 and under,104
+2023-06-30,2023,2,Small boat arrivals,Iran,Middle East,Male,18 to 24,199
+2023-06-30,2023,2,Small boat arrivals,Iran,Middle East,Male,25 to 39,280
+2023-06-30,2023,2,Small boat arrivals,Iran,Middle East,Male,40 and over,60
+2023-06-30,2023,2,Small boat arrivals,Iran,Middle East,Male,Unknown,5
+2023-06-30,2023,2,Small boat arrivals,Iran,Middle East,Unknown,17 and under,1
+2023-06-30,2023,2,Small boat arrivals,Iraq,Middle East,Female,17 and under,59
+2023-06-30,2023,2,Small boat arrivals,Iraq,Middle East,Female,18 to 24,18
+2023-06-30,2023,2,Small boat arrivals,Iraq,Middle East,Female,25 to 39,61
+2023-06-30,2023,2,Small boat arrivals,Iraq,Middle East,Female,40 and over,19
+2023-06-30,2023,2,Small boat arrivals,Iraq,Middle East,Male,17 and under,124
+2023-06-30,2023,2,Small boat arrivals,Iraq,Middle East,Male,18 to 24,144
+2023-06-30,2023,2,Small boat arrivals,Iraq,Middle East,Male,25 to 39,174
+2023-06-30,2023,2,Small boat arrivals,Iraq,Middle East,Male,40 and over,46
+2023-06-30,2023,2,Small boat arrivals,Israel,Middle East,Male,25 to 39,1
+2023-06-30,2023,2,Small boat arrivals,Italy,EU 14,Female,25 to 39,1
+2023-06-30,2023,2,Small boat arrivals,Ivory Coast,Africa Sub-Saharan,Male,18 to 24,1
+2023-06-30,2023,2,Small boat arrivals,Ivory Coast,Africa Sub-Saharan,Male,25 to 39,1
+2023-06-30,2023,2,Small boat arrivals,Jordan,Middle East,Male,25 to 39,1
+2023-06-30,2023,2,Small boat arrivals,Jordan,Middle East,Male,40 and over,1
 2023-06-30,2023,2,Small boat arrivals,Kosovo,Europe Other,Male,40 and over,2
-2023-06-30,2023,2,Small boat arrivals,Kuwait,Middle East,Male,17 and under,2
-2023-06-30,2023,2,Small boat arrivals,Kuwait,Middle East,Male,18 to 24,6
-2023-06-30,2023,2,Small boat arrivals,Kuwait,Middle East,Male,25 to 39,14
-2023-06-30,2023,2,Small boat arrivals,Kuwait,Middle East,Male,40 and over,2
-2023-06-30,2023,2,Small boat arrivals,Kuwait,Middle East,Unknown,17 and under,1
-2023-06-30,2023,2,Small boat arrivals,Kuwait,Middle East,Unknown,25 to 39,1
+2023-06-30,2023,2,Small boat arrivals,Kuwait,Middle East,Female,17 and under,10
+2023-06-30,2023,2,Small boat arrivals,Kuwait,Middle East,Female,25 to 39,4
+2023-06-30,2023,2,Small boat arrivals,Kuwait,Middle East,Female,40 and over,1
+2023-06-30,2023,2,Small boat arrivals,Kuwait,Middle East,Male,17 and under,8
+2023-06-30,2023,2,Small boat arrivals,Kuwait,Middle East,Male,18 to 24,7
+2023-06-30,2023,2,Small boat arrivals,Kuwait,Middle East,Male,25 to 39,19
+2023-06-30,2023,2,Small boat arrivals,Kuwait,Middle East,Male,40 and over,3
+2023-06-30,2023,2,Small boat arrivals,Kyrgyzstan,Asia Central,Male,25 to 39,1
 2023-06-30,2023,2,Small boat arrivals,Lebanon,Middle East,Male,17 and under,1
-2023-06-30,2023,2,Small boat arrivals,Lebanon,Middle East,Male,18 to 24,1
+2023-06-30,2023,2,Small boat arrivals,Lebanon,Middle East,Male,18 to 24,4
 2023-06-30,2023,2,Small boat arrivals,Lebanon,Middle East,Male,25 to 39,1
-2023-06-30,2023,2,Small boat arrivals,Lebanon,Middle East,Male,40 and over,2
-2023-06-30,2023,2,Small boat arrivals,Liberia,Africa Sub-Saharan,Male,17 and under,1
-2023-06-30,2023,2,Small boat arrivals,Libya,Africa North,Female,17 and under,2
-2023-06-30,2023,2,Small boat arrivals,Libya,Africa North,Female,25 to 39,1
+2023-06-30,2023,2,Small boat arrivals,Lebanon,Middle East,Male,40 and over,1
+2023-06-30,2023,2,Small boat arrivals,Liberia,Africa Sub-Saharan,Male,40 and over,1
+2023-06-30,2023,2,Small boat arrivals,Libya,Africa North,Female,17 and under,4
+2023-06-30,2023,2,Small boat arrivals,Libya,Africa North,Female,18 to 24,1
+2023-06-30,2023,2,Small boat arrivals,Libya,Africa North,Female,25 to 39,3
+2023-06-30,2023,2,Small boat arrivals,Libya,Africa North,Female,40 and over,1
 2023-06-30,2023,2,Small boat arrivals,Libya,Africa North,Male,17 and under,5
-2023-06-30,2023,2,Small boat arrivals,Libya,Africa North,Male,18 to 24,5
-2023-06-30,2023,2,Small boat arrivals,Libya,Africa North,Male,25 to 39,14
+2023-06-30,2023,2,Small boat arrivals,Libya,Africa North,Male,18 to 24,12
+2023-06-30,2023,2,Small boat arrivals,Libya,Africa North,Male,25 to 39,29
 2023-06-30,2023,2,Small boat arrivals,Libya,Africa North,Male,40 and over,2
-2023-06-30,2023,2,Small boat arrivals,Libya,Africa North,Unknown,25 to 39,1
-2023-06-30,2023,2,Small boat arrivals,Mali,Africa Sub-Saharan,Male,18 to 24,1
-2023-06-30,2023,2,Small boat arrivals,Morocco,Africa North,Male,25 to 39,2
+2023-06-30,2023,2,Small boat arrivals,Morocco,Africa North,Female,25 to 39,1
+2023-06-30,2023,2,Small boat arrivals,Morocco,Africa North,Male,25 to 39,3
 2023-06-30,2023,2,Small boat arrivals,Morocco,Africa North,Male,40 and over,1
 2023-06-30,2023,2,Small boat arrivals,Nepal,Asia South,Female,18 to 24,1
-2023-06-30,2023,2,Small boat arrivals,Nigeria,Africa Sub-Saharan,Female,40 and over,2
-2023-06-30,2023,2,Small boat arrivals,Nigeria,Africa Sub-Saharan,Male,25 to 39,3
+2023-06-30,2023,2,Small boat arrivals,Niger,Africa Sub-Saharan,Male,17 and under,1
+2023-06-30,2023,2,Small boat arrivals,Niger,Africa Sub-Saharan,Male,25 to 39,1
+2023-06-30,2023,2,Small boat arrivals,Nigeria,Africa Sub-Saharan,Female,40 and over,1
+2023-06-30,2023,2,Small boat arrivals,Nigeria,Africa Sub-Saharan,Male,17 and under,1
+2023-06-30,2023,2,Small boat arrivals,Nigeria,Africa Sub-Saharan,Male,25 to 39,4
 2023-06-30,2023,2,Small boat arrivals,Nigeria,Africa Sub-Saharan,Male,40 and over,1
 2023-06-30,2023,2,Small boat arrivals,North Macedonia,Europe Other,Male,25 to 39,1
-2023-06-30,2023,2,Small boat arrivals,Not currently recorded,Not currently recorded,Not currently recorded,Not currently recorded,3948
-2023-06-30,2023,2,Small boat arrivals,Occupied Palestinian Territories,Middle East,Male,18 to 24,4
-2023-06-30,2023,2,Small boat arrivals,Occupied Palestinian Territories,Middle East,Male,25 to 39,6
-2023-06-30,2023,2,Small boat arrivals,Pakistan,Asia South,Male,18 to 24,5
-2023-06-30,2023,2,Small boat arrivals,Pakistan,Asia South,Male,25 to 39,10
-2023-06-30,2023,2,Small boat arrivals,Pakistan,Asia South,Male,40 and over,1
-2023-06-30,2023,2,Small boat arrivals,Russia,Europe Other,Male,40 and over,1
-2023-06-30,2023,2,Small boat arrivals,Senegal,Africa Sub-Saharan,Male,18 to 24,1
-2023-06-30,2023,2,Small boat arrivals,Senegal,Africa Sub-Saharan,Male,25 to 39,1
+2023-06-30,2023,2,Small boat arrivals,Not currently recorded,Not currently recorded,Not currently recorded,Not currently recorded,396
+2023-06-30,2023,2,Small boat arrivals,Occupied Palestinian Territories,Middle East,Male,18 to 24,3
+2023-06-30,2023,2,Small boat arrivals,Occupied Palestinian Territories,Middle East,Male,25 to 39,7
+2023-06-30,2023,2,Small boat arrivals,Occupied Palestinian Territories,Middle East,Male,40 and over,1
+2023-06-30,2023,2,Small boat arrivals,Other and unknown,Other,Male,18 to 24,1
+2023-06-30,2023,2,Small boat arrivals,Pakistan,Asia South,Male,18 to 24,11
+2023-06-30,2023,2,Small boat arrivals,Pakistan,Asia South,Male,25 to 39,16
+2023-06-30,2023,2,Small boat arrivals,Pakistan,Asia South,Male,40 and over,4
+2023-06-30,2023,2,Small boat arrivals,Saudi Arabia,Middle East,Female,17 and under,1
+2023-06-30,2023,2,Small boat arrivals,Saudi Arabia,Middle East,Female,40 and over,1
+2023-06-30,2023,2,Small boat arrivals,Saudi Arabia,Middle East,Male,18 to 24,1
+2023-06-30,2023,2,Small boat arrivals,Saudi Arabia,Middle East,Male,40 and over,1
+2023-06-30,2023,2,Small boat arrivals,Senegal,Africa Sub-Saharan,Male,18 to 24,2
+2023-06-30,2023,2,Small boat arrivals,Senegal,Africa Sub-Saharan,Male,25 to 39,2
 2023-06-30,2023,2,Small boat arrivals,Senegal,Africa Sub-Saharan,Male,40 and over,1
 2023-06-30,2023,2,Small boat arrivals,Somalia,Africa Sub-Saharan,Female,18 to 24,2
 2023-06-30,2023,2,Small boat arrivals,Somalia,Africa Sub-Saharan,Female,25 to 39,1
-2023-06-30,2023,2,Small boat arrivals,Somalia,Africa Sub-Saharan,Male,17 and under,2
-2023-06-30,2023,2,Small boat arrivals,Somalia,Africa Sub-Saharan,Male,18 to 24,3
-2023-06-30,2023,2,Small boat arrivals,Somalia,Africa Sub-Saharan,Male,25 to 39,5
+2023-06-30,2023,2,Small boat arrivals,Somalia,Africa Sub-Saharan,Male,17 and under,3
+2023-06-30,2023,2,Small boat arrivals,Somalia,Africa Sub-Saharan,Male,18 to 24,8
+2023-06-30,2023,2,Small boat arrivals,Somalia,Africa Sub-Saharan,Male,25 to 39,14
 2023-06-30,2023,2,Small boat arrivals,Somalia,Africa Sub-Saharan,Male,40 and over,1
-2023-06-30,2023,2,Small boat arrivals,South Sudan,Africa Sub-Saharan,Female,17 and under,3
+2023-06-30,2023,2,Small boat arrivals,South Georgia and the South Sandwich Islands (British),Other,Male,25 to 39,1
+2023-06-30,2023,2,Small boat arrivals,South Sudan,Africa Sub-Saharan,Female,17 and under,2
+2023-06-30,2023,2,Small boat arrivals,South Sudan,Africa Sub-Saharan,Female,18 to 24,1
+2023-06-30,2023,2,Small boat arrivals,South Sudan,Africa Sub-Saharan,Female,25 to 39,1
 2023-06-30,2023,2,Small boat arrivals,South Sudan,Africa Sub-Saharan,Female,40 and over,1
-2023-06-30,2023,2,Small boat arrivals,South Sudan,Africa Sub-Saharan,Male,17 and under,6
-2023-06-30,2023,2,Small boat arrivals,South Sudan,Africa Sub-Saharan,Male,18 to 24,7
-2023-06-30,2023,2,Small boat arrivals,South Sudan,Africa Sub-Saharan,Male,25 to 39,3
+2023-06-30,2023,2,Small boat arrivals,South Sudan,Africa Sub-Saharan,Male,17 and under,18
+2023-06-30,2023,2,Small boat arrivals,South Sudan,Africa Sub-Saharan,Male,18 to 24,31
+2023-06-30,2023,2,Small boat arrivals,South Sudan,Africa Sub-Saharan,Male,25 to 39,7
 2023-06-30,2023,2,Small boat arrivals,South Sudan,Africa Sub-Saharan,Male,40 and over,1
-2023-06-30,2023,2,Small boat arrivals,Sri Lanka,Asia South,Female,25 to 39,1
+2023-06-30,2023,2,Small boat arrivals,Sri Lanka,Asia South,Female,25 to 39,2
 2023-06-30,2023,2,Small boat arrivals,Sri Lanka,Asia South,Female,40 and over,2
-2023-06-30,2023,2,Small boat arrivals,Sri Lanka,Asia South,Male,17 and under,1
-2023-06-30,2023,2,Small boat arrivals,Sri Lanka,Asia South,Male,18 to 24,11
-2023-06-30,2023,2,Small boat arrivals,Sri Lanka,Asia South,Male,25 to 39,21
-2023-06-30,2023,2,Small boat arrivals,Sri Lanka,Asia South,Male,40 and over,5
-2023-06-30,2023,2,Small boat arrivals,Sri Lanka,Asia South,Unknown,25 to 39,1
+2023-06-30,2023,2,Small boat arrivals,Sri Lanka,Asia South,Male,17 and under,4
+2023-06-30,2023,2,Small boat arrivals,Sri Lanka,Asia South,Male,18 to 24,16
+2023-06-30,2023,2,Small boat arrivals,Sri Lanka,Asia South,Male,25 to 39,51
+2023-06-30,2023,2,Small boat arrivals,Sri Lanka,Asia South,Male,40 and over,16
 2023-06-30,2023,2,Small boat arrivals,Stateless,Other,Female,18 to 24,1
-2023-06-30,2023,2,Small boat arrivals,Stateless,Other,Male,17 and under,2
-2023-06-30,2023,2,Small boat arrivals,Stateless,Other,Male,18 to 24,2
-2023-06-30,2023,2,Small boat arrivals,Stateless,Other,Male,25 to 39,2
-2023-06-30,2023,2,Small boat arrivals,Stateless,Other,Male,40 and over,1
-2023-06-30,2023,2,Small boat arrivals,Sudan,Africa North,Female,17 and under,6
+2023-06-30,2023,2,Small boat arrivals,Stateless,Other,Female,40 and over,2
+2023-06-30,2023,2,Small boat arrivals,Stateless,Other,Male,17 and under,5
+2023-06-30,2023,2,Small boat arrivals,Stateless,Other,Male,18 to 24,4
+2023-06-30,2023,2,Small boat arrivals,Stateless,Other,Male,25 to 39,10
+2023-06-30,2023,2,Small boat arrivals,Stateless,Other,Male,40 and over,4
+2023-06-30,2023,2,Small boat arrivals,Sudan,Africa North,Female,17 and under,9
 2023-06-30,2023,2,Small boat arrivals,Sudan,Africa North,Female,18 to 24,2
-2023-06-30,2023,2,Small boat arrivals,Sudan,Africa North,Female,25 to 39,6
-2023-06-30,2023,2,Small boat arrivals,Sudan,Africa North,Male,17 and under,49
-2023-06-30,2023,2,Small boat arrivals,Sudan,Africa North,Male,18 to 24,89
-2023-06-30,2023,2,Small boat arrivals,Sudan,Africa North,Male,25 to 39,83
-2023-06-30,2023,2,Small boat arrivals,Sudan,Africa North,Male,40 and over,4
-2023-06-30,2023,2,Small boat arrivals,Sudan,Africa North,Unknown,17 and under,1
-2023-06-30,2023,2,Small boat arrivals,Syria,Middle East,Female,17 and under,6
-2023-06-30,2023,2,Small boat arrivals,Syria,Middle East,Female,18 to 24,9
-2023-06-30,2023,2,Small boat arrivals,Syria,Middle East,Female,25 to 39,8
-2023-06-30,2023,2,Small boat arrivals,Syria,Middle East,Female,40 and over,5
-2023-06-30,2023,2,Small boat arrivals,Syria,Middle East,Male,17 and under,39
-2023-06-30,2023,2,Small boat arrivals,Syria,Middle East,Male,18 to 24,142
-2023-06-30,2023,2,Small boat arrivals,Syria,Middle East,Male,25 to 39,97
-2023-06-30,2023,2,Small boat arrivals,Syria,Middle East,Male,40 and over,12
-2023-06-30,2023,2,Small boat arrivals,Syria,Middle East,Unknown,18 to 24,1
-2023-06-30,2023,2,Small boat arrivals,Tanzania,Africa Sub-Saharan,Male,25 to 39,4
+2023-06-30,2023,2,Small boat arrivals,Sudan,Africa North,Female,25 to 39,13
+2023-06-30,2023,2,Small boat arrivals,Sudan,Africa North,Female,40 and over,1
+2023-06-30,2023,2,Small boat arrivals,Sudan,Africa North,Male,17 and under,68
+2023-06-30,2023,2,Small boat arrivals,Sudan,Africa North,Male,18 to 24,180
+2023-06-30,2023,2,Small boat arrivals,Sudan,Africa North,Male,25 to 39,146
+2023-06-30,2023,2,Small boat arrivals,Sudan,Africa North,Male,40 and over,12
+2023-06-30,2023,2,Small boat arrivals,Sudan,Africa North,Male,Unknown,3
+2023-06-30,2023,2,Small boat arrivals,Syria,Middle East,Female,17 and under,12
+2023-06-30,2023,2,Small boat arrivals,Syria,Middle East,Female,18 to 24,11
+2023-06-30,2023,2,Small boat arrivals,Syria,Middle East,Female,25 to 39,14
+2023-06-30,2023,2,Small boat arrivals,Syria,Middle East,Female,40 and over,9
+2023-06-30,2023,2,Small boat arrivals,Syria,Middle East,Male,17 and under,77
+2023-06-30,2023,2,Small boat arrivals,Syria,Middle East,Male,18 to 24,252
+2023-06-30,2023,2,Small boat arrivals,Syria,Middle East,Male,25 to 39,173
+2023-06-30,2023,2,Small boat arrivals,Syria,Middle East,Male,40 and over,26
+2023-06-30,2023,2,Small boat arrivals,Syria,Middle East,Male,Unknown,2
+2023-06-30,2023,2,Small boat arrivals,Tajikistan,Asia Central,Female,17 and under,1
+2023-06-30,2023,2,Small boat arrivals,Tajikistan,Asia Central,Female,25 to 39,1
+2023-06-30,2023,2,Small boat arrivals,Tajikistan,Asia Central,Male,17 and under,2
+2023-06-30,2023,2,Small boat arrivals,Tajikistan,Asia Central,Male,25 to 39,1
+2023-06-30,2023,2,Small boat arrivals,Tanzania,Africa Sub-Saharan,Male,25 to 39,3
+2023-06-30,2023,2,Small boat arrivals,Tanzania,Africa Sub-Saharan,Male,Unknown,1
+2023-06-30,2023,2,Small boat arrivals,Thailand,Asia South East,Female,18 to 24,1
 2023-06-30,2023,2,Small boat arrivals,Togo,Africa Sub-Saharan,Male,25 to 39,1
-2023-06-30,2023,2,Small boat arrivals,Tunisia,Africa North,Male,18 to 24,2
-2023-06-30,2023,2,Small boat arrivals,Tunisia,Africa North,Male,25 to 39,4
-2023-06-30,2023,2,Small boat arrivals,Turkey,Europe Other,Female,17 and under,13
-2023-06-30,2023,2,Small boat arrivals,Turkey,Europe Other,Female,18 to 24,10
-2023-06-30,2023,2,Small boat arrivals,Turkey,Europe Other,Female,25 to 39,19
-2023-06-30,2023,2,Small boat arrivals,Turkey,Europe Other,Female,40 and over,7
-2023-06-30,2023,2,Small boat arrivals,Turkey,Europe Other,Male,17 and under,26
-2023-06-30,2023,2,Small boat arrivals,Turkey,Europe Other,Male,18 to 24,136
-2023-06-30,2023,2,Small boat arrivals,Turkey,Europe Other,Male,25 to 39,119
-2023-06-30,2023,2,Small boat arrivals,Turkey,Europe Other,Male,40 and over,27
-2023-06-30,2023,2,Small boat arrivals,Turkey,Europe Other,Unknown,25 to 39,1
-2023-06-30,2023,2,Small boat arrivals,Vietnam,Asia South East,Female,17 and under,3
-2023-06-30,2023,2,Small boat arrivals,Vietnam,Asia South East,Female,18 to 24,39
-2023-06-30,2023,2,Small boat arrivals,Vietnam,Asia South East,Female,25 to 39,30
-2023-06-30,2023,2,Small boat arrivals,Vietnam,Asia South East,Female,40 and over,3
-2023-06-30,2023,2,Small boat arrivals,Vietnam,Asia South East,Male,17 and under,10
-2023-06-30,2023,2,Small boat arrivals,Vietnam,Asia South East,Male,18 to 24,51
-2023-06-30,2023,2,Small boat arrivals,Vietnam,Asia South East,Male,25 to 39,82
-2023-06-30,2023,2,Small boat arrivals,Vietnam,Asia South East,Male,40 and over,13
-2023-06-30,2023,2,Small boat arrivals,Vietnam,Asia South East,Unknown,18 to 24,1
-2023-06-30,2023,2,Small boat arrivals,Yemen,Middle East,Male,17 and under,3
-2023-06-30,2023,2,Small boat arrivals,Yemen,Middle East,Male,18 to 24,5
-2023-06-30,2023,2,Small boat arrivals,Yemen,Middle East,Male,25 to 39,11
-2023-06-30,2023,2,Small boat arrivals,Yemen,Middle East,Male,40 and over,2
+2023-06-30,2023,2,Small boat arrivals,Tunisia,Africa North,Female,17 and under,1
+2023-06-30,2023,2,Small boat arrivals,Tunisia,Africa North,Female,25 to 39,1
+2023-06-30,2023,2,Small boat arrivals,Tunisia,Africa North,Male,17 and under,3
+2023-06-30,2023,2,Small boat arrivals,Tunisia,Africa North,Male,18 to 24,5
+2023-06-30,2023,2,Small boat arrivals,Tunisia,Africa North,Male,25 to 39,9
+2023-06-30,2023,2,Small boat arrivals,Turkey,Europe Other,Female,17 and under,41
+2023-06-30,2023,2,Small boat arrivals,Turkey,Europe Other,Female,18 to 24,27
+2023-06-30,2023,2,Small boat arrivals,Turkey,Europe Other,Female,25 to 39,37
+2023-06-30,2023,2,Small boat arrivals,Turkey,Europe Other,Female,40 and over,22
+2023-06-30,2023,2,Small boat arrivals,Turkey,Europe Other,Female,Unknown,1
+2023-06-30,2023,2,Small boat arrivals,Turkey,Europe Other,Male,17 and under,107
+2023-06-30,2023,2,Small boat arrivals,Turkey,Europe Other,Male,18 to 24,327
+2023-06-30,2023,2,Small boat arrivals,Turkey,Europe Other,Male,25 to 39,287
+2023-06-30,2023,2,Small boat arrivals,Turkey,Europe Other,Male,40 and over,80
+2023-06-30,2023,2,Small boat arrivals,Turkey,Europe Other,Male,Unknown,1
+2023-06-30,2023,2,Small boat arrivals,Turkey,Europe Other,Unknown,17 and under,1
+2023-06-30,2023,2,Small boat arrivals,Turkey,Europe Other,Unknown,18 to 24,1
+2023-06-30,2023,2,Small boat arrivals,Vietnam,Asia South East,Female,17 and under,8
+2023-06-30,2023,2,Small boat arrivals,Vietnam,Asia South East,Female,18 to 24,72
+2023-06-30,2023,2,Small boat arrivals,Vietnam,Asia South East,Female,25 to 39,58
+2023-06-30,2023,2,Small boat arrivals,Vietnam,Asia South East,Female,40 and over,7
+2023-06-30,2023,2,Small boat arrivals,Vietnam,Asia South East,Male,17 and under,27
+2023-06-30,2023,2,Small boat arrivals,Vietnam,Asia South East,Male,18 to 24,110
+2023-06-30,2023,2,Small boat arrivals,Vietnam,Asia South East,Male,25 to 39,155
+2023-06-30,2023,2,Small boat arrivals,Vietnam,Asia South East,Male,40 and over,35
+2023-06-30,2023,2,Small boat arrivals,Western Sahara,Africa North,Male,40 and over,1
+2023-06-30,2023,2,Small boat arrivals,Yemen,Middle East,Female,40 and over,1
+2023-06-30,2023,2,Small boat arrivals,Yemen,Middle East,Male,17 and under,5
+2023-06-30,2023,2,Small boat arrivals,Yemen,Middle East,Male,18 to 24,9
+2023-06-30,2023,2,Small boat arrivals,Yemen,Middle East,Male,25 to 39,14
+2023-06-30,2023,2,Small boat arrivals,Yemen,Middle East,Male,40 and over,3
+2023-09-30,2023,3,Inadequately documented air arrivals,Afghanistan,Asia Central,Female,17 and under,6
+2023-09-30,2023,3,Inadequately documented air arrivals,Afghanistan,Asia Central,Female,18 to 24,2
+2023-09-30,2023,3,Inadequately documented air arrivals,Afghanistan,Asia Central,Female,25 to 39,11
+2023-09-30,2023,3,Inadequately documented air arrivals,Afghanistan,Asia Central,Female,40 and over,18
+2023-09-30,2023,3,Inadequately documented air arrivals,Afghanistan,Asia Central,Male,17 and under,12
+2023-09-30,2023,3,Inadequately documented air arrivals,Afghanistan,Asia Central,Male,18 to 24,4
+2023-09-30,2023,3,Inadequately documented air arrivals,Afghanistan,Asia Central,Male,25 to 39,11
+2023-09-30,2023,3,Inadequately documented air arrivals,Afghanistan,Asia Central,Male,40 and over,13
+2023-09-30,2023,3,Inadequately documented air arrivals,Albania,Europe Other,Female,17 and under,4
+2023-09-30,2023,3,Inadequately documented air arrivals,Albania,Europe Other,Female,18 to 24,6
+2023-09-30,2023,3,Inadequately documented air arrivals,Albania,Europe Other,Female,25 to 39,7
+2023-09-30,2023,3,Inadequately documented air arrivals,Albania,Europe Other,Female,40 and over,2
+2023-09-30,2023,3,Inadequately documented air arrivals,Albania,Europe Other,Male,17 and under,5
+2023-09-30,2023,3,Inadequately documented air arrivals,Albania,Europe Other,Male,18 to 24,9
+2023-09-30,2023,3,Inadequately documented air arrivals,Albania,Europe Other,Male,25 to 39,13
+2023-09-30,2023,3,Inadequately documented air arrivals,Albania,Europe Other,Male,40 and over,4
+2023-09-30,2023,3,Inadequately documented air arrivals,Algeria,Africa North,Male,25 to 39,1
+2023-09-30,2023,3,Inadequately documented air arrivals,Azerbaijan,Europe Other,Female,25 to 39,1
+2023-09-30,2023,3,Inadequately documented air arrivals,Azerbaijan,Europe Other,Male,18 to 24,1
+2023-09-30,2023,3,Inadequately documented air arrivals,Azerbaijan,Europe Other,Male,25 to 39,1
+2023-09-30,2023,3,Inadequately documented air arrivals,Brazil,America Central and South,Male,18 to 24,1
+2023-09-30,2023,3,Inadequately documented air arrivals,Brazil,America Central and South,Male,40 and over,1
+2023-09-30,2023,3,Inadequately documented air arrivals,Bulgaria,EU 2,Male,40 and over,1
+2023-09-30,2023,3,Inadequately documented air arrivals,Chad,Africa Sub-Saharan,Female,25 to 39,1
+2023-09-30,2023,3,Inadequately documented air arrivals,Chad,Africa Sub-Saharan,Male,17 and under,2
+2023-09-30,2023,3,Inadequately documented air arrivals,China,Asia East,Female,18 to 24,6
+2023-09-30,2023,3,Inadequately documented air arrivals,China,Asia East,Female,25 to 39,4
+2023-09-30,2023,3,Inadequately documented air arrivals,China,Asia East,Female,40 and over,8
+2023-09-30,2023,3,Inadequately documented air arrivals,China,Asia East,Male,18 to 24,7
+2023-09-30,2023,3,Inadequately documented air arrivals,China,Asia East,Male,25 to 39,22
+2023-09-30,2023,3,Inadequately documented air arrivals,China,Asia East,Male,40 and over,20
+2023-09-30,2023,3,Inadequately documented air arrivals,Congo (Democratic Republic),Africa Sub-Saharan,Female,17 and under,1
+2023-09-30,2023,3,Inadequately documented air arrivals,Congo (Democratic Republic),Africa Sub-Saharan,Female,18 to 24,1
+2023-09-30,2023,3,Inadequately documented air arrivals,Congo (Democratic Republic),Africa Sub-Saharan,Male,18 to 24,1
+2023-09-30,2023,3,Inadequately documented air arrivals,Egypt,Africa North,Male,17 and under,1
+2023-09-30,2023,3,Inadequately documented air arrivals,Egypt,Africa North,Male,40 and over,1
+2023-09-30,2023,3,Inadequately documented air arrivals,Eritrea,Africa Sub-Saharan,Female,17 and under,1
+2023-09-30,2023,3,Inadequately documented air arrivals,Eritrea,Africa Sub-Saharan,Female,25 to 39,1
+2023-09-30,2023,3,Inadequately documented air arrivals,Eritrea,Africa Sub-Saharan,Female,40 and over,3
+2023-09-30,2023,3,Inadequately documented air arrivals,Eritrea,Africa Sub-Saharan,Male,25 to 39,2
+2023-09-30,2023,3,Inadequately documented air arrivals,Eritrea,Africa Sub-Saharan,Male,40 and over,1
+2023-09-30,2023,3,Inadequately documented air arrivals,Ethiopia,Africa Sub-Saharan,Female,25 to 39,1
+2023-09-30,2023,3,Inadequately documented air arrivals,Ethiopia,Africa Sub-Saharan,Male,25 to 39,1
+2023-09-30,2023,3,Inadequately documented air arrivals,France,EU 14,Female,40 and over,1
+2023-09-30,2023,3,Inadequately documented air arrivals,Georgia,Europe Other,Female,17 and under,9
+2023-09-30,2023,3,Inadequately documented air arrivals,Georgia,Europe Other,Female,18 to 24,7
+2023-09-30,2023,3,Inadequately documented air arrivals,Georgia,Europe Other,Female,25 to 39,19
+2023-09-30,2023,3,Inadequately documented air arrivals,Georgia,Europe Other,Female,40 and over,8
+2023-09-30,2023,3,Inadequately documented air arrivals,Georgia,Europe Other,Male,17 and under,16
+2023-09-30,2023,3,Inadequately documented air arrivals,Georgia,Europe Other,Male,18 to 24,15
+2023-09-30,2023,3,Inadequately documented air arrivals,Georgia,Europe Other,Male,25 to 39,30
+2023-09-30,2023,3,Inadequately documented air arrivals,Georgia,Europe Other,Male,40 and over,15
+2023-09-30,2023,3,Inadequately documented air arrivals,Ghana,Africa Sub-Saharan,Male,40 and over,1
+2023-09-30,2023,3,Inadequately documented air arrivals,Guinea-Bissau,Africa Sub-Saharan,Male,25 to 39,1
+2023-09-30,2023,3,Inadequately documented air arrivals,India,Asia South,Female,25 to 39,1
+2023-09-30,2023,3,Inadequately documented air arrivals,India,Asia South,Male,17 and under,1
+2023-09-30,2023,3,Inadequately documented air arrivals,India,Asia South,Male,18 to 24,13
+2023-09-30,2023,3,Inadequately documented air arrivals,India,Asia South,Male,25 to 39,15
+2023-09-30,2023,3,Inadequately documented air arrivals,India,Asia South,Male,40 and over,7
+2023-09-30,2023,3,Inadequately documented air arrivals,Iran,Middle East,Female,17 and under,7
+2023-09-30,2023,3,Inadequately documented air arrivals,Iran,Middle East,Female,18 to 24,10
+2023-09-30,2023,3,Inadequately documented air arrivals,Iran,Middle East,Female,25 to 39,39
+2023-09-30,2023,3,Inadequately documented air arrivals,Iran,Middle East,Female,40 and over,22
+2023-09-30,2023,3,Inadequately documented air arrivals,Iran,Middle East,Male,17 and under,15
+2023-09-30,2023,3,Inadequately documented air arrivals,Iran,Middle East,Male,18 to 24,13
+2023-09-30,2023,3,Inadequately documented air arrivals,Iran,Middle East,Male,25 to 39,55
+2023-09-30,2023,3,Inadequately documented air arrivals,Iran,Middle East,Male,40 and over,23
+2023-09-30,2023,3,Inadequately documented air arrivals,Iran,Middle East,Unknown,40 and over,1
+2023-09-30,2023,3,Inadequately documented air arrivals,Iraq,Middle East,Female,18 to 24,1
+2023-09-30,2023,3,Inadequately documented air arrivals,Iraq,Middle East,Female,25 to 39,3
+2023-09-30,2023,3,Inadequately documented air arrivals,Iraq,Middle East,Female,40 and over,1
+2023-09-30,2023,3,Inadequately documented air arrivals,Iraq,Middle East,Male,17 and under,1
+2023-09-30,2023,3,Inadequately documented air arrivals,Iraq,Middle East,Male,18 to 24,1
+2023-09-30,2023,3,Inadequately documented air arrivals,Iraq,Middle East,Male,25 to 39,2
+2023-09-30,2023,3,Inadequately documented air arrivals,Iraq,Middle East,Male,40 and over,2
+2023-09-30,2023,3,Inadequately documented air arrivals,Italy,EU 14,Male,40 and over,1
+2023-09-30,2023,3,Inadequately documented air arrivals,Jordan,Middle East,Female,17 and under,1
+2023-09-30,2023,3,Inadequately documented air arrivals,Jordan,Middle East,Female,25 to 39,1
+2023-09-30,2023,3,Inadequately documented air arrivals,Jordan,Middle East,Male,17 and under,1
+2023-09-30,2023,3,Inadequately documented air arrivals,Jordan,Middle East,Male,25 to 39,2
+2023-09-30,2023,3,Inadequately documented air arrivals,Kazakhstan,Asia Central,Male,18 to 24,1
+2023-09-30,2023,3,Inadequately documented air arrivals,Kuwait,Middle East,Female,17 and under,2
+2023-09-30,2023,3,Inadequately documented air arrivals,Kuwait,Middle East,Female,25 to 39,2
+2023-09-30,2023,3,Inadequately documented air arrivals,Kuwait,Middle East,Female,40 and over,2
+2023-09-30,2023,3,Inadequately documented air arrivals,Kuwait,Middle East,Male,17 and under,1
+2023-09-30,2023,3,Inadequately documented air arrivals,Kuwait,Middle East,Male,18 to 24,1
+2023-09-30,2023,3,Inadequately documented air arrivals,Kuwait,Middle East,Male,25 to 39,6
+2023-09-30,2023,3,Inadequately documented air arrivals,Kuwait,Middle East,Male,40 and over,3
+2023-09-30,2023,3,Inadequately documented air arrivals,Libya,Africa North,Male,25 to 39,1
+2023-09-30,2023,3,Inadequately documented air arrivals,Mexico,America Central and South,Male,40 and over,1
+2023-09-30,2023,3,Inadequately documented air arrivals,Nepal,Asia South,Male,25 to 39,1
+2023-09-30,2023,3,Inadequately documented air arrivals,Nigeria,Africa Sub-Saharan,Female,25 to 39,2
+2023-09-30,2023,3,Inadequately documented air arrivals,Nigeria,Africa Sub-Saharan,Female,40 and over,1
+2023-09-30,2023,3,Inadequately documented air arrivals,Nigeria,Africa Sub-Saharan,Male,17 and under,2
+2023-09-30,2023,3,Inadequately documented air arrivals,Nigeria,Africa Sub-Saharan,Male,40 and over,3
+2023-09-30,2023,3,Inadequately documented air arrivals,Occupied Palestinian Territories,Middle East,Male,18 to 24,2
+2023-09-30,2023,3,Inadequately documented air arrivals,Occupied Palestinian Territories,Middle East,Male,25 to 39,1
+2023-09-30,2023,3,Inadequately documented air arrivals,Other and unknown,Other,Female,25 to 39,1
+2023-09-30,2023,3,Inadequately documented air arrivals,Other and unknown,Other,Male,40 and over,2
+2023-09-30,2023,3,Inadequately documented air arrivals,Pakistan,Asia South,Male,18 to 24,2
+2023-09-30,2023,3,Inadequately documented air arrivals,Pakistan,Asia South,Male,25 to 39,2
+2023-09-30,2023,3,Inadequately documented air arrivals,Pakistan,Asia South,Male,40 and over,2
+2023-09-30,2023,3,Inadequately documented air arrivals,Romania,EU 2,Male,25 to 39,1
+2023-09-30,2023,3,Inadequately documented air arrivals,Russia,Europe Other,Female,25 to 39,1
+2023-09-30,2023,3,Inadequately documented air arrivals,Russia,Europe Other,Female,40 and over,1
+2023-09-30,2023,3,Inadequately documented air arrivals,Russia,Europe Other,Male,17 and under,1
+2023-09-30,2023,3,Inadequately documented air arrivals,Russia,Europe Other,Male,18 to 24,1
+2023-09-30,2023,3,Inadequately documented air arrivals,Russia,Europe Other,Male,25 to 39,3
+2023-09-30,2023,3,Inadequately documented air arrivals,Russia,Europe Other,Male,40 and over,3
+2023-09-30,2023,3,Inadequately documented air arrivals,Somalia,Africa Sub-Saharan,Female,17 and under,3
+2023-09-30,2023,3,Inadequately documented air arrivals,Somalia,Africa Sub-Saharan,Female,18 to 24,1
+2023-09-30,2023,3,Inadequately documented air arrivals,Somalia,Africa Sub-Saharan,Female,25 to 39,4
+2023-09-30,2023,3,Inadequately documented air arrivals,Somalia,Africa Sub-Saharan,Female,40 and over,1
+2023-09-30,2023,3,Inadequately documented air arrivals,Somalia,Africa Sub-Saharan,Male,17 and under,1
+2023-09-30,2023,3,Inadequately documented air arrivals,Somalia,Africa Sub-Saharan,Male,18 to 24,2
+2023-09-30,2023,3,Inadequately documented air arrivals,Somalia,Africa Sub-Saharan,Male,25 to 39,1
+2023-09-30,2023,3,Inadequately documented air arrivals,Sri Lanka,Asia South,Female,18 to 24,2
+2023-09-30,2023,3,Inadequately documented air arrivals,Sri Lanka,Asia South,Female,25 to 39,3
+2023-09-30,2023,3,Inadequately documented air arrivals,Sri Lanka,Asia South,Female,40 and over,2
+2023-09-30,2023,3,Inadequately documented air arrivals,Sri Lanka,Asia South,Male,17 and under,3
+2023-09-30,2023,3,Inadequately documented air arrivals,Sri Lanka,Asia South,Male,18 to 24,12
+2023-09-30,2023,3,Inadequately documented air arrivals,Sri Lanka,Asia South,Male,25 to 39,23
+2023-09-30,2023,3,Inadequately documented air arrivals,Sri Lanka,Asia South,Male,40 and over,4
+2023-09-30,2023,3,Inadequately documented air arrivals,Stateless,Other,Female,17 and under,1
+2023-09-30,2023,3,Inadequately documented air arrivals,Stateless,Other,Female,18 to 24,1
+2023-09-30,2023,3,Inadequately documented air arrivals,Stateless,Other,Female,25 to 39,3
+2023-09-30,2023,3,Inadequately documented air arrivals,Stateless,Other,Male,17 and under,4
+2023-09-30,2023,3,Inadequately documented air arrivals,Stateless,Other,Male,18 to 24,3
+2023-09-30,2023,3,Inadequately documented air arrivals,Stateless,Other,Male,25 to 39,8
+2023-09-30,2023,3,Inadequately documented air arrivals,Stateless,Other,Male,40 and over,1
+2023-09-30,2023,3,Inadequately documented air arrivals,Sudan,Africa North,Female,17 and under,2
+2023-09-30,2023,3,Inadequately documented air arrivals,Sudan,Africa North,Female,18 to 24,1
+2023-09-30,2023,3,Inadequately documented air arrivals,Sudan,Africa North,Female,25 to 39,2
+2023-09-30,2023,3,Inadequately documented air arrivals,Sudan,Africa North,Female,40 and over,1
+2023-09-30,2023,3,Inadequately documented air arrivals,Sudan,Africa North,Male,17 and under,6
+2023-09-30,2023,3,Inadequately documented air arrivals,Sudan,Africa North,Male,18 to 24,1
+2023-09-30,2023,3,Inadequately documented air arrivals,Sudan,Africa North,Male,25 to 39,5
+2023-09-30,2023,3,Inadequately documented air arrivals,Sudan,Africa North,Male,40 and over,1
+2023-09-30,2023,3,Inadequately documented air arrivals,Syria,Middle East,Female,17 and under,1
+2023-09-30,2023,3,Inadequately documented air arrivals,Syria,Middle East,Female,18 to 24,1
+2023-09-30,2023,3,Inadequately documented air arrivals,Syria,Middle East,Female,25 to 39,1
+2023-09-30,2023,3,Inadequately documented air arrivals,Syria,Middle East,Female,40 and over,2
+2023-09-30,2023,3,Inadequately documented air arrivals,Syria,Middle East,Male,17 and under,1
+2023-09-30,2023,3,Inadequately documented air arrivals,Syria,Middle East,Male,18 to 24,6
+2023-09-30,2023,3,Inadequately documented air arrivals,Syria,Middle East,Male,25 to 39,7
+2023-09-30,2023,3,Inadequately documented air arrivals,Syria,Middle East,Male,40 and over,1
+2023-09-30,2023,3,Inadequately documented air arrivals,Turkey,Europe Other,Female,17 and under,8
+2023-09-30,2023,3,Inadequately documented air arrivals,Turkey,Europe Other,Female,18 to 24,4
+2023-09-30,2023,3,Inadequately documented air arrivals,Turkey,Europe Other,Female,25 to 39,8
+2023-09-30,2023,3,Inadequately documented air arrivals,Turkey,Europe Other,Female,40 and over,2
+2023-09-30,2023,3,Inadequately documented air arrivals,Turkey,Europe Other,Male,17 and under,6
+2023-09-30,2023,3,Inadequately documented air arrivals,Turkey,Europe Other,Male,18 to 24,23
+2023-09-30,2023,3,Inadequately documented air arrivals,Turkey,Europe Other,Male,25 to 39,19
+2023-09-30,2023,3,Inadequately documented air arrivals,Turkey,Europe Other,Male,40 and over,6
+2023-09-30,2023,3,Inadequately documented air arrivals,Ukraine,Europe Other,Female,17 and under,1
+2023-09-30,2023,3,Inadequately documented air arrivals,Ukraine,Europe Other,Female,25 to 39,1
+2023-09-30,2023,3,Inadequately documented air arrivals,Ukraine,Europe Other,Male,17 and under,1
+2023-09-30,2023,3,Inadequately documented air arrivals,Ukraine,Europe Other,Male,18 to 24,1
+2023-09-30,2023,3,Inadequately documented air arrivals,United Arab Emirates,Middle East,Female,40 and over,1
+2023-09-30,2023,3,Inadequately documented air arrivals,United Arab Emirates,Middle East,Male,17 and under,1
+2023-09-30,2023,3,Inadequately documented air arrivals,United Arab Emirates,Middle East,Male,40 and over,1
+2023-09-30,2023,3,Inadequately documented air arrivals,United States,America North,Male,18 to 24,1
+2023-09-30,2023,3,Inadequately documented air arrivals,Venezuela,America Central and South,Male,40 and over,1
+2023-09-30,2023,3,Inadequately documented air arrivals,Yemen,Middle East,Female,25 to 39,2
+2023-09-30,2023,3,Inadequately documented air arrivals,Yemen,Middle East,Male,17 and under,2
+2023-09-30,2023,3,Inadequately documented air arrivals,Yemen,Middle East,Male,18 to 24,1
+2023-09-30,2023,3,Inadequately documented air arrivals,Yemen,Middle East,Male,25 to 39,4
+2023-09-30,2023,3,Recorded detections at UK ports,Afghanistan,Asia Central,Male,17 and under,1
+2023-09-30,2023,3,Recorded detections at UK ports,Afghanistan,Asia Central,Male,18 to 24,1
+2023-09-30,2023,3,Recorded detections at UK ports,Afghanistan,Asia Central,Male,25 to 39,1
+2023-09-30,2023,3,Recorded detections at UK ports,Albania,Europe Other,Female,25 to 39,1
+2023-09-30,2023,3,Recorded detections at UK ports,Albania,Europe Other,Female,Unknown,1
+2023-09-30,2023,3,Recorded detections at UK ports,Albania,Europe Other,Male,17 and under,1
+2023-09-30,2023,3,Recorded detections at UK ports,Albania,Europe Other,Male,18 to 24,5
+2023-09-30,2023,3,Recorded detections at UK ports,Albania,Europe Other,Male,25 to 39,11
+2023-09-30,2023,3,Recorded detections at UK ports,Albania,Europe Other,Male,40 and over,3
+2023-09-30,2023,3,Recorded detections at UK ports,Algeria,Africa North,Male,18 to 24,3
+2023-09-30,2023,3,Recorded detections at UK ports,Algeria,Africa North,Male,25 to 39,11
+2023-09-30,2023,3,Recorded detections at UK ports,Andorra,Europe Other,Male,18 to 24,1
+2023-09-30,2023,3,Recorded detections at UK ports,Bangladesh,Asia South,Female,25 to 39,1
+2023-09-30,2023,3,Recorded detections at UK ports,Bangladesh,Asia South,Male,25 to 39,2
+2023-09-30,2023,3,Recorded detections at UK ports,Bangladesh,Asia South,Male,40 and over,1
+2023-09-30,2023,3,Recorded detections at UK ports,Bosnia and Herzegovina,Europe Other,Male,40 and over,1
+2023-09-30,2023,3,Recorded detections at UK ports,Central African Republic,Africa Sub-Saharan,Male,18 to 24,1
+2023-09-30,2023,3,Recorded detections at UK ports,Eritrea,Africa Sub-Saharan,Male,17 and under,6
+2023-09-30,2023,3,Recorded detections at UK ports,Eritrea,Africa Sub-Saharan,Male,18 to 24,5
+2023-09-30,2023,3,Recorded detections at UK ports,Ethiopia,Africa Sub-Saharan,Male,25 to 39,1
+2023-09-30,2023,3,Recorded detections at UK ports,Ethiopia,Africa Sub-Saharan,Male,40 and over,1
+2023-09-30,2023,3,Recorded detections at UK ports,India,Asia South,Female,25 to 39,1
+2023-09-30,2023,3,Recorded detections at UK ports,India,Asia South,Female,40 and over,1
+2023-09-30,2023,3,Recorded detections at UK ports,India,Asia South,Male,25 to 39,2
+2023-09-30,2023,3,Recorded detections at UK ports,India,Asia South,Male,40 and over,1
+2023-09-30,2023,3,Recorded detections at UK ports,Iran,Middle East,Male,17 and under,1
+2023-09-30,2023,3,Recorded detections at UK ports,Iran,Middle East,Male,18 to 24,1
+2023-09-30,2023,3,Recorded detections at UK ports,Iran,Middle East,Male,25 to 39,1
+2023-09-30,2023,3,Recorded detections at UK ports,Iraq,Middle East,Male,25 to 39,1
+2023-09-30,2023,3,Recorded detections at UK ports,Mauritania,Africa North,Male,25 to 39,2
+2023-09-30,2023,3,Recorded detections at UK ports,Morocco,Africa North,Male,18 to 24,3
+2023-09-30,2023,3,Recorded detections at UK ports,Morocco,Africa North,Male,25 to 39,6
+2023-09-30,2023,3,Recorded detections at UK ports,Morocco,Africa North,Male,40 and over,1
+2023-09-30,2023,3,Recorded detections at UK ports,Other and unknown,Other,Male,17 and under,1
+2023-09-30,2023,3,Recorded detections at UK ports,Pakistan,Asia South,Male,25 to 39,2
+2023-09-30,2023,3,Recorded detections at UK ports,Sri Lanka,Asia South,Male,25 to 39,1
+2023-09-30,2023,3,Recorded detections at UK ports,Sudan,Africa North,Male,17 and under,6
+2023-09-30,2023,3,Recorded detections at UK ports,Sudan,Africa North,Male,18 to 24,1
+2023-09-30,2023,3,Recorded detections at UK ports,Tunisia,Africa North,Female,25 to 39,1
+2023-09-30,2023,3,Recorded detections at UK ports,Tunisia,Africa North,Male,17 and under,1
+2023-09-30,2023,3,Recorded detections at UK ports,Tunisia,Africa North,Male,25 to 39,1
+2023-09-30,2023,3,Recorded detections at UK ports,Tunisia,Africa North,Male,40 and over,1
+2023-09-30,2023,3,Recorded detections in the UK,Afghanistan,Asia Central,Female,17 and under,4
+2023-09-30,2023,3,Recorded detections in the UK,Afghanistan,Asia Central,Female,40 and over,1
+2023-09-30,2023,3,Recorded detections in the UK,Afghanistan,Asia Central,Male,17 and under,6
+2023-09-30,2023,3,Recorded detections in the UK,Afghanistan,Asia Central,Male,18 to 24,9
+2023-09-30,2023,3,Recorded detections in the UK,Afghanistan,Asia Central,Male,25 to 39,10
+2023-09-30,2023,3,Recorded detections in the UK,Afghanistan,Asia Central,Male,40 and over,3
+2023-09-30,2023,3,Recorded detections in the UK,Afghanistan,Asia Central,Male,Unknown,6
+2023-09-30,2023,3,Recorded detections in the UK,Afghanistan,Asia Central,Unknown,17 and under,1
+2023-09-30,2023,3,Recorded detections in the UK,Albania,Europe Other,Female,17 and under,1
+2023-09-30,2023,3,Recorded detections in the UK,Albania,Europe Other,Female,25 to 39,1
+2023-09-30,2023,3,Recorded detections in the UK,Albania,Europe Other,Male,17 and under,1
+2023-09-30,2023,3,Recorded detections in the UK,Albania,Europe Other,Male,18 to 24,1
+2023-09-30,2023,3,Recorded detections in the UK,Albania,Europe Other,Male,25 to 39,10
+2023-09-30,2023,3,Recorded detections in the UK,Albania,Europe Other,Male,40 and over,2
+2023-09-30,2023,3,Recorded detections in the UK,Algeria,Africa North,Male,18 to 24,1
+2023-09-30,2023,3,Recorded detections in the UK,Algeria,Africa North,Male,25 to 39,10
+2023-09-30,2023,3,Recorded detections in the UK,Algeria,Africa North,Male,40 and over,1
+2023-09-30,2023,3,Recorded detections in the UK,Bangladesh,Asia South,Male,18 to 24,2
+2023-09-30,2023,3,Recorded detections in the UK,Bangladesh,Asia South,Male,25 to 39,2
+2023-09-30,2023,3,Recorded detections in the UK,Bangladesh,Asia South,Male,40 and over,1
+2023-09-30,2023,3,Recorded detections in the UK,Belarus,Europe Other,Male,25 to 39,1
+2023-09-30,2023,3,Recorded detections in the UK,Bulgaria,EU 2,Male,40 and over,1
+2023-09-30,2023,3,Recorded detections in the UK,Chad,Africa Sub-Saharan,Male,17 and under,1
+2023-09-30,2023,3,Recorded detections in the UK,Chad,Africa Sub-Saharan,Unknown,17 and under,1
+2023-09-30,2023,3,Recorded detections in the UK,Congo (Democratic Republic),Africa Sub-Saharan,Male,25 to 39,1
+2023-09-30,2023,3,Recorded detections in the UK,Cyprus (Northern part of),Europe Other,Male,18 to 24,1
+2023-09-30,2023,3,Recorded detections in the UK,Cyprus (Northern part of),Europe Other,Male,25 to 39,1
+2023-09-30,2023,3,Recorded detections in the UK,Egypt,Africa North,Male,25 to 39,1
+2023-09-30,2023,3,Recorded detections in the UK,Eritrea,Africa Sub-Saharan,Female,17 and under,7
+2023-09-30,2023,3,Recorded detections in the UK,Eritrea,Africa Sub-Saharan,Female,18 to 24,7
+2023-09-30,2023,3,Recorded detections in the UK,Eritrea,Africa Sub-Saharan,Female,25 to 39,2
+2023-09-30,2023,3,Recorded detections in the UK,Eritrea,Africa Sub-Saharan,Female,40 and over,1
+2023-09-30,2023,3,Recorded detections in the UK,Eritrea,Africa Sub-Saharan,Male,17 and under,14
+2023-09-30,2023,3,Recorded detections in the UK,Eritrea,Africa Sub-Saharan,Male,18 to 24,26
+2023-09-30,2023,3,Recorded detections in the UK,Eritrea,Africa Sub-Saharan,Male,25 to 39,7
+2023-09-30,2023,3,Recorded detections in the UK,Ethiopia,Africa Sub-Saharan,Female,18 to 24,1
+2023-09-30,2023,3,Recorded detections in the UK,Ethiopia,Africa Sub-Saharan,Male,17 and under,4
+2023-09-30,2023,3,Recorded detections in the UK,Ethiopia,Africa Sub-Saharan,Male,18 to 24,2
+2023-09-30,2023,3,Recorded detections in the UK,Ethiopia,Africa Sub-Saharan,Unknown,17 and under,1
+2023-09-30,2023,3,Recorded detections in the UK,Guinea,Africa Sub-Saharan,Male,17 and under,4
+2023-09-30,2023,3,Recorded detections in the UK,Guinea,Africa Sub-Saharan,Male,25 to 39,1
+2023-09-30,2023,3,Recorded detections in the UK,India,Asia South,Female,18 to 24,1
+2023-09-30,2023,3,Recorded detections in the UK,India,Asia South,Female,25 to 39,1
+2023-09-30,2023,3,Recorded detections in the UK,India,Asia South,Male,18 to 24,3
+2023-09-30,2023,3,Recorded detections in the UK,India,Asia South,Male,25 to 39,3
+2023-09-30,2023,3,Recorded detections in the UK,Indonesia,Asia South East,Male,40 and over,1
+2023-09-30,2023,3,Recorded detections in the UK,Iran,Middle East,Female,17 and under,5
+2023-09-30,2023,3,Recorded detections in the UK,Iran,Middle East,Female,18 to 24,3
+2023-09-30,2023,3,Recorded detections in the UK,Iran,Middle East,Female,25 to 39,4
+2023-09-30,2023,3,Recorded detections in the UK,Iran,Middle East,Female,40 and over,4
+2023-09-30,2023,3,Recorded detections in the UK,Iran,Middle East,Male,17 and under,26
+2023-09-30,2023,3,Recorded detections in the UK,Iran,Middle East,Male,18 to 24,15
+2023-09-30,2023,3,Recorded detections in the UK,Iran,Middle East,Male,25 to 39,20
+2023-09-30,2023,3,Recorded detections in the UK,Iran,Middle East,Male,40 and over,6
+2023-09-30,2023,3,Recorded detections in the UK,Iran,Middle East,Unknown,17 and under,3
+2023-09-30,2023,3,Recorded detections in the UK,Iraq,Middle East,Female,17 and under,18
+2023-09-30,2023,3,Recorded detections in the UK,Iraq,Middle East,Female,18 to 24,11
+2023-09-30,2023,3,Recorded detections in the UK,Iraq,Middle East,Female,25 to 39,15
+2023-09-30,2023,3,Recorded detections in the UK,Iraq,Middle East,Female,40 and over,5
+2023-09-30,2023,3,Recorded detections in the UK,Iraq,Middle East,Male,17 and under,26
+2023-09-30,2023,3,Recorded detections in the UK,Iraq,Middle East,Male,18 to 24,18
+2023-09-30,2023,3,Recorded detections in the UK,Iraq,Middle East,Male,25 to 39,23
+2023-09-30,2023,3,Recorded detections in the UK,Iraq,Middle East,Male,40 and over,10
+2023-09-30,2023,3,Recorded detections in the UK,Ireland,EU 14,Male,40 and over,1
+2023-09-30,2023,3,Recorded detections in the UK,Italy,EU 14,Male,40 and over,1
+2023-09-30,2023,3,Recorded detections in the UK,Kuwait,Middle East,Female,17 and under,2
+2023-09-30,2023,3,Recorded detections in the UK,Kuwait,Middle East,Female,40 and over,2
+2023-09-30,2023,3,Recorded detections in the UK,Kuwait,Middle East,Male,17 and under,1
+2023-09-30,2023,3,Recorded detections in the UK,Kuwait,Middle East,Male,40 and over,1
+2023-09-30,2023,3,Recorded detections in the UK,Libya,Africa North,Female,18 to 24,1
+2023-09-30,2023,3,Recorded detections in the UK,Libya,Africa North,Male,17 and under,1
+2023-09-30,2023,3,Recorded detections in the UK,Libya,Africa North,Male,25 to 39,1
+2023-09-30,2023,3,Recorded detections in the UK,Morocco,Africa North,Female,25 to 39,1
+2023-09-30,2023,3,Recorded detections in the UK,Morocco,Africa North,Male,17 and under,3
+2023-09-30,2023,3,Recorded detections in the UK,Morocco,Africa North,Male,18 to 24,3
+2023-09-30,2023,3,Recorded detections in the UK,Morocco,Africa North,Male,25 to 39,6
+2023-09-30,2023,3,Recorded detections in the UK,Morocco,Africa North,Male,Unknown,1
+2023-09-30,2023,3,Recorded detections in the UK,Nepal,Asia South,Male,18 to 24,1
+2023-09-30,2023,3,Recorded detections in the UK,Nepal,Asia South,Male,40 and over,1
+2023-09-30,2023,3,Recorded detections in the UK,Nigeria,Africa Sub-Saharan,Male,25 to 39,1
+2023-09-30,2023,3,Recorded detections in the UK,Occupied Palestinian Territories,Middle East,Male,25 to 39,1
+2023-09-30,2023,3,Recorded detections in the UK,Other and unknown,Other,Female,Unknown,1
+2023-09-30,2023,3,Recorded detections in the UK,Other and unknown,Other,Male,17 and under,5
+2023-09-30,2023,3,Recorded detections in the UK,Other and unknown,Other,Male,25 to 39,3
+2023-09-30,2023,3,Recorded detections in the UK,Other and unknown,Other,Male,40 and over,2
+2023-09-30,2023,3,Recorded detections in the UK,Other and unknown,Other,Unknown,17 and under,1
+2023-09-30,2023,3,Recorded detections in the UK,Other and unknown,Other,Unknown,Unknown,10
+2023-09-30,2023,3,Recorded detections in the UK,Pakistan,Asia South,Female,17 and under,1
+2023-09-30,2023,3,Recorded detections in the UK,Pakistan,Asia South,Female,25 to 39,1
+2023-09-30,2023,3,Recorded detections in the UK,Pakistan,Asia South,Female,40 and over,1
+2023-09-30,2023,3,Recorded detections in the UK,Pakistan,Asia South,Female,Unknown,1
+2023-09-30,2023,3,Recorded detections in the UK,Pakistan,Asia South,Male,17 and under,3
+2023-09-30,2023,3,Recorded detections in the UK,Pakistan,Asia South,Male,18 to 24,2
+2023-09-30,2023,3,Recorded detections in the UK,Pakistan,Asia South,Male,25 to 39,6
+2023-09-30,2023,3,Recorded detections in the UK,Pakistan,Asia South,Male,40 and over,1
+2023-09-30,2023,3,Recorded detections in the UK,Somalia,Africa Sub-Saharan,Male,17 and under,1
+2023-09-30,2023,3,Recorded detections in the UK,South Sudan,Africa Sub-Saharan,Male,40 and over,1
+2023-09-30,2023,3,Recorded detections in the UK,Sri Lanka,Asia South,Male,25 to 39,1
+2023-09-30,2023,3,Recorded detections in the UK,Stateless,Other,Female,18 to 24,1
+2023-09-30,2023,3,Recorded detections in the UK,Stateless,Other,Female,40 and over,1
+2023-09-30,2023,3,Recorded detections in the UK,Sudan,Africa North,Female,17 and under,1
+2023-09-30,2023,3,Recorded detections in the UK,Sudan,Africa North,Female,25 to 39,1
+2023-09-30,2023,3,Recorded detections in the UK,Sudan,Africa North,Male,17 and under,83
+2023-09-30,2023,3,Recorded detections in the UK,Sudan,Africa North,Male,18 to 24,23
+2023-09-30,2023,3,Recorded detections in the UK,Sudan,Africa North,Male,25 to 39,18
+2023-09-30,2023,3,Recorded detections in the UK,Sudan,Africa North,Male,Unknown,2
+2023-09-30,2023,3,Recorded detections in the UK,Syria,Middle East,Female,17 and under,1
+2023-09-30,2023,3,Recorded detections in the UK,Syria,Middle East,Female,25 to 39,3
+2023-09-30,2023,3,Recorded detections in the UK,Syria,Middle East,Female,40 and over,1
+2023-09-30,2023,3,Recorded detections in the UK,Syria,Middle East,Male,17 and under,3
+2023-09-30,2023,3,Recorded detections in the UK,Syria,Middle East,Male,18 to 24,8
+2023-09-30,2023,3,Recorded detections in the UK,Syria,Middle East,Male,25 to 39,6
+2023-09-30,2023,3,Recorded detections in the UK,Tunisia,Africa North,Female,25 to 39,1
+2023-09-30,2023,3,Recorded detections in the UK,Tunisia,Africa North,Male,17 and under,2
+2023-09-30,2023,3,Recorded detections in the UK,Tunisia,Africa North,Male,25 to 39,3
+2023-09-30,2023,3,Recorded detections in the UK,Turkey,Europe Other,Female,17 and under,3
+2023-09-30,2023,3,Recorded detections in the UK,Turkey,Europe Other,Female,25 to 39,1
+2023-09-30,2023,3,Recorded detections in the UK,Turkey,Europe Other,Male,17 and under,2
+2023-09-30,2023,3,Recorded detections in the UK,Turkey,Europe Other,Male,18 to 24,1
+2023-09-30,2023,3,Recorded detections in the UK,Turkey,Europe Other,Male,25 to 39,3
+2023-09-30,2023,3,Recorded detections in the UK,Ukraine,Europe Other,Male,18 to 24,1
+2023-09-30,2023,3,Recorded detections in the UK,Vietnam,Asia South East,Female,17 and under,3
+2023-09-30,2023,3,Recorded detections in the UK,Vietnam,Asia South East,Female,18 to 24,4
+2023-09-30,2023,3,Recorded detections in the UK,Vietnam,Asia South East,Female,25 to 39,2
+2023-09-30,2023,3,Recorded detections in the UK,Vietnam,Asia South East,Male,17 and under,6
+2023-09-30,2023,3,Recorded detections in the UK,Vietnam,Asia South East,Male,18 to 24,3
+2023-09-30,2023,3,Recorded detections in the UK,Vietnam,Asia South East,Male,25 to 39,3
+2023-09-30,2023,3,Recorded detections in the UK,Vietnam,Asia South East,Male,40 and over,1
+2023-09-30,2023,3,Small boat arrivals,Afghanistan,Asia Central,Female,17 and under,52
+2023-09-30,2023,3,Small boat arrivals,Afghanistan,Asia Central,Female,18 to 24,22
+2023-09-30,2023,3,Small boat arrivals,Afghanistan,Asia Central,Female,25 to 39,55
+2023-09-30,2023,3,Small boat arrivals,Afghanistan,Asia Central,Female,40 and over,24
+2023-09-30,2023,3,Small boat arrivals,Afghanistan,Asia Central,Female,Unknown,1
+2023-09-30,2023,3,Small boat arrivals,Afghanistan,Asia Central,Male,17 and under,477
+2023-09-30,2023,3,Small boat arrivals,Afghanistan,Asia Central,Male,18 to 24,1198
+2023-09-30,2023,3,Small boat arrivals,Afghanistan,Asia Central,Male,25 to 39,801
+2023-09-30,2023,3,Small boat arrivals,Afghanistan,Asia Central,Male,40 and over,50
+2023-09-30,2023,3,Small boat arrivals,Afghanistan,Asia Central,Male,Unknown,18
+2023-09-30,2023,3,Small boat arrivals,Albania,Europe Other,Female,17 and under,21
+2023-09-30,2023,3,Small boat arrivals,Albania,Europe Other,Female,18 to 24,19
+2023-09-30,2023,3,Small boat arrivals,Albania,Europe Other,Female,25 to 39,28
+2023-09-30,2023,3,Small boat arrivals,Albania,Europe Other,Female,40 and over,11
+2023-09-30,2023,3,Small boat arrivals,Albania,Europe Other,Male,17 and under,62
+2023-09-30,2023,3,Small boat arrivals,Albania,Europe Other,Male,18 to 24,202
+2023-09-30,2023,3,Small boat arrivals,Albania,Europe Other,Male,25 to 39,202
+2023-09-30,2023,3,Small boat arrivals,Albania,Europe Other,Male,40 and over,36
+2023-09-30,2023,3,Small boat arrivals,Albania,Europe Other,Male,Unknown,1
+2023-09-30,2023,3,Small boat arrivals,Albania,Europe Other,Unknown,18 to 24,1
+2023-09-30,2023,3,Small boat arrivals,Algeria,Africa North,Female,25 to 39,1
+2023-09-30,2023,3,Small boat arrivals,Algeria,Africa North,Male,18 to 24,6
+2023-09-30,2023,3,Small boat arrivals,Algeria,Africa North,Male,25 to 39,11
+2023-09-30,2023,3,Small boat arrivals,American Samoa (United States),Oceania,Female,25 to 39,1
+2023-09-30,2023,3,Small boat arrivals,Argentina,America Central and South,Male,25 to 39,1
+2023-09-30,2023,3,Small boat arrivals,Azerbaijan,Europe Other,Female,17 and under,1
+2023-09-30,2023,3,Small boat arrivals,Azerbaijan,Europe Other,Female,25 to 39,1
+2023-09-30,2023,3,Small boat arrivals,Azerbaijan,Europe Other,Male,17 and under,2
+2023-09-30,2023,3,Small boat arrivals,Azerbaijan,Europe Other,Male,25 to 39,2
+2023-09-30,2023,3,Small boat arrivals,Azerbaijan,Europe Other,Male,40 and over,1
+2023-09-30,2023,3,Small boat arrivals,Bangladesh,Asia South,Male,18 to 24,1
+2023-09-30,2023,3,Small boat arrivals,Bangladesh,Asia South,Male,25 to 39,3
+2023-09-30,2023,3,Small boat arrivals,Burkina Faso,Africa Sub-Saharan,Male,18 to 24,1
+2023-09-30,2023,3,Small boat arrivals,Burundi,Africa Sub-Saharan,Male,17 and under,1
+2023-09-30,2023,3,Small boat arrivals,Cameroon,Africa Sub-Saharan,Male,18 to 24,1
+2023-09-30,2023,3,Small boat arrivals,Cameroon,Africa Sub-Saharan,Male,25 to 39,1
+2023-09-30,2023,3,Small boat arrivals,Chad,Africa Sub-Saharan,Female,17 and under,3
+2023-09-30,2023,3,Small boat arrivals,Chad,Africa Sub-Saharan,Female,25 to 39,1
+2023-09-30,2023,3,Small boat arrivals,Chad,Africa Sub-Saharan,Male,17 and under,2
+2023-09-30,2023,3,Small boat arrivals,Chad,Africa Sub-Saharan,Male,18 to 24,6
+2023-09-30,2023,3,Small boat arrivals,Chad,Africa Sub-Saharan,Male,25 to 39,4
+2023-09-30,2023,3,Small boat arrivals,China,Asia East,Male,25 to 39,2
+2023-09-30,2023,3,Small boat arrivals,Congo,Africa Sub-Saharan,Male,25 to 39,1
+2023-09-30,2023,3,Small boat arrivals,Congo (Democratic Republic),Africa Sub-Saharan,Male,25 to 39,1
+2023-09-30,2023,3,Small boat arrivals,Cyprus (Northern part of),Europe Other,Female,18 to 24,1
+2023-09-30,2023,3,Small boat arrivals,Cyprus (Northern part of),Europe Other,Female,40 and over,1
+2023-09-30,2023,3,Small boat arrivals,Cyprus (Northern part of),Europe Other,Male,17 and under,1
+2023-09-30,2023,3,Small boat arrivals,Cyprus (Northern part of),Europe Other,Male,18 to 24,1
+2023-09-30,2023,3,Small boat arrivals,Cyprus (Northern part of),Europe Other,Male,25 to 39,1
+2023-09-30,2023,3,Small boat arrivals,Egypt,Africa North,Female,18 to 24,1
+2023-09-30,2023,3,Small boat arrivals,Egypt,Africa North,Female,25 to 39,1
+2023-09-30,2023,3,Small boat arrivals,Egypt,Africa North,Male,17 and under,19
+2023-09-30,2023,3,Small boat arrivals,Egypt,Africa North,Male,18 to 24,106
+2023-09-30,2023,3,Small boat arrivals,Egypt,Africa North,Male,25 to 39,135
+2023-09-30,2023,3,Small boat arrivals,Egypt,Africa North,Male,40 and over,26
+2023-09-30,2023,3,Small boat arrivals,Eritrea,Africa Sub-Saharan,Female,17 and under,83
+2023-09-30,2023,3,Small boat arrivals,Eritrea,Africa Sub-Saharan,Female,18 to 24,123
+2023-09-30,2023,3,Small boat arrivals,Eritrea,Africa Sub-Saharan,Female,25 to 39,146
+2023-09-30,2023,3,Small boat arrivals,Eritrea,Africa Sub-Saharan,Female,40 and over,8
+2023-09-30,2023,3,Small boat arrivals,Eritrea,Africa Sub-Saharan,Male,17 and under,157
+2023-09-30,2023,3,Small boat arrivals,Eritrea,Africa Sub-Saharan,Male,18 to 24,440
+2023-09-30,2023,3,Small boat arrivals,Eritrea,Africa Sub-Saharan,Male,25 to 39,539
+2023-09-30,2023,3,Small boat arrivals,Eritrea,Africa Sub-Saharan,Male,40 and over,28
+2023-09-30,2023,3,Small boat arrivals,Eritrea,Africa Sub-Saharan,Male,Unknown,3
+2023-09-30,2023,3,Small boat arrivals,Eritrea,Africa Sub-Saharan,Unknown,17 and under,2
+2023-09-30,2023,3,Small boat arrivals,Eritrea,Africa Sub-Saharan,Unknown,25 to 39,1
+2023-09-30,2023,3,Small boat arrivals,Ethiopia,Africa Sub-Saharan,Female,17 and under,8
+2023-09-30,2023,3,Small boat arrivals,Ethiopia,Africa Sub-Saharan,Female,18 to 24,5
+2023-09-30,2023,3,Small boat arrivals,Ethiopia,Africa Sub-Saharan,Female,25 to 39,18
+2023-09-30,2023,3,Small boat arrivals,Ethiopia,Africa Sub-Saharan,Male,17 and under,15
+2023-09-30,2023,3,Small boat arrivals,Ethiopia,Africa Sub-Saharan,Male,18 to 24,38
+2023-09-30,2023,3,Small boat arrivals,Ethiopia,Africa Sub-Saharan,Male,25 to 39,57
+2023-09-30,2023,3,Small boat arrivals,Ethiopia,Africa Sub-Saharan,Male,40 and over,11
+2023-09-30,2023,3,Small boat arrivals,France,EU 14,Female,17 and under,1
+2023-09-30,2023,3,Small boat arrivals,France,EU 14,Male,18 to 24,1
+2023-09-30,2023,3,Small boat arrivals,French Guiana (French),America Central and South,Male,18 to 24,1
+2023-09-30,2023,3,Small boat arrivals,"Gambia, The",Africa Sub-Saharan,Male,17 and under,1
+2023-09-30,2023,3,Small boat arrivals,"Gambia, The",Africa Sub-Saharan,Male,18 to 24,4
+2023-09-30,2023,3,Small boat arrivals,"Gambia, The",Africa Sub-Saharan,Male,25 to 39,3
+2023-09-30,2023,3,Small boat arrivals,Georgia,Europe Other,Female,17 and under,5
+2023-09-30,2023,3,Small boat arrivals,Georgia,Europe Other,Female,18 to 24,5
+2023-09-30,2023,3,Small boat arrivals,Georgia,Europe Other,Female,25 to 39,23
+2023-09-30,2023,3,Small boat arrivals,Georgia,Europe Other,Female,40 and over,13
+2023-09-30,2023,3,Small boat arrivals,Georgia,Europe Other,Male,17 and under,18
+2023-09-30,2023,3,Small boat arrivals,Georgia,Europe Other,Male,18 to 24,23
+2023-09-30,2023,3,Small boat arrivals,Georgia,Europe Other,Male,25 to 39,126
+2023-09-30,2023,3,Small boat arrivals,Georgia,Europe Other,Male,40 and over,56
+2023-09-30,2023,3,Small boat arrivals,Germany,EU 14,Female,17 and under,1
+2023-09-30,2023,3,Small boat arrivals,Germany,EU 14,Male,17 and under,1
+2023-09-30,2023,3,Small boat arrivals,Ghana,Africa Sub-Saharan,Male,25 to 39,1
+2023-09-30,2023,3,Small boat arrivals,Ghana,Africa Sub-Saharan,Male,40 and over,4
+2023-09-30,2023,3,Small boat arrivals,Guinea,Africa Sub-Saharan,Male,17 and under,4
+2023-09-30,2023,3,Small boat arrivals,Guinea,Africa Sub-Saharan,Male,18 to 24,8
+2023-09-30,2023,3,Small boat arrivals,Guinea,Africa Sub-Saharan,Male,25 to 39,7
+2023-09-30,2023,3,Small boat arrivals,Guinea-Bissau,Africa Sub-Saharan,Male,25 to 39,1
+2023-09-30,2023,3,Small boat arrivals,India,Asia South,Female,18 to 24,2
+2023-09-30,2023,3,Small boat arrivals,India,Asia South,Female,25 to 39,1
+2023-09-30,2023,3,Small boat arrivals,India,Asia South,Female,40 and over,1
+2023-09-30,2023,3,Small boat arrivals,India,Asia South,Male,17 and under,1
+2023-09-30,2023,3,Small boat arrivals,India,Asia South,Male,18 to 24,67
+2023-09-30,2023,3,Small boat arrivals,India,Asia South,Male,25 to 39,90
+2023-09-30,2023,3,Small boat arrivals,India,Asia South,Male,40 and over,22
+2023-09-30,2023,3,Small boat arrivals,India,Asia South,Male,Unknown,1
+2023-09-30,2023,3,Small boat arrivals,Iran,Middle East,Female,17 and under,38
+2023-09-30,2023,3,Small boat arrivals,Iran,Middle East,Female,18 to 24,21
+2023-09-30,2023,3,Small boat arrivals,Iran,Middle East,Female,25 to 39,72
+2023-09-30,2023,3,Small boat arrivals,Iran,Middle East,Female,40 and over,27
+2023-09-30,2023,3,Small boat arrivals,Iran,Middle East,Female,Unknown,1
+2023-09-30,2023,3,Small boat arrivals,Iran,Middle East,Male,17 and under,250
+2023-09-30,2023,3,Small boat arrivals,Iran,Middle East,Male,18 to 24,371
+2023-09-30,2023,3,Small boat arrivals,Iran,Middle East,Male,25 to 39,421
+2023-09-30,2023,3,Small boat arrivals,Iran,Middle East,Male,40 and over,104
+2023-09-30,2023,3,Small boat arrivals,Iran,Middle East,Male,Unknown,5
+2023-09-30,2023,3,Small boat arrivals,Iraq,Middle East,Female,17 and under,68
+2023-09-30,2023,3,Small boat arrivals,Iraq,Middle East,Female,18 to 24,9
+2023-09-30,2023,3,Small boat arrivals,Iraq,Middle East,Female,25 to 39,65
+2023-09-30,2023,3,Small boat arrivals,Iraq,Middle East,Female,40 and over,24
+2023-09-30,2023,3,Small boat arrivals,Iraq,Middle East,Male,17 and under,146
+2023-09-30,2023,3,Small boat arrivals,Iraq,Middle East,Male,18 to 24,331
+2023-09-30,2023,3,Small boat arrivals,Iraq,Middle East,Male,25 to 39,351
+2023-09-30,2023,3,Small boat arrivals,Iraq,Middle East,Male,40 and over,54
+2023-09-30,2023,3,Small boat arrivals,Iraq,Middle East,Unknown,25 to 39,1
+2023-09-30,2023,3,Small boat arrivals,Israel,Middle East,Male,18 to 24,1
+2023-09-30,2023,3,Small boat arrivals,Kazakhstan,Asia Central,Female,40 and over,1
+2023-09-30,2023,3,Small boat arrivals,Kosovo,Europe Other,Male,25 to 39,1
+2023-09-30,2023,3,Small boat arrivals,Kuwait,Middle East,Female,17 and under,5
+2023-09-30,2023,3,Small boat arrivals,Kuwait,Middle East,Female,18 to 24,1
+2023-09-30,2023,3,Small boat arrivals,Kuwait,Middle East,Female,25 to 39,3
+2023-09-30,2023,3,Small boat arrivals,Kuwait,Middle East,Female,40 and over,3
+2023-09-30,2023,3,Small boat arrivals,Kuwait,Middle East,Male,17 and under,14
+2023-09-30,2023,3,Small boat arrivals,Kuwait,Middle East,Male,18 to 24,7
+2023-09-30,2023,3,Small boat arrivals,Kuwait,Middle East,Male,25 to 39,30
+2023-09-30,2023,3,Small boat arrivals,Kuwait,Middle East,Male,40 and over,11
+2023-09-30,2023,3,Small boat arrivals,Lebanon,Middle East,Male,25 to 39,3
+2023-09-30,2023,3,Small boat arrivals,Lebanon,Middle East,Male,40 and over,1
+2023-09-30,2023,3,Small boat arrivals,Liberia,Africa Sub-Saharan,Male,25 to 39,2
+2023-09-30,2023,3,Small boat arrivals,Libya,Africa North,Female,17 and under,5
+2023-09-30,2023,3,Small boat arrivals,Libya,Africa North,Female,18 to 24,1
+2023-09-30,2023,3,Small boat arrivals,Libya,Africa North,Female,25 to 39,5
+2023-09-30,2023,3,Small boat arrivals,Libya,Africa North,Female,40 and over,1
+2023-09-30,2023,3,Small boat arrivals,Libya,Africa North,Male,17 and under,5
+2023-09-30,2023,3,Small boat arrivals,Libya,Africa North,Male,18 to 24,36
+2023-09-30,2023,3,Small boat arrivals,Libya,Africa North,Male,25 to 39,53
+2023-09-30,2023,3,Small boat arrivals,Libya,Africa North,Male,40 and over,5
+2023-09-30,2023,3,Small boat arrivals,Mali,Africa Sub-Saharan,Male,18 to 24,2
+2023-09-30,2023,3,Small boat arrivals,Malta,EU Other,Male,17 and under,2
+2023-09-30,2023,3,Small boat arrivals,Morocco,Africa North,Female,25 to 39,1
+2023-09-30,2023,3,Small boat arrivals,Morocco,Africa North,Female,40 and over,1
+2023-09-30,2023,3,Small boat arrivals,Morocco,Africa North,Male,17 and under,1
+2023-09-30,2023,3,Small boat arrivals,Morocco,Africa North,Male,18 to 24,3
+2023-09-30,2023,3,Small boat arrivals,Morocco,Africa North,Male,25 to 39,8
+2023-09-30,2023,3,Small boat arrivals,Nigeria,Africa Sub-Saharan,Female,17 and under,2
+2023-09-30,2023,3,Small boat arrivals,Nigeria,Africa Sub-Saharan,Female,25 to 39,1
+2023-09-30,2023,3,Small boat arrivals,Nigeria,Africa Sub-Saharan,Male,17 and under,1
+2023-09-30,2023,3,Small boat arrivals,Nigeria,Africa Sub-Saharan,Male,18 to 24,3
+2023-09-30,2023,3,Small boat arrivals,Nigeria,Africa Sub-Saharan,Male,25 to 39,5
+2023-09-30,2023,3,Small boat arrivals,Nigeria,Africa Sub-Saharan,Male,40 and over,3
+2023-09-30,2023,3,Small boat arrivals,Not currently recorded,Not currently recorded,Not currently recorded,Not currently recorded,467
+2023-09-30,2023,3,Small boat arrivals,Occupied Palestinian Territories,Middle East,Female,17 and under,2
+2023-09-30,2023,3,Small boat arrivals,Occupied Palestinian Territories,Middle East,Female,25 to 39,1
+2023-09-30,2023,3,Small boat arrivals,Occupied Palestinian Territories,Middle East,Male,17 and under,1
+2023-09-30,2023,3,Small boat arrivals,Occupied Palestinian Territories,Middle East,Male,18 to 24,3
+2023-09-30,2023,3,Small boat arrivals,Occupied Palestinian Territories,Middle East,Male,25 to 39,8
+2023-09-30,2023,3,Small boat arrivals,Occupied Palestinian Territories,Middle East,Male,40 and over,4
+2023-09-30,2023,3,Small boat arrivals,Occupied Palestinian Territories,Middle East,Male,Unknown,1
+2023-09-30,2023,3,Small boat arrivals,Other and unknown,Other,Male,25 to 39,2
+2023-09-30,2023,3,Small boat arrivals,Pakistan,Asia South,Female,25 to 39,1
+2023-09-30,2023,3,Small boat arrivals,Pakistan,Asia South,Female,40 and over,1
+2023-09-30,2023,3,Small boat arrivals,Pakistan,Asia South,Male,18 to 24,14
+2023-09-30,2023,3,Small boat arrivals,Pakistan,Asia South,Male,25 to 39,21
+2023-09-30,2023,3,Small boat arrivals,Pakistan,Asia South,Male,40 and over,9
+2023-09-30,2023,3,Small boat arrivals,Refugee,Other,Male,40 and over,1
+2023-09-30,2023,3,Small boat arrivals,Russia,Europe Other,Male,25 to 39,1
+2023-09-30,2023,3,Small boat arrivals,Senegal,Africa Sub-Saharan,Male,17 and under,2
+2023-09-30,2023,3,Small boat arrivals,Senegal,Africa Sub-Saharan,Male,25 to 39,3
+2023-09-30,2023,3,Small boat arrivals,Sierra Leone,Africa Sub-Saharan,Male,18 to 24,3
+2023-09-30,2023,3,Small boat arrivals,Sierra Leone,Africa Sub-Saharan,Male,25 to 39,1
+2023-09-30,2023,3,Small boat arrivals,Somalia,Africa Sub-Saharan,Female,17 and under,2
+2023-09-30,2023,3,Small boat arrivals,Somalia,Africa Sub-Saharan,Female,18 to 24,4
+2023-09-30,2023,3,Small boat arrivals,Somalia,Africa Sub-Saharan,Female,25 to 39,11
+2023-09-30,2023,3,Small boat arrivals,Somalia,Africa Sub-Saharan,Male,17 and under,15
+2023-09-30,2023,3,Small boat arrivals,Somalia,Africa Sub-Saharan,Male,18 to 24,68
+2023-09-30,2023,3,Small boat arrivals,Somalia,Africa Sub-Saharan,Male,25 to 39,67
+2023-09-30,2023,3,Small boat arrivals,Somalia,Africa Sub-Saharan,Male,40 and over,2
+2023-09-30,2023,3,Small boat arrivals,South Sudan,Africa Sub-Saharan,Female,17 and under,8
+2023-09-30,2023,3,Small boat arrivals,South Sudan,Africa Sub-Saharan,Female,18 to 24,2
+2023-09-30,2023,3,Small boat arrivals,South Sudan,Africa Sub-Saharan,Female,25 to 39,5
+2023-09-30,2023,3,Small boat arrivals,South Sudan,Africa Sub-Saharan,Male,17 and under,32
+2023-09-30,2023,3,Small boat arrivals,South Sudan,Africa Sub-Saharan,Male,18 to 24,86
+2023-09-30,2023,3,Small boat arrivals,South Sudan,Africa Sub-Saharan,Male,25 to 39,32
+2023-09-30,2023,3,Small boat arrivals,South Sudan,Africa Sub-Saharan,Male,40 and over,1
+2023-09-30,2023,3,Small boat arrivals,South Sudan,Africa Sub-Saharan,Unknown,17 and under,1
+2023-09-30,2023,3,Small boat arrivals,Sri Lanka,Asia South,Female,25 to 39,3
+2023-09-30,2023,3,Small boat arrivals,Sri Lanka,Asia South,Male,17 and under,1
+2023-09-30,2023,3,Small boat arrivals,Sri Lanka,Asia South,Male,18 to 24,26
+2023-09-30,2023,3,Small boat arrivals,Sri Lanka,Asia South,Male,25 to 39,87
+2023-09-30,2023,3,Small boat arrivals,Sri Lanka,Asia South,Male,40 and over,22
+2023-09-30,2023,3,Small boat arrivals,Stateless,Other,Female,17 and under,11
+2023-09-30,2023,3,Small boat arrivals,Stateless,Other,Female,25 to 39,3
+2023-09-30,2023,3,Small boat arrivals,Stateless,Other,Female,40 and over,4
+2023-09-30,2023,3,Small boat arrivals,Stateless,Other,Male,17 and under,12
+2023-09-30,2023,3,Small boat arrivals,Stateless,Other,Male,18 to 24,15
+2023-09-30,2023,3,Small boat arrivals,Stateless,Other,Male,25 to 39,25
+2023-09-30,2023,3,Small boat arrivals,Stateless,Other,Male,40 and over,10
+2023-09-30,2023,3,Small boat arrivals,Sudan,Africa North,Female,17 and under,17
+2023-09-30,2023,3,Small boat arrivals,Sudan,Africa North,Female,18 to 24,6
+2023-09-30,2023,3,Small boat arrivals,Sudan,Africa North,Female,25 to 39,14
+2023-09-30,2023,3,Small boat arrivals,Sudan,Africa North,Female,40 and over,4
+2023-09-30,2023,3,Small boat arrivals,Sudan,Africa North,Male,17 and under,165
+2023-09-30,2023,3,Small boat arrivals,Sudan,Africa North,Male,18 to 24,367
+2023-09-30,2023,3,Small boat arrivals,Sudan,Africa North,Male,25 to 39,273
+2023-09-30,2023,3,Small boat arrivals,Sudan,Africa North,Male,40 and over,27
+2023-09-30,2023,3,Small boat arrivals,Syria,Middle East,Female,17 and under,35
+2023-09-30,2023,3,Small boat arrivals,Syria,Middle East,Female,18 to 24,14
+2023-09-30,2023,3,Small boat arrivals,Syria,Middle East,Female,25 to 39,28
+2023-09-30,2023,3,Small boat arrivals,Syria,Middle East,Female,40 and over,8
+2023-09-30,2023,3,Small boat arrivals,Syria,Middle East,Male,17 and under,135
+2023-09-30,2023,3,Small boat arrivals,Syria,Middle East,Male,18 to 24,380
+2023-09-30,2023,3,Small boat arrivals,Syria,Middle East,Male,25 to 39,275
+2023-09-30,2023,3,Small boat arrivals,Syria,Middle East,Male,40 and over,41
+2023-09-30,2023,3,Small boat arrivals,Syria,Middle East,Male,Unknown,2
+2023-09-30,2023,3,Small boat arrivals,Tajikistan,Asia Central,Male,18 to 24,5
+2023-09-30,2023,3,Small boat arrivals,Tajikistan,Asia Central,Male,25 to 39,2
+2023-09-30,2023,3,Small boat arrivals,Tanzania,Africa Sub-Saharan,Male,18 to 24,1
+2023-09-30,2023,3,Small boat arrivals,Tanzania,Africa Sub-Saharan,Male,25 to 39,2
+2023-09-30,2023,3,Small boat arrivals,Tanzania,Africa Sub-Saharan,Male,40 and over,1
+2023-09-30,2023,3,Small boat arrivals,Togo,Africa Sub-Saharan,Male,18 to 24,1
+2023-09-30,2023,3,Small boat arrivals,Tunisia,Africa North,Female,17 and under,1
+2023-09-30,2023,3,Small boat arrivals,Tunisia,Africa North,Female,25 to 39,2
+2023-09-30,2023,3,Small boat arrivals,Tunisia,Africa North,Male,17 and under,1
+2023-09-30,2023,3,Small boat arrivals,Tunisia,Africa North,Male,18 to 24,6
+2023-09-30,2023,3,Small boat arrivals,Tunisia,Africa North,Male,25 to 39,4
+2023-09-30,2023,3,Small boat arrivals,Turkey,Europe Other,Female,17 and under,56
+2023-09-30,2023,3,Small boat arrivals,Turkey,Europe Other,Female,18 to 24,39
+2023-09-30,2023,3,Small boat arrivals,Turkey,Europe Other,Female,25 to 39,63
+2023-09-30,2023,3,Small boat arrivals,Turkey,Europe Other,Female,40 and over,35
+2023-09-30,2023,3,Small boat arrivals,Turkey,Europe Other,Female,Unknown,1
+2023-09-30,2023,3,Small boat arrivals,Turkey,Europe Other,Male,17 and under,199
+2023-09-30,2023,3,Small boat arrivals,Turkey,Europe Other,Male,18 to 24,462
+2023-09-30,2023,3,Small boat arrivals,Turkey,Europe Other,Male,25 to 39,460
+2023-09-30,2023,3,Small boat arrivals,Turkey,Europe Other,Male,40 and over,123
+2023-09-30,2023,3,Small boat arrivals,Turkey,Europe Other,Male,Unknown,2
+2023-09-30,2023,3,Small boat arrivals,Ukraine,Europe Other,Male,40 and over,1
+2023-09-30,2023,3,Small boat arrivals,Vietnam,Asia South East,Female,17 and under,17
+2023-09-30,2023,3,Small boat arrivals,Vietnam,Asia South East,Female,18 to 24,90
+2023-09-30,2023,3,Small boat arrivals,Vietnam,Asia South East,Female,25 to 39,66
+2023-09-30,2023,3,Small boat arrivals,Vietnam,Asia South East,Female,40 and over,6
+2023-09-30,2023,3,Small boat arrivals,Vietnam,Asia South East,Male,17 and under,29
+2023-09-30,2023,3,Small boat arrivals,Vietnam,Asia South East,Male,18 to 24,160
+2023-09-30,2023,3,Small boat arrivals,Vietnam,Asia South East,Male,25 to 39,211
+2023-09-30,2023,3,Small boat arrivals,Vietnam,Asia South East,Male,40 and over,27
+2023-09-30,2023,3,Small boat arrivals,Yemen,Middle East,Female,18 to 24,2
+2023-09-30,2023,3,Small boat arrivals,Yemen,Middle East,Female,40 and over,1
+2023-09-30,2023,3,Small boat arrivals,Yemen,Middle East,Male,17 and under,1
+2023-09-30,2023,3,Small boat arrivals,Yemen,Middle East,Male,18 to 24,11
+2023-09-30,2023,3,Small boat arrivals,Yemen,Middle East,Male,25 to 39,20
+2023-09-30,2023,3,Small boat arrivals,Yemen,Middle East,Male,40 and over,6
+2023-09-30,2023,3,Small boat arrivals,Yemen,Middle East,Male,Unknown,1
+2023-09-30,2023,3,Small boat arrivals,Zimbabwe,Africa Sub-Saharan,Male,40 and over,1

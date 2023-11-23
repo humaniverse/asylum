@@ -121,7 +121,7 @@ Date,Year,Quarter,Nationality,Region,Grant,Refused,Initial grant rate
 2001-03-31,2001,2001 Q1,South Africa,Africa Sub-Saharan,3,51,0.05555555555555555
 2001-03-31,2001,2001 Q1,South Korea,Asia East,NA,2,NA
 2001-03-31,2001,2001 Q1,Sri Lanka,Asia South,790,3938,0.16708967851099832
-2001-03-31,2001,2001 Q1,"St Helena, Ascension and Tristan de Cunha (British)",Other,NA,1,NA
+2001-03-31,2001,2001 Q1,"St Helena, Ascension and Tristan da Cunha (British)",Other,NA,1,NA
 2001-03-31,2001,2001 Q1,St Lucia,America Central and South,1,NA,NA
 2001-03-31,2001,2001 Q1,St Pierre and Miquelon (French),America North,NA,1,NA
 2001-03-31,2001,2001 Q1,St Vincent and the Grenadines,America Central and South,1,NA,NA
@@ -766,7 +766,6 @@ Date,Year,Quarter,Nationality,Region,Grant,Refused,Initial grant rate
 2002-06-30,2002,2002 Q2,Romania,EU 2,15,240,0.058823529411764705
 2002-06-30,2002,2002 Q2,Russia,Europe Other,12,73,0.1411764705882353
 2002-06-30,2002,2002 Q2,Rwanda,Africa Sub-Saharan,121,59,0.6722222222222223
-2002-06-30,2002,2002 Q2,Sao Tome and Principe,Africa Sub-Saharan,NA,1,NA
 2002-06-30,2002,2002 Q2,Senegal,Africa Sub-Saharan,1,6,0.14285714285714285
 2002-06-30,2002,2002 Q2,Serbia and Montenegro,Europe Other,232,618,0.27294117647058824
 2002-06-30,2002,2002 Q2,Seychelles,Africa Sub-Saharan,NA,7,NA
@@ -779,6 +778,7 @@ Date,Year,Quarter,Nationality,Region,Grant,Refused,Initial grant rate
 2002-06-30,2002,2002 Q2,Stateless,Other,NA,1,NA
 2002-06-30,2002,2002 Q2,Sudan,Africa North,25,82,0.2336448598130841
 2002-06-30,2002,2002 Q2,Syria,Middle East,5,13,0.2777777777777778
+2002-06-30,2002,2002 Q2,São Tomé and Príncipe,Africa Sub-Saharan,NA,1,NA
 2002-06-30,2002,2002 Q2,Tajikistan,Asia Central,NA,1,NA
 2002-06-30,2002,2002 Q2,Tanzania,Africa Sub-Saharan,NA,7,NA
 2002-06-30,2002,2002 Q2,Thailand,Asia South East,NA,1,NA
@@ -1640,7 +1640,6 @@ Date,Year,Quarter,Nationality,Region,Grant,Refused,Initial grant rate
 2004-03-31,2004,2004 Q1,Romania,EU 2,30,117,0.20408163265306123
 2004-03-31,2004,2004 Q1,Russia,Europe Other,13,72,0.15294117647058825
 2004-03-31,2004,2004 Q1,Rwanda,Africa Sub-Saharan,11,51,0.1774193548387097
-2004-03-31,2004,2004 Q1,Sao Tome and Principe,Africa Sub-Saharan,NA,1,NA
 2004-03-31,2004,2004 Q1,Saudi Arabia,Middle East,NA,2,NA
 2004-03-31,2004,2004 Q1,Senegal,Africa Sub-Saharan,NA,11,NA
 2004-03-31,2004,2004 Q1,Serbia and Montenegro,Europe Other,89,250,0.26253687315634217
@@ -1653,6 +1652,7 @@ Date,Year,Quarter,Nationality,Region,Grant,Refused,Initial grant rate
 2004-03-31,2004,2004 Q1,Stateless,Other,NA,1,NA
 2004-03-31,2004,2004 Q1,Sudan,Africa North,85,327,0.20631067961165048
 2004-03-31,2004,2004 Q1,Syria,Middle East,2,50,0.038461538461538464
+2004-03-31,2004,2004 Q1,São Tomé and Príncipe,Africa Sub-Saharan,NA,1,NA
 2004-03-31,2004,2004 Q1,Tajikistan,Asia Central,NA,2,NA
 2004-03-31,2004,2004 Q1,Tanzania,Africa Sub-Saharan,1,4,0.2
 2004-03-31,2004,2004 Q1,Thailand,Asia South East,1,4,0.2
@@ -6846,7 +6846,6 @@ Date,Year,Quarter,Nationality,Region,Grant,Refused,Initial grant rate
 2016-03-31,2016,2016 Q1,Romania,EU 2,NA,3,NA
 2016-03-31,2016,2016 Q1,Russia,Europe Other,6,9,0.4
 2016-03-31,2016,2016 Q1,Rwanda,Africa Sub-Saharan,NA,3,NA
-2016-03-31,2016,2016 Q1,Sao Tome and Principe,Africa Sub-Saharan,NA,1,NA
 2016-03-31,2016,2016 Q1,Saudi Arabia,Middle East,5,3,0.625
 2016-03-31,2016,2016 Q1,Senegal,Africa Sub-Saharan,1,4,0.2
 2016-03-31,2016,2016 Q1,Seychelles,Africa Sub-Saharan,1,NA,NA
@@ -6859,6 +6858,7 @@ Date,Year,Quarter,Nationality,Region,Grant,Refused,Initial grant rate
 2016-03-31,2016,2016 Q1,Stateless,Other,14,21,0.4
 2016-03-31,2016,2016 Q1,Sudan,Africa North,477,75,0.8641304347826086
 2016-03-31,2016,2016 Q1,Syria,Middle East,478,73,0.867513611615245
+2016-03-31,2016,2016 Q1,São Tomé and Príncipe,Africa Sub-Saharan,NA,1,NA
 2016-03-31,2016,2016 Q1,Tanzania,Africa Sub-Saharan,2,12,0.14285714285714285
 2016-03-31,2016,2016 Q1,Thailand,Asia South East,NA,2,NA
 2016-03-31,2016,2016 Q1,Togo,Africa Sub-Saharan,NA,1,NA
@@ -8079,7 +8079,6 @@ Date,Year,Quarter,Nationality,Region,Grant,Refused,Initial grant rate
 2018-12-31,2018,2018 Q4,Romania,EU 2,NA,3,NA
 2018-12-31,2018,2018 Q4,Russia,Europe Other,13,9,0.5909090909090909
 2018-12-31,2018,2018 Q4,Rwanda,Africa Sub-Saharan,2,4,0.3333333333333333
-2018-12-31,2018,2018 Q4,Sao Tome and Principe,Africa Sub-Saharan,1,NA,NA
 2018-12-31,2018,2018 Q4,Saudi Arabia,Middle East,2,4,0.3333333333333333
 2018-12-31,2018,2018 Q4,Senegal,Africa Sub-Saharan,1,3,0.25
 2018-12-31,2018,2018 Q4,Sierra Leone,Africa Sub-Saharan,NA,3,NA
@@ -8095,6 +8094,7 @@ Date,Year,Quarter,Nationality,Region,Grant,Refused,Initial grant rate
 2018-12-31,2018,2018 Q4,Stateless,Other,29,31,0.48333333333333334
 2018-12-31,2018,2018 Q4,Sudan,Africa North,228,136,0.6263736263736264
 2018-12-31,2018,2018 Q4,Syria,Middle East,97,16,0.8584070796460177
+2018-12-31,2018,2018 Q4,São Tomé and Príncipe,Africa Sub-Saharan,1,NA,NA
 2018-12-31,2018,2018 Q4,Tanzania,Africa Sub-Saharan,NA,7,NA
 2018-12-31,2018,2018 Q4,Thailand,Asia South East,1,4,0.2
 2018-12-31,2018,2018 Q4,Togo,Africa Sub-Saharan,NA,1,NA
@@ -9964,3 +9964,127 @@ Date,Year,Quarter,Nationality,Region,Grant,Refused,Initial grant rate
 2023-06-30,2023,2023 Q2,Yemen,Middle East,30,NA,NA
 2023-06-30,2023,2023 Q2,Zambia,Africa Sub-Saharan,NA,1,NA
 2023-06-30,2023,2023 Q2,Zimbabwe,Africa Sub-Saharan,4,7,0.36363636363636365
+2023-09-30,2023,2023 Q3,Afghanistan,Asia Central,3204,15,0.9953401677539608
+2023-09-30,2023,2023 Q3,Albania,Europe Other,76,1085,0.06546080964685616
+2023-09-30,2023,2023 Q3,Algeria,Africa North,5,10,0.3333333333333333
+2023-09-30,2023,2023 Q3,Angola,Africa Sub-Saharan,2,6,0.25
+2023-09-30,2023,2023 Q3,Argentina,America Central and South,1,1,0.5
+2023-09-30,2023,2023 Q3,Azerbaijan,Europe Other,4,1,0.8
+2023-09-30,2023,2023 Q3,Bahrain,Middle East,1,NA,NA
+2023-09-30,2023,2023 Q3,Bangladesh,Asia South,124,277,0.3092269326683292
+2023-09-30,2023,2023 Q3,Barbados,America Central and South,1,NA,NA
+2023-09-30,2023,2023 Q3,Belarus,Europe Other,8,5,0.6153846153846154
+2023-09-30,2023,2023 Q3,Benin,Africa Sub-Saharan,1,2,0.3333333333333333
+2023-09-30,2023,2023 Q3,Bhutan,Asia South,NA,1,NA
+2023-09-30,2023,2023 Q3,Bolivia,America Central and South,1,2,0.3333333333333333
+2023-09-30,2023,2023 Q3,Botswana,Africa Sub-Saharan,2,6,0.25
+2023-09-30,2023,2023 Q3,Brazil,America Central and South,1,50,0.0196078431372549
+2023-09-30,2023,2023 Q3,Bulgaria,EU 2,NA,2,NA
+2023-09-30,2023,2023 Q3,Burkina Faso,Africa Sub-Saharan,2,NA,NA
+2023-09-30,2023,2023 Q3,Burundi,Africa Sub-Saharan,1,NA,NA
+2023-09-30,2023,2023 Q3,Cameroon,Africa Sub-Saharan,132,5,0.9635036496350365
+2023-09-30,2023,2023 Q3,Canada,America North,NA,3,NA
+2023-09-30,2023,2023 Q3,Central African Republic,Africa Sub-Saharan,2,NA,NA
+2023-09-30,2023,2023 Q3,Chad,Africa Sub-Saharan,29,47,0.3815789473684211
+2023-09-30,2023,2023 Q3,Chile,America Central and South,NA,1,NA
+2023-09-30,2023,2023 Q3,China,Asia East,29,171,0.145
+2023-09-30,2023,2023 Q3,Colombia,America Central and South,2,2,0.5
+2023-09-30,2023,2023 Q3,Congo,Africa Sub-Saharan,2,1,0.6666666666666666
+2023-09-30,2023,2023 Q3,Congo (Democratic Republic),Africa Sub-Saharan,9,11,0.45
+2023-09-30,2023,2023 Q3,Dominica,America Central and South,NA,1,NA
+2023-09-30,2023,2023 Q3,Ecuador,America Central and South,1,NA,NA
+2023-09-30,2023,2023 Q3,Egypt,Africa North,55,298,0.1558073654390935
+2023-09-30,2023,2023 Q3,El Salvador,America Central and South,737,5,0.9932614555256065
+2023-09-30,2023,2023 Q3,Eritrea,Africa Sub-Saharan,1662,8,0.9952095808383233
+2023-09-30,2023,2023 Q3,Ethiopia,Africa Sub-Saharan,320,32,0.9090909090909091
+2023-09-30,2023,2023 Q3,France,EU 14,NA,1,NA
+2023-09-30,2023,2023 Q3,"Gambia, The",Africa Sub-Saharan,26,21,0.5531914893617021
+2023-09-30,2023,2023 Q3,Georgia,Europe Other,2,19,0.09523809523809523
+2023-09-30,2023,2023 Q3,Germany,EU 14,NA,1,NA
+2023-09-30,2023,2023 Q3,Ghana,Africa Sub-Saharan,20,26,0.43478260869565216
+2023-09-30,2023,2023 Q3,Grenada,America Central and South,2,3,0.4
+2023-09-30,2023,2023 Q3,Guatemala,America Central and South,1,1,0.5
+2023-09-30,2023,2023 Q3,Guinea,Africa Sub-Saharan,10,7,0.5882352941176471
+2023-09-30,2023,2023 Q3,Guinea-Bissau,Africa Sub-Saharan,1,NA,NA
+2023-09-30,2023,2023 Q3,Honduras,America Central and South,13,18,0.41935483870967744
+2023-09-30,2023,2023 Q3,Hong Kong,Asia East,7,5,0.5833333333333334
+2023-09-30,2023,2023 Q3,India,Asia South,22,219,0.0912863070539419
+2023-09-30,2023,2023 Q3,Indonesia,Asia South East,4,4,0.5
+2023-09-30,2023,2023 Q3,Iran,Middle East,4232,362,0.9212015672616456
+2023-09-30,2023,2023 Q3,Iraq,Middle East,493,529,0.48238747553816047
+2023-09-30,2023,2023 Q3,Ivory Coast,Africa Sub-Saharan,8,2,0.8
+2023-09-30,2023,2023 Q3,Jamaica,America Central and South,7,2,0.7777777777777778
+2023-09-30,2023,2023 Q3,Jordan,Middle East,1,3,0.25
+2023-09-30,2023,2023 Q3,Kazakhstan,Asia Central,11,3,0.7857142857142857
+2023-09-30,2023,2023 Q3,Kenya,Africa Sub-Saharan,21,15,0.5833333333333334
+2023-09-30,2023,2023 Q3,Kosovo,Europe Other,NA,6,NA
+2023-09-30,2023,2023 Q3,Kuwait,Middle East,79,24,0.7669902912621359
+2023-09-30,2023,2023 Q3,Kyrgyzstan,Asia Central,5,NA,NA
+2023-09-30,2023,2023 Q3,Laos,Asia South East,1,NA,NA
+2023-09-30,2023,2023 Q3,Lebanon,Middle East,2,5,0.2857142857142857
+2023-09-30,2023,2023 Q3,Liberia,Africa Sub-Saharan,NA,1,NA
+2023-09-30,2023,2023 Q3,Libya,Africa North,158,1,0.9937106918238994
+2023-09-30,2023,2023 Q3,Lithuania,EU 8,NA,2,NA
+2023-09-30,2023,2023 Q3,Malawi,Africa Sub-Saharan,2,2,0.5
+2023-09-30,2023,2023 Q3,Malaysia,Asia South East,15,30,0.3333333333333333
+2023-09-30,2023,2023 Q3,Mali,Africa Sub-Saharan,5,2,0.7142857142857143
+2023-09-30,2023,2023 Q3,Mauritania,Africa North,1,NA,NA
+2023-09-30,2023,2023 Q3,Mauritius,Africa Sub-Saharan,3,4,0.42857142857142855
+2023-09-30,2023,2023 Q3,Mexico,America Central and South,1,2,0.3333333333333333
+2023-09-30,2023,2023 Q3,Mongolia,Asia East,NA,2,NA
+2023-09-30,2023,2023 Q3,Morocco,Africa North,17,33,0.34
+2023-09-30,2023,2023 Q3,Myanmar (Burma),Asia South East,18,NA,NA
+2023-09-30,2023,2023 Q3,Namibia,Africa Sub-Saharan,7,54,0.11475409836065574
+2023-09-30,2023,2023 Q3,Nepal,Asia South,1,24,0.04
+2023-09-30,2023,2023 Q3,Nicaragua,America Central and South,3,3,0.5
+2023-09-30,2023,2023 Q3,Niger,Africa Sub-Saharan,2,1,0.6666666666666666
+2023-09-30,2023,2023 Q3,Nigeria,Africa Sub-Saharan,241,178,0.5751789976133651
+2023-09-30,2023,2023 Q3,North Macedonia,Europe Other,NA,2,NA
+2023-09-30,2023,2023 Q3,Occupied Palestinian Territories,Middle East,63,128,0.3298429319371728
+2023-09-30,2023,2023 Q3,Oman,Middle East,1,NA,NA
+2023-09-30,2023,2023 Q3,Other and unknown,Other,3,1,0.75
+2023-09-30,2023,2023 Q3,Pakistan,Asia South,335,251,0.5716723549488054
+2023-09-30,2023,2023 Q3,Philippines,Asia South East,2,20,0.09090909090909091
+2023-09-30,2023,2023 Q3,Poland,EU 8,NA,1,NA
+2023-09-30,2023,2023 Q3,Portugal,EU 14,NA,1,NA
+2023-09-30,2023,2023 Q3,Qatar,Middle East,3,NA,NA
+2023-09-30,2023,2023 Q3,Refugee,Other,665,NA,NA
+2023-09-30,2023,2023 Q3,Romania,EU 2,NA,9,NA
+2023-09-30,2023,2023 Q3,Russia,Europe Other,126,98,0.5625
+2023-09-30,2023,2023 Q3,Rwanda,Africa Sub-Saharan,1,2,0.3333333333333333
+2023-09-30,2023,2023 Q3,Saudi Arabia,Middle East,20,NA,NA
+2023-09-30,2023,2023 Q3,Senegal,Africa Sub-Saharan,2,1,0.6666666666666666
+2023-09-30,2023,2023 Q3,Seychelles,Africa Sub-Saharan,1,NA,NA
+2023-09-30,2023,2023 Q3,Sierra Leone,Africa Sub-Saharan,20,20,0.5
+2023-09-30,2023,2023 Q3,Somalia,Africa Sub-Saharan,153,126,0.5483870967741935
+2023-09-30,2023,2023 Q3,South Africa,Africa Sub-Saharan,3,4,0.42857142857142855
+2023-09-30,2023,2023 Q3,South Sudan,Africa Sub-Saharan,26,NA,NA
+2023-09-30,2023,2023 Q3,Sri Lanka,Asia South,75,61,0.5514705882352942
+2023-09-30,2023,2023 Q3,St Kitts and Nevis,America Central and South,NA,2,NA
+2023-09-30,2023,2023 Q3,St Lucia,America Central and South,NA,3,NA
+2023-09-30,2023,2023 Q3,St Vincent and the Grenadines,America Central and South,5,NA,NA
+2023-09-30,2023,2023 Q3,Stateless,Other,59,3,0.9516129032258065
+2023-09-30,2023,2023 Q3,Sudan,Africa North,1542,3,0.9980582524271845
+2023-09-30,2023,2023 Q3,Suriname,America Central and South,NA,1,NA
+2023-09-30,2023,2023 Q3,Sweden,EU 14,NA,1,NA
+2023-09-30,2023,2023 Q3,Syria,Middle East,2464,4,0.9983792544570502
+2023-09-30,2023,2023 Q3,Taiwan,Asia East,NA,1,NA
+2023-09-30,2023,2023 Q3,Tajikistan,Asia Central,10,2,0.8333333333333334
+2023-09-30,2023,2023 Q3,Tanzania,Africa Sub-Saharan,3,2,0.6
+2023-09-30,2023,2023 Q3,Thailand,Asia South East,NA,6,NA
+2023-09-30,2023,2023 Q3,Togo,Africa Sub-Saharan,NA,2,NA
+2023-09-30,2023,2023 Q3,Trinidad and Tobago,America Central and South,6,18,0.25
+2023-09-30,2023,2023 Q3,Tunisia,Africa North,7,6,0.5384615384615384
+2023-09-30,2023,2023 Q3,Turkey,Europe Other,517,52,0.9086115992970123
+2023-09-30,2023,2023 Q3,Turkmenistan,Asia Central,12,1,0.9230769230769231
+2023-09-30,2023,2023 Q3,Uganda,Africa Sub-Saharan,17,1,0.9444444444444444
+2023-09-30,2023,2023 Q3,Ukraine,Europe Other,200,NA,NA
+2023-09-30,2023,2023 Q3,United Arab Emirates,Middle East,2,1,0.6666666666666666
+2023-09-30,2023,2023 Q3,United States,America North,NA,4,NA
+2023-09-30,2023,2023 Q3,Uzbekistan,Asia Central,7,12,0.3684210526315789
+2023-09-30,2023,2023 Q3,Vanuatu,Oceania,NA,1,NA
+2023-09-30,2023,2023 Q3,Venezuela,America Central and South,6,NA,NA
+2023-09-30,2023,2023 Q3,Vietnam,Asia South East,139,192,0.4199395770392749
+2023-09-30,2023,2023 Q3,Yemen,Middle East,226,NA,NA
+2023-09-30,2023,2023 Q3,Zambia,Africa Sub-Saharan,2,1,0.6666666666666666
+2023-09-30,2023,2023 Q3,Zimbabwe,Africa Sub-Saharan,23,36,0.3898305084745763

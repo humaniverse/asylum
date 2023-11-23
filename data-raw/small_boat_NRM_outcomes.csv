@@ -258,6 +258,8 @@ Date,Year,Quarter,Nationality,Region,Sex,Age Group,NRM Case Outcome,NRM Case Out
 2020-06-30,2020,2,Mali,Africa Sub-Saharan,Male,25 to 39,Positive,Reasonable grounds decision,1
 2020-06-30,2020,2,Niger,Africa Sub-Saharan,Male,25 to 39,Awaiting a conclusive grounds decision,Awaiting a decision,1
 2020-06-30,2020,2,Niger,Africa Sub-Saharan,Male,25 to 39,Positive,Reasonable grounds decision,1
+2020-06-30,2020,2,Other and unknown,Other,Male,40 and over,Awaiting a conclusive grounds decision,Awaiting a decision,1
+2020-06-30,2020,2,Other and unknown,Other,Male,40 and over,Positive,Reasonable grounds decision,1
 2020-06-30,2020,2,Pakistan,Asia South,Male,18 to 24,Awaiting a conclusive grounds decision,Awaiting a decision,1
 2020-06-30,2020,2,Pakistan,Asia South,Male,18 to 24,Positive,Reasonable grounds decision,1
 2020-06-30,2020,2,Refugee,Other,Male,18 to 24,Positive,Conclusive grounds decision,1
@@ -270,6 +272,8 @@ Date,Year,Quarter,Nationality,Region,Sex,Age Group,NRM Case Outcome,NRM Case Out
 2020-06-30,2020,2,Refugee,Other,Male,40 and over,Awaiting a conclusive grounds decision,Awaiting a decision,2
 2020-06-30,2020,2,Refugee,Other,Male,40 and over,Positive,Reasonable grounds decision,2
 2020-06-30,2020,2,Somalia,Africa Sub-Saharan,Male,18 to 24,Withdrawn/Closed,Withdrawn/Closed,1
+2020-06-30,2020,2,South Sudan,Africa Sub-Saharan,Male,18 to 24,Awaiting a conclusive grounds decision,Awaiting a decision,1
+2020-06-30,2020,2,South Sudan,Africa Sub-Saharan,Male,18 to 24,Positive,Reasonable grounds decision,1
 2020-06-30,2020,2,Stateless,Other,Male,25 to 39,Awaiting a conclusive grounds decision,Awaiting a decision,1
 2020-06-30,2020,2,Stateless,Other,Male,25 to 39,Positive,Reasonable grounds decision,1
 2020-06-30,2020,2,Stateless,Other,Male,25 to 39,Withdrawn/Closed,Withdrawn/Closed,1
@@ -286,8 +290,6 @@ Date,Year,Quarter,Nationality,Region,Sex,Age Group,NRM Case Outcome,NRM Case Out
 2020-06-30,2020,2,Sudan,Africa North,Male,40 and over,Awaiting a conclusive grounds decision,Awaiting a decision,1
 2020-06-30,2020,2,Sudan,Africa North,Male,40 and over,Positive,Conclusive grounds decision,1
 2020-06-30,2020,2,Sudan,Africa North,Male,40 and over,Positive,Reasonable grounds decision,2
-2020-06-30,2020,2,South Sudan,Africa Sub-Saharan,Male,18 to 24,Awaiting a conclusive grounds decision,Awaiting a decision,1
-2020-06-30,2020,2,South Sudan,Africa Sub-Saharan,Male,18 to 24,Positive,Reasonable grounds decision,1
 2020-06-30,2020,2,Syria,Middle East,Male,18 to 24,Awaiting a conclusive grounds decision,Awaiting a decision,4
 2020-06-30,2020,2,Syria,Middle East,Male,18 to 24,Negative,Reasonable grounds decision,1
 2020-06-30,2020,2,Syria,Middle East,Male,18 to 24,Positive,Conclusive grounds decision,3
@@ -312,8 +314,6 @@ Date,Year,Quarter,Nationality,Region,Sex,Age Group,NRM Case Outcome,NRM Case Out
 2020-06-30,2020,2,Yemen,Middle East,Male,25 to 39,Withdrawn/Closed,Withdrawn/Closed,8
 2020-06-30,2020,2,Yemen,Middle East,Male,40 and over,Awaiting a conclusive grounds decision,Awaiting a decision,1
 2020-06-30,2020,2,Yemen,Middle East,Male,40 and over,Positive,Reasonable grounds decision,1
-2020-06-30,2020,2,Other and unknown,Other,Male,40 and over,Awaiting a conclusive grounds decision,Awaiting a decision,1
-2020-06-30,2020,2,Other and unknown,Other,Male,40 and over,Positive,Reasonable grounds decision,1
 2020-09-30,2020,3,Afghanistan,Asia Central,Male,17 and under,Awaiting a conclusive grounds decision,Awaiting a decision,3
 2020-09-30,2020,3,Afghanistan,Asia Central,Male,17 and under,Negative,Reasonable grounds decision,1
 2020-09-30,2020,3,Afghanistan,Asia Central,Male,17 and under,Positive,Conclusive grounds decision,5
@@ -531,6 +531,14 @@ Date,Year,Quarter,Nationality,Region,Sex,Age Group,NRM Case Outcome,NRM Case Out
 2020-09-30,2020,3,Somalia,Africa Sub-Saharan,Female,18 to 24,Awaiting a reasonable grounds decision,Awaiting a decision,1
 2020-09-30,2020,3,Somalia,Africa Sub-Saharan,Male,17 and under,Awaiting a conclusive grounds decision,Awaiting a decision,1
 2020-09-30,2020,3,Somalia,Africa Sub-Saharan,Male,17 and under,Positive,Reasonable grounds decision,1
+2020-09-30,2020,3,South Sudan,Africa Sub-Saharan,Male,17 and under,Withdrawn/Closed,Withdrawn/Closed,1
+2020-09-30,2020,3,South Sudan,Africa Sub-Saharan,Male,18 to 24,Awaiting a conclusive grounds decision,Awaiting a decision,2
+2020-09-30,2020,3,South Sudan,Africa Sub-Saharan,Male,18 to 24,Awaiting a reasonable grounds decision,Awaiting a decision,1
+2020-09-30,2020,3,South Sudan,Africa Sub-Saharan,Male,18 to 24,Positive,Conclusive grounds decision,2
+2020-09-30,2020,3,South Sudan,Africa Sub-Saharan,Male,18 to 24,Positive,Reasonable grounds decision,4
+2020-09-30,2020,3,South Sudan,Africa Sub-Saharan,Male,18 to 24,Withdrawn/Closed,Withdrawn/Closed,2
+2020-09-30,2020,3,South Sudan,Africa Sub-Saharan,Male,25 to 39,Awaiting a conclusive grounds decision,Awaiting a decision,1
+2020-09-30,2020,3,South Sudan,Africa Sub-Saharan,Male,25 to 39,Positive,Reasonable grounds decision,1
 2020-09-30,2020,3,Sri Lanka,Asia South,Male,18 to 24,Awaiting a conclusive grounds decision,Awaiting a decision,1
 2020-09-30,2020,3,Sri Lanka,Asia South,Male,18 to 24,Positive,Reasonable grounds decision,1
 2020-09-30,2020,3,Sri Lanka,Asia South,Male,25 to 39,Awaiting a conclusive grounds decision,Awaiting a decision,1
@@ -567,14 +575,6 @@ Date,Year,Quarter,Nationality,Region,Sex,Age Group,NRM Case Outcome,NRM Case Out
 2020-09-30,2020,3,Sudan,Africa North,Male,40 and over,Positive,Conclusive grounds decision,3
 2020-09-30,2020,3,Sudan,Africa North,Male,40 and over,Positive,Reasonable grounds decision,11
 2020-09-30,2020,3,Sudan,Africa North,Male,40 and over,Withdrawn/Closed,Withdrawn/Closed,1
-2020-09-30,2020,3,South Sudan,Africa Sub-Saharan,Male,17 and under,Withdrawn/Closed,Withdrawn/Closed,1
-2020-09-30,2020,3,South Sudan,Africa Sub-Saharan,Male,18 to 24,Awaiting a conclusive grounds decision,Awaiting a decision,2
-2020-09-30,2020,3,South Sudan,Africa Sub-Saharan,Male,18 to 24,Awaiting a reasonable grounds decision,Awaiting a decision,1
-2020-09-30,2020,3,South Sudan,Africa Sub-Saharan,Male,18 to 24,Positive,Conclusive grounds decision,2
-2020-09-30,2020,3,South Sudan,Africa Sub-Saharan,Male,18 to 24,Positive,Reasonable grounds decision,4
-2020-09-30,2020,3,South Sudan,Africa Sub-Saharan,Male,18 to 24,Withdrawn/Closed,Withdrawn/Closed,2
-2020-09-30,2020,3,South Sudan,Africa Sub-Saharan,Male,25 to 39,Awaiting a conclusive grounds decision,Awaiting a decision,1
-2020-09-30,2020,3,South Sudan,Africa Sub-Saharan,Male,25 to 39,Positive,Reasonable grounds decision,1
 2020-09-30,2020,3,Syria,Middle East,Male,18 to 24,Awaiting a conclusive grounds decision,Awaiting a decision,5
 2020-09-30,2020,3,Syria,Middle East,Male,18 to 24,Positive,Conclusive grounds decision,1
 2020-09-30,2020,3,Syria,Middle East,Male,18 to 24,Positive,Reasonable grounds decision,6
@@ -696,6 +696,10 @@ Date,Year,Quarter,Nationality,Region,Sex,Age Group,NRM Case Outcome,NRM Case Out
 2020-12-31,2020,4,Pakistan,Asia South,Male,25 to 39,Positive,Reasonable grounds decision,2
 2020-12-31,2020,4,Somalia,Africa Sub-Saharan,Female,40 and over,Awaiting a conclusive grounds decision,Awaiting a decision,1
 2020-12-31,2020,4,Somalia,Africa Sub-Saharan,Female,40 and over,Positive,Reasonable grounds decision,1
+2020-12-31,2020,4,South Sudan,Africa Sub-Saharan,Male,18 to 24,Awaiting a conclusive grounds decision,Awaiting a decision,1
+2020-12-31,2020,4,South Sudan,Africa Sub-Saharan,Male,18 to 24,Positive,Reasonable grounds decision,1
+2020-12-31,2020,4,South Sudan,Africa Sub-Saharan,Male,25 to 39,Awaiting a conclusive grounds decision,Awaiting a decision,2
+2020-12-31,2020,4,South Sudan,Africa Sub-Saharan,Male,25 to 39,Positive,Reasonable grounds decision,2
 2020-12-31,2020,4,Sri Lanka,Asia South,Male,25 to 39,Awaiting a conclusive grounds decision,Awaiting a decision,1
 2020-12-31,2020,4,Sri Lanka,Asia South,Male,25 to 39,Positive,Reasonable grounds decision,1
 2020-12-31,2020,4,Sudan,Africa North,Male,17 and under,Awaiting a conclusive grounds decision,Awaiting a decision,5
@@ -715,10 +719,6 @@ Date,Year,Quarter,Nationality,Region,Sex,Age Group,NRM Case Outcome,NRM Case Out
 2020-12-31,2020,4,Sudan,Africa North,Male,25 to 39,Withdrawn/Closed,Withdrawn/Closed,1
 2020-12-31,2020,4,Sudan,Africa North,Male,40 and over,Positive,Conclusive grounds decision,1
 2020-12-31,2020,4,Sudan,Africa North,Male,40 and over,Positive,Reasonable grounds decision,1
-2020-12-31,2020,4,South Sudan,Africa Sub-Saharan,Male,18 to 24,Awaiting a conclusive grounds decision,Awaiting a decision,1
-2020-12-31,2020,4,South Sudan,Africa Sub-Saharan,Male,18 to 24,Positive,Reasonable grounds decision,1
-2020-12-31,2020,4,South Sudan,Africa Sub-Saharan,Male,25 to 39,Awaiting a conclusive grounds decision,Awaiting a decision,2
-2020-12-31,2020,4,South Sudan,Africa Sub-Saharan,Male,25 to 39,Positive,Reasonable grounds decision,2
 2020-12-31,2020,4,Syria,Middle East,Male,18 to 24,Awaiting a conclusive grounds decision,Awaiting a decision,2
 2020-12-31,2020,4,Syria,Middle East,Male,18 to 24,Positive,Conclusive grounds decision,2
 2020-12-31,2020,4,Syria,Middle East,Male,18 to 24,Positive,Reasonable grounds decision,4
@@ -797,6 +797,8 @@ Date,Year,Quarter,Nationality,Region,Sex,Age Group,NRM Case Outcome,NRM Case Out
 2021-03-31,2021,1,Pakistan,Asia South,Male,25 to 39,Positive,Reasonable grounds decision,1
 2021-03-31,2021,1,Refugee,Other,Male,25 to 39,Awaiting a conclusive grounds decision,Awaiting a decision,1
 2021-03-31,2021,1,Refugee,Other,Male,25 to 39,Positive,Reasonable grounds decision,1
+2021-03-31,2021,1,South Sudan,Africa Sub-Saharan,Male,17 and under,Negative,Reasonable grounds decision,1
+2021-03-31,2021,1,South Sudan,Africa Sub-Saharan,Male,17 and under,Withdrawn/Closed,Withdrawn/Closed,1
 2021-03-31,2021,1,Sudan,Africa North,Male,17 and under,Awaiting a conclusive grounds decision,Awaiting a decision,1
 2021-03-31,2021,1,Sudan,Africa North,Male,17 and under,Positive,Reasonable grounds decision,1
 2021-03-31,2021,1,Sudan,Africa North,Male,18 to 24,Awaiting a conclusive grounds decision,Awaiting a decision,10
@@ -807,8 +809,6 @@ Date,Year,Quarter,Nationality,Region,Sex,Age Group,NRM Case Outcome,NRM Case Out
 2021-03-31,2021,1,Sudan,Africa North,Male,25 to 39,Positive,Reasonable grounds decision,8
 2021-03-31,2021,1,Sudan,Africa North,Male,40 and over,Awaiting a conclusive grounds decision,Awaiting a decision,1
 2021-03-31,2021,1,Sudan,Africa North,Male,40 and over,Positive,Reasonable grounds decision,1
-2021-03-31,2021,1,South Sudan,Africa Sub-Saharan,Male,17 and under,Negative,Reasonable grounds decision,1
-2021-03-31,2021,1,South Sudan,Africa Sub-Saharan,Male,17 and under,Withdrawn/Closed,Withdrawn/Closed,1
 2021-03-31,2021,1,Syria,Middle East,Male,17 and under,Negative,Reasonable grounds decision,1
 2021-03-31,2021,1,Syria,Middle East,Male,17 and under,Withdrawn/Closed,Withdrawn/Closed,1
 2021-03-31,2021,1,Syria,Middle East,Male,18 to 24,Awaiting a conclusive grounds decision,Awaiting a decision,1
@@ -982,6 +982,11 @@ Date,Year,Quarter,Nationality,Region,Sex,Age Group,NRM Case Outcome,NRM Case Out
 2021-06-30,2021,2,Somalia,Africa Sub-Saharan,Male,25 to 39,Awaiting a conclusive grounds decision,Awaiting a decision,1
 2021-06-30,2021,2,Somalia,Africa Sub-Saharan,Male,25 to 39,Awaiting a reasonable grounds decision,Awaiting a decision,2
 2021-06-30,2021,2,Somalia,Africa Sub-Saharan,Male,25 to 39,Positive,Reasonable grounds decision,1
+2021-06-30,2021,2,South Sudan,Africa Sub-Saharan,Male,17 and under,Awaiting a conclusive grounds decision,Awaiting a decision,2
+2021-06-30,2021,2,South Sudan,Africa Sub-Saharan,Male,17 and under,Positive,Reasonable grounds decision,2
+2021-06-30,2021,2,South Sudan,Africa Sub-Saharan,Male,18 to 24,Awaiting a conclusive grounds decision,Awaiting a decision,1
+2021-06-30,2021,2,South Sudan,Africa Sub-Saharan,Male,18 to 24,Positive,Reasonable grounds decision,1
+2021-06-30,2021,2,South Sudan,Africa Sub-Saharan,Male,25 to 39,Negative,Reasonable grounds decision,1
 2021-06-30,2021,2,Sri Lanka,Asia South,Male,25 to 39,Negative,Reasonable grounds decision,2
 2021-06-30,2021,2,Stateless,Other,Male,17 and under,Awaiting a conclusive grounds decision,Awaiting a decision,1
 2021-06-30,2021,2,Stateless,Other,Male,17 and under,Positive,Reasonable grounds decision,1
@@ -1004,11 +1009,6 @@ Date,Year,Quarter,Nationality,Region,Sex,Age Group,NRM Case Outcome,NRM Case Out
 2021-06-30,2021,2,Sudan,Africa North,Male,25 to 39,Positive,Conclusive grounds decision,2
 2021-06-30,2021,2,Sudan,Africa North,Male,25 to 39,Positive,Reasonable grounds decision,31
 2021-06-30,2021,2,Sudan,Africa North,Male,25 to 39,Withdrawn/Closed,Withdrawn/Closed,1
-2021-06-30,2021,2,South Sudan,Africa Sub-Saharan,Male,17 and under,Awaiting a conclusive grounds decision,Awaiting a decision,2
-2021-06-30,2021,2,South Sudan,Africa Sub-Saharan,Male,17 and under,Positive,Reasonable grounds decision,2
-2021-06-30,2021,2,South Sudan,Africa Sub-Saharan,Male,18 to 24,Awaiting a conclusive grounds decision,Awaiting a decision,1
-2021-06-30,2021,2,South Sudan,Africa Sub-Saharan,Male,18 to 24,Positive,Reasonable grounds decision,1
-2021-06-30,2021,2,South Sudan,Africa Sub-Saharan,Male,25 to 39,Negative,Reasonable grounds decision,1
 2021-06-30,2021,2,Syria,Middle East,Male,17 and under,Negative,Reasonable grounds decision,3
 2021-06-30,2021,2,Syria,Middle East,Male,17 and under,Withdrawn/Closed,Withdrawn/Closed,1
 2021-06-30,2021,2,Syria,Middle East,Male,18 to 24,Awaiting a conclusive grounds decision,Awaiting a decision,3
@@ -1270,6 +1270,12 @@ Date,Year,Quarter,Nationality,Region,Sex,Age Group,NRM Case Outcome,NRM Case Out
 2021-09-30,2021,3,Somalia,Africa Sub-Saharan,Male,25 to 39,Negative,Reasonable grounds decision,4
 2021-09-30,2021,3,Somalia,Africa Sub-Saharan,Male,25 to 39,Positive,Reasonable grounds decision,13
 2021-09-30,2021,3,Somalia,Africa Sub-Saharan,Male,25 to 39,Withdrawn/Closed,Withdrawn/Closed,2
+2021-09-30,2021,3,South Sudan,Africa Sub-Saharan,Male,17 and under,Awaiting a conclusive grounds decision,Awaiting a decision,2
+2021-09-30,2021,3,South Sudan,Africa Sub-Saharan,Male,17 and under,Positive,Reasonable grounds decision,2
+2021-09-30,2021,3,South Sudan,Africa Sub-Saharan,Male,18 to 24,Awaiting a conclusive grounds decision,Awaiting a decision,5
+2021-09-30,2021,3,South Sudan,Africa Sub-Saharan,Male,18 to 24,Positive,Reasonable grounds decision,5
+2021-09-30,2021,3,South Sudan,Africa Sub-Saharan,Male,25 to 39,Awaiting a conclusive grounds decision,Awaiting a decision,2
+2021-09-30,2021,3,South Sudan,Africa Sub-Saharan,Male,25 to 39,Positive,Reasonable grounds decision,2
 2021-09-30,2021,3,Sri Lanka,Asia South,Male,25 to 39,Awaiting a conclusive grounds decision,Awaiting a decision,3
 2021-09-30,2021,3,Sri Lanka,Asia South,Male,25 to 39,Negative,Reasonable grounds decision,2
 2021-09-30,2021,3,Sri Lanka,Asia South,Male,25 to 39,Positive,Reasonable grounds decision,3
@@ -1296,12 +1302,6 @@ Date,Year,Quarter,Nationality,Region,Sex,Age Group,NRM Case Outcome,NRM Case Out
 2021-09-30,2021,3,Sudan,Africa North,Male,40 and over,Awaiting a conclusive grounds decision,Awaiting a decision,2
 2021-09-30,2021,3,Sudan,Africa North,Male,40 and over,Awaiting a reasonable grounds decision,Awaiting a decision,1
 2021-09-30,2021,3,Sudan,Africa North,Male,40 and over,Positive,Reasonable grounds decision,2
-2021-09-30,2021,3,South Sudan,Africa Sub-Saharan,Male,17 and under,Awaiting a conclusive grounds decision,Awaiting a decision,2
-2021-09-30,2021,3,South Sudan,Africa Sub-Saharan,Male,17 and under,Positive,Reasonable grounds decision,2
-2021-09-30,2021,3,South Sudan,Africa Sub-Saharan,Male,18 to 24,Awaiting a conclusive grounds decision,Awaiting a decision,5
-2021-09-30,2021,3,South Sudan,Africa Sub-Saharan,Male,18 to 24,Positive,Reasonable grounds decision,5
-2021-09-30,2021,3,South Sudan,Africa Sub-Saharan,Male,25 to 39,Awaiting a conclusive grounds decision,Awaiting a decision,2
-2021-09-30,2021,3,South Sudan,Africa Sub-Saharan,Male,25 to 39,Positive,Reasonable grounds decision,2
 2021-09-30,2021,3,Syria,Middle East,Male,17 and under,Awaiting a conclusive grounds decision,Awaiting a decision,5
 2021-09-30,2021,3,Syria,Middle East,Male,17 and under,Negative,Conclusive grounds decision,1
 2021-09-30,2021,3,Syria,Middle East,Male,17 and under,Negative,Reasonable grounds decision,3
@@ -1554,6 +1554,11 @@ Date,Year,Quarter,Nationality,Region,Sex,Age Group,NRM Case Outcome,NRM Case Out
 2021-12-31,2021,4,Somalia,Africa Sub-Saharan,Male,25 to 39,Positive,Conclusive grounds decision,1
 2021-12-31,2021,4,Somalia,Africa Sub-Saharan,Male,25 to 39,Positive,Reasonable grounds decision,14
 2021-12-31,2021,4,Somalia,Africa Sub-Saharan,Male,25 to 39,Withdrawn/Closed,Withdrawn/Closed,1
+2021-12-31,2021,4,South Sudan,Africa Sub-Saharan,Male,17 and under,Awaiting a conclusive grounds decision,Awaiting a decision,2
+2021-12-31,2021,4,South Sudan,Africa Sub-Saharan,Male,17 and under,Positive,Reasonable grounds decision,2
+2021-12-31,2021,4,South Sudan,Africa Sub-Saharan,Male,18 to 24,Awaiting a conclusive grounds decision,Awaiting a decision,1
+2021-12-31,2021,4,South Sudan,Africa Sub-Saharan,Male,18 to 24,Negative,Reasonable grounds decision,1
+2021-12-31,2021,4,South Sudan,Africa Sub-Saharan,Male,18 to 24,Positive,Reasonable grounds decision,1
 2021-12-31,2021,4,Sri Lanka,Asia South,Male,18 to 24,Awaiting a conclusive grounds decision,Awaiting a decision,1
 2021-12-31,2021,4,Sri Lanka,Asia South,Male,18 to 24,Positive,Reasonable grounds decision,1
 2021-12-31,2021,4,Stateless,Other,Male,25 to 39,Awaiting a conclusive grounds decision,Awaiting a decision,2
@@ -1576,11 +1581,6 @@ Date,Year,Quarter,Nationality,Region,Sex,Age Group,NRM Case Outcome,NRM Case Out
 2021-12-31,2021,4,Sudan,Africa North,Male,25 to 39,Withdrawn/Closed,Withdrawn/Closed,1
 2021-12-31,2021,4,Sudan,Africa North,Male,40 and over,Awaiting a conclusive grounds decision,Awaiting a decision,1
 2021-12-31,2021,4,Sudan,Africa North,Male,40 and over,Positive,Reasonable grounds decision,1
-2021-12-31,2021,4,South Sudan,Africa Sub-Saharan,Male,17 and under,Awaiting a conclusive grounds decision,Awaiting a decision,2
-2021-12-31,2021,4,South Sudan,Africa Sub-Saharan,Male,17 and under,Positive,Reasonable grounds decision,2
-2021-12-31,2021,4,South Sudan,Africa Sub-Saharan,Male,18 to 24,Awaiting a conclusive grounds decision,Awaiting a decision,1
-2021-12-31,2021,4,South Sudan,Africa Sub-Saharan,Male,18 to 24,Negative,Reasonable grounds decision,1
-2021-12-31,2021,4,South Sudan,Africa Sub-Saharan,Male,18 to 24,Positive,Reasonable grounds decision,1
 2021-12-31,2021,4,Syria,Middle East,Female,18 to 24,Withdrawn/Closed,Withdrawn/Closed,1
 2021-12-31,2021,4,Syria,Middle East,Female,25 to 39,Awaiting a conclusive grounds decision,Awaiting a decision,1
 2021-12-31,2021,4,Syria,Middle East,Female,25 to 39,Positive,Reasonable grounds decision,1
@@ -2011,6 +2011,11 @@ Date,Year,Quarter,Nationality,Region,Sex,Age Group,NRM Case Outcome,NRM Case Out
 2022-06-30,2022,2,Somalia,Africa Sub-Saharan,Female,25 to 39,Positive,Reasonable grounds decision,1
 2022-06-30,2022,2,Somalia,Africa Sub-Saharan,Male,25 to 39,Awaiting a conclusive grounds decision,Awaiting a decision,2
 2022-06-30,2022,2,Somalia,Africa Sub-Saharan,Male,25 to 39,Positive,Reasonable grounds decision,2
+2022-06-30,2022,2,South Sudan,Africa Sub-Saharan,Male,17 and under,Awaiting a conclusive grounds decision,Awaiting a decision,3
+2022-06-30,2022,2,South Sudan,Africa Sub-Saharan,Male,17 and under,Negative,Conclusive grounds decision,1
+2022-06-30,2022,2,South Sudan,Africa Sub-Saharan,Male,17 and under,Positive,Reasonable grounds decision,4
+2022-06-30,2022,2,South Sudan,Africa Sub-Saharan,Male,18 to 24,Awaiting a conclusive grounds decision,Awaiting a decision,3
+2022-06-30,2022,2,South Sudan,Africa Sub-Saharan,Male,18 to 24,Positive,Reasonable grounds decision,3
 2022-06-30,2022,2,Sri Lanka,Asia South,Male,25 to 39,Awaiting a reasonable grounds decision,Awaiting a decision,1
 2022-06-30,2022,2,Sri Lanka,Asia South,Male,25 to 39,Negative,Reasonable grounds decision,1
 2022-06-30,2022,2,Sri Lanka,Asia South,Male,40 and over,Awaiting a reasonable grounds decision,Awaiting a decision,1
@@ -2039,11 +2044,6 @@ Date,Year,Quarter,Nationality,Region,Sex,Age Group,NRM Case Outcome,NRM Case Out
 2022-06-30,2022,2,Sudan,Africa North,Male,40 and over,Awaiting a conclusive grounds decision,Awaiting a decision,2
 2022-06-30,2022,2,Sudan,Africa North,Male,40 and over,Positive,Conclusive grounds decision,2
 2022-06-30,2022,2,Sudan,Africa North,Male,40 and over,Positive,Reasonable grounds decision,4
-2022-06-30,2022,2,South Sudan,Africa Sub-Saharan,Male,17 and under,Awaiting a conclusive grounds decision,Awaiting a decision,3
-2022-06-30,2022,2,South Sudan,Africa Sub-Saharan,Male,17 and under,Negative,Conclusive grounds decision,1
-2022-06-30,2022,2,South Sudan,Africa Sub-Saharan,Male,17 and under,Positive,Reasonable grounds decision,4
-2022-06-30,2022,2,South Sudan,Africa Sub-Saharan,Male,18 to 24,Awaiting a conclusive grounds decision,Awaiting a decision,3
-2022-06-30,2022,2,South Sudan,Africa Sub-Saharan,Male,18 to 24,Positive,Reasonable grounds decision,3
 2022-06-30,2022,2,Syria,Middle East,Female,25 to 39,Awaiting a conclusive grounds decision,Awaiting a decision,1
 2022-06-30,2022,2,Syria,Middle East,Female,25 to 39,Positive,Reasonable grounds decision,1
 2022-06-30,2022,2,Syria,Middle East,Male,17 and under,Awaiting a reasonable grounds decision,Awaiting a decision,1
@@ -2312,6 +2312,18 @@ Date,Year,Quarter,Nationality,Region,Sex,Age Group,NRM Case Outcome,NRM Case Out
 2022-09-30,2022,3,Somalia,Africa Sub-Saharan,Male,25 to 39,Positive,Reasonable grounds decision,1
 2022-09-30,2022,3,Somalia,Africa Sub-Saharan,Male,40 and over,Awaiting a conclusive grounds decision,Awaiting a decision,1
 2022-09-30,2022,3,Somalia,Africa Sub-Saharan,Male,40 and over,Positive,Reasonable grounds decision,1
+2022-09-30,2022,3,South Sudan,Africa Sub-Saharan,Female,18 to 24,Awaiting a conclusive grounds decision,Awaiting a decision,1
+2022-09-30,2022,3,South Sudan,Africa Sub-Saharan,Female,18 to 24,Positive,Reasonable grounds decision,1
+2022-09-30,2022,3,South Sudan,Africa Sub-Saharan,Male,17 and under,Awaiting a conclusive grounds decision,Awaiting a decision,1
+2022-09-30,2022,3,South Sudan,Africa Sub-Saharan,Male,17 and under,Awaiting a reasonable grounds decision,Awaiting a decision,1
+2022-09-30,2022,3,South Sudan,Africa Sub-Saharan,Male,17 and under,Positive,Conclusive grounds decision,1
+2022-09-30,2022,3,South Sudan,Africa Sub-Saharan,Male,17 and under,Positive,Reasonable grounds decision,2
+2022-09-30,2022,3,South Sudan,Africa Sub-Saharan,Male,18 to 24,Awaiting a conclusive grounds decision,Awaiting a decision,3
+2022-09-30,2022,3,South Sudan,Africa Sub-Saharan,Male,18 to 24,Awaiting a reasonable grounds decision,Awaiting a decision,4
+2022-09-30,2022,3,South Sudan,Africa Sub-Saharan,Male,18 to 24,Negative,Reasonable grounds decision,3
+2022-09-30,2022,3,South Sudan,Africa Sub-Saharan,Male,18 to 24,Positive,Reasonable grounds decision,3
+2022-09-30,2022,3,South Sudan,Africa Sub-Saharan,Male,25 to 39,Awaiting a conclusive grounds decision,Awaiting a decision,1
+2022-09-30,2022,3,South Sudan,Africa Sub-Saharan,Male,25 to 39,Positive,Reasonable grounds decision,1
 2022-09-30,2022,3,Sri Lanka,Asia South,Male,18 to 24,Awaiting a conclusive grounds decision,Awaiting a decision,1
 2022-09-30,2022,3,Sri Lanka,Asia South,Male,18 to 24,Positive,Reasonable grounds decision,1
 2022-09-30,2022,3,Sri Lanka,Asia South,Male,25 to 39,Awaiting a conclusive grounds decision,Awaiting a decision,1
@@ -2341,18 +2353,6 @@ Date,Year,Quarter,Nationality,Region,Sex,Age Group,NRM Case Outcome,NRM Case Out
 2022-09-30,2022,3,Sudan,Africa North,Male,40 and over,Negative,Reasonable grounds decision,1
 2022-09-30,2022,3,Sudan,Africa North,Male,40 and over,Positive,Reasonable grounds decision,2
 2022-09-30,2022,3,Sudan,Africa North,Unknown,18 to 24,Awaiting a reasonable grounds decision,Awaiting a decision,1
-2022-09-30,2022,3,South Sudan,Africa Sub-Saharan,Female,18 to 24,Awaiting a conclusive grounds decision,Awaiting a decision,1
-2022-09-30,2022,3,South Sudan,Africa Sub-Saharan,Female,18 to 24,Positive,Reasonable grounds decision,1
-2022-09-30,2022,3,South Sudan,Africa Sub-Saharan,Male,17 and under,Awaiting a conclusive grounds decision,Awaiting a decision,1
-2022-09-30,2022,3,South Sudan,Africa Sub-Saharan,Male,17 and under,Awaiting a reasonable grounds decision,Awaiting a decision,1
-2022-09-30,2022,3,South Sudan,Africa Sub-Saharan,Male,17 and under,Positive,Conclusive grounds decision,1
-2022-09-30,2022,3,South Sudan,Africa Sub-Saharan,Male,17 and under,Positive,Reasonable grounds decision,2
-2022-09-30,2022,3,South Sudan,Africa Sub-Saharan,Male,18 to 24,Awaiting a conclusive grounds decision,Awaiting a decision,3
-2022-09-30,2022,3,South Sudan,Africa Sub-Saharan,Male,18 to 24,Awaiting a reasonable grounds decision,Awaiting a decision,4
-2022-09-30,2022,3,South Sudan,Africa Sub-Saharan,Male,18 to 24,Negative,Reasonable grounds decision,3
-2022-09-30,2022,3,South Sudan,Africa Sub-Saharan,Male,18 to 24,Positive,Reasonable grounds decision,3
-2022-09-30,2022,3,South Sudan,Africa Sub-Saharan,Male,25 to 39,Awaiting a conclusive grounds decision,Awaiting a decision,1
-2022-09-30,2022,3,South Sudan,Africa Sub-Saharan,Male,25 to 39,Positive,Reasonable grounds decision,1
 2022-09-30,2022,3,Syria,Middle East,Male,17 and under,Awaiting a conclusive grounds decision,Awaiting a decision,2
 2022-09-30,2022,3,Syria,Middle East,Male,17 and under,Awaiting a reasonable grounds decision,Awaiting a decision,4
 2022-09-30,2022,3,Syria,Middle East,Male,17 and under,Positive,Reasonable grounds decision,2
@@ -2539,6 +2539,13 @@ Date,Year,Quarter,Nationality,Region,Sex,Age Group,NRM Case Outcome,NRM Case Out
 2022-12-31,2022,4,Senegal,Africa Sub-Saharan,Male,25 to 39,Positive,Reasonable grounds decision,1
 2022-12-31,2022,4,Somalia,Africa Sub-Saharan,Female,18 to 24,Negative,Reasonable grounds decision,1
 2022-12-31,2022,4,Somalia,Africa Sub-Saharan,Male,25 to 39,Awaiting a reasonable grounds decision,Awaiting a decision,1
+2022-12-31,2022,4,South Sudan,Africa Sub-Saharan,Male,17 and under,Awaiting a conclusive grounds decision,Awaiting a decision,1
+2022-12-31,2022,4,South Sudan,Africa Sub-Saharan,Male,17 and under,Negative,Reasonable grounds decision,1
+2022-12-31,2022,4,South Sudan,Africa Sub-Saharan,Male,17 and under,Positive,Reasonable grounds decision,1
+2022-12-31,2022,4,South Sudan,Africa Sub-Saharan,Male,18 to 24,Awaiting a conclusive grounds decision,Awaiting a decision,2
+2022-12-31,2022,4,South Sudan,Africa Sub-Saharan,Male,18 to 24,Awaiting a reasonable grounds decision,Awaiting a decision,1
+2022-12-31,2022,4,South Sudan,Africa Sub-Saharan,Male,18 to 24,Negative,Reasonable grounds decision,2
+2022-12-31,2022,4,South Sudan,Africa Sub-Saharan,Male,18 to 24,Positive,Reasonable grounds decision,2
 2022-12-31,2022,4,Sri Lanka,Asia South,Male,25 to 39,Negative,Reasonable grounds decision,1
 2022-12-31,2022,4,Sudan,Africa North,Female,25 to 39,Awaiting a conclusive grounds decision,Awaiting a decision,1
 2022-12-31,2022,4,Sudan,Africa North,Female,25 to 39,Positive,Reasonable grounds decision,1
@@ -2557,13 +2564,6 @@ Date,Year,Quarter,Nationality,Region,Sex,Age Group,NRM Case Outcome,NRM Case Out
 2022-12-31,2022,4,Sudan,Africa North,Male,25 to 39,Positive,Reasonable grounds decision,11
 2022-12-31,2022,4,Sudan,Africa North,Male,40 and over,Awaiting a conclusive grounds decision,Awaiting a decision,1
 2022-12-31,2022,4,Sudan,Africa North,Male,40 and over,Positive,Reasonable grounds decision,1
-2022-12-31,2022,4,South Sudan,Africa Sub-Saharan,Male,17 and under,Awaiting a conclusive grounds decision,Awaiting a decision,1
-2022-12-31,2022,4,South Sudan,Africa Sub-Saharan,Male,17 and under,Negative,Reasonable grounds decision,1
-2022-12-31,2022,4,South Sudan,Africa Sub-Saharan,Male,17 and under,Positive,Reasonable grounds decision,1
-2022-12-31,2022,4,South Sudan,Africa Sub-Saharan,Male,18 to 24,Awaiting a conclusive grounds decision,Awaiting a decision,2
-2022-12-31,2022,4,South Sudan,Africa Sub-Saharan,Male,18 to 24,Awaiting a reasonable grounds decision,Awaiting a decision,1
-2022-12-31,2022,4,South Sudan,Africa Sub-Saharan,Male,18 to 24,Negative,Reasonable grounds decision,2
-2022-12-31,2022,4,South Sudan,Africa Sub-Saharan,Male,18 to 24,Positive,Reasonable grounds decision,2
 2022-12-31,2022,4,Syria,Middle East,Male,17 and under,Awaiting a conclusive grounds decision,Awaiting a decision,1
 2022-12-31,2022,4,Syria,Middle East,Male,17 and under,Awaiting a reasonable grounds decision,Awaiting a decision,1
 2022-12-31,2022,4,Syria,Middle East,Male,17 and under,Negative,Reasonable grounds decision,2
@@ -2650,6 +2650,8 @@ Date,Year,Quarter,Nationality,Region,Sex,Age Group,NRM Case Outcome,NRM Case Out
 2023-03-31,2023,1,Sierra Leone,Africa Sub-Saharan,Male,18 to 24,Negative,Reasonable grounds decision,1
 2023-03-31,2023,1,Sierra Leone,Africa Sub-Saharan,Male,18 to 24,Positive,Reasonable grounds decision,1
 2023-03-31,2023,1,Somalia,Africa Sub-Saharan,Male,18 to 24,Negative,Reasonable grounds decision,1
+2023-03-31,2023,1,South Sudan,Africa Sub-Saharan,Male,17 and under,Awaiting a reasonable grounds decision,Awaiting a decision,1
+2023-03-31,2023,1,South Sudan,Africa Sub-Saharan,Male,18 to 24,Awaiting a reasonable grounds decision,Awaiting a decision,1
 2023-03-31,2023,1,Sri Lanka,Asia South,Male,18 to 24,Negative,Reasonable grounds decision,1
 2023-03-31,2023,1,Sri Lanka,Asia South,Male,25 to 39,Negative,Reasonable grounds decision,1
 2023-03-31,2023,1,Stateless,Other,Male,17 and under,Awaiting a reasonable grounds decision,Awaiting a decision,1
@@ -2666,8 +2668,6 @@ Date,Year,Quarter,Nationality,Region,Sex,Age Group,NRM Case Outcome,NRM Case Out
 2023-03-31,2023,1,Sudan,Africa North,Male,25 to 39,Negative,Reasonable grounds decision,3
 2023-03-31,2023,1,Sudan,Africa North,Male,25 to 39,Positive,Reasonable grounds decision,1
 2023-03-31,2023,1,Sudan,Africa North,Male,40 and over,Negative,Reasonable grounds decision,1
-2023-03-31,2023,1,South Sudan,Africa Sub-Saharan,Male,17 and under,Awaiting a reasonable grounds decision,Awaiting a decision,1
-2023-03-31,2023,1,South Sudan,Africa Sub-Saharan,Male,18 to 24,Awaiting a reasonable grounds decision,Awaiting a decision,1
 2023-03-31,2023,1,Syria,Middle East,Male,17 and under,Awaiting a reasonable grounds decision,Awaiting a decision,1
 2023-03-31,2023,1,Syria,Middle East,Male,17 and under,Negative,Reasonable grounds decision,2
 2023-03-31,2023,1,Syria,Middle East,Male,18 to 24,Awaiting a conclusive grounds decision,Awaiting a decision,1
@@ -2735,6 +2735,9 @@ Date,Year,Quarter,Nationality,Region,Sex,Age Group,NRM Case Outcome,NRM Case Out
 2023-06-30,2023,2,Libya,Africa North,Male,40 and over,Awaiting a reasonable grounds decision,Awaiting a decision,1
 2023-06-30,2023,2,Morocco,Africa North,Male,25 to 39,Negative,Reasonable grounds decision,1
 2023-06-30,2023,2,Senegal,Africa Sub-Saharan,Male,25 to 39,Awaiting a reasonable grounds decision,Awaiting a decision,1
+2023-06-30,2023,2,South Sudan,Africa Sub-Saharan,Female,40 and over,Awaiting a reasonable grounds decision,Awaiting a decision,1
+2023-06-30,2023,2,South Sudan,Africa Sub-Saharan,Male,17 and under,Awaiting a reasonable grounds decision,Awaiting a decision,1
+2023-06-30,2023,2,South Sudan,Africa Sub-Saharan,Male,18 to 24,Awaiting a reasonable grounds decision,Awaiting a decision,1
 2023-06-30,2023,2,Sudan,Africa North,Male,17 and under,Awaiting a reasonable grounds decision,Awaiting a decision,10
 2023-06-30,2023,2,Sudan,Africa North,Male,17 and under,Negative,Reasonable grounds decision,1
 2023-06-30,2023,2,Sudan,Africa North,Male,18 to 24,Awaiting a conclusive grounds decision,Awaiting a decision,1
@@ -2742,9 +2745,6 @@ Date,Year,Quarter,Nationality,Region,Sex,Age Group,NRM Case Outcome,NRM Case Out
 2023-06-30,2023,2,Sudan,Africa North,Male,18 to 24,Negative,Reasonable grounds decision,3
 2023-06-30,2023,2,Sudan,Africa North,Male,18 to 24,Positive,Reasonable grounds decision,1
 2023-06-30,2023,2,Sudan,Africa North,Male,25 to 39,Awaiting a reasonable grounds decision,Awaiting a decision,4
-2023-06-30,2023,2,South Sudan,Africa Sub-Saharan,Female,40 and over,Awaiting a reasonable grounds decision,Awaiting a decision,1
-2023-06-30,2023,2,South Sudan,Africa Sub-Saharan,Male,17 and under,Awaiting a reasonable grounds decision,Awaiting a decision,1
-2023-06-30,2023,2,South Sudan,Africa Sub-Saharan,Male,18 to 24,Awaiting a reasonable grounds decision,Awaiting a decision,1
 2023-06-30,2023,2,Syria,Middle East,Male,17 and under,Awaiting a reasonable grounds decision,Awaiting a decision,2
 2023-06-30,2023,2,Syria,Middle East,Male,18 to 24,Awaiting a reasonable grounds decision,Awaiting a decision,1
 2023-06-30,2023,2,Turkey,Europe Other,Female,17 and under,Awaiting a conclusive grounds decision,Awaiting a decision,1

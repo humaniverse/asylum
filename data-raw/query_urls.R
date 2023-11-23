@@ -12,8 +12,8 @@ query_urls <-
     # - https://www.gov.uk/government/collections/migration-transparency-data#immigration-enforcement
 
     # Asylum applications, decisions and resettlement
-    "asylum_summary", "Asylum and resettlement summary tables", "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1179576/asylum-summary-jun-2023-tables.ods", "https://www.gov.uk/government/statistical-data-sets/immigration-system-statistics-data-tables-year-ending-march-2023",
-    "applications_decisions_resettlement", "Asylum applications, initial decisions and resettlement", "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1178017/asylum-applications-datasets-jun-2023.xlsx", "https://www.gov.uk/government/statistical-data-sets/asylum-and-resettlement-datasets",
+    "asylum_summary", "Asylum and resettlement summary tables", "https://assets.publishing.service.gov.uk/media/655b38a5046ed400148b9ba1/asylum-summary-sep-2023-tables.ods", "https://www.gov.uk/government/statistical-data-sets/immigration-system-statistics-data-tables-year-ending-march-2023",
+    "applications_decisions_resettlement", "Asylum applications, initial decisions and resettlement", "https://assets.publishing.service.gov.uk/media/655b38c3046ed4000d8b9b9b/asylum-applications-datasets-sep-2023.xlsx", "https://www.gov.uk/government/statistical-data-sets/asylum-and-resettlement-datasets",
     "awaiting_decision", "Asylum applications awaiting a decision", "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1178018/asylum-applications-awaiting-decision-datasets-jun-2023.xlsx", "https://www.gov.uk/government/statistical-data-sets/asylum-and-resettlement-datasets",
     "outcomes", "Outcome analysis of asylum applications", "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1098062/outcome-analysis-asylum-applications-datasets-jun-2022.xlsx", "https://www.gov.uk/government/statistical-data-sets/asylum-and-resettlement-datasets",
 
@@ -44,11 +44,11 @@ query_urls <-
     "immigration_detention", "Immigration detention", "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1178045/detention-datasets-jun-2023.xlsx", "https://www.gov.uk/government/statistical-data-sets/returns-and-detention-datasets",
 
     # Returns
-    "returns_summary", "Returns summary table", "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1178042/returns-summary-jun-2023-tables.ods", "https://www.gov.uk/government/statistical-data-sets/immigration-system-statistics-data-tables#returns",
-    "returns", "Returns", "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1178043/returns-datasets-jun-2023.xlsx", "https://www.gov.uk/government/statistical-data-sets/immigration-system-statistics-data-tables#returns",
+    "returns_summary", "Returns summary table", "https://assets.publishing.service.gov.uk/media/6556343c046ed400148b9a5a/returns-summary-sep-2023-tables.ods", "https://www.gov.uk/government/statistical-data-sets/immigration-system-statistics-data-tables#returns",
+    "returns", "Returns", "https://assets.publishing.service.gov.uk/media/6556344d046ed4000d8b9a66/returns-datasets-sep-2023.xlsx", "https://www.gov.uk/government/statistical-data-sets/immigration-system-statistics-data-tables#returns",
 
     # Irregular migration
-    "irrgular_migration", "Irregular migration detailed dataset", "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1179739/irregular-migration-to-the-UK-data-tables-year-ending-june-2023.xlsx", "https://www.gov.uk/government/statistical-data-sets/irregular-migration-detailed-dataset-and-summary-tables#detailed-datasets",
+    "irrgular_migration", "Irregular migration detailed dataset", "https://assets.publishing.service.gov.uk/media/655c859cd03a8d001207fd99/irregular-migration-to-the-UK-detailed-dataset-year-ending-september-2023.xlsx", "https://www.gov.uk/government/statistical-data-sets/irregular-migration-detailed-dataset-and-summary-tables#detailed-datasets",
 
     # Resettlement, Asylum Support and Integration (RASI) data
     "rasi", "Resettlement, Asylum Support and Integration", "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1180077/Resettlement_Asylum_Support_and_Integration_Q2_2023.ods", "https://www.gov.uk/government/collections/migration-transparency-data#uk-visas-and-immigration",
