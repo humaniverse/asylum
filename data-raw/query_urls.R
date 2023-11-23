@@ -23,7 +23,7 @@ query_urls <-
     # Asylum appeals
     "appeals_lodged_determined", "Asylum appeals lodged and determined", "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1156822/asylum-appeals-lodged-datasets-mar-2023.xlsx", "https://www.gov.uk/government/statistical-data-sets/asylum-and-resettlement-datasets",
     # "appeals_non_suspensive", "Non-suspensive appeals", "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1098066/non-suspensive-appeals-datasets-jun-2022.xlsx", "https://www.gov.uk/government/statistical-data-sets/asylum-and-resettlement-datasets",
-    "claims_certified_section_94", "Asylum claims certified under Section 94", "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1178022/asylum-claims-certified-section-94-datasets-jun-2023.xlsx", "https://www.gov.uk/government/statistical-data-sets/asylum-and-resettlement-datasets",
+    "claims_certified_section_94", "Asylum claims certified under Section 94", "https://assets.publishing.service.gov.uk/media/655badef544aea000dfb30fb/asylum-claims-certified-section-94-datasets-sep-2023.xlsx", "https://www.gov.uk/government/statistical-data-sets/asylum-and-resettlement-datasets",
 
     # Asylum support
     "support_received", "Asylum seekers in receipt of support", "https://assets.publishing.service.gov.uk/media/655bae08d03a8d001207fd16/asylum-seekers-receipt-support-datasets-sep-2023.xlsx", "https://www.gov.uk/government/statistical-data-sets/asylum-and-resettlement-datasets",
@@ -36,8 +36,8 @@ query_urls <-
     "family_reunion", "Family reunion visa grants", "https://assets.publishing.service.gov.uk/media/655bae1f544aea0019fb30e2/family-reunion-visa-grants-datasets-sep-2023.xlsx", "https://www.gov.uk/government/statistical-data-sets/asylum-and-resettlement-datasets",
 
     # Local authority data
-    "local_authority_resettlement", "Resettlement by local authority", "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1178025/resettlement-local-authority-datasets-jun-2023.xlsx", "https://www.gov.uk/government/statistical-data-sets/asylum-and-resettlement-datasets",
-    "local_authority_support", "Section 95 support by local authority", "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1178026/support-local-authority-datasets-jun-2023.xlsx", "https://www.gov.uk/government/statistical-data-sets/asylum-and-resettlement-datasets",
+    "local_authority_resettlement", "Resettlement by local authority", "https://assets.publishing.service.gov.uk/media/655bae44d03a8d001207fd17/resettlement-local-authority-datasets-sep-2023.xlsx", "https://www.gov.uk/government/statistical-data-sets/asylum-and-resettlement-datasets",
+    "local_authority_support", "Section 95 support by local authority", "https://assets.publishing.service.gov.uk/media/655bae5a046ed400148b9c8d/support-local-authority-datasets-sep-2023.xlsx", "https://www.gov.uk/government/statistical-data-sets/asylum-and-resettlement-datasets",
 
     # Detention
     "detention_summary", "Detention summary tables", "https://assets.publishing.service.gov.uk/media/65563340544aea0019fb2ea5/detention-summary-sep-2023-tables.ods", "https://www.gov.uk/government/statistical-data-sets/immigration-system-statistics-data-tables#detention",
