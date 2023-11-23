@@ -14,11 +14,11 @@ query_urls <-
     # Asylum applications, decisions and resettlement
     "asylum_summary", "Asylum and resettlement summary tables", "https://assets.publishing.service.gov.uk/media/655b38a5046ed400148b9ba1/asylum-summary-sep-2023-tables.ods", "https://www.gov.uk/government/statistical-data-sets/immigration-system-statistics-data-tables-year-ending-march-2023",
     "applications_decisions_resettlement", "Asylum applications, initial decisions and resettlement", "https://assets.publishing.service.gov.uk/media/655b38c3046ed4000d8b9b9b/asylum-applications-datasets-sep-2023.xlsx", "https://www.gov.uk/government/statistical-data-sets/asylum-and-resettlement-datasets",
-    "awaiting_decision", "Asylum applications awaiting a decision", "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1178018/asylum-applications-awaiting-decision-datasets-jun-2023.xlsx", "https://www.gov.uk/government/statistical-data-sets/asylum-and-resettlement-datasets",
+    "awaiting_decision", "Asylum applications awaiting a decision", "https://assets.publishing.service.gov.uk/media/655b38dfd03a8d001207fc15/asylum-applications-awaiting-decision-datasets-sep-2023.xlsx", "https://www.gov.uk/government/statistical-data-sets/asylum-and-resettlement-datasets",
     "outcomes", "Outcome analysis of asylum applications", "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1098062/outcome-analysis-asylum-applications-datasets-jun-2022.xlsx", "https://www.gov.uk/government/statistical-data-sets/asylum-and-resettlement-datasets",
 
     # Age disputes
-    "age_disputes", "Age disputes", "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1178020/age-disputes-datasets-jun-2023.xlsx", "https://www.gov.uk/government/statistical-data-sets/asylum-and-resettlement-datasets",
+    "age_disputes", "Age disputes", "https://assets.publishing.service.gov.uk/media/655badd1544aea0019fb30e1/age-disputes-datasets-sep-2023.xlsx", "https://www.gov.uk/government/statistical-data-sets/asylum-and-resettlement-datasets",
 
     # Asylum appeals
     "appeals_lodged_determined", "Asylum appeals lodged and determined", "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1156822/asylum-appeals-lodged-datasets-mar-2023.xlsx", "https://www.gov.uk/government/statistical-data-sets/asylum-and-resettlement-datasets",
@@ -26,7 +26,7 @@ query_urls <-
     "claims_certified_section_94", "Asylum claims certified under Section 94", "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1178022/asylum-claims-certified-section-94-datasets-jun-2023.xlsx", "https://www.gov.uk/government/statistical-data-sets/asylum-and-resettlement-datasets",
 
     # Asylum support
-    "support_received", "Asylum seekers in receipt of support", "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1178023/asylum-seekers-receipt-support-datasets-jun-2023.xlsx", "https://www.gov.uk/government/statistical-data-sets/asylum-and-resettlement-datasets",
+    "support_received", "Asylum seekers in receipt of support", "https://assets.publishing.service.gov.uk/media/655bae08d03a8d001207fd16/asylum-seekers-receipt-support-datasets-sep-2023.xlsx", "https://www.gov.uk/government/statistical-data-sets/asylum-and-resettlement-datasets",
     "support_applications", "Applications for section 95 support", "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1136760/applications-section-95-support-datasets-dec-2022.xlsx", "https://www.gov.uk/government/statistical-data-sets/asylum-and-resettlement-datasets",
 
     # Dublin regulation
