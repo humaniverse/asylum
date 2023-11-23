@@ -8,7 +8,7 @@ load_all()
 
 query_url <-
   query_urls |>
-  filter(data_set == "nrm_2023_q2") |>
+  filter(data_set == "nrm_2023_q3") |>
   pull(query_url)
 
 GET(
