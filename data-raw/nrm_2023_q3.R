@@ -199,9 +199,9 @@ nrm_referrals_2023_q3 <-
     nrm_referrals_la_2023_q3
   )
 
-# ---- Table 26: DtN reports by nationality ----
+# ---- Table 41: DtN reports by nationality ----
 nrm_duty_to_notify_2023_q3 <-
-  read_ods(tf, sheet = "Table_35", skip = 5) |>
+  read_ods(tf, sheet = "Table_41", skip = 5) |>
   as_tibble()
 
 # ---- Save output to data/ folder ----

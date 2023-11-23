@@ -1,15 +1,103 @@
-Year,Quarter,Reasonable.grounds,Disqualifications,Conclusive.grounds,Total
-2021,NA,183,0,97,280
-NA,Q1,41,0,42,83
-NA,Q2,42,0,23,65
-NA,Q3,47,0,17,64
-NA,Q4,53,0,15,68
-2022,NA,167,0,71,238
-NA,Q1,31,0,15,46
-NA,Q2,37,0,21,58
-NA,Q3,55,0,18,73
-NA,Q4,44,0,17,61
-2023,NA,259,0,97,356
-NA,Q1,58,0,27,85
-NA,Q2,74,0,29,103
-NA,Q3,127,0,41,168
+Nationality,Total
+Afghan,18
+Albanian,129
+Albanian Italian,1
+Albanian Unknown,2
+Algerian,5
+American,2
+American Ethiopian,1
+American Lebanese,1
+Argentine,2
+Australian,1
+Bangladeshi,10
+Brazilian,21
+Brazilian Italian,1
+Brazilian Moroccan,1
+Brazilian Portuguese,1
+Bulgarian,11
+Bulgarian Turkish,1
+Burmese,1
+Cameroonian,1
+Central African,1
+Central African Libyan,1
+Central African UK,1
+Chadian,5
+Chinese,100
+Citizen of the Dominican Republic,1
+Colombian,2
+Costa Rican,1
+Croatian,1
+Czech UK,1
+Egyptian,14
+Eritrean,161
+Eritrean Ethiopian,4
+Eritrean Maltese,1
+Eritrean Unknown,1
+Ethiopian,24
+Fijian,1
+Filipino,3
+Gambian,3
+Georgian,1
+Ghanaian,4
+Guatemalan,1
+Guinean,1
+Honduran,1
+Hong Konger,2
+Hungarian,4
+Indian,27
+Indonesian,2
+Iranian,28
+Iraqi,19
+Iraqi Unknown,1
+Irish UK,1
+Italian,1
+Jamaican,1
+Jamaican UK,1
+Kazakh,3
+Kosovan,2
+Kuwaiti,3
+Latvian,1
+Latvian Russian,1
+Libyan,2
+Lithuanian,2
+Malaysian,3
+Mauritian UK,1
+Mexican,1
+Mongolian,1
+Moroccan,4
+Namibian,1
+Nepalese,2
+Nicaraguan,1
+Nigerian,10
+Nigerian UK,1
+Pakistani,12
+Pakistani UK,1
+Palestinian,3
+Polish,14
+Portuguese,2
+Romanian,70
+Saudi Arabian,1
+Sierra Leonean,2
+Slovak,1
+Somali,19
+South Sudanese,9
+South Sudanese Sudanese,1
+Spanish,4
+Sri Lankan,5
+Sudanese,203
+Swedish,1
+Syrian,26
+Tajik,1
+Thai,14
+Tunisian,1
+Turkish,3
+Ugandan,6
+UK,86
+Ukrainian,7
+Unknown,24
+Unknown Vietnamese,1
+Uzbek,1
+Vietnamese,126
+Yemeni,2
+Zimbabwean,1
+Total,1317
