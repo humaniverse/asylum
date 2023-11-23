@@ -5,7 +5,7 @@
 \alias{nrm_reasonable_grounds}
 \title{NRM reasonable grounds decisions}
 \format{
-A data frame with 48 rows and 12 variables:
+A data frame with 49 rows and 12 variables:
 \describe{
   \item{Year}{Year}
   \item{Quarter}{Quarter}

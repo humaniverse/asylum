@@ -5,7 +5,7 @@
 \alias{inadmissibility_cases_considered}
 \title{Cases considered under inadmissibility rules}
 \format{
-A data frame with 50 rows and 5 variables:
+A data frame with 55 rows and 5 variables:
 \describe{
   \item{Date}{Date}
   \item{Quarter}{Quarter}

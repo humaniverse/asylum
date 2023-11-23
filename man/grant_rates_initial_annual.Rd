@@ -5,7 +5,7 @@
 \alias{grant_rates_initial_annual}
 \title{Grant rates at initial decision (annual)}
 \format{
-A data frame with 3,295 rows and 6 variables:
+A data frame with 3,312 rows and 6 variables:
 \describe{
   \item{Year}{Year}
   \item{Nationality}{Nationality}

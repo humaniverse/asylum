@@ -5,7 +5,7 @@
 \alias{grant_rates_initial_quarterly}
 \title{Grant rates at initial decision (quarterly)}
 \format{
-A data frame with 9,965 rows and 8 variables:
+A data frame with 10,089 rows and 8 variables:
 \describe{
   \item{Date}{Date}
   \item{Year}{Year}

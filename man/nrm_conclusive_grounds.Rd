@@ -5,7 +5,7 @@
 \alias{nrm_conclusive_grounds}
 \title{NRM conclusive grounds decisions}
 \format{
-A data frame with 48 rows and 12 variables:
+A data frame with 49 rows and 12 variables:
 \describe{
   \item{Year}{Year}
   \item{Quarter}{Quarter}

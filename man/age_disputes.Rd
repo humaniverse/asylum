@@ -5,7 +5,7 @@
 \alias{age_disputes}
 \title{Age disputes}
 \format{
-A data frame with 3,740 rows and 8 variables:
+A data frame with 3,815 rows and 8 variables:
 \describe{
   \item{Date}{Date}
   \item{Year}{Year}

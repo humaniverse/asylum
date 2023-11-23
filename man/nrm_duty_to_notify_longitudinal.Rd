@@ -5,7 +5,7 @@
 \alias{nrm_duty_to_notify_longitudinal}
 \title{Referrals received via the Duty to Notify process, by quarter}
 \format{
-A data frame with 40 rows and 3 variables:
+A data frame with 41 rows and 3 variables:
 \describe{
   \item{Year}{Year}
   \item{Quarter}{Quarter}

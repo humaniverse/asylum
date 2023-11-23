@@ -5,7 +5,7 @@
 \alias{nrm_referrals_longitudinal}
 \title{NRM referrals by quarter by age at exploitation and location of exploitation}
 \format{
-A data frame with 855 rows and 5 variables:
+A data frame with 870 rows and 5 variables:
 \describe{
   \item{Year}{Year}
   \item{Quarter}{Quarter}

@@ -5,7 +5,7 @@
 \alias{awaiting_decision}
 \title{Asylum applications awaiting a decision}
 \format{
-A data frame with 32,085 rows and 7 variables:
+A data frame with 32,695 rows and 7 variables:
 \describe{
   \item{Date}{Date}
   \item{Nationality}{Nationality of people awaiting a decision}
