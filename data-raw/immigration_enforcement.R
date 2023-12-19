@@ -19,7 +19,7 @@ GET(
 
 # ---- Number of pregnant women detained in the immigration detention estate ----
 detention_pregnant_women <-
-  read_ods(tf, sheet = "PWD_01", skip = 3)
+  read_ods(tf, sheet = "PWD_01", skip = 5)
 
 detention_pregnant_women <-
   detention_pregnant_women |>

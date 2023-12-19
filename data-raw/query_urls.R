@@ -51,13 +51,13 @@ query_urls <-
     "irrgular_migration", "Irregular migration detailed dataset", "https://assets.publishing.service.gov.uk/media/655c859cd03a8d001207fd99/irregular-migration-to-the-UK-detailed-dataset-year-ending-september-2023.xlsx", "https://www.gov.uk/government/statistical-data-sets/irregular-migration-detailed-dataset-and-summary-tables#detailed-datasets",
 
     # Resettlement, Asylum Support and Integration (RASI) data
-    "rasi", "Resettlement, Asylum Support and Integration", "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1180077/Resettlement_Asylum_Support_and_Integration_Q2_2023.ods", "https://www.gov.uk/government/collections/migration-transparency-data#uk-visas-and-immigration",
+    "rasi", "Resettlement, Asylum Support and Integration", "https://assets.publishing.service.gov.uk/media/655f30094d0864000dd039ba/UKVI_RASI_Q3_2023_Background_Published.ods", "https://www.gov.uk/government/collections/migration-transparency-data#uk-visas-and-immigration",
 
     # Immigration and protection data
-    "immigration_and_protection", "Immigration and protection data", "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1180081/Immigration_and_protection_Q2_2023.ods", "https://www.gov.uk/government/collections/migration-transparency-data#uk-visas-and-immigration",
+    "immigration_and_protection", "Immigration and protection data", "https://assets.publishing.service.gov.uk/media/655f3d290d8d89000dc67ff4/UKVI_IP_Q3_2023_Background_Published.xlsx", "https://www.gov.uk/government/collections/migration-transparency-data#uk-visas-and-immigration",
 
     # Immigration enforcement
-    "immigration_enforcement", "Immigration Enforcement data", "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1180071/Immigration_Enforcement_Q2_2023.ods", "https://www.gov.uk/government/collections/migration-transparency-data#immigration-enforcement",
+    "immigration_enforcement", "Immigration Enforcement data", "https://assets.publishing.service.gov.uk/media/655f3830f386350013453e02/IE__Q3_2023_Background_Published.ods", "https://www.gov.uk/government/collections/migration-transparency-data#immigration-enforcement",
 
     # National Referral Mechanism (NRM)
     "nrm_2023_q3", "Modern Slavery: National Referral Mechanism and Duty to Notify statistics UK, July to September 2023", "https://assets.publishing.service.gov.uk/media/65451bbe9c3709000d14677e/national-referral-mechanism-statistics-uk-quarter-3-2023-jul-to-sep-tables.ods", "https://www.gov.uk/government/collections/national-referral-mechanism-statistics",

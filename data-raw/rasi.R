@@ -2,7 +2,9 @@ library(tidyverse)
 library(lubridate)
 library(devtools)
 library(readODS)
+library(janitor)
 library(httr)
+library(zoo)
 
 load_all()
 
@@ -62,6 +64,7 @@ travel_documents <-
 names(nts) <-
   c("Quarter", "Region", "Local Authority or HSCT (NI)", "Able to participate in the NTS?", "Transfers out of Local Authority",
     "Transfers into Local Authority", "Transfers into LA from port/intake unit")
+
 nts <-
   nts |>
   select(Quarter:`Transfers into LA from port/intake unit`) |>
@@ -91,8 +94,8 @@ support_applications_rasi <-
   relocate(Date, Year, Quarter) |>
   # Remove footnote numbers from column names
   rename(
-    `Section 4` = `Section.4...1.`,
-    `Section 95` = `Section.95..2.`
+    `Section 4` = `Section.4..1`,
+    `Section 95` = `Section.95.2`
   )
 
 travel_documents <-

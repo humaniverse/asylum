@@ -24,12 +24,12 @@ query_url <-
 
 GET(
   query_url,
-  write_disk(tf <- tempfile(fileext = ".ods"))
+  write_disk(tf <- tempfile(fileext = ".xlsx"))
 )
 
 # ---- Appeal representation rate ----
 appeal_representation_rate <-
-  read_ods(tf, sheet = "ALAR_01", skip = 3)
+  read_excel(tf, sheet = "ALAR_01", skip = 3)
 
 names(appeal_representation_rate) <-
   c("Quarters", "All hearings (%)", "First Tier (%)", "Upper Tier (%)", "Deportation (%)")
@@ -55,7 +55,7 @@ appeal_representation_rate <-
 
 # ---- Volume of oral hearings represented by the Home Office ----
 oral_hearings_volume <-
-  read_ods(tf, sheet = "ALAR_01A", skip = 3)
+  read_excel(tf, sheet = "ALAR_01A", skip = 3)
 
 names(oral_hearings_volume) <-
   c("Financial Year", "Asylum appeals represented at hearing (%)", "Asylum Oral Hearings", "Asylum Oral Hearings Represented by HO")
@@ -67,7 +67,7 @@ oral_hearings_volume <-
 
 # ---- Decision quality ----
 decision_quality <-
-  read_ods(tf, sheet = "ADQ_01A", skip = 3)
+  read_excel(tf, sheet = "ADQ_01A", skip = 3)
 
 names(decision_quality) <-
   c("Financial Year", "Assurance", "Decision Quality (%)", "Number of Decisions Sampled", "Sample Size (%)")
@@ -87,7 +87,7 @@ decision_quality <-
 
 # ---- Percentage of Asylum applications processed within 6 months ----
 applications_processed_in_6_months <-
-  read_ods(tf, sheet = "ASY_01", skip = 2)
+  read_excel(tf, sheet = "ASY_01", skip = 3)
 
 names(applications_processed_in_6_months) <-
   c("Quarter Application Received", "Decisions in", "Total Applications Received", "Of those Applications received the number completed within six months",
@@ -120,7 +120,7 @@ applications_processed_in_6_months <-
 
 # ---- Age of Asylum Operations Initial Decision Work In Progress ----
 age_of_asylum_operations <-
-  read_ods(tf, sheet = "ASY_02", skip = 3)
+  read_excel(tf, sheet = "ASY_02", skip = 6)
 
 names(age_of_asylum_operations) <-
   c("Quarter", "Total", "Less than 3 months", "3-6 months", "6-12 months", "12 months+")
@@ -139,7 +139,7 @@ age_of_asylum_operations <-
 
 # ---- Asylum work in progress ----
 asylum_work_in_progress <-
-  read_ods(tf, sheet = "ASY_03", skip = 3)
+  read_excel(tf, sheet = "ASY_03", skip = 3)
 
 names(asylum_work_in_progress) <-
   c("Quarter", "Total Work In Progress", "Awaiting Initial Asylum Decision", "Post Decision", "Asylum Appeal Outstanding", "Subject to Removal Action", "On Hold", "Further Leave Application Outstanding",
@@ -166,7 +166,7 @@ asylum_work_in_progress <-
 
 # ---- Breakdown of Asylum costs and productivity ----
 asylum_costs_and_productivity <-
-  read_ods(tf, sheet = "ASY_04", skip = 3)
+  read_excel(tf, sheet = "ASY_04", skip = 3)
 
 asylum_costs_and_productivity <-
   asylum_costs_and_productivity |>
@@ -194,9 +194,7 @@ asylum_costs_and_productivity <-
 
 # ---- Breakdown of Asylum Productivity ----
 asylum_productivity_breakdown <-
-  read_ods(tf, sheet = "ASY_05(M)", skip = 3)
-
-"C:/Users/040026704/Downloads/Immigration_and_protection_Q2_2023.ods"
+  read_excel(tf, sheet = "ASY_05(M)", skip = 3)
 
 asylum_productivity_breakdown <-
   asylum_productivity_breakdown |>
@@ -213,7 +211,7 @@ asylum_productivity_breakdown <-
 
 # ---- NFRP - Destitution Change of Conditions Applications and Outcomes ----
 nrpf_change_of_conditions_decisions <-
-  read_ods(tf, sheet = "CoC_01", skip = 2)
+  read_excel(tf, sheet = "CoC_01", skip = 2)
 
 names(nrpf_change_of_conditions_decisions) <-
   c("Quarter", "Applications Received", "Of which: Pending", "Decisions", "Of which: Accepted",
@@ -241,7 +239,7 @@ nrpf_change_of_conditions_decisions <-
 
 # ---- NRPF - Destitution Change of Conditions Application by Age Group ----
 nrpf_change_of_conditions_age <-
-  read_ods(tf, sheet = "CoC_02", skip = 3)
+  read_excel(tf, sheet = "CoC_02", skip = 3)
 
 names(nrpf_change_of_conditions_age) <-
   c("Quarter", "Under 18", "18 to 25", "26 to 30", "31 to 40", "41 to 50", "51 to 60", "61 to 70", "71 to 80", "Over 80")
@@ -260,7 +258,7 @@ nrpf_change_of_conditions_age <-
 
 # ---- NRPF - Destitution Change of Conditions Nationality of Applicants ----
 nrpf_change_of_conditions_nationality <-
-  read_ods(tf, sheet = "CoC_03", skip = 3)
+  read_excel(tf, sheet = "CoC_03", skip = 3)
 
 nrpf_change_of_conditions_nationality <-
   nrpf_change_of_conditions_nationality |>
@@ -275,7 +273,7 @@ names(nrpf_change_of_conditions_nationality) <-
 
 # ---- NRPF - Destitution Change of Conditions Gender of Applicants ----
 nrpf_change_of_conditions_gender <-
-  read_ods(tf, sheet = "CoC_04", skip = 3)
+  read_excel(tf, sheet = "CoC_04", skip = 3)
 
 nrpf_change_of_conditions_gender <-
   nrpf_change_of_conditions_gender |>
@@ -287,8 +285,8 @@ nrpf_change_of_conditions_gender <-
     Year = year(Date),
     Quarter = quarter(Date)
   ) |>
-  relocate(Date, Year, Quarter) |>
-  rename(`Recorded as Unknown` = Recorded.as.Unknown)
+  relocate(Date, Year, Quarter)
+  # rename(`Recorded as Unknown` = Recorded.as.Unknown)
 
 # ---- Save output to data/ folder ----
 usethis::use_data(appeal_representation_rate, overwrite = TRUE)

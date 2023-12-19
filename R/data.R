@@ -337,7 +337,7 @@
 #' Number of individuals transferred between local authorities under the
 #' National Transfer Scheme for unaccompanied asylum seeking children.
 #'
-#' @format A data frame with 28 rows and 9 variables:
+#' @format A data frame with 12,538 rows and 9 variables:
 #' \describe{
 #'   \item{Date}{Date}
 #'   \item{Year}{Year}
@@ -357,7 +357,7 @@
 #'
 #' Applications for Support Section 4 and Section 95.
 #'
-#' @format A data frame with 54 rows and 5 variables:
+#' @format A data frame with 55 rows and 5 variables:
 #' \describe{
 #'   \item{Date}{Date}
 #'   \item{Year}{Year}
@@ -373,7 +373,7 @@
 #'
 #' Travel documents, applications raised and despatched.
 #'
-#' @format A data frame with 53 rows and 5 variables:
+#' @format A data frame with 54 rows and 5 variables:
 #' \describe{
 #'   \item{Date}{Date}
 #'   \item{Year}{Year}
@@ -439,7 +439,7 @@
 #'
 #' Percentage of Asylum applications processed within 6 months
 #'
-#' @format A data frame with 35 rows and 16 variables:
+#' @format A data frame with 36 rows and 16 variables:
 #' \describe{
 #'   \item{Date}{Date}
 #'   \item{Year}{Year}
@@ -467,7 +467,7 @@
 #' Age of Asylum Operations Initial Decision Work In Progress - applications
 #' made from 1st Oct 2006.
 #'
-#' @format A data frame with 27 rows and 8 variables:
+#' @format A data frame with 28 rows and 8 variables:
 #' \describe{
 #'   \item{Date}{Date}
 #'   \item{Year}{Year}
@@ -537,7 +537,7 @@
 #'
 #' Breakdown of asylum productivity by month.
 #'
-#' @format A data frame with 42 rows and 6 variables:
+#' @format A data frame with 45 rows and 6 variables:
 #' \describe{
 #'   \item{Date}{Date}
 #'   \item{Initial Decisions}{Number of initial decisions made}
@@ -558,7 +558,7 @@
 #' relating to NRPF can be found here:
 #' https://homeofficemedia.blog.gov.uk/2020/05/05/no-recourse-to-public-funds-nrpf/
 #'
-#' @format A data frame with 24 rows and 10 variables:
+#' @format A data frame with 25 rows and 10 variables:
 #' \describe{
 #'   \item{Date}{Date}
 #'   \item{Year}{Year}
@@ -583,7 +583,7 @@
 #' relating to NRPF can be found here:
 #' https://homeofficemedia.blog.gov.uk/2020/05/05/no-recourse-to-public-funds-nrpf/
 #'
-#' @format A data frame with 24 rows and 12 variables:
+#' @format A data frame with 25 rows and 12 variables:
 #' \describe{
 #'   \item{Date}{Date}
 #'   \item{Year}{Year}
@@ -610,7 +610,7 @@
 #' relating to NRPF can be found here:
 #' https://homeofficemedia.blog.gov.uk/2020/05/05/no-recourse-to-public-funds-nrpf/
 #'
-#' @format A data frame with 162 rows and 25 variables:
+#' @format A data frame with 164 rows and 26 variables:
 #' \describe{
 #'   \item{Nationality}{Nationality}
 #'   \item{2017 Q3}{2017 Q3}
@@ -637,6 +637,7 @@
 #'   \item{2022 Q4}{2022 Q4}
 #'   \item{2023 Q1}{2023 Q1}
 #'   \item{2023 Q2}{2023 Q2}
+#'   \item{2023 Q3}{2023 Q3}
 #'   ...
 #' }
 #' @source \url{https://www.gov.uk/government/collections/migration-transparency-data#uk-visas-and-immigration}
@@ -650,7 +651,7 @@
 #' relating to NRPF can be found here:
 #' https://homeofficemedia.blog.gov.uk/2020/05/05/no-recourse-to-public-funds-nrpf/
 #'
-#' @format A data frame with 24 rows and 6 variables:
+#' @format A data frame with 25 rows and 6 variables:
 #' \describe{
 #'   \item{Date}{Date}
 #'   \item{Year}{Year}
@@ -1148,7 +1149,7 @@
 
 #' Number of pregnant women detained in the immigration detention estate
 #'
-#' @format A data frame with 28 rows and 4 variables:
+#' @format A data frame with 29 rows and 4 variables:
 #' \describe{
 #'   \item{Date}{Date}
 #'   \item{Year}{Year}
@@ -1161,7 +1162,7 @@
 
 #' Average cost per day to hold an individual in immigration detention
 #'
-#' @format A data frame with 42 rows and 4 variables:
+#' @format A data frame with 43 rows and 4 variables:
 #' \describe{
 #'   \item{Date}{Date}
 #'   \item{Year}{Year}
