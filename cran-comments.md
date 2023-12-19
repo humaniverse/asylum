@@ -1,7 +1,7 @@
 ## Release summary
 This is a minor release in the 1.1.* series:
 
-* Updated all data to the latest datasets (June 2023).
+* Updated all data to the latest datasets (September 2023).
 
 ## Test environments
 * local Windows 10 install, R 4.2.2

@@ -1,3 +1,7 @@
+# asylum 1.1.2
+
+- Updated to September 2023 datasets
+
 # asylum 1.1.1
 
 - Updated to June 2023 datasets
