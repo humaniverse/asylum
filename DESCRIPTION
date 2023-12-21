@@ -1,7 +1,7 @@
 Package: asylum
 Type: Package
 Title: Data on Asylum and Resettlement for the UK
-Version: 1.1.2
+Version: 1.1.2.9000
 Authors@R: c(
     person(given = c("Matthew", "Gwynfryn"), 
            family = "Thomas", 
