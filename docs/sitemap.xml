@@ -52,6 +52,9 @@
     <loc>/reference/asylum_costs_and_productivity.html</loc>
   </url>
   <url>
+    <loc>/reference/asylum_productivity_breakdown.html</loc>
+  </url>
+  <url>
     <loc>/reference/asylum_work_in_progress.html</loc>
   </url>
   <url>
@@ -115,6 +118,126 @@
     <loc>/reference/notices_of_intent.html</loc>
   </url>
   <url>
+    <loc>/reference/nrm_conclusive_grounds.html</loc>
+  </url>
+  <url>
+    <loc>/reference/nrm_duty_to_notify_2022_q2.html</loc>
+  </url>
+  <url>
+    <loc>/reference/nrm_duty_to_notify_2022_q3.html</loc>
+  </url>
+  <url>
+    <loc>/reference/nrm_duty_to_notify_2022_q4.html</loc>
+  </url>
+  <url>
+    <loc>/reference/nrm_duty_to_notify_2023_q1.html</loc>
+  </url>
+  <url>
+    <loc>/reference/nrm_duty_to_notify_2023_q2.html</loc>
+  </url>
+  <url>
+    <loc>/reference/nrm_duty_to_notify_2023_q3.html</loc>
+  </url>
+  <url>
+    <loc>/reference/nrm_duty_to_notify_longitudinal.html</loc>
+  </url>
+  <url>
+    <loc>/reference/nrm_reasonable_grounds.html</loc>
+  </url>
+  <url>
+    <loc>/reference/nrm_referrals_2022_q2.html</loc>
+  </url>
+  <url>
+    <loc>/reference/nrm_referrals_2022_q3.html</loc>
+  </url>
+  <url>
+    <loc>/reference/nrm_referrals_2022_q4.html</loc>
+  </url>
+  <url>
+    <loc>/reference/nrm_referrals_2023_q1.html</loc>
+  </url>
+  <url>
+    <loc>/reference/nrm_referrals_2023_q2.html</loc>
+  </url>
+  <url>
+    <loc>/reference/nrm_referrals_2023_q3.html</loc>
+  </url>
+  <url>
+    <loc>/reference/nrm_referrals_govt_2022_q2.html</loc>
+  </url>
+  <url>
+    <loc>/reference/nrm_referrals_govt_2022_q3.html</loc>
+  </url>
+  <url>
+    <loc>/reference/nrm_referrals_govt_2022_q4.html</loc>
+  </url>
+  <url>
+    <loc>/reference/nrm_referrals_govt_2023_q1.html</loc>
+  </url>
+  <url>
+    <loc>/reference/nrm_referrals_govt_2023_q2.html</loc>
+  </url>
+  <url>
+    <loc>/reference/nrm_referrals_govt_2023_q3.html</loc>
+  </url>
+  <url>
+    <loc>/reference/nrm_referrals_la_2022_q2.html</loc>
+  </url>
+  <url>
+    <loc>/reference/nrm_referrals_la_2022_q3.html</loc>
+  </url>
+  <url>
+    <loc>/reference/nrm_referrals_la_2022_q4.html</loc>
+  </url>
+  <url>
+    <loc>/reference/nrm_referrals_la_2023_q1.html</loc>
+  </url>
+  <url>
+    <loc>/reference/nrm_referrals_la_2023_q2.html</loc>
+  </url>
+  <url>
+    <loc>/reference/nrm_referrals_la_2023_q3.html</loc>
+  </url>
+  <url>
+    <loc>/reference/nrm_referrals_longitudinal.html</loc>
+  </url>
+  <url>
+    <loc>/reference/nrm_referrals_ngo_2022_q2.html</loc>
+  </url>
+  <url>
+    <loc>/reference/nrm_referrals_ngo_2022_q3.html</loc>
+  </url>
+  <url>
+    <loc>/reference/nrm_referrals_ngo_2022_q4.html</loc>
+  </url>
+  <url>
+    <loc>/reference/nrm_referrals_ngo_2023_q1.html</loc>
+  </url>
+  <url>
+    <loc>/reference/nrm_referrals_ngo_2023_q2.html</loc>
+  </url>
+  <url>
+    <loc>/reference/nrm_referrals_ngo_2023_q3.html</loc>
+  </url>
+  <url>
+    <loc>/reference/nrm_referrals_police_2022_q2.html</loc>
+  </url>
+  <url>
+    <loc>/reference/nrm_referrals_police_2022_q3.html</loc>
+  </url>
+  <url>
+    <loc>/reference/nrm_referrals_police_2022_q4.html</loc>
+  </url>
+  <url>
+    <loc>/reference/nrm_referrals_police_2023_q1.html</loc>
+  </url>
+  <url>
+    <loc>/reference/nrm_referrals_police_2023_q2.html</loc>
+  </url>
+  <url>
+    <loc>/reference/nrm_referrals_police_2023_q3.html</loc>
+  </url>
+  <url>
     <loc>/reference/nrpf_change_of_conditions_age.html</loc>
   </url>
   <url>
@@ -146,6 +269,12 @@
   </url>
   <url>
     <loc>/reference/returns.html</loc>
+  </url>
+  <url>
+    <loc>/reference/returns_asylum.html</loc>
+  </url>
+  <url>
+    <loc>/reference/returns_asylum_longitudinal.html</loc>
   </url>
   <url>
     <loc>/reference/returns_by_destination.html</loc>
