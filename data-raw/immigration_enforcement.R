@@ -4,6 +4,7 @@ library(devtools)
 library(readODS)
 library(janitor)
 library(httr)
+library(zoo)
 
 load_all()
 
@@ -19,7 +20,7 @@ GET(
 
 # ---- Number of pregnant women detained in the immigration detention estate ----
 detention_pregnant_women <-
-  read_ods(tf, sheet = "PWD_01", skip = 5)
+  read_ods(tf, sheet = "PWD_01", skip = 4)
 
 detention_pregnant_women <-
   detention_pregnant_women |>
@@ -36,7 +37,7 @@ names(detention_pregnant_women)[4] <- "Number of pregnant women detained in the 
 
 # ---- Average cost per day to hold an individual in immigration detention ----
 detention_cost_per_day <-
-  read_ods(tf, sheet = "DT_02", skip = 3)
+  read_ods(tf, sheet = "DT_02", skip = 4)
 
 detention_cost_per_day <-
   detention_cost_per_day |>
