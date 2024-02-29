@@ -120,7 +120,7 @@ applications_processed_in_6_months <-
 
 # ---- Age of Asylum Operations Initial Decision Work In Progress ----
 age_of_asylum_operations <-
-  read_excel(tf, sheet = "ASY_02", skip = 6)
+  read_excel(tf, sheet = "ASY_02", skip = 3)
 
 names(age_of_asylum_operations) <-
   c("Quarter", "Total", "Less than 3 months", "3-6 months", "6-12 months", "12 months+")
