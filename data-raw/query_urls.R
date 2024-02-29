@@ -57,7 +57,7 @@ query_urls <-
     "immigration_and_protection", "Immigration and protection data", "https://assets.publishing.service.gov.uk/media/655f3d290d8d89000dc67ff4/UKVI_IP_Q3_2023_Background_Published.xlsx", "https://www.gov.uk/government/collections/migration-transparency-data#uk-visas-and-immigration",
 
     # Immigration enforcement
-    "immigration_enforcement", "Immigration Enforcement data", "https://assets.publishing.service.gov.uk/media/655f3830f386350013453e02/IE__Q3_2023_Background_Published.ods", "https://www.gov.uk/government/collections/migration-transparency-data#immigration-enforcement",
+    "immigration_enforcement", "Immigration Enforcement data", "https://assets.publishing.service.gov.uk/media/65dc7944529bfa001ce9551b/IE__Q4_2023_Background_Published.ods", "https://www.gov.uk/government/collections/migration-transparency-data#immigration-enforcement",
 
     # National Referral Mechanism (NRM)
     "nrm_2023_q3", "Modern Slavery: National Referral Mechanism and Duty to Notify statistics UK, July to September 2023", "https://assets.publishing.service.gov.uk/media/65451bbe9c3709000d14677e/national-referral-mechanism-statistics-uk-quarter-3-2023-jul-to-sep-tables.ods", "https://www.gov.uk/government/collections/national-referral-mechanism-statistics",
