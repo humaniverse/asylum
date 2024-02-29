@@ -39,7 +39,7 @@ people_in_detention <-
   people_in_detention |>
   drop_na() |>
   rename(Date = `Date (as at…)`) |>
-  mutate(Date = dmy(Date)) |>
+  mutate(Date = ymd(Date)) |>
   mutate(Year = year(Date)) |>
   mutate(Quarter = quarter(Date)) |>
   relocate(Date, Year, Quarter)

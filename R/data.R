@@ -3,7 +3,7 @@
 #' Asylum seekers in receipt of support at end of period, by nationality,
 #' support type, and UK region.
 #'
-#' @format A data frame with 68,369 rows and 7 variables:
+#' @format A data frame with 7 variables:
 #' \describe{
 #'   \item{Date}{Date}
 #'   \item{Nationality}{Nationality of people receiving support}
@@ -22,7 +22,7 @@
 #' Applications for section 95 support, by nationality, support type granted,
 #' and group type.
 #'
-#' @format A data frame with 4,756 rows and 6 variables:
+#' @format A data frame with 6 variables:
 #' \describe{
 #'   \item{Year}{Year}
 #'   \item{Nationality}{Nationality of people receiving support}
@@ -40,7 +40,7 @@
 #' Asylum applications awaiting an initial decision or further review, by
 #' nationality and applicant type.
 #'
-#' @format A data frame with 32,695 rows and 7 variables:
+#' @format A data frame with 7 variables:
 #' \describe{
 #'   \item{Date}{Date}
 #'   \item{Nationality}{Nationality of people awaiting a decision}
@@ -59,7 +59,7 @@
 #' Asylum applications raised, by nationality, age, sex, UASC, applicant type,
 #' and location of application.
 #'
-#' @format A data frame with 69,576 rows and 11 variables:
+#' @format A data frame with 11 variables:
 #' \describe{
 #'   \item{Date}{Date}
 #'   \item{Year}{Year}
@@ -83,7 +83,7 @@
 #' in the UK, by nationality, age, sex, applicant type, and UASC (unaccompanied
 #' asylum-seeking children).
 #'
-#' @format A data frame with 109,265 rows and 14 variables:
+#' @format A data frame with 14 variables:
 #' \describe{
 #'   \item{Date}{Date}
 #'   \item{Year}{Year}
@@ -108,7 +108,7 @@
 #'
 #' Asylum appeals raised at the First-Tier Tribunal, by nationality and sex.
 #'
-#' @format A data frame with 7,405 rows and 7 variables:
+#' @format A data frame with 7 variables:
 #' \describe{
 #'   \item{Date}{Date}
 #'   \item{Year}{Year}
@@ -127,7 +127,7 @@
 #' Outcomes of asylum appeals raised at the First-Tier Tribunal, by nationality
 #' and sex.
 #'
-#' @format A data frame with 13,426 rows and 8 variables:
+#' @format A data frame with 8 variables:
 #' \describe{
 #'   \item{Date}{Date}
 #'   \item{Year}{Year}
@@ -147,7 +147,7 @@
 #' The initial decision and final outcome of all asylum applications raised in
 #' a period, by nationality.
 #'
-#' @format A data frame with 3,463 rows and 26 variables:
+#' @format A data frame with 26 variables:
 #' \describe{
 #'   \item{Year of application}{Year of application}
 #'   \item{Geographical region}{Geographical region}
@@ -184,7 +184,7 @@
 #'
 #' Age disputes raised and outcomes of age disputes.
 #'
-#' @format A data frame with 3,815 rows and 8 variables:
+#' @format A data frame with 8 variables:
 #' \describe{
 #'   \item{Date}{Date}
 #'   \item{Year}{Year}
@@ -203,7 +203,7 @@
 #'
 #' Initial decisions on asylum applications eligible for non-suspensive appeal, by nationality
 #'
-#' @format A data frame with 2,105 rows and 10 variables:
+#' @format A data frame with 10 variables:
 #' \describe{
 #'   \item{Date}{Date}
 #'   \item{Year}{Year}
@@ -225,7 +225,7 @@
 #' Transfers and requests for transfer under the Dublin regulation, by EU
 #' member state and article.
 #'
-#' @format A data frame with 3,508 rows and 8 variables:
+#' @format A data frame with 8 variables:
 #' \describe{
 #'   \item{Date}{The period in which the request or transfer of an asylum applicant under the Dublin Regulation was made}
 #'   \item{Year}{Year}
@@ -245,7 +245,7 @@
 #' Family reunion visas granted to family members of refugees, by nationality,
 #' sex and age.
 #'
-#' @format A data frame with 8,376 rows and 8 variables:
+#' @format A data frame with 8 variables:
 #' \describe{
 #'   \item{Date}{The period in which the Family Reunion visa was granted}
 #'   \item{Year}{Year}
@@ -264,7 +264,7 @@
 #'
 #' Refugees resettled by resettlement scheme and local authority.
 #'
-#' @format A data frame with 3,953 rows and 8 variables:
+#' @format A data frame with 8 variables:
 #' \describe{
 #'   \item{Date}{The period in which the refugee arrived in the UK}
 #'   \item{Year}{Year}
@@ -283,7 +283,7 @@
 #'
 #' Asylum seekers in receipt of section 95 support by local authority.
 #'
-#' @format A data frame with 18,568 rows and 9 variables:
+#' @format A data frame with 9 variables:
 #' \describe{
 #'   \item{Date}{The date at which the number of people in receipt of support refers to}
 #'   \item{Year}{Year}
@@ -303,7 +303,7 @@
 #'
 #' The number of Aspen Cards in use.
 #'
-#' @format A data frame with 17 rows and 4 variables:
+#' @format A data frame with 4 variables:
 #' \describe{
 #'   \item{Date}{Date}
 #'   \item{Year}{Year}
@@ -319,7 +319,7 @@
 #' The number of Aspen Card-related support enquiries received by the Home
 #' Office, Sodexo and Migrant Help.
 #'
-#' @format A data frame with 17 rows and 6 variables:
+#' @format A data frame with 6 variables:
 #' \describe{
 #'   \item{Date}{Date}
 #'   \item{Year}{Year}
@@ -337,7 +337,7 @@
 #' Number of individuals transferred between local authorities under the
 #' National Transfer Scheme for unaccompanied asylum seeking children.
 #'
-#' @format A data frame with 12,538 rows and 9 variables:
+#' @format A data frame with 9 variables:
 #' \describe{
 #'   \item{Date}{Date}
 #'   \item{Year}{Year}
@@ -357,7 +357,7 @@
 #'
 #' Applications for Support Section 4 and Section 95.
 #'
-#' @format A data frame with 55 rows and 5 variables:
+#' @format A data frame with 5 variables:
 #' \describe{
 #'   \item{Date}{Date}
 #'   \item{Year}{Year}
@@ -373,7 +373,7 @@
 #'
 #' Travel documents, applications raised and despatched.
 #'
-#' @format A data frame with 54 rows and 5 variables:
+#' @format A data frame with 5 variables:
 #' \describe{
 #'   \item{Date}{Date}
 #'   \item{Year}{Year}
@@ -389,7 +389,7 @@
 #'
 #' Appeal representation rates.
 #'
-#' @format A data frame with 45 rows and 7 variables:
+#' @format A data frame with 7 variables:
 #' \describe{
 #'   \item{Date}{Date}
 #'   \item{Year}{Year}
@@ -408,7 +408,7 @@
 #' The volume of oral hearings represented by the Home Office divided by the
 #' total number of oral hearing.
 #'
-#' @format A data frame with 13 rows and 4 variables:
+#' @format A data frame with 4 variables:
 #' \describe{
 #'   \item{Financial Year}{Financial year}
 #'   \item{Asylum appeals represented at hearing (\%)}{Percent of sylum appeals represented at hearing}
@@ -423,7 +423,7 @@
 #'
 #' The Decision Quality percentage of Decisions Sampled.
 #'
-#' @format A data frame with 16 rows and 5 variables:
+#' @format A data frame with 5 variables:
 #' \describe{
 #'   \item{Financial Year}{Financial year}
 #'   \item{Assurance}{First line or second line assurance}
@@ -439,7 +439,7 @@
 #'
 #' Percentage of Asylum applications processed within 6 months
 #'
-#' @format A data frame with 36 rows and 16 variables:
+#' @format A data frame with 16 variables:
 #' \describe{
 #'   \item{Date}{Date}
 #'   \item{Year}{Year}
@@ -467,7 +467,7 @@
 #' Age of Asylum Operations Initial Decision Work In Progress - applications
 #' made from 1st Oct 2006.
 #'
-#' @format A data frame with 28 rows and 8 variables:
+#' @format A data frame with 8 variables:
 #' \describe{
 #'   \item{Date}{Date}
 #'   \item{Year}{Year}
@@ -486,7 +486,7 @@
 #'
 #' Asylum work in progress.
 #'
-#' @format A data frame with 13 rows and 17 variables:
+#' @format A data frame with 17 variables:
 #' \describe{
 #'   \item{Date}{Date}
 #'   \item{Year}{Year}
@@ -514,7 +514,7 @@
 #'
 #' Breakdown of Asylum costs and productivity.
 #'
-#' @format A data frame with 13 rows and 12 variables:
+#' @format A data frame with 12 variables:
 #' \describe{
 #'   \item{Financial Year}{Financial year}
 #'   \item{Total Asylum Costs}{The costs of managing an asylum operations claim include a) costs associated with deciding a case (screening clients, interviews and issuing a decision), b) managing any related appeal, c) the cost of all asylum operations support (S4, S95 & S98) d) detention costs where detention has been used and e) enforcement costs (escorting and assisted voluntary returns). Also included are the costs of department staff and buildings and the proportionate costs of the Home Office building and managerial costs}
@@ -537,7 +537,7 @@
 #'
 #' Breakdown of asylum productivity by month.
 #'
-#' @format A data frame with 45 rows and 6 variables:
+#' @format A data frame with 6 variables:
 #' \describe{
 #'   \item{Date}{Date}
 #'   \item{Initial Decisions}{Number of initial decisions made}
@@ -558,7 +558,7 @@
 #' relating to NRPF can be found here:
 #' https://homeofficemedia.blog.gov.uk/2020/05/05/no-recourse-to-public-funds-nrpf/
 #'
-#' @format A data frame with 25 rows and 10 variables:
+#' @format A data frame with 10 variables:
 #' \describe{
 #'   \item{Date}{Date}
 #'   \item{Year}{Year}
@@ -583,7 +583,7 @@
 #' relating to NRPF can be found here:
 #' https://homeofficemedia.blog.gov.uk/2020/05/05/no-recourse-to-public-funds-nrpf/
 #'
-#' @format A data frame with 25 rows and 12 variables:
+#' @format A data frame with 12 variables:
 #' \describe{
 #'   \item{Date}{Date}
 #'   \item{Year}{Year}
@@ -610,7 +610,7 @@
 #' relating to NRPF can be found here:
 #' https://homeofficemedia.blog.gov.uk/2020/05/05/no-recourse-to-public-funds-nrpf/
 #'
-#' @format A data frame with 164 rows and 26 variables:
+#' @format A data frame with 26 variables:
 #' \describe{
 #'   \item{Nationality}{Nationality}
 #'   \item{2017 Q3}{2017 Q3}
@@ -638,6 +638,7 @@
 #'   \item{2023 Q1}{2023 Q1}
 #'   \item{2023 Q2}{2023 Q2}
 #'   \item{2023 Q3}{2023 Q3}
+#'   \item{2023 Q4}{2023 Q4}
 #'   ...
 #' }
 #' @source \url{https://www.gov.uk/government/collections/migration-transparency-data#uk-visas-and-immigration}
@@ -651,7 +652,7 @@
 #' relating to NRPF can be found here:
 #' https://homeofficemedia.blog.gov.uk/2020/05/05/no-recourse-to-public-funds-nrpf/
 #'
-#' @format A data frame with 25 rows and 6 variables:
+#' @format A data frame with 6 variables:
 #' \describe{
 #'   \item{Date}{Date}
 #'   \item{Year}{Year}
@@ -669,7 +670,7 @@
 #' Initial decisions on asylum applications certified under Section 94, by
 #' nationality
 #'
-#' @format A data frame with 2,222 rows and 10 variables:
+#' @format A data frame with 10 variables:
 #' \describe{
 #'   \item{Date}{Date}
 #'   \item{Year}{Year}
@@ -691,7 +692,7 @@
 #' Number of entries into immigration detention by nationality, age, sex and
 #' initial place of detention.
 #'
-#' @format A data frame with 72,825 rows and 9 variables:
+#' @format A data frame with 9 variables:
 #' \describe{
 #'   \item{Date}{Date}
 #'   \item{Year}{Year}
@@ -712,7 +713,7 @@
 #' Number of people in immigration detention at the end of each quarter by
 #' nationality, age, sex, current place of detention and length of detention.
 #'
-#' @format A data frame with 78,630 rows and 10 variables:
+#' @format A data frame with 10 variables:
 #' \describe{
 #'   \item{Date}{Date}
 #'   \item{Year}{Year}
@@ -734,7 +735,7 @@
 #' Number of occurrences of people leaving detention by nationality, age, sex,
 #' reason for leaving detention and length of detention
 #'
-#' @format A data frame with 105,574 rows and 10 variables:
+#' @format A data frame with 10 variables:
 #' \describe{
 #'   \item{Date}{Date}
 #'   \item{Year}{Year}
@@ -756,7 +757,7 @@
 #' Number of returns from the UK, by nationality, age, sex, type of return and
 #' return destination group
 #'
-#' @format A data frame with 237,640 rows and 11 variables:
+#' @format A data frame with 11 variables:
 #' \describe{
 #'   \item{Date}{Date}
 #'   \item{Year}{Year}
@@ -778,7 +779,7 @@
 #'
 #' Number of returns from the UK, by type of return and country of destination
 #'
-#' @format A data frame with 43,580 rows and 8 variables:
+#' @format A data frame with 8 variables:
 #' \describe{
 #'   \item{Date}{Date}
 #'   \item{Year}{Year}
@@ -798,7 +799,7 @@
 #' Number of foreign national offender returns from the UK, by nationality and
 #' return destination group.
 #'
-#' @format A data frame with 6,546 rows and 7 variables:
+#' @format A data frame with 7 variables:
 #' \describe{
 #'   \item{Date}{Date}
 #'   \item{Year}{Year}
@@ -816,7 +817,7 @@
 #'
 #' Number of foreign national offender returns from the UK, by destination.
 #'
-#' @format A data frame with 4,679 rows and 6 variables:
+#' @format A data frame with 6 variables:
 #' \describe{
 #'   \item{Date}{Date}
 #'   \item{Year}{Year}
@@ -831,7 +832,7 @@
 
 #' Returns from the UK, by nationality, type of return, and asylum/non-asylum
 #'
-#' @format A data frame with 22 rows and 5 variables:
+#' @format A data frame with 5 variables:
 #' \describe{
 #'   \item{Category}{Asylum-related or non-asylum-related return?}
 #'   \item{Nationality}{Nationality of people being returned}
@@ -845,7 +846,7 @@
 
 #' Returns from the UK, by nationality, type of return, and asylum/non-asylum
 #'
-#' @format A data frame with 26 rows and 5 variables:
+#' @format A data frame with 5 variables:
 #' \describe{
 #'   \item{Date of return}{Date of return}
 #'   \item{Category}{Asylum-related or non-asylum-related return?}
@@ -861,7 +862,7 @@
 #'
 #' People entering, leaving and in detention by asylum and non-asylum.
 #'
-#' @format A data frame with 13 rows and 10 variables:
+#' @format A data frame with 10 variables:
 #' \describe{
 #'   \item{Date}{Date}
 #'   \item{Entering detention}{Entering detention}
@@ -882,7 +883,7 @@
 #'
 #' Number of occurrences of children entering detention, 2010 to 2022
 #'
-#' @format A data frame with 13 rows and 7 variables:
+#' @format A data frame with 7 variables:
 #' \describe{
 #'   \item{Date of entry to detention}{Date of entry to detention}
 #'   \item{Total children}{Total children}
@@ -899,7 +900,7 @@
 #' Deaths of persons detained under Immigration Act Powers and absconds from
 #' detention, 2017 to 2022
 #'
-#' @format A data frame with 6 rows and 5 variables:
+#' @format A data frame with 5 variables:
 #' \describe{
 #'   \item{Year}{Year}
 #'   \item{Deaths of persons detained under Immigration Powers}{Deaths of persons detained under Immigration Powers}
@@ -913,7 +914,7 @@
 
 #' Deaths of persons detained under Immigration Act Powers, 2017 to 2021
 #'
-#' @format A data frame with 10 rows and 8 variables:
+#' @format A data frame with 8 variables:
 #' \describe{
 #'   \item{Year}{Year}
 #'   \item{Number}{Number identifying a person within each year}
@@ -933,7 +934,7 @@
 #' Number of detected attempts to enter the UK irregularly by method of entry,
 #' nationality, region, sex and age group.
 #'
-#' @format A data frame with 10,294 rows and 9 variables:
+#' @format A data frame with  9 variables:
 #' \describe{
 #'   \item{Date}{Date}
 #'   \item{Year}{Year}
@@ -954,7 +955,7 @@
 #' Number of asylum applications from small boat arrivals by asylum application,
 #' nationality, region, applicant type, sex and age group.
 #'
-#' @format A data frame with 3,969 rows and 11 variables:
+#' @format A data frame with 11 variables:
 #' \describe{
 #'   \item{Date}{Date}
 #'   \item{Year}{Year}
@@ -978,7 +979,7 @@
 #' nationality, region, asylum case outcome, asylum case outcome group,
 #' applicant type, sex and age group.
 #'
-#' @format A data frame with 5,380 rows and 12 variables:
+#' @format A data frame with 12 variables:
 #' \describe{
 #'   \item{Date}{Date}
 #'   \item{Year}{Year}
@@ -1002,7 +1003,7 @@
 #' Number of NRM referrals from small boat arrivals by NRM referral,
 #' nationality, region, sex and age group.
 #'
-#' @format A data frame with 3,334 rows and 9 variables:
+#' @format A data frame with 9 variables:
 #' \describe{
 #'   \item{Date}{Date}
 #'   \item{Year}{Year}
@@ -1023,7 +1024,7 @@
 #' Outcomes of NRM referrals from small boat arrivals by nationality, region,
 #' sex, age group, NRM case outcome and NRM case outcome group.
 #'
-#' @format A data frame with 2,768 rows and 10 variables:
+#' @format A data frame with 10 variables:
 #' \describe{
 #'   \item{Date}{Date}
 #'   \item{Year}{Year}
@@ -1045,7 +1046,7 @@
 #' Grant rate is the proportion of initial decisions which resulted in a grant
 #' of protection or other leave.
 #'
-#' @format A data frame with 10,089 rows and 8 variables:
+#' @format A data frame with 8 variables:
 #' \describe{
 #'   \item{Date}{Date}
 #'   \item{Year}{Year}
@@ -1065,7 +1066,7 @@
 #' Grant rate is the proportion of initial decisions which resulted in a grant
 #' of protection or other leave.
 #'
-#' @format A data frame with 3,312 rows and 6 variables:
+#' @format A data frame with 6 variables:
 #' \describe{
 #'   \item{Year}{Year}
 #'   \item{Nationality}{Nationality}
@@ -1114,7 +1115,7 @@
 #' the total number of asylum-related returns of asylum seekers (beyond those in
 #' the inadmissibility process), see the Returns summary table Ret_05.
 #'
-#' @format A data frame with 55 rows and 5 variables:
+#' @format A data frame with 5 variables:
 #' \describe{
 #'   \item{Date}{Date}
 #'   \item{Quarter}{Quarter}
@@ -1138,7 +1139,7 @@
 #' transitions to a new case working system. Updated data will be included in a
 #' future edition of the Immigration System Statistics release.
 #'
-#' @format A data frame with 11 rows and 2 variables:
+#' @format A data frame with 2 variables:
 #' \describe{
 #'   \item{Nationality}{Nationality}
 #'   \item{Total}{Total number of notices of intent issued}
@@ -1149,7 +1150,7 @@
 
 #' Number of pregnant women detained in the immigration detention estate
 #'
-#' @format A data frame with 29 rows and 4 variables:
+#' @format A data frame with 4 variables:
 #' \describe{
 #'   \item{Date}{Date}
 #'   \item{Year}{Year}
@@ -1162,7 +1163,7 @@
 
 #' Average cost per day to hold an individual in immigration detention
 #'
-#' @format A data frame with 43 rows and 4 variables:
+#' @format A data frame with 4 variables:
 #' \describe{
 #'   \item{Date}{Date}
 #'   \item{Year}{Year}
@@ -1175,7 +1176,7 @@
 
 #' NRM referrals by quarter by age at exploitation and location of exploitation
 #'
-#' @format A data frame with 870 rows and 5 variables:
+#' @format A data frame with 5 variables:
 #' \describe{
 #'   \item{Year}{Year}
 #'   \item{Quarter}{Quarter}
@@ -1189,7 +1190,7 @@
 
 #' NRM referrals - Q2 2022
 #'
-#' @format A data frame with 44,420 rows and 7 variables:
+#' @format A data frame with 7 variables:
 #' \describe{
 #'   \item{First responder type}{First responder type}
 #'   \item{First responder}{First responder}
@@ -1205,7 +1206,7 @@
 
 #' NRM referrals from Government first responders - Q2 2022
 #'
-#' @format A data frame with 26,010 rows and 7 variables:
+#' @format A data frame with 7 variables:
 #' \describe{
 #'   \item{First responder type}{First responder type}
 #'   \item{First responder}{First responder}
@@ -1221,7 +1222,7 @@
 
 #' NRM referrals from NGO and third sector first responders - Q2 2022
 #'
-#' @format A data frame with 9,765 rows and 7 variables:
+#' @format A data frame with 7 variables:
 #' \describe{
 #'   \item{First responder type}{First responder type}
 #'   \item{First responder}{First responder}
@@ -1237,7 +1238,7 @@
 
 #' NRM referrals from Police first responders - Q2 2022
 #'
-#' @format A data frame with 87,042 rows and 7 variables:
+#' @format A data frame with 7 variables:
 #' \describe{
 #'   \item{First responder type}{First responder type}
 #'   \item{First responder}{First responder}
@@ -1253,7 +1254,7 @@
 
 #' NRM referrals from Local Authority first responders - Q2 2022
 #'
-#' @format A data frame with 8,556 rows and 7 variables:
+#' @format A data frame with 7 variables:
 #' \describe{
 #'   \item{First responder type}{First responder type}
 #'   \item{First responder}{First responder}
@@ -1269,7 +1270,7 @@
 
 #' NRM referrals - Q3 2022
 #'
-#' @format A data frame with 51,520 rows and 7 variables:
+#' @format A data frame with 7 variables:
 #' \describe{
 #'   \item{First responder type}{First responder type}
 #'   \item{First responder}{First responder}
@@ -1285,7 +1286,7 @@
 
 #' NRM referrals from Government first responders - Q3 2022
 #'
-#' @format A data frame with 25,553 rows and 7 variables:
+#' @format A data frame with  7 variables:
 #' \describe{
 #'   \item{First responder type}{First responder type}
 #'   \item{First responder}{First responder}
@@ -1301,7 +1302,7 @@
 
 #' NRM referrals from NGO and third sector first responders - Q3 2022
 #'
-#' @format A data frame with 14,756 rows and 7 variables:
+#' @format A data frame with 7 variables:
 #' \describe{
 #'   \item{First responder type}{First responder type}
 #'   \item{First responder}{First responder}
@@ -1317,7 +1318,7 @@
 
 #' NRM referrals from Police first responders - Q3 2022
 #'
-#' @format A data frame with 93,696 rows and 7 variables:
+#' @format A data frame with 7 variables:
 #' \describe{
 #'   \item{First responder type}{First responder type}
 #'   \item{First responder}{First responder}
@@ -1333,7 +1334,7 @@
 
 #' NRM referrals from Local Authority first responders - Q3 2022
 #'
-#' @format A data frame with 11,115 rows and 7 variables:
+#' @format A data frame with 7 variables:
 #' \describe{
 #'   \item{First responder type}{First responder type}
 #'   \item{First responder}{First responder}
@@ -1349,7 +1350,7 @@
 
 #' NRM referrals - Q4 2022
 #'
-#' @format A data frame with 48,966 rows and 7 variables:
+#' @format A data frame with 7 variables:
 #' \describe{
 #'   \item{First responder type}{First responder type}
 #'   \item{First responder}{First responder}
@@ -1365,7 +1366,7 @@
 
 #' NRM referrals from Government first responders - Q4 2022
 #'
-#' @format A data frame with 25,000 rows and 7 variables:
+#' @format A data frame with 7 variables:
 #' \describe{
 #'   \item{First responder type}{First responder type}
 #'   \item{First responder}{First responder}
@@ -1381,7 +1382,7 @@
 
 #' NRM referrals from NGO and third sector first responders - Q4 2022
 #'
-#' @format A data frame with 12,992 rows and 7 variables:
+#' @format A data frame with 7 variables:
 #' \describe{
 #'   \item{First responder type}{First responder type}
 #'   \item{First responder}{First responder}
@@ -1397,7 +1398,7 @@
 
 #' NRM referrals from Police first responders - Q4 2022
 #'
-#' @format A data frame with 96,768 rows and 7 variables:
+#' @format A data frame with 7 variables:
 #' \describe{
 #'   \item{First responder type}{First responder type}
 #'   \item{First responder}{First responder}
@@ -1413,7 +1414,7 @@
 
 #' NRM referrals from Local Authority first responders - Q4 2022
 #'
-#' @format A data frame with 10,878 rows and 7 variables:
+#' @format A data frame with 7 variables:
 #' \describe{
 #'   \item{First responder type}{First responder type}
 #'   \item{First responder}{First responder}
@@ -1429,7 +1430,7 @@
 
 #' NRM referrals - Q1 2023
 #'
-#' @format A data frame with 49,104 rows and 7 variables:
+#' @format A data frame with 7 variables:
 #' \describe{
 #'   \item{First responder type}{First responder type}
 #'   \item{First responder}{First responder}
@@ -1445,7 +1446,7 @@
 
 #' NRM referrals from Government first responders - Q1 2023
 #'
-#' @format A data frame with 23,712 rows and 7 variables:
+#' @format A data frame with 7 variables:
 #' \describe{
 #'   \item{First responder type}{First responder type}
 #'   \item{First responder}{First responder}
@@ -1461,7 +1462,7 @@
 
 #' NRM referrals from NGO and third sector first responders - Q1 2023
 #'
-#' @format A data frame with 11,286 rows and 7 variables:
+#' @format A data frame with 7 variables:
 #' \describe{
 #'   \item{First responder type}{First responder type}
 #'   \item{First responder}{First responder}
@@ -1477,7 +1478,7 @@
 
 #' NRM referrals from Police first responders - Q1 2023
 #'
-#' @format A data frame with 98,700 rows and 7 variables:
+#' @format A data frame with 7 variables:
 #' \describe{
 #'   \item{First responder type}{First responder type}
 #'   \item{First responder}{First responder}
@@ -1493,7 +1494,7 @@
 
 #' NRM referrals from Local Authority first responders - Q1 2023
 #'
-#' @format A data frame with 14,012 rows and 7 variables:
+#' @format A data frame with 7 variables:
 #' \describe{
 #'   \item{First responder type}{First responder type}
 #'   \item{First responder}{First responder}
@@ -1509,7 +1510,7 @@
 
 #' NRM referrals - Q2 2023
 #'
-#' @format A data frame with 49,752 rows and 7 variables:
+#' @format A data frame with 7 variables:
 #' \describe{
 #'   \item{First responder type}{First responder type}
 #'   \item{First responder}{First responder}
@@ -1525,7 +1526,7 @@
 
 #' NRM referrals from Government first responders - Q2 2023
 #'
-#' @format A data frame with 27,195 rows and 7 variables:
+#' @format A data frame with 7 variables:
 #' \describe{
 #'   \item{First responder type}{First responder type}
 #'   \item{First responder}{First responder}
@@ -1541,7 +1542,7 @@
 
 #' NRM referrals from NGO and third sector first responders - Q2 2023
 #'
-#' @format A data frame with 11,820 rows and 7 variables:
+#' @format A data frame with 7 variables:
 #' \describe{
 #'   \item{First responder type}{First responder type}
 #'   \item{First responder}{First responder}
@@ -1557,7 +1558,7 @@
 
 #' NRM referrals from Police first responders - Q2 2023
 #'
-#' @format A data frame with 93,411 rows and 7 variables:
+#' @format A data frame with 7 variables:
 #' \describe{
 #'   \item{First responder type}{First responder type}
 #'   \item{First responder}{First responder}
@@ -1573,7 +1574,7 @@
 
 #' NRM referrals from Local Authority first responders - Q2 2023
 #'
-#' @format A data frame with 10,640 rows and 7 variables:
+#' @format A data frame with  7 variables:
 #' \describe{
 #'   \item{First responder type}{First responder type}
 #'   \item{First responder}{First responder}
@@ -1589,7 +1590,7 @@
 
 #' NRM referrals - Q3 2023
 #'
-#' @format A data frame with 51,506 rows and 7 variables:
+#' @format A data frame with 7 variables:
 #' \describe{
 #'   \item{First responder type}{First responder type}
 #'   \item{First responder}{First responder}
@@ -1605,7 +1606,7 @@
 
 #' NRM referrals from Government first responders - Q3 2023
 #'
-#' @format A data frame with 29,484 rows and 7 variables:
+#' @format A data frame with 7 variables:
 #' \describe{
 #'   \item{First responder type}{First responder type}
 #'   \item{First responder}{First responder}
@@ -1621,7 +1622,7 @@
 
 #' NRM referrals from NGO and third sector first responders - Q3 2023
 #'
-#' @format A data frame with 12,238 rows and 7 variables:
+#' @format A data frame with 7 variables:
 #' \describe{
 #'   \item{First responder type}{First responder type}
 #'   \item{First responder}{First responder}
@@ -1637,7 +1638,7 @@
 
 #' NRM referrals from Police first responders - Q3 2023
 #'
-#' @format A data frame with 94,000 rows and 7 variables:
+#' @format A data frame with 7 variables:
 #' \describe{
 #'   \item{First responder type}{First responder type}
 #'   \item{First responder}{First responder}
@@ -1653,7 +1654,7 @@
 
 #' NRM referrals from Local Authority first responders - Q3 2023
 #'
-#' @format A data frame with 9,690 rows and 7 variables:
+#' @format A data frame with 7 variables:
 #' \describe{
 #'   \item{First responder type}{First responder type}
 #'   \item{First responder}{First responder}
@@ -1669,7 +1670,7 @@
 
 #' Referrals received via the Duty to Notify process in Q2 2022, by nationality
 #'
-#' @format A data frame with 90 rows and 2 variables:
+#' @format A data frame with 2 variables:
 #' \describe{
 #'   \item{Nationality}{Nationality}
 #'   \item{Total}{Number of referrals via duty to notify}
@@ -1680,7 +1681,7 @@
 
 #' Referrals received via the Duty to Notify process in Q3 2022, by nationality
 #'
-#' @format A data frame with 99 rows and 2 variables:
+#' @format A data frame with 2 variables:
 #' \describe{
 #'   \item{Nationality}{Nationality}
 #'   \item{Total}{Number of referrals via duty to notify}
@@ -1691,7 +1692,7 @@
 
 #' Referrals received via the Duty to Notify process in Q4 2022, by nationality
 #'
-#' @format A data frame with 98 rows and 2 variables:
+#' @format A data frame with 2 variables:
 #' \describe{
 #'   \item{Nationality}{Nationality}
 #'   \item{Total}{Number of referrals via duty to notify}
@@ -1702,7 +1703,7 @@
 
 #' Referrals received via the Duty to Notify process in Q1 2023, by nationality
 #'
-#' @format A data frame with 97 rows and 2 variables:
+#' @format A data frame with 2 variables:
 #' \describe{
 #'   \item{Nationality}{Nationality}
 #'   \item{Total}{Number of referrals via duty to notify}
@@ -1713,7 +1714,7 @@
 
 #' Referrals received via the Duty to Notify process in Q2 2023, by nationality
 #'
-#' @format A data frame with 94 rows and 2 variables:
+#' @format A data frame with 2 variables:
 #' \describe{
 #'   \item{Nationality}{Nationality}
 #'   \item{Total}{Number of referrals via duty to notify}
@@ -1724,7 +1725,7 @@
 
 #' Referrals received via the Duty to Notify process in Q3 2023, by nationality
 #'
-#' @format A data frame with 102 rows and 2 variables:
+#' @format A data frame with 2 variables:
 #' \describe{
 #'   \item{Nationality}{Nationality}
 #'   \item{Total}{Number of referrals via duty to notify}
@@ -1735,7 +1736,7 @@
 
 #' Referrals received via the Duty to Notify process, by quarter
 #'
-#' @format A data frame with 41 rows and 3 variables:
+#' @format A data frame with 3 variables:
 #' \describe{
 #'   \item{Year}{Year}
 #'   \item{Quarter}{Quarter}
@@ -1750,7 +1751,7 @@
 #' NRM reasonable grounds decisions made by both competent authorities by
 #' quarter, outcome and age at exploitation.
 #'
-#' @format A data frame with 49 rows and 12 variables:
+#' @format A data frame with 12 variables:
 #' \describe{
 #'   \item{Year}{Year}
 #'   \item{Quarter}{Quarter}
@@ -1774,7 +1775,7 @@
 #' NRM conclusive grounds decisions made by both competent authorities by
 #' quarter, outcome and age at exploitation.
 #'
-#' @format A data frame with 49 rows and 12 variables:
+#' @format A data frame with 12 variables:
 #' \describe{
 #'   \item{Year}{Year}
 #'   \item{Quarter}{Quarter}
