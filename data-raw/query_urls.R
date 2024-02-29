@@ -12,7 +12,7 @@ query_urls <-
     # - https://www.gov.uk/government/collections/migration-transparency-data#immigration-enforcement
 
     # Asylum applications, decisions and resettlement
-    "asylum_summary", "Asylum and resettlement summary tables", "https://assets.publishing.service.gov.uk/media/655b38a5046ed400148b9ba1/asylum-summary-sep-2023-tables.ods", "https://www.gov.uk/government/statistical-data-sets/immigration-system-statistics-data-tables-year-ending-march-2023",
+    "asylum_summary", "Asylum and resettlement summary tables", "https://assets.publishing.service.gov.uk/media/65d8843e6efa830011dcc575/asylum-summary-dec-2023-tables.ods", "https://www.gov.uk/government/statistical-data-sets/immigration-system-statistics-data-tables#asylum-and-resettlement",
     "applications_decisions_resettlement", "Asylum applications, initial decisions and resettlement", "https://assets.publishing.service.gov.uk/media/655b38c3046ed4000d8b9b9b/asylum-applications-datasets-sep-2023.xlsx", "https://www.gov.uk/government/statistical-data-sets/asylum-and-resettlement-datasets",
     "awaiting_decision", "Asylum applications awaiting a decision", "https://assets.publishing.service.gov.uk/media/655b38dfd03a8d001207fc15/asylum-applications-awaiting-decision-datasets-sep-2023.xlsx", "https://www.gov.uk/government/statistical-data-sets/asylum-and-resettlement-datasets",
     "outcomes", "Outcome analysis of asylum applications", "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1098062/outcome-analysis-asylum-applications-datasets-jun-2022.xlsx", "https://www.gov.uk/government/statistical-data-sets/asylum-and-resettlement-datasets",
