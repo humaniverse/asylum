@@ -4228,7 +4228,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2022-03-31,2022,1,Armenia,Europe Other,1
 2022-03-31,2022,1,Australia,Oceania,2
 2022-03-31,2022,1,Austria,EU 14,1
-2022-03-31,2022,1,Belgium,EU 14,1
+2022-03-31,2022,1,Belgium,EU 14,2
 2022-03-31,2022,1,Brazil,America Central and South,8
 2022-03-31,2022,1,Bulgaria,EU 2,16
 2022-03-31,2022,1,Canada,America North,1
@@ -4287,7 +4287,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2022-03-31,2022,1,United States,America North,3
 2022-03-31,2022,1,Vietnam,Asia South East,25
 2022-03-31,2022,1,Zimbabwe,Africa Sub-Saharan,24
-2022-06-30,2022,2,Albania,Europe Other,170
+2022-06-30,2022,2,Albania,Europe Other,171
 2022-06-30,2022,2,Algeria,Africa North,5
 2022-06-30,2022,2,Austria,EU 14,1
 2022-06-30,2022,2,Belarus,Europe Other,1
@@ -4303,6 +4303,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2022-06-30,2022,2,Czechia,EU 8,6
 2022-06-30,2022,2,Eritrea,Africa Sub-Saharan,1
 2022-06-30,2022,2,France,EU 14,10
+2022-06-30,2022,2,French Polynesia (French),Oceania,1
 2022-06-30,2022,2,"Gambia, The",Africa Sub-Saharan,1
 2022-06-30,2022,2,Germany,EU 14,5
 2022-06-30,2022,2,Ghana,Africa Sub-Saharan,4
@@ -4320,7 +4321,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2022-06-30,2022,2,Kosovo,Europe Other,1
 2022-06-30,2022,2,Latvia,EU 8,11
 2022-06-30,2022,2,Libya,Africa North,2
-2022-06-30,2022,2,Lithuania,EU 8,73
+2022-06-30,2022,2,Lithuania,EU 8,72
 2022-06-30,2022,2,Malaysia,Asia South East,2
 2022-06-30,2022,2,Mauritius,Africa Sub-Saharan,1
 2022-06-30,2022,2,Moldova,Europe Other,1
@@ -4329,7 +4330,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2022-06-30,2022,2,Nigeria,Africa Sub-Saharan,11
 2022-06-30,2022,2,North Macedonia,Europe Other,1
 2022-06-30,2022,2,Norway,Europe Other,1
-2022-06-30,2022,2,Other and unknown,Other,12
+2022-06-30,2022,2,Other and unknown,Other,8
 2022-06-30,2022,2,Pakistan,Asia South,3
 2022-06-30,2022,2,Philippines,Asia South East,1
 2022-06-30,2022,2,Poland,EU 8,66
@@ -4366,7 +4367,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2022-09-30,2022,3,China,Asia East,3
 2022-09-30,2022,3,Croatia,EU Other,1
 2022-09-30,2022,3,Cuba,America Central and South,1
-2022-09-30,2022,3,Czechia,EU 8,8
+2022-09-30,2022,3,Czechia,EU 8,9
 2022-09-30,2022,3,Denmark,EU 14,1
 2022-09-30,2022,3,Ecuador,America Central and South,1
 2022-09-30,2022,3,Egypt,Africa North,2
@@ -4392,10 +4393,10 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2022-09-30,2022,3,Morocco,Africa North,1
 2022-09-30,2022,3,Netherlands,EU 14,11
 2022-09-30,2022,3,North Macedonia,Europe Other,2
-2022-09-30,2022,3,Other and unknown,Other,12
+2022-09-30,2022,3,Other and unknown,Other,9
 2022-09-30,2022,3,Pakistan,Asia South,2
 2022-09-30,2022,3,Philippines,Asia South East,1
-2022-09-30,2022,3,Poland,EU 8,75
+2022-09-30,2022,3,Poland,EU 8,74
 2022-09-30,2022,3,Portugal,EU 14,28
 2022-09-30,2022,3,Romania,EU 2,182
 2022-09-30,2022,3,Russia,Europe Other,1
@@ -4411,7 +4412,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2022-09-30,2022,3,United States,America North,4
 2022-09-30,2022,3,Vietnam,Asia South East,19
 2022-09-30,2022,3,Zimbabwe,Africa Sub-Saharan,8
-2022-12-31,2022,4,Albania,Europe Other,187
+2022-12-31,2022,4,Albania,Europe Other,186
 2022-12-31,2022,4,Algeria,Africa North,4
 2022-12-31,2022,4,Bangladesh,Asia South,4
 2022-12-31,2022,4,Barbados,America Central and South,1
@@ -4453,7 +4454,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2022-12-31,2022,4,Netherlands,EU 14,13
 2022-12-31,2022,4,New Zealand,Oceania,1
 2022-12-31,2022,4,Nigeria,Africa Sub-Saharan,5
-2022-12-31,2022,4,Other and unknown,Other,2
+2022-12-31,2022,4,Other and unknown,Other,3
 2022-12-31,2022,4,Pakistan,Asia South,6
 2022-12-31,2022,4,Philippines,Asia South East,1
 2022-12-31,2022,4,Poland,EU 8,65
@@ -4461,7 +4462,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2022-12-31,2022,4,Romania,EU 2,172
 2022-12-31,2022,4,Slovakia,EU 8,16
 2022-12-31,2022,4,Somalia,Africa Sub-Saharan,2
-2022-12-31,2022,4,South Africa,Africa Sub-Saharan,2
+2022-12-31,2022,4,South Africa,Africa Sub-Saharan,1
 2022-12-31,2022,4,Spain,EU 14,6
 2022-12-31,2022,4,Sri Lanka,Asia South,1
 2022-12-31,2022,4,Sudan,Africa North,1
@@ -4473,7 +4474,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2022-12-31,2022,4,Vietnam,Asia South East,29
 2022-12-31,2022,4,Zimbabwe,Africa Sub-Saharan,4
 2023-03-31,2023,1,Afghanistan,Asia Central,1
-2023-03-31,2023,1,Albania,Europe Other,276
+2023-03-31,2023,1,Albania,Europe Other,278
 2023-03-31,2023,1,Algeria,Africa North,2
 2023-03-31,2023,1,Austria,EU 14,1
 2023-03-31,2023,1,"Bahamas, The",America Central and South,1
@@ -4489,7 +4490,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2023-03-31,2023,1,China,Asia East,2
 2023-03-31,2023,1,Congo,Africa Sub-Saharan,1
 2023-03-31,2023,1,Cyprus,EU Other,1
-2023-03-31,2023,1,Czechia,EU 8,12
+2023-03-31,2023,1,Czechia,EU 8,13
 2023-03-31,2023,1,Denmark,EU 14,1
 2023-03-31,2023,1,Estonia,EU 8,3
 2023-03-31,2023,1,Finland,EU 14,2
@@ -4503,12 +4504,12 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2023-03-31,2023,1,India,Asia South,2
 2023-03-31,2023,1,Iran,Middle East,1
 2023-03-31,2023,1,Iraq,Middle East,6
-2023-03-31,2023,1,Ireland,EU 14,2
+2023-03-31,2023,1,Ireland,EU 14,3
 2023-03-31,2023,1,Italy,EU 14,8
 2023-03-31,2023,1,Jamaica,America Central and South,7
 2023-03-31,2023,1,Jordan,Middle East,1
 2023-03-31,2023,1,Latvia,EU 8,18
-2023-03-31,2023,1,Lithuania,EU 8,63
+2023-03-31,2023,1,Lithuania,EU 8,61
 2023-03-31,2023,1,Malaysia,Asia South East,1
 2023-03-31,2023,1,Mauritius,Africa Sub-Saharan,1
 2023-03-31,2023,1,Mexico,America Central and South,2
@@ -4517,14 +4518,14 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2023-03-31,2023,1,Netherlands,EU 14,11
 2023-03-31,2023,1,Nigeria,Africa Sub-Saharan,6
 2023-03-31,2023,1,North Macedonia,Europe Other,3
-2023-03-31,2023,1,Norway,Europe Other,2
+2023-03-31,2023,1,Norway,Europe Other,1
 2023-03-31,2023,1,Other and unknown,Other,1
 2023-03-31,2023,1,Pakistan,Asia South,11
 2023-03-31,2023,1,Philippines,Asia South East,2
 2023-03-31,2023,1,Poland,EU 8,58
-2023-03-31,2023,1,Portugal,EU 14,15
-2023-03-31,2023,1,Romania,EU 2,187
-2023-03-31,2023,1,Slovakia,EU 8,15
+2023-03-31,2023,1,Portugal,EU 14,14
+2023-03-31,2023,1,Romania,EU 2,185
+2023-03-31,2023,1,Slovakia,EU 8,13
 2023-03-31,2023,1,Somalia,Africa Sub-Saharan,3
 2023-03-31,2023,1,Spain,EU 14,5
 2023-03-31,2023,1,Sri Lanka,Asia South,2
@@ -4542,7 +4543,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2023-03-31,2023,1,Vietnam,Asia South East,9
 2023-03-31,2023,1,Zimbabwe,Africa Sub-Saharan,3
 2023-06-30,2023,2,Afghanistan,Asia Central,1
-2023-06-30,2023,2,Albania,Europe Other,325
+2023-06-30,2023,2,Albania,Europe Other,328
 2023-06-30,2023,2,Algeria,Africa North,6
 2023-06-30,2023,2,Antigua and Barbuda,America Central and South,1
 2023-06-30,2023,2,Argentina,America Central and South,1
@@ -4561,42 +4562,41 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2023-06-30,2023,2,Colombia,America Central and South,3
 2023-06-30,2023,2,Croatia,EU Other,2
 2023-06-30,2023,2,Cyprus,EU Other,2
-2023-06-30,2023,2,Czechia,EU 8,7
+2023-06-30,2023,2,Czechia,EU 8,8
 2023-06-30,2023,2,Dominican Republic,America Central and South,1
 2023-06-30,2023,2,Estonia,EU 8,1
 2023-06-30,2023,2,Ethiopia,Africa Sub-Saharan,1
 2023-06-30,2023,2,Fiji,Oceania,2
-2023-06-30,2023,2,France,EU 14,13
+2023-06-30,2023,2,France,EU 14,15
 2023-06-30,2023,2,Germany,EU 14,6
 2023-06-30,2023,2,Ghana,Africa Sub-Saharan,3
-2023-06-30,2023,2,Greece,EU 14,8
+2023-06-30,2023,2,Greece,EU 14,9
 2023-06-30,2023,2,Hungary,EU 8,9
 2023-06-30,2023,2,Iceland,Europe Other,1
 2023-06-30,2023,2,India,Asia South,6
 2023-06-30,2023,2,Iraq,Middle East,1
-2023-06-30,2023,2,Ireland,EU 14,1
+2023-06-30,2023,2,Ireland,EU 14,3
 2023-06-30,2023,2,Italy,EU 14,20
 2023-06-30,2023,2,Jamaica,America Central and South,5
 2023-06-30,2023,2,Jordan,Middle East,1
 2023-06-30,2023,2,Kosovo,Europe Other,2
 2023-06-30,2023,2,Latvia,EU 8,21
-2023-06-30,2023,2,Lithuania,EU 8,51
+2023-06-30,2023,2,Lithuania,EU 8,52
 2023-06-30,2023,2,Malaysia,Asia South East,1
 2023-06-30,2023,2,Mauritius,Africa Sub-Saharan,1
 2023-06-30,2023,2,Moldova,Europe Other,2
 2023-06-30,2023,2,Morocco,Africa North,1
-2023-06-30,2023,2,Netherlands,EU 14,10
+2023-06-30,2023,2,Netherlands,EU 14,11
 2023-06-30,2023,2,Nicaragua,America Central and South,1
 2023-06-30,2023,2,Nigeria,Africa Sub-Saharan,2
 2023-06-30,2023,2,North Macedonia,Europe Other,1
-2023-06-30,2023,2,Other and unknown,Other,1
 2023-06-30,2023,2,Pakistan,Asia South,9
 2023-06-30,2023,2,Philippines,Asia South East,1
 2023-06-30,2023,2,Poland,EU 8,73
-2023-06-30,2023,2,Portugal,EU 14,16
-2023-06-30,2023,2,Romania,EU 2,218
+2023-06-30,2023,2,Portugal,EU 14,18
+2023-06-30,2023,2,Romania,EU 2,224
 2023-06-30,2023,2,Serbia,Europe Other,1
-2023-06-30,2023,2,Slovakia,EU 8,13
+2023-06-30,2023,2,Slovakia,EU 8,15
 2023-06-30,2023,2,Slovenia,EU 8,1
 2023-06-30,2023,2,Somalia,Africa Sub-Saharan,1
 2023-06-30,2023,2,South Africa,Africa Sub-Saharan,3
@@ -4611,7 +4611,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2023-06-30,2023,2,Uzbekistan,Asia Central,1
 2023-06-30,2023,2,Vietnam,Asia South East,7
 2023-06-30,2023,2,Zimbabwe,Africa Sub-Saharan,4
-2023-09-30,2023,3,Albania,Europe Other,375
+2023-09-30,2023,3,Albania,Europe Other,387
 2023-09-30,2023,3,Angola,Africa Sub-Saharan,1
 2023-09-30,2023,3,Australia,Oceania,1
 2023-09-30,2023,3,Austria,EU 14,2
@@ -4637,7 +4637,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2023-09-30,2023,3,Germany,EU 14,4
 2023-09-30,2023,3,Ghana,Africa Sub-Saharan,2
 2023-09-30,2023,3,Greece,EU 14,4
-2023-09-30,2023,3,Hungary,EU 8,7
+2023-09-30,2023,3,Hungary,EU 8,8
 2023-09-30,2023,3,India,Asia South,13
 2023-09-30,2023,3,Iran,Middle East,1
 2023-09-30,2023,3,Iraq,Middle East,4
@@ -4648,7 +4648,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2023-09-30,2023,3,Kosovo,Europe Other,1
 2023-09-30,2023,3,Kuwait,Middle East,1
 2023-09-30,2023,3,Latvia,EU 8,14
-2023-09-30,2023,3,Lithuania,EU 8,75
+2023-09-30,2023,3,Lithuania,EU 8,78
 2023-09-30,2023,3,Malaysia,Asia South East,1
 2023-09-30,2023,3,Mexico,America Central and South,2
 2023-09-30,2023,3,Moldova,Europe Other,1
@@ -4664,7 +4664,7 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2023-09-30,2023,3,Poland,EU 8,61
 2023-09-30,2023,3,Portugal,EU 14,16
 2023-09-30,2023,3,Qatar,Middle East,1
-2023-09-30,2023,3,Romania,EU 2,192
+2023-09-30,2023,3,Romania,EU 2,196
 2023-09-30,2023,3,Serbia,Europe Other,1
 2023-09-30,2023,3,Slovakia,EU 8,14
 2023-09-30,2023,3,Somalia,Africa Sub-Saharan,1
@@ -4678,3 +4678,75 @@ Date,Year,Quarter,Return destination,Return destination region,Number of foreign
 2023-09-30,2023,3,United States,America North,17
 2023-09-30,2023,3,Vietnam,Asia South East,5
 2023-09-30,2023,3,Zimbabwe,Africa Sub-Saharan,4
+2023-12-31,2023,4,Afghanistan,Asia Central,1
+2023-12-31,2023,4,Albania,Europe Other,451
+2023-12-31,2023,4,Algeria,Africa North,2
+2023-12-31,2023,4,Angola,Africa Sub-Saharan,1
+2023-12-31,2023,4,Antigua and Barbuda,America Central and South,1
+2023-12-31,2023,4,Australia,Oceania,1
+2023-12-31,2023,4,Austria,EU 14,1
+2023-12-31,2023,4,Bangladesh,Asia South,2
+2023-12-31,2023,4,Barbados,America Central and South,3
+2023-12-31,2023,4,Belgium,EU 14,1
+2023-12-31,2023,4,Bolivia,America Central and South,1
+2023-12-31,2023,4,Brazil,America Central and South,11
+2023-12-31,2023,4,Bulgaria,EU 2,20
+2023-12-31,2023,4,Cameroon,Africa Sub-Saharan,1
+2023-12-31,2023,4,Canada,America North,5
+2023-12-31,2023,4,Chile,America Central and South,8
+2023-12-31,2023,4,China,Asia East,5
+2023-12-31,2023,4,Colombia,America Central and South,3
+2023-12-31,2023,4,Congo (Democratic Republic),Africa Sub-Saharan,1
+2023-12-31,2023,4,Croatia,EU Other,1
+2023-12-31,2023,4,Cyprus,EU Other,2
+2023-12-31,2023,4,Czechia,EU 8,8
+2023-12-31,2023,4,Denmark,EU 14,2
+2023-12-31,2023,4,Dominica,America Central and South,1
+2023-12-31,2023,4,Ecuador,America Central and South,1
+2023-12-31,2023,4,Egypt,Africa North,2
+2023-12-31,2023,4,Estonia,EU 8,1
+2023-12-31,2023,4,Ethiopia,Africa Sub-Saharan,1
+2023-12-31,2023,4,Finland,EU 14,1
+2023-12-31,2023,4,France,EU 14,15
+2023-12-31,2023,4,Georgia,Europe Other,1
+2023-12-31,2023,4,Germany,EU 14,2
+2023-12-31,2023,4,Ghana,Africa Sub-Saharan,1
+2023-12-31,2023,4,Greece,EU 14,5
+2023-12-31,2023,4,Guinea,Africa Sub-Saharan,2
+2023-12-31,2023,4,Hong Kong,Asia East,1
+2023-12-31,2023,4,Hungary,EU 8,4
+2023-12-31,2023,4,India,Asia South,16
+2023-12-31,2023,4,Iran,Middle East,2
+2023-12-31,2023,4,Iraq,Middle East,3
+2023-12-31,2023,4,Italy,EU 14,9
+2023-12-31,2023,4,Jamaica,America Central and South,4
+2023-12-31,2023,4,Jordan,Middle East,1
+2023-12-31,2023,4,Kosovo,Europe Other,2
+2023-12-31,2023,4,Latvia,EU 8,24
+2023-12-31,2023,4,Liberia,Africa Sub-Saharan,1
+2023-12-31,2023,4,Lithuania,EU 8,70
+2023-12-31,2023,4,Malaysia,Asia South East,1
+2023-12-31,2023,4,Moldova,Europe Other,2
+2023-12-31,2023,4,Netherlands,EU 14,15
+2023-12-31,2023,4,Nicaragua,America Central and South,1
+2023-12-31,2023,4,Nigeria,Africa Sub-Saharan,1
+2023-12-31,2023,4,North Macedonia,Europe Other,2
+2023-12-31,2023,4,Norway,Europe Other,1
+2023-12-31,2023,4,Pakistan,Asia South,6
+2023-12-31,2023,4,Philippines,Asia South East,2
+2023-12-31,2023,4,Poland,EU 8,69
+2023-12-31,2023,4,Portugal,EU 14,13
+2023-12-31,2023,4,Romania,EU 2,214
+2023-12-31,2023,4,Russia,Europe Other,1
+2023-12-31,2023,4,Slovakia,EU 8,12
+2023-12-31,2023,4,Somalia,Africa Sub-Saharan,2
+2023-12-31,2023,4,South Africa,Africa Sub-Saharan,2
+2023-12-31,2023,4,Spain,EU 14,6
+2023-12-31,2023,4,St Lucia,America Central and South,2
+2023-12-31,2023,4,Sweden,EU 14,4
+2023-12-31,2023,4,Switzerland,Europe Other,2
+2023-12-31,2023,4,Trinidad and Tobago,America Central and South,1
+2023-12-31,2023,4,Turkey,Europe Other,2
+2023-12-31,2023,4,United States,America North,6
+2023-12-31,2023,4,Vietnam,Asia South East,18
+2023-12-31,2023,4,Zimbabwe,Africa Sub-Saharan,2

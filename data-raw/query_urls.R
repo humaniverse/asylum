@@ -44,8 +44,8 @@ query_urls <-
     "immigration_detention", "Immigration detention", "https://assets.publishing.service.gov.uk/media/65563356544aea000dfb2ed4/detention-datasets-sep-2023.xlsx", "https://www.gov.uk/government/statistical-data-sets/returns-and-detention-datasets",
 
     # Returns
-    "returns_summary", "Returns summary table", "https://assets.publishing.service.gov.uk/media/6556343c046ed400148b9a5a/returns-summary-sep-2023-tables.ods", "https://www.gov.uk/government/statistical-data-sets/immigration-system-statistics-data-tables#returns",
-    "returns", "Returns", "https://assets.publishing.service.gov.uk/media/6556344d046ed4000d8b9a66/returns-datasets-sep-2023.xlsx", "https://www.gov.uk/government/statistical-data-sets/immigration-system-statistics-data-tables#returns",
+    "returns_summary", "Returns summary table", "https://assets.publishing.service.gov.uk/media/65d888b36efa83001ddcc595/returns-summary-dec-2023-tables.ods", "https://www.gov.uk/government/statistical-data-sets/immigration-system-statistics-data-tables#returns",
+    "returns", "Returns", "https://assets.publishing.service.gov.uk/media/65d888d16efa83001ddcc596/returns-datasets-dec-2023.xlsx", "https://www.gov.uk/government/statistical-data-sets/immigration-system-statistics-data-tables#returns",
 
     # Irregular migration
     "irrgular_migration", "Irregular migration detailed dataset", "https://assets.publishing.service.gov.uk/media/655c859cd03a8d001207fd99/irregular-migration-to-the-UK-detailed-dataset-year-ending-september-2023.xlsx", "https://www.gov.uk/government/statistical-data-sets/irregular-migration-detailed-dataset-and-summary-tables#detailed-datasets",
