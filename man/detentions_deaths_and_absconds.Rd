@@ -6,7 +6,7 @@
 \title{Deaths of persons detained under Immigration Act Powers and absconds from
 detention, 2017 to 2022}
 \format{
-A data frame with 6 rows and 5 variables:
+A data frame with 5 variables:
 \describe{
   \item{Year}{Year}
   \item{Deaths of persons detained under Immigration Powers}{Deaths of persons detained under Immigration Powers}

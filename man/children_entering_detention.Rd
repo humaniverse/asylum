@@ -5,7 +5,7 @@
 \alias{children_entering_detention}
 \title{Children entering detention}
 \format{
-A data frame with 13 rows and 7 variables:
+A data frame with 7 variables:
 \describe{
   \item{Date of entry to detention}{Date of entry to detention}
   \item{Total children}{Total children}

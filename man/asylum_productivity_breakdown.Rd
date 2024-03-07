@@ -5,7 +5,7 @@
 \alias{asylum_productivity_breakdown}
 \title{Breakdown of asylum productivity}
 \format{
-A data frame with 45 rows and 6 variables:
+A data frame with 6 variables:
 \describe{
   \item{Date}{Date}
   \item{Initial Decisions}{Number of initial decisions made}

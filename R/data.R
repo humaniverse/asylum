@@ -1604,6 +1604,22 @@
 #' @source \url{https://www.gov.uk/government/collections/national-referral-mechanism-statistics}
 "nrm_referrals_2023_q3"
 
+#' NRM referrals - Q4 2023
+#'
+#' @format A data frame with 7 variables:
+#' \describe{
+#'   \item{First responder type}{First responder type}
+#'   \item{First responder}{First responder}
+#'   \item{Exploitation type}{Labour, domestic, sexual etc. exploitation}
+#'   \item{Age at exploitation}{Age group}
+#'   \item{Gender}{Gender/sex}
+#'   \item{Nationality}{Nationality}
+#'   \item{People}{Number of people referred to NRM}
+#'   ...
+#' }
+#' @source \url{https://www.gov.uk/government/collections/national-referral-mechanism-statistics}
+"nrm_referrals_2023_q4"
+
 #' NRM referrals from Government first responders - Q3 2023
 #'
 #' @format A data frame with 7 variables:
@@ -1619,6 +1635,22 @@
 #' }
 #' @source \url{https://www.gov.uk/government/collections/national-referral-mechanism-statistics}
 "nrm_referrals_govt_2023_q3"
+
+#' NRM referrals from Government first responders - Q4 2023
+#'
+#' @format A data frame with 7 variables:
+#' \describe{
+#'   \item{First responder type}{First responder type}
+#'   \item{First responder}{First responder}
+#'   \item{Exploitation type}{Labour, domestic, sexual etc. exploitation}
+#'   \item{Age at exploitation}{Age group}
+#'   \item{Gender}{Gender/sex}
+#'   \item{Nationality}{Nationality}
+#'   \item{People}{Number of people referred to NRM}
+#'   ...
+#' }
+#' @source \url{https://www.gov.uk/government/collections/national-referral-mechanism-statistics}
+"nrm_referrals_govt_2023_q4"
 
 #' NRM referrals from NGO and third sector first responders - Q3 2023
 #'
@@ -1636,6 +1668,23 @@
 #' @source \url{https://www.gov.uk/government/collections/national-referral-mechanism-statistics}
 "nrm_referrals_ngo_2023_q3"
 
+#' NRM referrals from NGO and third sector first responders - Q4 2023
+#'
+#' @format A data frame with 7 variables:
+#' \describe{
+#'   \item{First responder type}{First responder type}
+#'   \item{First responder}{First responder}
+#'   \item{Exploitation type}{Labour, domestic, sexual etc. exploitation}
+#'   \item{Age at exploitation}{Age group}
+#'   \item{Gender}{Gender/sex}
+#'   \item{Nationality}{Nationality}
+#'   \item{People}{Number of people referred to NRM}
+#'   ...
+#' }
+#' @source \url{https://www.gov.uk/government/collections/national-referral-mechanism-statistics}
+"nrm_referrals_ngo_2023_q4"
+
+
 #' NRM referrals from Police first responders - Q3 2023
 #'
 #' @format A data frame with 7 variables:
@@ -1652,6 +1701,22 @@
 #' @source \url{https://www.gov.uk/government/collections/national-referral-mechanism-statistics}
 "nrm_referrals_police_2023_q3"
 
+#' NRM referrals from Police first responders - Q4 2023
+#'
+#' @format A data frame with 7 variables:
+#' \describe{
+#'   \item{First responder type}{First responder type}
+#'   \item{First responder}{First responder}
+#'   \item{Exploitation type}{Labour, domestic, sexual etc. exploitation}
+#'   \item{Age at exploitation}{Age group}
+#'   \item{Gender}{Gender/sex}
+#'   \item{Nationality}{Nationality}
+#'   \item{People}{Number of people referred to NRM}
+#'   ...
+#' }
+#' @source \url{https://www.gov.uk/government/collections/national-referral-mechanism-statistics}
+"nrm_referrals_police_2023_q4"
+
 #' NRM referrals from Local Authority first responders - Q3 2023
 #'
 #' @format A data frame with 7 variables:
@@ -1667,6 +1732,22 @@
 #' }
 #' @source \url{https://www.gov.uk/government/collections/national-referral-mechanism-statistics}
 "nrm_referrals_la_2023_q3"
+
+#' NRM referrals from Local Authority first responders - Q4 2023
+#'
+#' @format A data frame with 7 variables:
+#' \describe{
+#'   \item{First responder type}{First responder type}
+#'   \item{First responder}{First responder}
+#'   \item{Exploitation type}{Labour, domestic, sexual etc. exploitation}
+#'   \item{Age at exploitation}{Age group}
+#'   \item{Gender}{Gender/sex}
+#'   \item{Nationality}{Nationality}
+#'   \item{People}{Number of people referred to NRM}
+#'   ...
+#' }
+#' @source \url{https://www.gov.uk/government/collections/national-referral-mechanism-statistics}
+"nrm_referrals_la_2023_q4"
 
 #' Referrals received via the Duty to Notify process in Q2 2022, by nationality
 #'
@@ -1689,6 +1770,17 @@
 #' }
 #' @source \url{https://www.gov.uk/government/collections/national-referral-mechanism-statistics}
 "nrm_duty_to_notify_2022_q3"
+
+#' Referrals received via the Duty to Notify process in Q4 2022, by nationality
+#'
+#' @format A data frame with 2 variables:
+#' \describe{
+#'   \item{Nationality}{Nationality}
+#'   \item{Total}{Number of referrals via duty to notify}
+#'   ...
+#' }
+#' @source \url{https://www.gov.uk/government/collections/national-referral-mechanism-statistics}
+"nrm_duty_to_notify_2022_q4"
 
 #' Referrals received via the Duty to Notify process in Q4 2022, by nationality
 #'

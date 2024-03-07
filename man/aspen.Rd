@@ -5,7 +5,7 @@
 \alias{aspen}
 \title{Aspen Cards in use}
 \format{
-A data frame with 17 rows and 4 variables:
+A data frame with 4 variables:
 \describe{
   \item{Date}{Date}
   \item{Year}{Year}

@@ -5,7 +5,7 @@
 \alias{detention_summary_flow}
 \title{People entering, leaving and in detention by asylum and non-asylum}
 \format{
-A data frame with 13 rows and 10 variables:
+A data frame with 10 variables:
 \describe{
   \item{Date}{Date}
   \item{Entering detention}{Entering detention}

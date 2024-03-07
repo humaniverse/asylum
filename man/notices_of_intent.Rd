@@ -5,7 +5,7 @@
 \alias{notices_of_intent}
 \title{Notices of intent issued, by nationality}
 \format{
-A data frame with 11 rows and 2 variables:
+A data frame with 2 variables:
 \describe{
   \item{Nationality}{Nationality}
   \item{Total}{Total number of notices of intent issued}

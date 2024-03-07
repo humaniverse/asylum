@@ -5,7 +5,14 @@
 \alias{nrm_duty_to_notify_2022_q4}
 \title{Referrals received via the Duty to Notify process in Q4 2022, by nationality}
 \format{
-A data frame with 98 rows and 2 variables:
+A data frame with 2 variables:
+\describe{
+  \item{Nationality}{Nationality}
+  \item{Total}{Number of referrals via duty to notify}
+  ...
+}
+
+A data frame with 2 variables:
 \describe{
   \item{Nationality}{Nationality}
   \item{Total}{Number of referrals via duty to notify}
@@ -14,11 +21,17 @@ A data frame with 98 rows and 2 variables:
 }
 \source{
 \url{https://www.gov.uk/government/collections/national-referral-mechanism-statistics}
+
+\url{https://www.gov.uk/government/collections/national-referral-mechanism-statistics}
 }
 \usage{
 nrm_duty_to_notify_2022_q4
+
+nrm_duty_to_notify_2022_q4
 }
 \description{
+Referrals received via the Duty to Notify process in Q4 2022, by nationality
+
 Referrals received via the Duty to Notify process in Q4 2022, by nationality
 }
 \keyword{datasets}

@@ -5,7 +5,7 @@
 \alias{returns_asylum}
 \title{Returns from the UK, by nationality, type of return, and asylum/non-asylum}
 \format{
-A data frame with 22 rows and 5 variables:
+A data frame with 5 variables:
 \describe{
   \item{Category}{Asylum-related or non-asylum-related return?}
   \item{Nationality}{Nationality of people being returned}

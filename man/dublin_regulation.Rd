@@ -5,7 +5,7 @@
 \alias{dublin_regulation}
 \title{Dublin regulation}
 \format{
-A data frame with 3,508 rows and 8 variables:
+A data frame with 8 variables:
 \describe{
   \item{Date}{The period in which the request or transfer of an asylum applicant under the Dublin Regulation was made}
   \item{Year}{Year}

@@ -5,7 +5,7 @@
 \alias{nrm_duty_to_notify_2023_q1}
 \title{Referrals received via the Duty to Notify process in Q1 2023, by nationality}
 \format{
-A data frame with 97 rows and 2 variables:
+A data frame with 2 variables:
 \describe{
   \item{Nationality}{Nationality}
   \item{Total}{Number of referrals via duty to notify}

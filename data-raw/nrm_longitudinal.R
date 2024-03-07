@@ -8,7 +8,7 @@ load_all()
 
 query_url <-
   query_urls |>
-  filter(data_set == "nrm_2023_q3") |>
+  filter(data_set == "nrm_2023_q4") |>
   pull(query_url)
 
 GET(
@@ -56,7 +56,7 @@ nrm_referrals_longitudinal <-
   separate_wider_delim(AgeLocation, delim = " - ", names = c("Age at exploitation", "Location of exploitation"))
 
 # Fix mistake in original dataset where 2023 q2 is recorded as 2022
-nrm_referrals_longitudinal[826:nrow(nrm_referrals_longitudinal), "Year"] <- 2023
+# nrm_referrals_longitudinal[826:nrow(nrm_referrals_longitudinal), "Year"] <- 2023
 
 # ---- Table 16: NRM reasonable grounds decisions made by both competent authorities by quarter, outcome and age at exploitation ----
 nrm_reasonable_grounds_raw <-

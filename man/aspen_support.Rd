@@ -5,7 +5,7 @@
 \alias{aspen_support}
 \title{Aspen Card-related support}
 \format{
-A data frame with 17 rows and 6 variables:
+A data frame with 6 variables:
 \describe{
   \item{Date}{Date}
   \item{Year}{Year}

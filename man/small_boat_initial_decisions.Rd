@@ -5,7 +5,7 @@
 \alias{small_boat_initial_decisions}
 \title{Initial decisions on asylum applications from small boat arrivals}
 \format{
-A data frame with 5,380 rows and 12 variables:
+A data frame with 12 variables:
 \describe{
   \item{Date}{Date}
   \item{Year}{Year}

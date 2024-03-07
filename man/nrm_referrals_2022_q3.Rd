@@ -5,7 +5,7 @@
 \alias{nrm_referrals_2022_q3}
 \title{NRM referrals - Q3 2022}
 \format{
-A data frame with 51,520 rows and 7 variables:
+A data frame with 7 variables:
 \describe{
   \item{First responder type}{First responder type}
   \item{First responder}{First responder}

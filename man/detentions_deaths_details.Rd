@@ -5,7 +5,7 @@
 \alias{detentions_deaths_details}
 \title{Deaths of persons detained under Immigration Act Powers, 2017 to 2021}
 \format{
-A data frame with 10 rows and 8 variables:
+A data frame with 8 variables:
 \describe{
   \item{Year}{Year}
   \item{Number}{Number identifying a person within each year}
