@@ -1,7 +1,7 @@
 Package: asylum
 Type: Package
 Title: Data on Asylum and Resettlement for the UK
-Version: 1.1.2.9000
+Version: 1.1.3
 Authors@R: c(
     person(given = c("Matthew", "Gwynfryn"), 
            family = "Thomas", 
@@ -10,6 +10,10 @@ Authors@R: c(
     person(given = "Mike", 
            family = "Page", 
            email = "mpage@redcross.org.uk", 
+           role = "aut"),
+    person(given = "Jenna", 
+           family = "Tan", 
+           email = "JennaTan@redcross.org.uk", 
            role = "aut"),
     person(family = "British Red Cross", 
            role = "cph")
