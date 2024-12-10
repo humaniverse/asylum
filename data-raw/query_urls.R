@@ -5,6 +5,7 @@ query_urls <-
     ~data_set, ~description, ~query_url, ~source,
 
     # Main URLs to use:
+    # - https://www.gov.uk/government/statistical-data-sets/immigration-system-statistics-data-tables
     # - https://www.gov.uk/government/collections/migration-statistics
     # - https://www.gov.uk/government/collections/immigration-statistics-quarterly-release
     # - https://www.gov.uk/government/statistical-data-sets/asylum-and-resettlement-datasets
@@ -37,7 +38,7 @@ query_urls <-
 
     # Local authority data
     "local_authority_resettlement", "Resettlement by local authority", "https://assets.publishing.service.gov.uk/media/655bae44d03a8d001207fd17/resettlement-local-authority-datasets-sep-2023.xlsx", "https://www.gov.uk/government/statistical-data-sets/asylum-and-resettlement-datasets",
-    "local_authority_support", "Section 95 support by local authority", "https://assets.publishing.service.gov.uk/media/655bae5a046ed400148b9c8d/support-local-authority-datasets-sep-2023.xlsx", "https://www.gov.uk/government/statistical-data-sets/asylum-and-resettlement-datasets",
+    "local_authority_support", "Section 95 support by local authority", "https://assets.publishing.service.gov.uk/media/674845d76f60e7767972393a/support-local-authority-datasets-sep-24.xlsx", "https://www.gov.uk/government/statistical-data-sets/asylum-and-resettlement-datasets",
 
     # Detention
     "detention_summary", "Detention summary tables", "https://assets.publishing.service.gov.uk/media/65563340544aea0019fb2ea5/detention-summary-sep-2023-tables.ods", "https://www.gov.uk/government/statistical-data-sets/immigration-system-statistics-data-tables#detention",
