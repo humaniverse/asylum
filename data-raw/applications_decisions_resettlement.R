@@ -3,7 +3,7 @@ library(lubridate)
 library(devtools)
 library(readxl)
 library(httr)
-library(zoo)
+# library(zoo)
 
 load_all()
 
@@ -27,7 +27,8 @@ decisions_resettlement <-
 applications <-
   applications |>
   # mutate(Date = yq(Quarter)) |>
-  mutate(Date = as.Date(as.yearqtr(Quarter, format = "%Y Q%q"), frac = 1)) |>
+  # mutate(Date = as.Date(as.yearqtr(Quarter, format = "%Y Q%q"), frac = 1)) |>
+  mutate(Date = ceiling_date(yq(Quarter), unit = "quarter") - days(1)) |>
   relocate(Date) |>
 
   mutate(
@@ -39,7 +40,8 @@ applications <-
 decisions_resettlement <-
   decisions_resettlement |>
   # mutate(Date = yq(Quarter)) |>
-  mutate(Date = as.Date(as.yearqtr(Quarter, format = "%Y Q%q"), frac = 1)) |>
+  # mutate(Date = as.Date(as.yearqtr(Quarter, format = "%Y Q%q"), frac = 1)) |>
+  mutate(Date = ceiling_date(yq(Quarter), unit = "quarter") - days(1)) |>
   relocate(Date) |>
 
   mutate(

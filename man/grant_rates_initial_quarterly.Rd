@@ -14,6 +14,7 @@ A data frame with 8 variables:
   \item{Region}{Region}
   \item{Grant}{Total number of grants at initial decision}
   \item{Refused}{Total number of refusals at initial decision}
+  \item{Administrative Outcome}{Administrative Outcome}
   \item{Initial grant rate}{Initial grant rate - percentage}
   ...
 }
