@@ -15,7 +15,7 @@ download_stats <- function(url, name_of_file) {
   # Helper function to extract the URL based on 'text_to_find'
   extract_url <- function(doc, text_to_find) {
     doc |>
-      rvest::html_nodes(xpath = stringr::str_glue("//*//a[contains(text(), '{text_to_find}')]//@href")) |>
+      rvest::html_nodes(xpath = paste0("//*//a[contains(text(), '", text_to_find, "')]//@href")) |>
       rvest::html_text() |>
       trimws()
   }
