@@ -3,6 +3,8 @@
 #' @param url A URL with a set of links to datasets
 #' @param name_of_file Text of the link to the file
 #'
+#' @return A character string containing the location of the downloaded file
+#'
 download_stats <- function(url, name_of_file) {
 
   doc <-
@@ -15,7 +17,7 @@ download_stats <- function(url, name_of_file) {
     doc |>
       rvest::html_nodes(xpath = stringr::str_glue("//*//a[contains(text(), '{text_to_find}')]//@href")) |>
       rvest::html_text() |>
-      stringr::str_trim()
+      trimws()
   }
 
   # Extract the URL for this file
