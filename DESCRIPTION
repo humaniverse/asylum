@@ -1,7 +1,7 @@
 Package: asylum
 Type: Package
 Title: Data on Asylum and Resettlement for the UK
-Version: 1.1.3
+Version: 1.2.0
 Authors@R: c(
     person(given = c("Matthew", "Gwynfryn"), 
            family = "Thomas", 
@@ -25,6 +25,16 @@ URL: https://humaniverse.github.io/asylum/, https://github.com/humaniverse/asylu
 BugReports: https://github.com/humaniverse/asylum/issues
 Encoding: UTF-8
 LazyData: true
+Imports:
+    dplyr,
+    httr2,
+    lubridate,
+    readxl,
+    rvest,
+    tibble
 Depends: 
-    R (>= 2.10)
-RoxygenNote: 7.2.3
+    R (>= 4.1.0)
+RoxygenNote: 7.3.2
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3

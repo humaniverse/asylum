@@ -4323,435 +4323,1129 @@ Year,Nationality,Region,Support type granted,Group type,Applications
 2021,Zimbabwe,Africa Sub-Saharan,Subsistence Only,Single adult,1
 2021,Zimbabwe,Africa Sub-Saharan,Accommodation,Single adult,12
 2021,Zimbabwe,Africa Sub-Saharan,Accommodation,Family,8
-2022,Afghanistan,Asia Central,Accommodation,Family,121
-2022,Afghanistan,Asia Central,Accommodation,Single adult,1246
-2022,Afghanistan,Asia Central,Accommodation,Unknown,39
-2022,Afghanistan,Asia Central,Other,Single adult,1
-2022,Afghanistan,Asia Central,Other,Family,2
-2022,Afghanistan,Asia Central,Other,Single adult,22
-2022,Afghanistan,Asia Central,Other,Unknown,1
-2022,Afghanistan,Asia Central,Subsistence Only,Family,4
-2022,Afghanistan,Asia Central,Subsistence Only,Single adult,82
-2022,Albania,Europe Other,Accommodation,Family,138
-2022,Albania,Europe Other,Accommodation,Single adult,169
-2022,Albania,Europe Other,Accommodation,Unknown,8
-2022,Albania,Europe Other,Other,Family,7
-2022,Albania,Europe Other,Other,Single adult,41
-2022,Albania,Europe Other,Subsistence Only,Family,36
-2022,Albania,Europe Other,Subsistence Only,Single adult,31
-2022,Albania,Europe Other,Subsistence Only,Unknown,1
-2022,Algeria,Africa North,Accommodation,Family,11
-2022,Algeria,Africa North,Accommodation,Single adult,76
-2022,Algeria,Africa North,Other,Family,1
-2022,Algeria,Africa North,Other,Single adult,3
-2022,Angola,Africa Sub-Saharan,Accommodation,Family,3
-2022,Angola,Africa Sub-Saharan,Accommodation,Single adult,6
-2022,Antigua and Barbuda,America Central and South,Accommodation,Single adult,1
-2022,Argentina,America Central and South,Accommodation,Family,1
-2022,Argentina,America Central and South,Accommodation,Single adult,1
+2022,Afghanistan,Asia Central,Other,Family,15
+2022,Afghanistan,Asia Central,Other,Single adult,90
+2022,Afghanistan,Asia Central,Accommodation,Family,317
+2022,Afghanistan,Asia Central,Accommodation,Single adult,3616
+2022,Afghanistan,Asia Central,Subsistence Only,Family,6
+2022,Afghanistan,Asia Central,Subsistence Only,Single adult,169
+2022,Albania,Europe Other,Other,Family,38
+2022,Albania,Europe Other,Other,Single adult,134
+2022,Albania,Europe Other,Accommodation,Family,550
+2022,Albania,Europe Other,Accommodation,Single adult,361
+2022,Albania,Europe Other,Subsistence Only,Family,72
+2022,Albania,Europe Other,Subsistence Only,Single adult,38
+2022,Algeria,Africa North,Other,Family,4
+2022,Algeria,Africa North,Other,Single adult,13
+2022,Algeria,Africa North,Accommodation,Family,41
+2022,Algeria,Africa North,Accommodation,Single adult,158
+2022,Angola,Africa Sub-Saharan,Other,Single adult,4
+2022,Angola,Africa Sub-Saharan,Accommodation,Family,7
+2022,Angola,Africa Sub-Saharan,Accommodation,Single adult,9
+2022,Angola,Africa Sub-Saharan,Subsistence Only,Family,1
+2022,Angola,Africa Sub-Saharan,Subsistence Only,Single adult,1
+2022,Antigua and Barbuda,America Central and South,Other,Single adult,1
+2022,Antigua and Barbuda,America Central and South,Accommodation,Single adult,3
+2022,Antigua and Barbuda,America Central and South,Subsistence Only,Single adult,1
 2022,Argentina,America Central and South,Other,Single adult,1
+2022,Argentina,America Central and South,Accommodation,Family,3
+2022,Argentina,America Central and South,Accommodation,Single adult,2
+2022,Armenia,Europe Other,Accommodation,Single adult,2
 2022,Australia,Oceania,Accommodation,Single adult,1
-2022,Azerbaijan,Europe Other,Accommodation,Family,3
-2022,Azerbaijan,Europe Other,Accommodation,Single adult,13
-2022,Azerbaijan,Europe Other,Accommodation,Unknown,2
 2022,Azerbaijan,Europe Other,Other,Family,1
-2022,Bahrain,Middle East,Accommodation,Family,3
-2022,Bahrain,Middle East,Accommodation,Single adult,4
-2022,Bangladesh,Asia South,Accommodation,Family,21
-2022,Bangladesh,Asia South,Accommodation,Single adult,21
-2022,Bangladesh,Asia South,Accommodation,Unknown,1
-2022,Bangladesh,Asia South,Other,Family,1
-2022,Bangladesh,Asia South,Other,Single adult,1
-2022,Bangladesh,Asia South,Other,Unknown,2
+2022,Azerbaijan,Europe Other,Other,Single adult,5
+2022,Azerbaijan,Europe Other,Accommodation,Family,8
+2022,Azerbaijan,Europe Other,Accommodation,Single adult,27
+2022,Azerbaijan,Europe Other,Subsistence Only,Single adult,1
+2022,Bahrain,Middle East,Accommodation,Family,4
+2022,Bahrain,Middle East,Accommodation,Single adult,8
+2022,Bahrain,Middle East,Subsistence Only,Single adult,1
+2022,Bangladesh,Asia South,Other,Family,14
+2022,Bangladesh,Asia South,Other,Single adult,14
+2022,Bangladesh,Asia South,Accommodation,Family,68
+2022,Bangladesh,Asia South,Accommodation,Single adult,35
 2022,Bangladesh,Asia South,Subsistence Only,Family,3
-2022,Bangladesh,Asia South,Subsistence Only,Single adult,3
-2022,Barbados,America Central and South,Accommodation,Single adult,1
-2022,Belarus,Europe Other,Accommodation,Family,1
-2022,Belarus,Europe Other,Accommodation,Single adult,7
-2022,Belarus,Europe Other,Accommodation,Unknown,1
-2022,Benin,Africa Sub-Saharan,Accommodation,Single adult,2
-2022,Bolivia,America Central and South,Accommodation,Single adult,1
-2022,Bolivia,America Central and South,Accommodation,Unknown,1
-2022,Botswana,Africa Sub-Saharan,Accommodation,Family,4
-2022,Botswana,Africa Sub-Saharan,Accommodation,Single adult,7
-2022,Brazil,America Central and South,Accommodation,Family,14
-2022,Brazil,America Central and South,Accommodation,Single adult,13
-2022,Brazil,America Central and South,Accommodation,Unknown,3
-2022,Brazil,America Central and South,Other,Single adult,6
+2022,Bangladesh,Asia South,Subsistence Only,Single adult,6
+2022,Barbados,America Central and South,Other,Single adult,1
+2022,Barbados,America Central and South,Accommodation,Single adult,2
+2022,Belarus,Europe Other,Accommodation,Family,4
+2022,Belarus,Europe Other,Accommodation,Single adult,12
+2022,Belarus,Europe Other,Subsistence Only,Family,1
+2022,Benin,Africa Sub-Saharan,Accommodation,Family,1
+2022,Benin,Africa Sub-Saharan,Accommodation,Single adult,4
+2022,Bolivia,America Central and South,Accommodation,Family,2
+2022,Bolivia,America Central and South,Accommodation,Single adult,2
+2022,Bolivia,America Central and South,Subsistence Only,Single adult,1
+2022,Botswana,Africa Sub-Saharan,Other,Family,1
+2022,Botswana,Africa Sub-Saharan,Other,Single adult,4
+2022,Botswana,Africa Sub-Saharan,Accommodation,Family,18
+2022,Botswana,Africa Sub-Saharan,Accommodation,Single adult,61
+2022,Botswana,Africa Sub-Saharan,Subsistence Only,Single adult,1
+2022,Brazil,America Central and South,Other,Family,2
+2022,Brazil,America Central and South,Other,Single adult,12
+2022,Brazil,America Central and South,Accommodation,Family,35
+2022,Brazil,America Central and South,Accommodation,Single adult,26
 2022,Brazil,America Central and South,Subsistence Only,Family,1
-2022,Brazil,America Central and South,Subsistence Only,Single adult,2
-2022,Burkina,Africa Sub-Saharan,Accommodation,Single adult,3
-2022,Burma,Asia South East,Accommodation,Single adult,6
-2022,Burma,Asia South East,Other,Single adult,2
-2022,Burma,Asia South East,Subsistence Only,Single adult,2
-2022,Burundi,Africa Sub-Saharan,Accommodation,Single adult,6
-2022,Burundi,Africa Sub-Saharan,Accommodation,Unknown,1
-2022,Cameroon,Africa Sub-Saharan,Accommodation,Family,7
-2022,Cameroon,Africa Sub-Saharan,Accommodation,Single adult,45
+2022,Brazil,America Central and South,Subsistence Only,Single adult,3
+2022,Burkina Faso,Africa Sub-Saharan,Accommodation,Family,1
+2022,Burkina Faso,Africa Sub-Saharan,Accommodation,Single adult,7
+2022,Burkina Faso,Africa Sub-Saharan,Subsistence Only,Single adult,1
+2022,Burundi,Africa Sub-Saharan,Accommodation,Family,3
+2022,Burundi,Africa Sub-Saharan,Accommodation,Single adult,10
+2022,Cameroon,Africa Sub-Saharan,Other,Single adult,7
+2022,Cameroon,Africa Sub-Saharan,Accommodation,Family,17
+2022,Cameroon,Africa Sub-Saharan,Accommodation,Single adult,99
 2022,Cameroon,Africa Sub-Saharan,Subsistence Only,Family,1
-2022,Cameroon,Africa Sub-Saharan,Subsistence Only,Single adult,4
+2022,Cameroon,Africa Sub-Saharan,Subsistence Only,Single adult,7
+2022,Canada,America North,Other,Single adult,1
 2022,Canada,America North,Accommodation,Family,1
-2022,Canada,America North,Accommodation,Single adult,2
-2022,Central African Republic,Africa Sub-Saharan,Accommodation,Single adult,1
-2022,Chad,Africa Sub-Saharan,Accommodation,Family,3
-2022,Chad,Africa Sub-Saharan,Accommodation,Single adult,119
-2022,Chad,Africa Sub-Saharan,Accommodation,Unknown,2
-2022,China,Asia East,Accommodation,Family,10
-2022,China,Asia East,Accommodation,Single adult,19
-2022,China,Asia East,Accommodation,Unknown,2
-2022,China,Asia East,Other,Family,1
-2022,China,Asia East,Other,Single adult,3
-2022,China,Asia East,Subsistence Only,Family,2
-2022,China,Asia East,Subsistence Only,Single adult,6
-2022,Colombia,America Central and South,Accommodation,Family,1
-2022,Colombia,America Central and South,Accommodation,Single adult,2
-2022,Congo,Africa Sub-Saharan,Accommodation,Family,5
-2022,Congo,Africa Sub-Saharan,Accommodation,Single adult,24
-2022,Congo,Africa Sub-Saharan,Accommodation,Unknown,1
+2022,Canada,America North,Accommodation,Single adult,3
+2022,Central African Republic,Africa Sub-Saharan,Other,Single adult,1
+2022,Central African Republic,Africa Sub-Saharan,Accommodation,Single adult,2
+2022,Chad,Africa Sub-Saharan,Other,Single adult,8
+2022,Chad,Africa Sub-Saharan,Accommodation,Family,11
+2022,Chad,Africa Sub-Saharan,Accommodation,Single adult,156
+2022,Chile,America Central and South,Accommodation,Single adult,1
+2022,China,Asia East,Other,Family,11
+2022,China,Asia East,Other,Single adult,15
+2022,China,Asia East,Accommodation,Family,40
+2022,China,Asia East,Accommodation,Single adult,39
+2022,China,Asia East,Subsistence Only,Family,4
+2022,China,Asia East,Subsistence Only,Single adult,13
+2022,Colombia,America Central and South,Accommodation,Family,8
+2022,Colombia,America Central and South,Accommodation,Single adult,11
+2022,Colombia,America Central and South,Subsistence Only,Family,1
+2022,Congo,Africa Sub-Saharan,Other,Single adult,4
+2022,Congo,Africa Sub-Saharan,Accommodation,Family,8
+2022,Congo,Africa Sub-Saharan,Accommodation,Single adult,28
 2022,Congo,Africa Sub-Saharan,Subsistence Only,Single adult,1
-2022,Congo (Democratic Republic),Africa Sub-Saharan,Accommodation,Family,7
-2022,Congo (Democratic Republic),Africa Sub-Saharan,Accommodation,Single adult,42
-2022,Congo (Democratic Republic),Africa Sub-Saharan,Accommodation,Unknown,1
-2022,Congo (Democratic Republic),Africa Sub-Saharan,Other,Single adult,2
-2022,Congo (Democratic Republic),Africa Sub-Saharan,Subsistence Only,Single adult,1
-2022,Costa Rica,America Central and South,Accommodation,Single adult,2
-2022,Cuba,America Central and South,Accommodation,Single adult,2
-2022,Cuba,America Central and South,Accommodation,Unknown,1
-2022,Cuba,America Central and South,Subsistence Only,Unknown,1
-2022,Djibouti,Africa Sub-Saharan,Accommodation,Single adult,2
-2022,Dominica,America Central and South,Accommodation,Family,1
-2022,Dominica,America Central and South,Accommodation,Single adult,2
-2022,Dominica,America Central and South,Accommodation,Unknown,1
-2022,East Timor,Asia South East,Accommodation,Single adult,1
-2022,Ecuador,America Central and South,Accommodation,Family,2
+2022,Congo (Democratic Republic),Africa Sub-Saharan,Other,Family,1
+2022,Congo (Democratic Republic),Africa Sub-Saharan,Other,Single adult,10
+2022,Congo (Democratic Republic),Africa Sub-Saharan,Accommodation,Family,15
+2022,Congo (Democratic Republic),Africa Sub-Saharan,Accommodation,Single adult,87
+2022,Congo (Democratic Republic),Africa Sub-Saharan,Subsistence Only,Single adult,4
+2022,Costa Rica,America Central and South,Accommodation,Single adult,3
+2022,Cuba,America Central and South,Other,Single adult,1
+2022,Cuba,America Central and South,Accommodation,Family,2
+2022,Cuba,America Central and South,Accommodation,Single adult,3
+2022,Cuba,America Central and South,Subsistence Only,Family,1
+2022,Cyprus,EU Other,Accommodation,Family,1
+2022,Djibouti,Africa Sub-Saharan,Accommodation,Single adult,5
+2022,Dominica,America Central and South,Other,Single adult,1
+2022,Dominica,America Central and South,Accommodation,Family,6
+2022,Dominica,America Central and South,Accommodation,Single adult,3
+2022,Dominica,America Central and South,Subsistence Only,Family,1
+2022,Dominican Republic,America Central and South,Accommodation,Single adult,1
+2022,East Timor,Asia South East,Accommodation,Family,1
+2022,East Timor,Asia South East,Accommodation,Single adult,3
+2022,Ecuador,America Central and South,Accommodation,Family,6
 2022,Ecuador,America Central and South,Accommodation,Single adult,5
-2022,Egypt,Africa North,Accommodation,Family,19
-2022,Egypt,Africa North,Accommodation,Single adult,276
-2022,Egypt,Africa North,Accommodation,Unknown,1
-2022,Egypt,Africa North,Other,Single adult,5
-2022,Egypt,Africa North,Subsistence Only,Single adult,3
-2022,El Salvador,America Central and South,Accommodation,Family,227
-2022,El Salvador,America Central and South,Accommodation,Single adult,375
-2022,El Salvador,America Central and South,Accommodation,Unknown,107
-2022,El Salvador,America Central and South,Other,Family,4
-2022,El Salvador,America Central and South,Other,Single adult,5
+2022,Egypt,Africa North,Other,Family,3
+2022,Egypt,Africa North,Other,Single adult,20
+2022,Egypt,Africa North,Accommodation,Family,56
+2022,Egypt,Africa North,Accommodation,Single adult,706
+2022,Egypt,Africa North,Subsistence Only,Family,1
+2022,Egypt,Africa North,Subsistence Only,Single adult,7
+2022,El Salvador,America Central and South,Other,Family,13
+2022,El Salvador,America Central and South,Other,Single adult,13
+2022,El Salvador,America Central and South,Accommodation,Family,383
+2022,El Salvador,America Central and South,Accommodation,Single adult,417
+2022,El Salvador,America Central and South,Subsistence Only,Family,1
 2022,El Salvador,America Central and South,Subsistence Only,Single adult,4
-2022,Eritrea,Africa Sub-Saharan,Accommodation,Family,77
-2022,Eritrea,Africa Sub-Saharan,Accommodation,Single adult,1555
-2022,Eritrea,Africa Sub-Saharan,Accommodation,Unknown,24
-2022,Eritrea,Africa Sub-Saharan,Other,Family,1
-2022,Eritrea,Africa Sub-Saharan,Other,Single adult,3
-2022,Eritrea,Africa Sub-Saharan,Subsistence Only,Single adult,3
-2022,Ethiopia,Africa Sub-Saharan,Accommodation,Family,17
-2022,Ethiopia,Africa Sub-Saharan,Accommodation,Single adult,294
-2022,Ethiopia,Africa Sub-Saharan,Accommodation,Unknown,8
-2022,Ethiopia,Africa Sub-Saharan,Other,Single adult,1
-2022,France,EU 14,Accommodation,Single adult,1
-2022,"Gambia, The",Africa Sub-Saharan,Accommodation,Family,2
-2022,"Gambia, The",Africa Sub-Saharan,Accommodation,Single adult,24
-2022,"Gambia, The",Africa Sub-Saharan,Other,Single adult,1
-2022,"Gambia, The",Africa Sub-Saharan,Subsistence Only,Family,1
+2022,Eritrea,Africa Sub-Saharan,Other,Family,8
+2022,Eritrea,Africa Sub-Saharan,Other,Single adult,27
+2022,Eritrea,Africa Sub-Saharan,Accommodation,Family,263
+2022,Eritrea,Africa Sub-Saharan,Accommodation,Single adult,2287
+2022,Eritrea,Africa Sub-Saharan,Subsistence Only,Single adult,6
+2022,Eswatini,Africa Sub-Saharan,Accommodation,Family,1
+2022,Eswatini,Africa Sub-Saharan,Accommodation,Single adult,1
+2022,Ethiopia,Africa Sub-Saharan,Other,Family,1
+2022,Ethiopia,Africa Sub-Saharan,Other,Single adult,9
+2022,Ethiopia,Africa Sub-Saharan,Accommodation,Family,60
+2022,Ethiopia,Africa Sub-Saharan,Accommodation,Single adult,530
+2022,Ethiopia,Africa Sub-Saharan,Subsistence Only,Single adult,1
+2022,France,EU 14,Accommodation,Single adult,2
+2022,France,EU 14,Subsistence Only,Single adult,1
+2022,Gabon,Africa Sub-Saharan,Accommodation,Single adult,1
+2022,"Gambia, The",Africa Sub-Saharan,Other,Single adult,5
+2022,"Gambia, The",Africa Sub-Saharan,Accommodation,Family,8
+2022,"Gambia, The",Africa Sub-Saharan,Accommodation,Single adult,42
 2022,"Gambia, The",Africa Sub-Saharan,Subsistence Only,Single adult,1
-2022,Georgia,Europe Other,Accommodation,Family,18
-2022,Georgia,Europe Other,Accommodation,Single adult,73
-2022,Georgia,Europe Other,Accommodation,Unknown,7
-2022,Georgia,Europe Other,Other,Family,1
-2022,Georgia,Europe Other,Other,Single adult,1
+2022,Georgia,Europe Other,Other,Family,5
+2022,Georgia,Europe Other,Other,Single adult,15
+2022,Georgia,Europe Other,Accommodation,Family,81
+2022,Georgia,Europe Other,Accommodation,Single adult,239
+2022,Georgia,Europe Other,Subsistence Only,Family,1
+2022,Georgia,Europe Other,Subsistence Only,Single adult,1
 2022,Germany,EU 14,Accommodation,Single adult,1
-2022,Ghana,Africa Sub-Saharan,Accommodation,Family,2
-2022,Ghana,Africa Sub-Saharan,Accommodation,Single adult,13
-2022,Ghana,Africa Sub-Saharan,Accommodation,Unknown,1
-2022,Ghana,Africa Sub-Saharan,Other,Single adult,4
-2022,Ghana,Africa Sub-Saharan,Other,Unknown,1
-2022,Grenada,America Central and South,Accommodation,Family,2
-2022,Grenada,America Central and South,Accommodation,Single adult,10
-2022,Grenada,America Central and South,Other,Single adult,1
+2022,Ghana,Africa Sub-Saharan,Other,Family,2
+2022,Ghana,Africa Sub-Saharan,Other,Single adult,10
+2022,Ghana,Africa Sub-Saharan,Accommodation,Family,6
+2022,Ghana,Africa Sub-Saharan,Accommodation,Single adult,29
+2022,Ghana,Africa Sub-Saharan,Subsistence Only,Family,2
+2022,Ghana,Africa Sub-Saharan,Subsistence Only,Single adult,4
+2022,Greece,EU 14,Accommodation,Family,1
+2022,Grenada,America Central and South,Other,Single adult,2
+2022,Grenada,America Central and South,Accommodation,Family,5
+2022,Grenada,America Central and South,Accommodation,Single adult,11
 2022,Grenada,America Central and South,Subsistence Only,Family,1
-2022,Guatemala,America Central and South,Accommodation,Family,2
-2022,Guatemala,America Central and South,Accommodation,Single adult,2
-2022,Guinea,Africa Sub-Saharan,Accommodation,Family,2
-2022,Guinea,Africa Sub-Saharan,Accommodation,Single adult,35
+2022,Grenada,America Central and South,Subsistence Only,Single adult,1
+2022,Guatemala,America Central and South,Accommodation,Family,8
+2022,Guatemala,America Central and South,Accommodation,Single adult,5
+2022,Guinea,Africa Sub-Saharan,Other,Family,1
+2022,Guinea,Africa Sub-Saharan,Accommodation,Family,4
+2022,Guinea,Africa Sub-Saharan,Accommodation,Single adult,47
+2022,Guinea,Africa Sub-Saharan,Subsistence Only,Single adult,1
 2022,Guinea-Bissau,Africa Sub-Saharan,Accommodation,Single adult,1
-2022,Guyana,America Central and South,Accommodation,Single adult,1
-2022,Honduras,America Central and South,Accommodation,Family,69
-2022,Honduras,America Central and South,Accommodation,Single adult,75
-2022,Honduras,America Central and South,Accommodation,Unknown,19
-2022,Honduras,America Central and South,Other,Family,3
-2022,Honduras,America Central and South,Other,Single adult,2
-2022,Hong Kong,Asia East,Accommodation,Family,1
-2022,Hong Kong,Asia East,Accommodation,Single adult,17
-2022,Hong Kong,Asia East,Other,Single adult,1
-2022,Hungary,EU 8,Accommodation,Single adult,1
-2022,India,Asia South,Accommodation,Family,21
-2022,India,Asia South,Accommodation,Single adult,52
-2022,India,Asia South,Accommodation,Unknown,4
-2022,India,Asia South,Other,Family,2
-2022,India,Asia South,Other,Single adult,10
-2022,India,Asia South,Subsistence Only,Family,1
-2022,India,Asia South,Subsistence Only,Single adult,4
-2022,Iran,Middle East,Accommodation,Family,302
-2022,Iran,Middle East,Accommodation,Single adult,3745
-2022,Iran,Middle East,Accommodation,Unknown,125
-2022,Iran,Middle East,Other,Family,1
-2022,Iran,Middle East,Other,Single adult,21
-2022,Iran,Middle East,Other,Unknown,1
-2022,Iran,Middle East,Subsistence Only,Family,1
-2022,Iran,Middle East,Subsistence Only,Single adult,84
-2022,Iran,Middle East,Subsistence Only,Unknown,2
-2022,Iraq,Middle East,Accommodation,Family,435
-2022,Iraq,Middle East,Accommodation,Single adult,2355
-2022,Iraq,Middle East,Accommodation,Unknown,86
-2022,Iraq,Middle East,Other,Family,3
-2022,Iraq,Middle East,Other,Single adult,19
-2022,Iraq,Middle East,Other,Unknown,1
-2022,Iraq,Middle East,Subsistence Only,Family,4
-2022,Iraq,Middle East,Subsistence Only,Single adult,42
-2022,Iraq,Middle East,Subsistence Only,Unknown,1
-2022,Israel,Middle East,Accommodation,Single adult,2
-2022,Ivory Coast,Africa Sub-Saharan,Accommodation,Family,1
-2022,Ivory Coast,Africa Sub-Saharan,Accommodation,Family,1
-2022,Ivory Coast,Africa Sub-Saharan,Accommodation,Single adult,15
+2022,Guyana,America Central and South,Accommodation,Family,1
+2022,Guyana,America Central and South,Accommodation,Single adult,3
+2022,Haiti,America Central and South,Accommodation,Single adult,1
+2022,Honduras,America Central and South,Other,Family,12
+2022,Honduras,America Central and South,Other,Single adult,11
+2022,Honduras,America Central and South,Accommodation,Family,161
+2022,Honduras,America Central and South,Accommodation,Single adult,127
+2022,Hong Kong,Asia East,Other,Single adult,8
+2022,Hong Kong,Asia East,Accommodation,Family,3
+2022,Hong Kong,Asia East,Accommodation,Single adult,28
+2022,Hungary,EU 8,Other,Single adult,1
+2022,Hungary,EU 8,Accommodation,Single adult,3
+2022,India,Asia South,Other,Family,15
+2022,India,Asia South,Other,Single adult,39
+2022,India,Asia South,Accommodation,Family,68
+2022,India,Asia South,Accommodation,Single adult,101
+2022,India,Asia South,Subsistence Only,Family,7
+2022,India,Asia South,Subsistence Only,Single adult,16
+2022,Indonesia,Asia South East,Accommodation,Single adult,1
+2022,Iran,Middle East,Other,Family,14
+2022,Iran,Middle East,Other,Single adult,80
+2022,Iran,Middle East,Accommodation,Family,897
+2022,Iran,Middle East,Accommodation,Single adult,6317
+2022,Iran,Middle East,Subsistence Only,Family,11
+2022,Iran,Middle East,Subsistence Only,Single adult,132
+2022,Iraq,Middle East,Other,Family,12
+2022,Iraq,Middle East,Other,Single adult,68
+2022,Iraq,Middle East,Accommodation,Family,946
+2022,Iraq,Middle East,Accommodation,Single adult,3499
+2022,Iraq,Middle East,Subsistence Only,Family,14
+2022,Iraq,Middle East,Subsistence Only,Single adult,92
+2022,Ireland,EU 14,Accommodation,Single adult,2
+2022,Israel,Middle East,Accommodation,Family,1
+2022,Israel,Middle East,Accommodation,Single adult,3
+2022,Italy,EU 14,Accommodation,Single adult,1
+2022,Ivory Coast,Africa Sub-Saharan,Other,Family,1
 2022,Ivory Coast,Africa Sub-Saharan,Other,Single adult,1
-2022,Ivory Coast,Africa Sub-Saharan,Subsistence Only,Single adult,1
+2022,Ivory Coast,Africa Sub-Saharan,Accommodation,Family,4
+2022,Ivory Coast,Africa Sub-Saharan,Accommodation,Single adult,25
+2022,Jamaica,America Central and South,Other,Family,2
+2022,Jamaica,America Central and South,Other,Single adult,8
 2022,Jamaica,America Central and South,Accommodation,Family,1
-2022,Jamaica,America Central and South,Accommodation,Single adult,5
-2022,Jamaica,America Central and South,Other,Single adult,3
-2022,Jamaica,America Central and South,Other,Unknown,1
+2022,Jamaica,America Central and South,Accommodation,Single adult,9
 2022,Jamaica,America Central and South,Subsistence Only,Single adult,1
-2022,Japan,Asia East,Accommodation,Single adult,1
-2022,Jordan,Middle East,Accommodation,Family,3
-2022,Jordan,Middle East,Accommodation,Single adult,11
-2022,Jordan,Middle East,Accommodation,Unknown,1
-2022,Kazakhstan,Asia Central,Accommodation,Family,2
-2022,Kazakhstan,Asia Central,Accommodation,Single adult,5
-2022,Kazakhstan,Asia Central,Accommodation,Unknown,1
+2022,Japan,Asia East,Accommodation,Single adult,3
+2022,Jordan,Middle East,Other,Single adult,3
+2022,Jordan,Middle East,Accommodation,Family,8
+2022,Jordan,Middle East,Accommodation,Single adult,14
+2022,Kazakhstan,Asia Central,Other,Single adult,1
+2022,Kazakhstan,Asia Central,Accommodation,Family,5
+2022,Kazakhstan,Asia Central,Accommodation,Single adult,14
 2022,Kazakhstan,Asia Central,Subsistence Only,Single adult,1
-2022,Kenya,Africa Sub-Saharan,Accommodation,Family,6
-2022,Kenya,Africa Sub-Saharan,Accommodation,Single adult,7
+2022,Kenya,Africa Sub-Saharan,Other,Family,4
+2022,Kenya,Africa Sub-Saharan,Other,Single adult,4
+2022,Kenya,Africa Sub-Saharan,Accommodation,Family,11
+2022,Kenya,Africa Sub-Saharan,Accommodation,Single adult,19
+2022,Kenya,Africa Sub-Saharan,Subsistence Only,Family,1
 2022,Kenya,Africa Sub-Saharan,Subsistence Only,Single adult,1
-2022,Korea (South),Asia East,Accommodation,Family,1
-2022,Korea (South),Asia East,Accommodation,Single adult,2
-2022,Korea (South),Asia East,Other,Single adult,1
+2022,Kosovo,Europe Other,Other,Single adult,2
+2022,Kosovo,Europe Other,Accommodation,Family,3
 2022,Kosovo,Europe Other,Accommodation,Single adult,1
-2022,Kosovo,Europe Other,Other,Single adult,1
-2022,Kosovo,Europe Other,Subsistence Only,Family,1
-2022,Kuwait,Middle East,Accommodation,Family,58
-2022,Kuwait,Middle East,Accommodation,Single adult,202
-2022,Kuwait,Middle East,Accommodation,Unknown,4
-2022,Kuwait,Middle East,Subsistence Only,Family,1
-2022,Kuwait,Middle East,Subsistence Only,Single adult,9
-2022,Kyrgyzstan,Asia Central,Accommodation,Single adult,1
-2022,Lebanon,Middle East,Accommodation,Family,9
-2022,Lebanon,Middle East,Accommodation,Single adult,16
+2022,Kosovo,Europe Other,Subsistence Only,Family,2
+2022,Kuwait,Middle East,Other,Single adult,4
+2022,Kuwait,Middle East,Accommodation,Family,39
+2022,Kuwait,Middle East,Accommodation,Single adult,183
+2022,Kuwait,Middle East,Subsistence Only,Family,3
+2022,Kuwait,Middle East,Subsistence Only,Single adult,5
+2022,Kyrgyzstan,Asia Central,Other,Single adult,1
+2022,Kyrgyzstan,Asia Central,Accommodation,Family,1
+2022,Kyrgyzstan,Asia Central,Accommodation,Single adult,7
+2022,Laos,Asia South East,Accommodation,Family,1
 2022,Lebanon,Middle East,Other,Family,1
+2022,Lebanon,Middle East,Other,Single adult,6
+2022,Lebanon,Middle East,Accommodation,Family,14
+2022,Lebanon,Middle East,Accommodation,Single adult,34
 2022,Lebanon,Middle East,Subsistence Only,Single adult,1
-2022,Liberia,Africa Sub-Saharan,Accommodation,Single adult,2
 2022,Liberia,Africa Sub-Saharan,Other,Single adult,1
-2022,Libya,Africa North,Accommodation,Family,13
-2022,Libya,Africa North,Accommodation,Single adult,84
-2022,Libya,Africa North,Accommodation,Unknown,1
-2022,Libya,Africa North,Other,Single adult,2
-2022,Libya,Africa North,Subsistence Only,Single adult,1
-2022,Macedonia,Europe Other,Accommodation,Single adult,1
-2022,Malawi,Africa Sub-Saharan,Accommodation,Family,1
-2022,Malawi,Africa Sub-Saharan,Accommodation,Single adult,2
-2022,Malawi,Africa Sub-Saharan,Subsistence Only,Single adult,1
-2022,Malaysia,Asia South East,Accommodation,Family,1
-2022,Malaysia,Asia South East,Accommodation,Single adult,7
+2022,Liberia,Africa Sub-Saharan,Accommodation,Family,2
+2022,Liberia,Africa Sub-Saharan,Accommodation,Single adult,7
+2022,Libya,Africa North,Other,Family,6
+2022,Libya,Africa North,Other,Single adult,6
+2022,Libya,Africa North,Accommodation,Family,45
+2022,Libya,Africa North,Accommodation,Single adult,181
+2022,Libya,Africa North,Subsistence Only,Family,1
+2022,Libya,Africa North,Subsistence Only,Single adult,4
+2022,Malawi,Africa Sub-Saharan,Other,Family,1
+2022,Malawi,Africa Sub-Saharan,Other,Single adult,1
+2022,Malawi,Africa Sub-Saharan,Accommodation,Family,3
+2022,Malawi,Africa Sub-Saharan,Accommodation,Single adult,4
 2022,Malaysia,Asia South East,Other,Family,1
-2022,Malaysia,Asia South East,Other,Single adult,1
+2022,Malaysia,Asia South East,Other,Single adult,2
+2022,Malaysia,Asia South East,Accommodation,Family,5
+2022,Malaysia,Asia South East,Accommodation,Single adult,12
+2022,Malaysia,Asia South East,Subsistence Only,Family,1
 2022,Malaysia,Asia South East,Subsistence Only,Single adult,1
+2022,Maldives,Asia South,Other,Single adult,1
+2022,Mali,Africa Sub-Saharan,Other,Single adult,2
 2022,Mali,Africa Sub-Saharan,Accommodation,Family,1
-2022,Mali,Africa Sub-Saharan,Accommodation,Single adult,12
-2022,Mauritius,Africa Sub-Saharan,Accommodation,Family,3
-2022,Mauritius,Africa Sub-Saharan,Accommodation,Single adult,4
-2022,Mauritius,Africa Sub-Saharan,Accommodation,Unknown,2
+2022,Mali,Africa Sub-Saharan,Accommodation,Single adult,17
+2022,Mauritania,Africa North,Accommodation,Single adult,1
 2022,Mauritius,Africa Sub-Saharan,Other,Family,1
-2022,Mauritius,Africa Sub-Saharan,Other,Single adult,1
-2022,Mexico,America Central and South,Accommodation,Family,4
-2022,Mexico,America Central and South,Accommodation,Single adult,19
-2022,Mexico,America Central and South,Accommodation,Unknown,3
-2022,Mexico,America Central and South,Other,Single adult,2
-2022,Mongolia,Asia East,Accommodation,Family,1
-2022,Mongolia,Asia East,Accommodation,Single adult,1
-2022,Morocco,Africa North,Accommodation,Family,11
-2022,Morocco,Africa North,Accommodation,Single adult,39
-2022,Morocco,Africa North,Other,Single adult,2
-2022,Morocco,Africa North,Subsistence Only,Single adult,1
-2022,Namibia,Africa Sub-Saharan,Accommodation,Family,33
-2022,Namibia,Africa Sub-Saharan,Accommodation,Single adult,238
-2022,Namibia,Africa Sub-Saharan,Accommodation,Unknown,5
-2022,Namibia,Africa Sub-Saharan,Other,Family,1
-2022,Namibia,Africa Sub-Saharan,Other,Single adult,3
-2022,Namibia,Africa Sub-Saharan,Other,Unknown,1
+2022,Mauritius,Africa Sub-Saharan,Other,Single adult,3
+2022,Mauritius,Africa Sub-Saharan,Accommodation,Family,13
+2022,Mauritius,Africa Sub-Saharan,Accommodation,Single adult,16
+2022,Mayotte (French),Africa Sub-Saharan,Accommodation,Single adult,1
+2022,Mexico,America Central and South,Other,Family,1
+2022,Mexico,America Central and South,Other,Single adult,5
+2022,Mexico,America Central and South,Accommodation,Family,13
+2022,Mexico,America Central and South,Accommodation,Single adult,33
+2022,Mongolia,Asia East,Accommodation,Family,2
+2022,Mongolia,Asia East,Accommodation,Single adult,3
+2022,Morocco,Africa North,Other,Family,1
+2022,Morocco,Africa North,Other,Single adult,5
+2022,Morocco,Africa North,Accommodation,Family,21
+2022,Morocco,Africa North,Accommodation,Single adult,71
+2022,Morocco,Africa North,Subsistence Only,Family,1
+2022,Morocco,Africa North,Subsistence Only,Single adult,2
+2022,Myanmar (Burma),Asia South East,Other,Single adult,2
+2022,Myanmar (Burma),Asia South East,Accommodation,Family,4
+2022,Myanmar (Burma),Asia South East,Accommodation,Single adult,17
+2022,Myanmar (Burma),Asia South East,Subsistence Only,Family,1
+2022,Myanmar (Burma),Asia South East,Subsistence Only,Single adult,2
+2022,Namibia,Africa Sub-Saharan,Other,Family,5
+2022,Namibia,Africa Sub-Saharan,Other,Single adult,14
+2022,Namibia,Africa Sub-Saharan,Accommodation,Family,87
+2022,Namibia,Africa Sub-Saharan,Accommodation,Single adult,371
 2022,Namibia,Africa Sub-Saharan,Subsistence Only,Family,1
-2022,Namibia,Africa Sub-Saharan,Subsistence Only,Single adult,4
-2022,Nepal,Asia South,Accommodation,Family,2
-2022,Nepal,Asia South,Accommodation,Single adult,4
-2022,Nepal,Asia South,Other,Single adult,1
-2022,Nicaragua,America Central and South,Accommodation,Family,22
-2022,Nicaragua,America Central and South,Accommodation,Single adult,34
-2022,Nicaragua,America Central and South,Accommodation,Unknown,4
-2022,Nicaragua,America Central and South,Other,Single adult,1
-2022,Nicaragua,America Central and South,Subsistence Only,Family,1
-2022,Niger,Africa Sub-Saharan,Accommodation,Single adult,8
-2022,Nigeria,Africa Sub-Saharan,Accommodation,Family,74
-2022,Nigeria,Africa Sub-Saharan,Accommodation,Single adult,94
-2022,Nigeria,Africa Sub-Saharan,Accommodation,Unknown,3
-2022,Nigeria,Africa Sub-Saharan,Other,Family,1
-2022,Nigeria,Africa Sub-Saharan,Other,Family,1
-2022,Nigeria,Africa Sub-Saharan,Other,Single adult,9
-2022,Nigeria,Africa Sub-Saharan,Subsistence Only,Family,3
-2022,Nigeria,Africa Sub-Saharan,Subsistence Only,Single adult,1
-2022,Occupied Palestinian Territories,Middle East,Accommodation,Family,10
-2022,Occupied Palestinian Territories,Middle East,Accommodation,Single adult,95
-2022,Occupied Palestinian Territories,Middle East,Accommodation,Unknown,2
-2022,Occupied Palestinian Territories,Middle East,Other,Family,1
-2022,Occupied Palestinian Territories,Middle East,Subsistence Only,Family,1
-2022,Occupied Palestinian Territories,Middle East,Subsistence Only,Single adult,2
+2022,Namibia,Africa Sub-Saharan,Subsistence Only,Single adult,6
+2022,Nepal,Asia South,Other,Single adult,2
+2022,Nepal,Asia South,Accommodation,Family,3
+2022,Nepal,Asia South,Accommodation,Single adult,6
+2022,Netherlands,EU 14,Other,Single adult,1
+2022,Nicaragua,America Central and South,Other,Family,1
+2022,Nicaragua,America Central and South,Other,Single adult,3
+2022,Nicaragua,America Central and South,Accommodation,Family,49
+2022,Nicaragua,America Central and South,Accommodation,Single adult,57
+2022,Nicaragua,America Central and South,Subsistence Only,Family,2
+2022,Niger,Africa Sub-Saharan,Other,Family,1
+2022,Niger,Africa Sub-Saharan,Accommodation,Single adult,7
+2022,Nigeria,Africa Sub-Saharan,Other,Family,14
+2022,Nigeria,Africa Sub-Saharan,Other,Single adult,33
+2022,Nigeria,Africa Sub-Saharan,Accommodation,Family,147
+2022,Nigeria,Africa Sub-Saharan,Accommodation,Single adult,169
+2022,Nigeria,Africa Sub-Saharan,Subsistence Only,Family,4
+2022,Nigeria,Africa Sub-Saharan,Subsistence Only,Single adult,9
+2022,North Macedonia,Europe Other,Accommodation,Single adult,2
+2022,Occupied Palestinian Territories,Middle East,Other,Family,2
+2022,Occupied Palestinian Territories,Middle East,Other,Single adult,1
+2022,Occupied Palestinian Territories,Middle East,Accommodation,Family,17
+2022,Occupied Palestinian Territories,Middle East,Accommodation,Single adult,142
+2022,Occupied Palestinian Territories,Middle East,Subsistence Only,Single adult,8
+2022,Oman,Middle East,Other,Single adult,2
 2022,Oman,Middle East,Accommodation,Family,1
-2022,Oman,Middle East,Accommodation,Single adult,6
-2022,Oman,Middle East,Other,Single adult,1
-2022,Other and unknown,Other,Accommodation,Family,3
-2022,Other and unknown,Other,Accommodation,Single adult,11
-2022,Other and unknown,Other,Accommodation,Unknown,1
-2022,Other and unknown,Other,Other,Unknown,14745
-2022,Other and unknown,Other,Subsistence Only,Single adult,2
-2022,Pakistan,Asia South,Accommodation,Family,76
-2022,Pakistan,Asia South,Accommodation,Single adult,151
-2022,Pakistan,Asia South,Accommodation,Unknown,16
-2022,Pakistan,Asia South,Other,Family,2
-2022,Pakistan,Asia South,Other,Single adult,7
-2022,Pakistan,Asia South,Subsistence Only,Family,4
-2022,Pakistan,Asia South,Subsistence Only,Single adult,15
-2022,Philippines,Asia South East,Accommodation,Family,2
-2022,Philippines,Asia South East,Accommodation,Single adult,3
-2022,Philippines,Asia South East,Other,Single adult,1
+2022,Oman,Middle East,Accommodation,Single adult,10
+2022,Other and unknown,Other,Other,Single adult,2
+2022,Other and unknown,Other,Accommodation,Family,2
+2022,Other and unknown,Other,Accommodation,Single adult,10
+2022,Other and unknown,Other,Subsistence Only,Single adult,1
+2022,Pakistan,Asia South,Other,Family,28
+2022,Pakistan,Asia South,Other,Single adult,58
+2022,Pakistan,Asia South,Accommodation,Family,187
+2022,Pakistan,Asia South,Accommodation,Single adult,321
+2022,Pakistan,Asia South,Subsistence Only,Family,13
+2022,Pakistan,Asia South,Subsistence Only,Single adult,29
+2022,Panama,America Central and South,Accommodation,Single adult,1
+2022,Peru,America Central and South,Other,Family,1
+2022,Peru,America Central and South,Other,Single adult,2
+2022,Peru,America Central and South,Accommodation,Family,2
+2022,Peru,America Central and South,Accommodation,Single adult,2
+2022,Philippines,Asia South East,Other,Single adult,3
+2022,Philippines,Asia South East,Accommodation,Family,5
+2022,Philippines,Asia South East,Accommodation,Single adult,7
 2022,Philippines,Asia South East,Subsistence Only,Family,1
-2022,Poland,EU 8,Accommodation,Single adult,1
-2022,Qatar,Middle East,Accommodation,Single adult,4
-2022,Refugee,Other,Accommodation,Family,4
-2022,Refugee,Other,Accommodation,Single adult,17
+2022,Philippines,Asia South East,Subsistence Only,Single adult,2
+2022,Poland,EU 8,Other,Single adult,3
+2022,Poland,EU 8,Accommodation,Single adult,4
+2022,Qatar,Middle East,Accommodation,Single adult,5
 2022,Refugee,Other,Other,Family,1
-2022,Refugee,Other,Other,Single adult,2
-2022,Refugee,Other,Subsistence Only,Single adult,3
-2022,Russia,Europe Other,Accommodation,Family,21
-2022,Russia,Europe Other,Accommodation,Single adult,60
-2022,Russia,Europe Other,Accommodation,Unknown,8
-2022,Russia,Europe Other,Other,Single adult,4
-2022,Russia,Europe Other,Subsistence Only,Family,1
-2022,Russia,Europe Other,Subsistence Only,Single adult,2
-2022,Rwanda,Africa Sub-Saharan,Accommodation,Family,1
-2022,Rwanda,Africa Sub-Saharan,Accommodation,Single adult,5
+2022,Refugee,Other,Other,Single adult,8
+2022,Refugee,Other,Accommodation,Family,123
+2022,Refugee,Other,Accommodation,Single adult,432
+2022,Refugee,Other,Subsistence Only,Family,9
+2022,Refugee,Other,Subsistence Only,Single adult,49
+2022,Russia,Europe Other,Other,Family,3
+2022,Russia,Europe Other,Other,Single adult,16
+2022,Russia,Europe Other,Accommodation,Family,62
+2022,Russia,Europe Other,Accommodation,Single adult,131
+2022,Russia,Europe Other,Subsistence Only,Family,3
+2022,Russia,Europe Other,Subsistence Only,Single adult,7
+2022,Rwanda,Africa Sub-Saharan,Other,Single adult,2
+2022,Rwanda,Africa Sub-Saharan,Accommodation,Family,4
+2022,Rwanda,Africa Sub-Saharan,Accommodation,Single adult,12
 2022,Rwanda,Africa Sub-Saharan,Subsistence Only,Single adult,1
-2022,Saudi Arabia,Middle East,Accommodation,Family,1
-2022,Saudi Arabia,Middle East,Accommodation,Single adult,67
-2022,Saudi Arabia,Middle East,Accommodation,Unknown,2
-2022,Saudi Arabia,Middle East,Other,Single adult,2
-2022,Senegal,Africa Sub-Saharan,Accommodation,Family,1
-2022,Senegal,Africa Sub-Saharan,Accommodation,Single adult,8
+2022,Saudi Arabia,Middle East,Other,Single adult,10
+2022,Saudi Arabia,Middle East,Accommodation,Family,13
+2022,Saudi Arabia,Middle East,Accommodation,Single adult,156
+2022,Saudi Arabia,Middle East,Subsistence Only,Single adult,1
 2022,Senegal,Africa Sub-Saharan,Other,Single adult,1
+2022,Senegal,Africa Sub-Saharan,Accommodation,Family,3
+2022,Senegal,Africa Sub-Saharan,Accommodation,Single adult,11
+2022,Serbia,Europe Other,Accommodation,Single adult,1
 2022,Seychelles,Africa Sub-Saharan,Accommodation,Single adult,1
-2022,Sierra Leone,Africa Sub-Saharan,Accommodation,Family,3
-2022,Sierra Leone,Africa Sub-Saharan,Accommodation,Single adult,26
-2022,Sierra Leone,Africa Sub-Saharan,Other,Single adult,2
-2022,Singapore,Asia South East,Accommodation,Single adult,1
-2022,Somalia,Africa Sub-Saharan,Accommodation,Family,35
-2022,Somalia,Africa Sub-Saharan,Accommodation,Single adult,246
-2022,Somalia,Africa Sub-Saharan,Accommodation,Unknown,1
-2022,Somalia,Africa Sub-Saharan,Other,Single adult,3
-2022,Somalia,Africa Sub-Saharan,Other,Unknown,1
-2022,Somalia,Africa Sub-Saharan,Subsistence Only,Single adult,7
-2022,South Africa,Africa Sub-Saharan,Accommodation,Family,7
-2022,South Africa,Africa Sub-Saharan,Accommodation,Single adult,1
-2022,Sri Lanka,Asia South,Accommodation,Family,21
-2022,Sri Lanka,Asia South,Accommodation,Single adult,20
-2022,Sri Lanka,Asia South,Accommodation,Unknown,5
-2022,Sri Lanka,Asia South,Other,Single adult,1
-2022,Sri Lanka,Asia South,Other,Unknown,1
-2022,Sri Lanka,Asia South,Subsistence Only,Single adult,8
-2022,St. Kitts and Nevis,America Central and South,Accommodation,Family,1
-2022,St. Kitts and Nevis,America Central and South,Accommodation,Single adult,1
-2022,St. Kitts and Nevis,America Central and South,Other,Single adult,1
-2022,St. Lucia,America Central and South,Accommodation,Family,2
-2022,St. Lucia,America Central and South,Accommodation,Single adult,3
-2022,St. Lucia,America Central and South,Subsistence Only,Single adult,1
-2022,St. Vincent and the Grenadines,America Central and South,Accommodation,Family,2
-2022,St. Vincent and the Grenadines,America Central and South,Accommodation,Single adult,2
-2022,Stateless,Other,Accommodation,Family,65
-2022,Stateless,Other,Accommodation,Single adult,213
-2022,Stateless,Other,Accommodation,Unknown,4
-2022,Stateless,Other,Other,Single adult,5
-2022,Stateless,Other,Subsistence Only,Family,2
-2022,Stateless,Other,Subsistence Only,Single adult,23
-2022,Sudan,Africa North,Accommodation,Family,41
-2022,Sudan,Africa North,Accommodation,Single adult,1088
-2022,Sudan,Africa North,Accommodation,Unknown,5
-2022,Sudan,Africa North,Other,Single adult,6
-2022,Sudan,Africa North,Subsistence Only,Single adult,3
-2022,Sudan,Africa North,Subsistence Only,Unknown,1
-2022,Sudan (South),Africa Sub-Saharan,Accommodation,Single adult,33
-2022,Syria,Middle East,Accommodation,Family,130
-2022,Syria,Middle East,Accommodation,Single adult,1565
-2022,Syria,Middle East,Accommodation,Unknown,20
-2022,Syria,Middle East,Other,Single adult,8
-2022,Syria,Middle East,Subsistence Only,Family,1
-2022,Syria,Middle East,Subsistence Only,Single adult,161
-2022,Taiwan,Asia East,Accommodation,Single adult,1
-2022,Tajikistan,Asia Central,Accommodation,Family,1
-2022,Tajikistan,Asia Central,Accommodation,Single adult,8
-2022,Tanzania,Africa Sub-Saharan,Accommodation,Family,2
-2022,Tanzania,Africa Sub-Saharan,Accommodation,Single adult,4
-2022,Tanzania,Africa Sub-Saharan,Other,Single adult,1
-2022,Tanzania,Africa Sub-Saharan,Subsistence Only,Family,1
-2022,Thailand,Asia South East,Accommodation,Single adult,1
-2022,Togo,Africa Sub-Saharan,Accommodation,Single adult,5
+2022,Sierra Leone,Africa Sub-Saharan,Other,Family,1
+2022,Sierra Leone,Africa Sub-Saharan,Other,Single adult,6
+2022,Sierra Leone,Africa Sub-Saharan,Accommodation,Family,12
+2022,Sierra Leone,Africa Sub-Saharan,Accommodation,Single adult,55
+2022,Singapore,Asia South East,Accommodation,Single adult,2
+2022,Slovakia,EU 8,Other,Single adult,1
+2022,Solomon Islands,Oceania,Accommodation,Single adult,1
+2022,Somalia,Africa Sub-Saharan,Other,Family,3
+2022,Somalia,Africa Sub-Saharan,Other,Single adult,12
+2022,Somalia,Africa Sub-Saharan,Accommodation,Family,62
+2022,Somalia,Africa Sub-Saharan,Accommodation,Single adult,361
+2022,Somalia,Africa Sub-Saharan,Subsistence Only,Single adult,11
+2022,South Africa,Africa Sub-Saharan,Other,Family,2
+2022,South Africa,Africa Sub-Saharan,Other,Single adult,2
+2022,South Africa,Africa Sub-Saharan,Accommodation,Family,10
+2022,South Africa,Africa Sub-Saharan,Accommodation,Single adult,8
+2022,South Africa,Africa Sub-Saharan,Subsistence Only,Single adult,1
+2022,South Korea,Asia East,Other,Single adult,1
+2022,South Korea,Asia East,Accommodation,Family,1
+2022,South Korea,Asia East,Accommodation,Single adult,2
+2022,South Sudan,Africa Sub-Saharan,Other,Single adult,2
+2022,South Sudan,Africa Sub-Saharan,Accommodation,Family,1
+2022,South Sudan,Africa Sub-Saharan,Accommodation,Single adult,87
+2022,Sri Lanka,Asia South,Other,Family,8
+2022,Sri Lanka,Asia South,Other,Single adult,11
+2022,Sri Lanka,Asia South,Accommodation,Family,71
+2022,Sri Lanka,Asia South,Accommodation,Single adult,43
+2022,Sri Lanka,Asia South,Subsistence Only,Family,2
+2022,Sri Lanka,Asia South,Subsistence Only,Single adult,13
+2022,St Kitts and Nevis,America Central and South,Other,Family,1
+2022,St Kitts and Nevis,America Central and South,Other,Single adult,1
+2022,St Kitts and Nevis,America Central and South,Accommodation,Family,1
+2022,St Kitts and Nevis,America Central and South,Accommodation,Single adult,3
+2022,St Lucia,America Central and South,Accommodation,Family,6
+2022,St Lucia,America Central and South,Accommodation,Single adult,10
+2022,St Lucia,America Central and South,Subsistence Only,Single adult,2
+2022,St Vincent and the Grenadines,America Central and South,Accommodation,Family,4
+2022,St Vincent and the Grenadines,America Central and South,Accommodation,Single adult,8
+2022,St Vincent and the Grenadines,America Central and South,Subsistence Only,Single adult,1
+2022,Stateless,Other,Other,Single adult,8
+2022,Stateless,Other,Accommodation,Family,47
+2022,Stateless,Other,Accommodation,Single adult,124
+2022,Stateless,Other,Subsistence Only,Family,4
+2022,Stateless,Other,Subsistence Only,Single adult,14
+2022,Sudan,Africa North,Other,Family,1
+2022,Sudan,Africa North,Other,Single adult,28
+2022,Sudan,Africa North,Accommodation,Family,102
+2022,Sudan,Africa North,Accommodation,Single adult,1949
+2022,Sudan,Africa North,Subsistence Only,Family,1
+2022,Sudan,Africa North,Subsistence Only,Single adult,10
+2022,Sweden,EU 14,Accommodation,Family,1
+2022,Syria,Middle East,Other,Family,8
+2022,Syria,Middle East,Other,Single adult,46
+2022,Syria,Middle East,Accommodation,Family,280
+2022,Syria,Middle East,Accommodation,Single adult,2751
+2022,Syria,Middle East,Subsistence Only,Family,6
+2022,Syria,Middle East,Subsistence Only,Single adult,271
+2022,Taiwan,Asia East,Other,Single adult,1
+2022,Taiwan,Asia East,Accommodation,Single adult,2
+2022,Tajikistan,Asia Central,Other,Single adult,3
+2022,Tajikistan,Asia Central,Accommodation,Family,2
+2022,Tajikistan,Asia Central,Accommodation,Single adult,32
+2022,Tajikistan,Asia Central,Subsistence Only,Single adult,1
+2022,Tanzania,Africa Sub-Saharan,Other,Family,1
+2022,Tanzania,Africa Sub-Saharan,Other,Single adult,3
+2022,Tanzania,Africa Sub-Saharan,Accommodation,Family,6
+2022,Tanzania,Africa Sub-Saharan,Accommodation,Single adult,19
+2022,Tanzania,Africa Sub-Saharan,Subsistence Only,Single adult,1
+2022,Thailand,Asia South East,Other,Single adult,1
+2022,Thailand,Asia South East,Accommodation,Single adult,3
 2022,Togo,Africa Sub-Saharan,Other,Single adult,1
-2022,Trinidad and Tobago,America Central and South,Accommodation,Family,13
-2022,Trinidad and Tobago,America Central and South,Accommodation,Single adult,21
-2022,Trinidad and Tobago,America Central and South,Other,Family,1
-2022,Tunisia,Africa North,Accommodation,Family,4
-2022,Tunisia,Africa North,Accommodation,Single adult,21
-2022,Tunisia,Africa North,Accommodation,Unknown,1
-2022,Tunisia,Africa North,Other,Single adult,1
-2022,Turkey,Europe Other,Accommodation,Family,21
-2022,Turkey,Europe Other,Accommodation,Single adult,54
-2022,Turkey,Europe Other,Accommodation,Unknown,3
-2022,Turkey,Europe Other,Other,Family,2
-2022,Turkey,Europe Other,Other,Single adult,4
-2022,Turkey,Europe Other,Subsistence Only,Family,2
-2022,Turkey,Europe Other,Subsistence Only,Single adult,13
-2022,Turkmenistan,Asia Central,Accommodation,Single adult,3
+2022,Togo,Africa Sub-Saharan,Accommodation,Single adult,10
+2022,Trinidad and Tobago,America Central and South,Other,Family,5
+2022,Trinidad and Tobago,America Central and South,Other,Single adult,5
+2022,Trinidad and Tobago,America Central and South,Accommodation,Family,24
+2022,Trinidad and Tobago,America Central and South,Accommodation,Single adult,32
+2022,Tunisia,Africa North,Other,Family,1
+2022,Tunisia,Africa North,Other,Single adult,4
+2022,Tunisia,Africa North,Accommodation,Family,11
+2022,Tunisia,Africa North,Accommodation,Single adult,49
+2022,Turkey,Europe Other,Other,Family,7
+2022,Turkey,Europe Other,Other,Single adult,14
+2022,Turkey,Europe Other,Accommodation,Family,53
+2022,Turkey,Europe Other,Accommodation,Single adult,138
+2022,Turkey,Europe Other,Subsistence Only,Family,7
+2022,Turkey,Europe Other,Subsistence Only,Single adult,28
 2022,Turkmenistan,Asia Central,Other,Single adult,1
-2022,Uganda,Africa Sub-Saharan,Accommodation,Family,1
-2022,Uganda,Africa Sub-Saharan,Accommodation,Single adult,17
-2022,Uganda,Africa Sub-Saharan,Subsistence Only,Single adult,1
-2022,Ukraine,Europe Other,Accommodation,Family,27
-2022,Ukraine,Europe Other,Accommodation,Single adult,38
-2022,Ukraine,Europe Other,Accommodation,Unknown,2
-2022,Ukraine,Europe Other,Other,Family,2
-2022,Ukraine,Europe Other,Other,Unknown,1
-2022,Ukraine,Europe Other,Subsistence Only,Family,1
-2022,Ukraine,Europe Other,Subsistence Only,Single adult,1
-2022,United Arab Emirates,Middle East,Accommodation,Single adult,1
-2022,United States,America North,Accommodation,Single adult,7
-2022,United States,America North,Other,Single adult,2
-2022,Venezuela,America Central and South,Accommodation,Single adult,1
+2022,Turkmenistan,Asia Central,Accommodation,Single adult,3
+2022,Uganda,Africa Sub-Saharan,Other,Single adult,2
+2022,Uganda,Africa Sub-Saharan,Accommodation,Family,12
+2022,Uganda,Africa Sub-Saharan,Accommodation,Single adult,45
+2022,Uganda,Africa Sub-Saharan,Subsistence Only,Single adult,4
+2022,Ukraine,Europe Other,Other,Family,6
+2022,Ukraine,Europe Other,Other,Single adult,6
+2022,Ukraine,Europe Other,Accommodation,Family,35
+2022,Ukraine,Europe Other,Accommodation,Single adult,49
+2022,Ukraine,Europe Other,Subsistence Only,Family,2
+2022,Ukraine,Europe Other,Subsistence Only,Single adult,2
+2022,United Arab Emirates,Middle East,Accommodation,Single adult,3
+2022,United States,America North,Other,Single adult,9
+2022,United States,America North,Accommodation,Family,2
+2022,United States,America North,Accommodation,Single adult,11
+2022,Uzbekistan,Asia Central,Other,Family,2
+2022,Uzbekistan,Asia Central,Other,Single adult,3
+2022,Uzbekistan,Asia Central,Accommodation,Family,3
+2022,Uzbekistan,Asia Central,Accommodation,Single adult,4
 2022,Venezuela,America Central and South,Other,Single adult,1
-2022,Venezuela,America Central and South,Subsistence Only,Unknown,1
-2022,Vietnam,Asia South East,Accommodation,Family,3
-2022,Vietnam,Asia South East,Accommodation,Single adult,113
-2022,Vietnam,Asia South East,Accommodation,Unknown,2
-2022,Vietnam,Asia South East,Other,Single adult,23
-2022,Vietnam,Asia South East,Subsistence Only,Single adult,3
-2022,Western Sahara,Africa North,Accommodation,Single adult,1
-2022,Yemen,Middle East,Accommodation,Family,32
-2022,Yemen,Middle East,Accommodation,Single adult,231
-2022,Yemen,Middle East,Accommodation,Unknown,3
-2022,Yemen,Middle East,Other,Single adult,1
-2022,Yemen,Middle East,Subsistence Only,Single adult,8
-2022,Zambia,Africa Sub-Saharan,Accommodation,Single adult,1
-2022,Zimbabwe,Africa Sub-Saharan,Accommodation,Family,1
-2022,Zimbabwe,Africa Sub-Saharan,Accommodation,Single adult,9
-2022,Zimbabwe,Africa Sub-Saharan,Other,Single adult,1
+2022,Venezuela,America Central and South,Accommodation,Family,2
+2022,Venezuela,America Central and South,Accommodation,Single adult,2
+2022,Venezuela,America Central and South,Subsistence Only,Family,2
+2022,Vietnam,Asia South East,Other,Family,1
+2022,Vietnam,Asia South East,Other,Single adult,68
+2022,Vietnam,Asia South East,Accommodation,Family,19
+2022,Vietnam,Asia South East,Accommodation,Single adult,227
+2022,Vietnam,Asia South East,Subsistence Only,Family,1
+2022,Vietnam,Asia South East,Subsistence Only,Single adult,6
+2022,Virgin Islands (United States),America Central and South,Accommodation,Family,1
+2022,Western Sahara,Africa North,Accommodation,Single adult,2
+2022,Yemen,Middle East,Other,Family,2
+2022,Yemen,Middle East,Other,Single adult,13
+2022,Yemen,Middle East,Accommodation,Family,64
+2022,Yemen,Middle East,Accommodation,Single adult,375
+2022,Yemen,Middle East,Subsistence Only,Single adult,18
+2022,Zambia,Africa Sub-Saharan,Accommodation,Family,2
+2022,Zambia,Africa Sub-Saharan,Accommodation,Single adult,2
+2022,Zimbabwe,Africa Sub-Saharan,Other,Single adult,5
+2022,Zimbabwe,Africa Sub-Saharan,Accommodation,Family,8
+2022,Zimbabwe,Africa Sub-Saharan,Accommodation,Single adult,18
 2022,Zimbabwe,Africa Sub-Saharan,Subsistence Only,Family,1
+2022,Zimbabwe,Africa Sub-Saharan,Subsistence Only,Single adult,2
+2023,Afghanistan,Asia Central,Other,Family,48
+2023,Afghanistan,Asia Central,Other,Single adult,326
+2023,Afghanistan,Asia Central,Accommodation,Family,707
+2023,Afghanistan,Asia Central,Accommodation,Single adult,5700
+2023,Afghanistan,Asia Central,Subsistence Only,Family,49
+2023,Afghanistan,Asia Central,Subsistence Only,Single adult,764
+2023,Albania,Europe Other,Other,Family,64
+2023,Albania,Europe Other,Other,Single adult,216
+2023,Albania,Europe Other,Accommodation,Family,284
+2023,Albania,Europe Other,Accommodation,Single adult,220
+2023,Albania,Europe Other,Subsistence Only,Family,202
+2023,Albania,Europe Other,Subsistence Only,Single adult,132
+2023,Algeria,Africa North,Other,Family,2
+2023,Algeria,Africa North,Other,Single adult,67
+2023,Algeria,Africa North,Accommodation,Family,73
+2023,Algeria,Africa North,Accommodation,Single adult,249
+2023,Algeria,Africa North,Subsistence Only,Family,4
+2023,Algeria,Africa North,Subsistence Only,Single adult,12
+2023,Angola,Africa Sub-Saharan,Other,Family,1
+2023,Angola,Africa Sub-Saharan,Other,Single adult,3
+2023,Angola,Africa Sub-Saharan,Accommodation,Family,20
+2023,Angola,Africa Sub-Saharan,Accommodation,Single adult,18
+2023,Angola,Africa Sub-Saharan,Subsistence Only,Single adult,1
+2023,Antigua and Barbuda,America Central and South,Other,Family,1
+2023,Antigua and Barbuda,America Central and South,Accommodation,Single adult,2
+2023,Antigua and Barbuda,America Central and South,Subsistence Only,Family,1
+2023,Antigua and Barbuda,America Central and South,Subsistence Only,Single adult,4
+2023,Argentina,America Central and South,Other,Single adult,2
+2023,Argentina,America Central and South,Accommodation,Single adult,4
+2023,Argentina,America Central and South,Subsistence Only,Family,1
+2023,Armenia,Europe Other,Accommodation,Single adult,1
+2023,Armenia,Europe Other,Subsistence Only,Family,1
+2023,Aruba (Dutch),America Central and South,Accommodation,Single adult,1
+2023,Australia,Oceania,Accommodation,Single adult,1
+2023,Azerbaijan,Europe Other,Other,Family,1
+2023,Azerbaijan,Europe Other,Other,Single adult,5
+2023,Azerbaijan,Europe Other,Accommodation,Family,18
+2023,Azerbaijan,Europe Other,Accommodation,Single adult,36
+2023,Azerbaijan,Europe Other,Subsistence Only,Family,3
+2023,Azerbaijan,Europe Other,Subsistence Only,Single adult,2
+2023,Bahrain,Middle East,Other,Single adult,1
+2023,Bahrain,Middle East,Accommodation,Family,3
+2023,Bahrain,Middle East,Accommodation,Single adult,16
+2023,Bahrain,Middle East,Subsistence Only,Single adult,2
+2023,Bangladesh,Asia South,Other,Family,52
+2023,Bangladesh,Asia South,Other,Single adult,41
+2023,Bangladesh,Asia South,Accommodation,Family,98
+2023,Bangladesh,Asia South,Accommodation,Single adult,61
+2023,Bangladesh,Asia South,Subsistence Only,Family,73
+2023,Bangladesh,Asia South,Subsistence Only,Single adult,62
+2023,Barbados,America Central and South,Other,Single adult,2
+2023,Barbados,America Central and South,Accommodation,Family,2
+2023,Barbados,America Central and South,Accommodation,Single adult,3
+2023,Barbados,America Central and South,Subsistence Only,Single adult,1
+2023,Belarus,Europe Other,Accommodation,Family,4
+2023,Belarus,Europe Other,Accommodation,Single adult,7
+2023,Belarus,Europe Other,Subsistence Only,Family,1
+2023,Belarus,Europe Other,Subsistence Only,Single adult,1
+2023,Belize,America Central and South,Subsistence Only,Single adult,1
+2023,Benin,Africa Sub-Saharan,Accommodation,Single adult,5
+2023,Benin,Africa Sub-Saharan,Subsistence Only,Family,2
+2023,Benin,Africa Sub-Saharan,Subsistence Only,Single adult,3
+2023,Bolivia,America Central and South,Other,Family,2
+2023,Bolivia,America Central and South,Other,Single adult,1
+2023,Bolivia,America Central and South,Accommodation,Family,5
+2023,Bolivia,America Central and South,Accommodation,Single adult,8
+2023,Bolivia,America Central and South,Subsistence Only,Family,1
+2023,Botswana,Africa Sub-Saharan,Other,Single adult,12
+2023,Botswana,Africa Sub-Saharan,Accommodation,Family,47
+2023,Botswana,Africa Sub-Saharan,Accommodation,Single adult,310
+2023,Botswana,Africa Sub-Saharan,Subsistence Only,Family,5
+2023,Botswana,Africa Sub-Saharan,Subsistence Only,Single adult,10
+2023,Brazil,America Central and South,Other,Family,16
+2023,Brazil,America Central and South,Other,Single adult,16
+2023,Brazil,America Central and South,Accommodation,Family,36
+2023,Brazil,America Central and South,Accommodation,Single adult,44
+2023,Brazil,America Central and South,Subsistence Only,Family,12
+2023,Brazil,America Central and South,Subsistence Only,Single adult,17
+2023,British overseas citizens,Other,Subsistence Only,Single adult,1
+2023,Burkina Faso,Africa Sub-Saharan,Accommodation,Single adult,8
+2023,Burundi,Africa Sub-Saharan,Accommodation,Family,1
+2023,Burundi,Africa Sub-Saharan,Accommodation,Single adult,8
+2023,Cameroon,Africa Sub-Saharan,Other,Family,1
+2023,Cameroon,Africa Sub-Saharan,Other,Single adult,10
+2023,Cameroon,Africa Sub-Saharan,Accommodation,Family,7
+2023,Cameroon,Africa Sub-Saharan,Accommodation,Single adult,81
+2023,Cameroon,Africa Sub-Saharan,Subsistence Only,Family,4
+2023,Cameroon,Africa Sub-Saharan,Subsistence Only,Single adult,20
+2023,Canada,America North,Other,Single adult,2
+2023,Canada,America North,Accommodation,Single adult,2
+2023,Central African Republic,Africa Sub-Saharan,Accommodation,Single adult,3
+2023,Chad,Africa Sub-Saharan,Other,Single adult,1
+2023,Chad,Africa Sub-Saharan,Accommodation,Family,5
+2023,Chad,Africa Sub-Saharan,Accommodation,Single adult,59
+2023,Chad,Africa Sub-Saharan,Subsistence Only,Family,1
+2023,Chad,Africa Sub-Saharan,Subsistence Only,Single adult,2
+2023,Chile,America Central and South,Accommodation,Family,1
+2023,Chile,America Central and South,Accommodation,Single adult,3
+2023,China,Asia East,Other,Family,10
+2023,China,Asia East,Other,Single adult,52
+2023,China,Asia East,Accommodation,Family,45
+2023,China,Asia East,Accommodation,Single adult,55
+2023,China,Asia East,Subsistence Only,Family,11
+2023,China,Asia East,Subsistence Only,Single adult,17
+2023,Colombia,America Central and South,Other,Family,14
+2023,Colombia,America Central and South,Other,Single adult,23
+2023,Colombia,America Central and South,Accommodation,Family,219
+2023,Colombia,America Central and South,Accommodation,Single adult,224
+2023,Colombia,America Central and South,Subsistence Only,Family,12
+2023,Colombia,America Central and South,Subsistence Only,Single adult,19
+2023,Congo,Africa Sub-Saharan,Other,Family,1
+2023,Congo,Africa Sub-Saharan,Other,Single adult,3
+2023,Congo,Africa Sub-Saharan,Accommodation,Family,1
+2023,Congo,Africa Sub-Saharan,Accommodation,Single adult,28
+2023,Congo,Africa Sub-Saharan,Subsistence Only,Family,1
+2023,Congo,Africa Sub-Saharan,Subsistence Only,Single adult,5
+2023,Congo (Democratic Republic),Africa Sub-Saharan,Other,Family,2
+2023,Congo (Democratic Republic),Africa Sub-Saharan,Accommodation,Family,12
+2023,Congo (Democratic Republic),Africa Sub-Saharan,Accommodation,Single adult,73
+2023,Congo (Democratic Republic),Africa Sub-Saharan,Subsistence Only,Family,1
+2023,Congo (Democratic Republic),Africa Sub-Saharan,Subsistence Only,Single adult,22
+2023,Costa Rica,America Central and South,Accommodation,Family,3
+2023,Costa Rica,America Central and South,Accommodation,Single adult,1
+2023,Cuba,America Central and South,Other,Single adult,1
+2023,Cuba,America Central and South,Accommodation,Family,2
+2023,Cuba,America Central and South,Accommodation,Single adult,6
+2023,Cuba,America Central and South,Subsistence Only,Family,2
+2023,Cuba,America Central and South,Subsistence Only,Single adult,3
+2023,Cyprus (Northern part of),Europe Other,Accommodation,Single adult,1
+2023,Cyprus (Northern part of),Europe Other,Subsistence Only,Single adult,2
+2023,Czechia,EU 8,Other,Single adult,1
+2023,Djibouti,Africa Sub-Saharan,Accommodation,Single adult,2
+2023,Dominica,America Central and South,Other,Family,1
+2023,Dominica,America Central and South,Other,Single adult,1
+2023,Dominica,America Central and South,Accommodation,Family,2
+2023,Dominica,America Central and South,Accommodation,Single adult,7
+2023,Dominica,America Central and South,Subsistence Only,Family,1
+2023,Dominica,America Central and South,Subsistence Only,Single adult,5
+2023,Dominican Republic,America Central and South,Accommodation,Single adult,1
+2023,East Timor,Asia South East,Other,Single adult,1
+2023,East Timor,Asia South East,Accommodation,Family,1
+2023,East Timor,Asia South East,Accommodation,Single adult,3
+2023,Ecuador,America Central and South,Other,Single adult,2
+2023,Ecuador,America Central and South,Accommodation,Family,5
+2023,Ecuador,America Central and South,Accommodation,Single adult,1
+2023,Ecuador,America Central and South,Subsistence Only,Family,2
+2023,Ecuador,America Central and South,Subsistence Only,Single adult,1
+2023,Egypt,Africa North,Other,Family,2
+2023,Egypt,Africa North,Other,Single adult,50
+2023,Egypt,Africa North,Accommodation,Family,56
+2023,Egypt,Africa North,Accommodation,Single adult,881
+2023,Egypt,Africa North,Subsistence Only,Family,5
+2023,Egypt,Africa North,Subsistence Only,Single adult,41
+2023,El Salvador,America Central and South,Other,Single adult,4
+2023,El Salvador,America Central and South,Accommodation,Family,13
+2023,El Salvador,America Central and South,Accommodation,Single adult,28
+2023,El Salvador,America Central and South,Subsistence Only,Family,2
+2023,El Salvador,America Central and South,Subsistence Only,Single adult,6
+2023,Eritrea,Africa Sub-Saharan,Other,Family,6
+2023,Eritrea,Africa Sub-Saharan,Other,Single adult,54
+2023,Eritrea,Africa Sub-Saharan,Accommodation,Family,233
+2023,Eritrea,Africa Sub-Saharan,Accommodation,Single adult,2937
+2023,Eritrea,Africa Sub-Saharan,Subsistence Only,Family,2
+2023,Eritrea,Africa Sub-Saharan,Subsistence Only,Single adult,24
+2023,Estonia,EU 8,Other,Single adult,1
+2023,Ethiopia,Africa Sub-Saharan,Other,Family,2
+2023,Ethiopia,Africa Sub-Saharan,Other,Single adult,18
+2023,Ethiopia,Africa Sub-Saharan,Accommodation,Family,36
+2023,Ethiopia,Africa Sub-Saharan,Accommodation,Single adult,440
+2023,Ethiopia,Africa Sub-Saharan,Subsistence Only,Family,1
+2023,Ethiopia,Africa Sub-Saharan,Subsistence Only,Single adult,14
+2023,Former Yugoslavia,Europe Other,Other,Single adult,1
+2023,France,EU 14,Other,Single adult,1
+2023,French Guiana (French),America Central and South,Accommodation,Single adult,1
+2023,French Southern & Antarctic Territories,Other,Accommodation,Single adult,1
+2023,"Gambia, The",Africa Sub-Saharan,Other,Family,1
+2023,"Gambia, The",Africa Sub-Saharan,Other,Single adult,11
+2023,"Gambia, The",Africa Sub-Saharan,Accommodation,Family,5
+2023,"Gambia, The",Africa Sub-Saharan,Accommodation,Single adult,43
+2023,"Gambia, The",Africa Sub-Saharan,Subsistence Only,Family,1
+2023,"Gambia, The",Africa Sub-Saharan,Subsistence Only,Single adult,11
+2023,Georgia,Europe Other,Other,Family,6
+2023,Georgia,Europe Other,Other,Single adult,36
+2023,Georgia,Europe Other,Accommodation,Family,123
+2023,Georgia,Europe Other,Accommodation,Single adult,470
+2023,Georgia,Europe Other,Subsistence Only,Family,3
+2023,Georgia,Europe Other,Subsistence Only,Single adult,5
+2023,Ghana,Africa Sub-Saharan,Other,Family,2
+2023,Ghana,Africa Sub-Saharan,Other,Single adult,20
+2023,Ghana,Africa Sub-Saharan,Accommodation,Family,10
+2023,Ghana,Africa Sub-Saharan,Accommodation,Single adult,30
+2023,Ghana,Africa Sub-Saharan,Subsistence Only,Single adult,24
+2023,Greece,EU 14,Other,Single adult,1
+2023,Grenada,America Central and South,Other,Single adult,2
+2023,Grenada,America Central and South,Accommodation,Family,8
+2023,Grenada,America Central and South,Accommodation,Single adult,16
+2023,Grenada,America Central and South,Subsistence Only,Single adult,3
+2023,Guatemala,America Central and South,Other,Family,1
+2023,Guatemala,America Central and South,Other,Single adult,1
+2023,Guatemala,America Central and South,Accommodation,Family,5
+2023,Guatemala,America Central and South,Accommodation,Single adult,14
+2023,Guinea,Africa Sub-Saharan,Other,Single adult,4
+2023,Guinea,Africa Sub-Saharan,Accommodation,Family,6
+2023,Guinea,Africa Sub-Saharan,Accommodation,Single adult,45
+2023,Guinea,Africa Sub-Saharan,Subsistence Only,Single adult,2
+2023,Guinea-Bissau,Africa Sub-Saharan,Other,Single adult,1
+2023,Guinea-Bissau,Africa Sub-Saharan,Accommodation,Single adult,4
+2023,Guyana,America Central and South,Other,Single adult,1
+2023,Guyana,America Central and South,Accommodation,Family,3
+2023,Guyana,America Central and South,Accommodation,Single adult,12
+2023,Guyana,America Central and South,Subsistence Only,Single adult,1
+2023,Haiti,America Central and South,Accommodation,Single adult,1
+2023,Honduras,America Central and South,Other,Family,3
+2023,Honduras,America Central and South,Other,Single adult,14
+2023,Honduras,America Central and South,Accommodation,Family,126
+2023,Honduras,America Central and South,Accommodation,Single adult,103
+2023,Honduras,America Central and South,Subsistence Only,Family,6
+2023,Honduras,America Central and South,Subsistence Only,Single adult,5
+2023,Hong Kong,Asia East,Other,Family,1
+2023,Hong Kong,Asia East,Other,Single adult,3
+2023,Hong Kong,Asia East,Accommodation,Family,5
+2023,Hong Kong,Asia East,Accommodation,Single adult,13
+2023,Hong Kong,Asia East,Subsistence Only,Family,1
+2023,Hong Kong,Asia East,Subsistence Only,Single adult,2
+2023,Hungary,EU 8,Other,Family,1
+2023,Hungary,EU 8,Accommodation,Family,1
+2023,Hungary,EU 8,Accommodation,Single adult,1
+2023,Hungary,EU 8,Subsistence Only,Single adult,1
+2023,India,Asia South,Other,Family,28
+2023,India,Asia South,Other,Single adult,78
+2023,India,Asia South,Accommodation,Family,125
+2023,India,Asia South,Accommodation,Single adult,319
+2023,India,Asia South,Subsistence Only,Family,36
+2023,India,Asia South,Subsistence Only,Single adult,51
+2023,Indonesia,Asia South East,Other,Family,3
+2023,Indonesia,Asia South East,Other,Single adult,1
+2023,Indonesia,Asia South East,Accommodation,Family,1
+2023,Indonesia,Asia South East,Accommodation,Single adult,5
+2023,Indonesia,Asia South East,Subsistence Only,Family,1
+2023,Indonesia,Asia South East,Subsistence Only,Single adult,2
+2023,Iran,Middle East,Other,Family,30
+2023,Iran,Middle East,Other,Single adult,171
+2023,Iran,Middle East,Accommodation,Family,826
+2023,Iran,Middle East,Accommodation,Single adult,4972
+2023,Iran,Middle East,Subsistence Only,Family,54
+2023,Iran,Middle East,Subsistence Only,Single adult,369
+2023,Iraq,Middle East,Other,Family,17
+2023,Iraq,Middle East,Other,Single adult,171
+2023,Iraq,Middle East,Accommodation,Family,624
+2023,Iraq,Middle East,Accommodation,Single adult,2291
+2023,Iraq,Middle East,Subsistence Only,Family,39
+2023,Iraq,Middle East,Subsistence Only,Single adult,314
+2023,Ireland,EU 14,Accommodation,Family,1
+2023,Ireland,EU 14,Accommodation,Single adult,1
+2023,Israel,Middle East,Accommodation,Family,4
+2023,Israel,Middle East,Accommodation,Single adult,6
+2023,Israel,Middle East,Subsistence Only,Family,1
+2023,Ivory Coast,Africa Sub-Saharan,Other,Family,1
+2023,Ivory Coast,Africa Sub-Saharan,Other,Single adult,3
+2023,Ivory Coast,Africa Sub-Saharan,Accommodation,Family,6
+2023,Ivory Coast,Africa Sub-Saharan,Accommodation,Single adult,24
+2023,Ivory Coast,Africa Sub-Saharan,Subsistence Only,Family,1
+2023,Ivory Coast,Africa Sub-Saharan,Subsistence Only,Single adult,3
+2023,Jamaica,America Central and South,Other,Family,1
+2023,Jamaica,America Central and South,Other,Single adult,15
+2023,Jamaica,America Central and South,Accommodation,Family,2
+2023,Jamaica,America Central and South,Accommodation,Single adult,8
+2023,Jamaica,America Central and South,Subsistence Only,Single adult,1
+2023,Japan,Asia East,Accommodation,Single adult,1
+2023,Jordan,Middle East,Other,Family,2
+2023,Jordan,Middle East,Other,Single adult,8
+2023,Jordan,Middle East,Accommodation,Family,3
+2023,Jordan,Middle East,Accommodation,Single adult,48
+2023,Jordan,Middle East,Subsistence Only,Family,2
+2023,Jordan,Middle East,Subsistence Only,Single adult,3
+2023,Kazakhstan,Asia Central,Other,Single adult,4
+2023,Kazakhstan,Asia Central,Accommodation,Family,2
+2023,Kazakhstan,Asia Central,Accommodation,Single adult,21
+2023,Kazakhstan,Asia Central,Subsistence Only,Family,1
+2023,Kenya,Africa Sub-Saharan,Other,Family,4
+2023,Kenya,Africa Sub-Saharan,Other,Single adult,13
+2023,Kenya,Africa Sub-Saharan,Accommodation,Family,10
+2023,Kenya,Africa Sub-Saharan,Accommodation,Single adult,42
+2023,Kenya,Africa Sub-Saharan,Subsistence Only,Family,2
+2023,Kenya,Africa Sub-Saharan,Subsistence Only,Single adult,9
+2023,Kosovo,Europe Other,Other,Family,1
+2023,Kosovo,Europe Other,Other,Single adult,1
+2023,Kosovo,Europe Other,Accommodation,Family,4
+2023,Kosovo,Europe Other,Accommodation,Single adult,6
+2023,Kosovo,Europe Other,Subsistence Only,Family,5
+2023,Kosovo,Europe Other,Subsistence Only,Single adult,2
+2023,Kuwait,Middle East,Other,Family,1
+2023,Kuwait,Middle East,Other,Single adult,9
+2023,Kuwait,Middle East,Accommodation,Family,68
+2023,Kuwait,Middle East,Accommodation,Single adult,233
+2023,Kuwait,Middle East,Subsistence Only,Family,2
+2023,Kuwait,Middle East,Subsistence Only,Single adult,23
+2023,Kyrgyzstan,Asia Central,Other,Family,2
+2023,Kyrgyzstan,Asia Central,Other,Single adult,1
+2023,Kyrgyzstan,Asia Central,Accommodation,Family,4
+2023,Kyrgyzstan,Asia Central,Accommodation,Single adult,9
+2023,Latvia,EU 8,Other,Single adult,2
+2023,Lebanon,Middle East,Other,Family,1
+2023,Lebanon,Middle East,Other,Single adult,5
+2023,Lebanon,Middle East,Accommodation,Family,13
+2023,Lebanon,Middle East,Accommodation,Single adult,22
+2023,Lebanon,Middle East,Subsistence Only,Family,4
+2023,Lebanon,Middle East,Subsistence Only,Single adult,8
+2023,Liberia,Africa Sub-Saharan,Accommodation,Family,1
+2023,Liberia,Africa Sub-Saharan,Accommodation,Single adult,4
+2023,Libya,Africa North,Other,Family,10
+2023,Libya,Africa North,Other,Single adult,13
+2023,Libya,Africa North,Accommodation,Family,45
+2023,Libya,Africa North,Accommodation,Single adult,227
+2023,Libya,Africa North,Subsistence Only,Family,14
+2023,Libya,Africa North,Subsistence Only,Single adult,11
+2023,Lithuania,EU 8,Other,Single adult,4
+2023,Madagascar,Africa Sub-Saharan,Accommodation,Single adult,1
+2023,Malawi,Africa Sub-Saharan,Other,Single adult,2
+2023,Malawi,Africa Sub-Saharan,Accommodation,Family,3
+2023,Malawi,Africa Sub-Saharan,Accommodation,Single adult,4
+2023,Malawi,Africa Sub-Saharan,Subsistence Only,Family,2
+2023,Malawi,Africa Sub-Saharan,Subsistence Only,Single adult,7
+2023,Malaysia,Asia South East,Other,Family,4
+2023,Malaysia,Asia South East,Other,Single adult,10
+2023,Malaysia,Asia South East,Accommodation,Family,9
+2023,Malaysia,Asia South East,Accommodation,Single adult,42
+2023,Malaysia,Asia South East,Subsistence Only,Family,2
+2023,Malaysia,Asia South East,Subsistence Only,Single adult,7
+2023,Maldives,Asia South,Accommodation,Family,3
+2023,Maldives,Asia South,Accommodation,Single adult,1
+2023,Mali,Africa Sub-Saharan,Other,Single adult,1
+2023,Mali,Africa Sub-Saharan,Accommodation,Single adult,12
+2023,Mali,Africa Sub-Saharan,Subsistence Only,Single adult,1
+2023,Mauritania,Africa North,Other,Single adult,2
+2023,Mauritania,Africa North,Accommodation,Single adult,9
+2023,Mauritius,Africa Sub-Saharan,Other,Family,2
+2023,Mauritius,Africa Sub-Saharan,Other,Single adult,4
+2023,Mauritius,Africa Sub-Saharan,Accommodation,Family,28
+2023,Mauritius,Africa Sub-Saharan,Accommodation,Single adult,15
+2023,Mauritius,Africa Sub-Saharan,Subsistence Only,Family,5
+2023,Mauritius,Africa Sub-Saharan,Subsistence Only,Single adult,7
+2023,Mexico,America Central and South,Other,Family,1
+2023,Mexico,America Central and South,Other,Single adult,4
+2023,Mexico,America Central and South,Accommodation,Family,7
+2023,Mexico,America Central and South,Accommodation,Single adult,9
+2023,Mexico,America Central and South,Subsistence Only,Single adult,1
+2023,Moldova,Europe Other,Accommodation,Family,2
+2023,Moldova,Europe Other,Accommodation,Single adult,2
+2023,Mongolia,Asia East,Other,Family,2
+2023,Mongolia,Asia East,Other,Single adult,2
+2023,Mongolia,Asia East,Accommodation,Family,9
+2023,Mongolia,Asia East,Accommodation,Single adult,2
+2023,Mongolia,Asia East,Subsistence Only,Family,1
+2023,Mongolia,Asia East,Subsistence Only,Single adult,1
+2023,Morocco,Africa North,Other,Family,3
+2023,Morocco,Africa North,Other,Single adult,20
+2023,Morocco,Africa North,Accommodation,Family,29
+2023,Morocco,Africa North,Accommodation,Single adult,131
+2023,Morocco,Africa North,Subsistence Only,Family,5
+2023,Morocco,Africa North,Subsistence Only,Single adult,17
+2023,Mozambique,Africa Sub-Saharan,Accommodation,Single adult,2
+2023,Myanmar (Burma),Asia South East,Other,Family,5
+2023,Myanmar (Burma),Asia South East,Other,Single adult,2
+2023,Myanmar (Burma),Asia South East,Accommodation,Family,13
+2023,Myanmar (Burma),Asia South East,Accommodation,Single adult,18
+2023,Myanmar (Burma),Asia South East,Subsistence Only,Family,5
+2023,Myanmar (Burma),Asia South East,Subsistence Only,Single adult,7
+2023,Namibia,Africa Sub-Saharan,Other,Family,7
+2023,Namibia,Africa Sub-Saharan,Other,Single adult,38
+2023,Namibia,Africa Sub-Saharan,Accommodation,Family,107
+2023,Namibia,Africa Sub-Saharan,Accommodation,Single adult,590
+2023,Namibia,Africa Sub-Saharan,Subsistence Only,Family,11
+2023,Namibia,Africa Sub-Saharan,Subsistence Only,Single adult,67
+2023,Nepal,Asia South,Other,Family,1
+2023,Nepal,Asia South,Other,Single adult,4
+2023,Nepal,Asia South,Accommodation,Single adult,8
+2023,Nepal,Asia South,Subsistence Only,Family,1
+2023,Netherlands,EU 14,Other,Single adult,2
+2023,Netherlands,EU 14,Accommodation,Single adult,2
+2023,Nicaragua,America Central and South,Other,Single adult,3
+2023,Nicaragua,America Central and South,Accommodation,Family,42
+2023,Nicaragua,America Central and South,Accommodation,Single adult,42
+2023,Nicaragua,America Central and South,Subsistence Only,Family,2
+2023,Nicaragua,America Central and South,Subsistence Only,Single adult,4
+2023,Niger,Africa Sub-Saharan,Other,Single adult,1
+2023,Niger,Africa Sub-Saharan,Accommodation,Single adult,3
+2023,Nigeria,Africa Sub-Saharan,Other,Family,28
+2023,Nigeria,Africa Sub-Saharan,Other,Single adult,65
+2023,Nigeria,Africa Sub-Saharan,Accommodation,Family,148
+2023,Nigeria,Africa Sub-Saharan,Accommodation,Single adult,185
+2023,Nigeria,Africa Sub-Saharan,Subsistence Only,Family,33
+2023,Nigeria,Africa Sub-Saharan,Subsistence Only,Single adult,61
+2023,North Korea,Asia East,Accommodation,Single adult,2
+2023,North Korea,Asia East,Subsistence Only,Single adult,1
+2023,North Macedonia,Europe Other,Other,Single adult,1
+2023,North Macedonia,Europe Other,Accommodation,Single adult,4
+2023,Occupied Palestinian Territories,Middle East,Other,Family,2
+2023,Occupied Palestinian Territories,Middle East,Other,Single adult,16
+2023,Occupied Palestinian Territories,Middle East,Accommodation,Family,17
+2023,Occupied Palestinian Territories,Middle East,Accommodation,Single adult,105
+2023,Occupied Palestinian Territories,Middle East,Subsistence Only,Family,3
+2023,Occupied Palestinian Territories,Middle East,Subsistence Only,Single adult,16
+2023,Oman,Middle East,Other,Family,1
+2023,Oman,Middle East,Other,Single adult,1
+2023,Oman,Middle East,Accommodation,Family,2
+2023,Oman,Middle East,Accommodation,Single adult,16
+2023,Oman,Middle East,Subsistence Only,Single adult,1
+2023,Other and unknown,Other,Other,Single adult,3
+2023,Other and unknown,Other,Accommodation,Family,2
+2023,Other and unknown,Other,Accommodation,Single adult,3
+2023,Other and unknown,Other,Subsistence Only,Family,2
+2023,Pakistan,Asia South,Other,Family,48
+2023,Pakistan,Asia South,Other,Single adult,120
+2023,Pakistan,Asia South,Accommodation,Family,357
+2023,Pakistan,Asia South,Accommodation,Single adult,460
+2023,Pakistan,Asia South,Subsistence Only,Family,89
+2023,Pakistan,Asia South,Subsistence Only,Single adult,167
+2023,Panama,America Central and South,Accommodation,Family,3
+2023,Papua New Guinea,Oceania,Accommodation,Family,1
+2023,Papua New Guinea,Oceania,Accommodation,Single adult,1
+2023,Peru,America Central and South,Other,Single adult,1
+2023,Peru,America Central and South,Accommodation,Family,8
+2023,Peru,America Central and South,Accommodation,Single adult,18
+2023,Peru,America Central and South,Subsistence Only,Family,1
+2023,Peru,America Central and South,Subsistence Only,Single adult,2
+2023,Philippines,Asia South East,Other,Family,2
+2023,Philippines,Asia South East,Other,Single adult,3
+2023,Philippines,Asia South East,Accommodation,Family,4
+2023,Philippines,Asia South East,Accommodation,Single adult,5
+2023,Philippines,Asia South East,Subsistence Only,Family,3
+2023,Philippines,Asia South East,Subsistence Only,Single adult,7
+2023,Poland,EU 8,Other,Family,1
+2023,Poland,EU 8,Other,Single adult,13
+2023,Poland,EU 8,Accommodation,Single adult,7
+2023,Poland,EU 8,Subsistence Only,Single adult,2
+2023,Portugal,EU 14,Other,Single adult,1
+2023,Portugal,EU 14,Accommodation,Single adult,1
+2023,Qatar,Middle East,Accommodation,Single adult,1
+2023,Refugee,Other,Other,Family,4
+2023,Refugee,Other,Other,Single adult,5
+2023,Refugee,Other,Accommodation,Family,16
+2023,Refugee,Other,Accommodation,Single adult,66
+2023,Refugee,Other,Subsistence Only,Family,4
+2023,Refugee,Other,Subsistence Only,Single adult,46
+2023,Romania,EU 2,Other,Single adult,8
+2023,Romania,EU 2,Accommodation,Single adult,2
+2023,Russia,Europe Other,Other,Family,5
+2023,Russia,Europe Other,Other,Single adult,10
+2023,Russia,Europe Other,Accommodation,Family,32
+2023,Russia,Europe Other,Accommodation,Single adult,86
+2023,Russia,Europe Other,Subsistence Only,Family,6
+2023,Russia,Europe Other,Subsistence Only,Single adult,28
+2023,Rwanda,Africa Sub-Saharan,Other,Single adult,3
+2023,Rwanda,Africa Sub-Saharan,Accommodation,Family,2
+2023,Rwanda,Africa Sub-Saharan,Accommodation,Single adult,10
+2023,Rwanda,Africa Sub-Saharan,Subsistence Only,Family,2
+2023,Rwanda,Africa Sub-Saharan,Subsistence Only,Single adult,3
+2023,Saudi Arabia,Middle East,Other,Family,1
+2023,Saudi Arabia,Middle East,Other,Single adult,12
+2023,Saudi Arabia,Middle East,Accommodation,Family,9
+2023,Saudi Arabia,Middle East,Accommodation,Single adult,165
+2023,Saudi Arabia,Middle East,Subsistence Only,Family,2
+2023,Saudi Arabia,Middle East,Subsistence Only,Single adult,4
+2023,Senegal,Africa Sub-Saharan,Other,Single adult,6
+2023,Senegal,Africa Sub-Saharan,Accommodation,Family,2
+2023,Senegal,Africa Sub-Saharan,Accommodation,Single adult,25
+2023,Sierra Leone,Africa Sub-Saharan,Other,Family,2
+2023,Sierra Leone,Africa Sub-Saharan,Other,Single adult,4
+2023,Sierra Leone,Africa Sub-Saharan,Accommodation,Family,17
+2023,Sierra Leone,Africa Sub-Saharan,Accommodation,Single adult,65
+2023,Sierra Leone,Africa Sub-Saharan,Subsistence Only,Family,2
+2023,Sierra Leone,Africa Sub-Saharan,Subsistence Only,Single adult,13
+2023,Singapore,Asia South East,Accommodation,Family,1
+2023,Singapore,Asia South East,Accommodation,Single adult,2
+2023,Slovakia,EU 8,Accommodation,Single adult,1
+2023,Solomon Islands,Oceania,Accommodation,Single adult,9
+2023,Somalia,Africa Sub-Saharan,Other,Family,3
+2023,Somalia,Africa Sub-Saharan,Other,Single adult,26
+2023,Somalia,Africa Sub-Saharan,Accommodation,Family,43
+2023,Somalia,Africa Sub-Saharan,Accommodation,Single adult,421
+2023,Somalia,Africa Sub-Saharan,Subsistence Only,Family,1
+2023,Somalia,Africa Sub-Saharan,Subsistence Only,Single adult,28
+2023,South Africa,Africa Sub-Saharan,Other,Family,4
+2023,South Africa,Africa Sub-Saharan,Other,Single adult,12
+2023,South Africa,Africa Sub-Saharan,Accommodation,Family,5
+2023,South Africa,Africa Sub-Saharan,Accommodation,Single adult,13
+2023,South Africa,Africa Sub-Saharan,Subsistence Only,Single adult,8
+2023,South Korea,Asia East,Other,Single adult,1
+2023,South Sudan,Africa Sub-Saharan,Other,Single adult,3
+2023,South Sudan,Africa Sub-Saharan,Accommodation,Family,11
+2023,South Sudan,Africa Sub-Saharan,Accommodation,Single adult,165
+2023,South Sudan,Africa Sub-Saharan,Subsistence Only,Single adult,2
+2023,Spain,EU 14,Other,Single adult,1
+2023,Spain,EU 14,Accommodation,Family,2
+2023,Sri Lanka,Asia South,Other,Family,21
+2023,Sri Lanka,Asia South,Other,Single adult,35
+2023,Sri Lanka,Asia South,Accommodation,Family,158
+2023,Sri Lanka,Asia South,Accommodation,Single adult,125
+2023,Sri Lanka,Asia South,Subsistence Only,Family,26
+2023,Sri Lanka,Asia South,Subsistence Only,Single adult,39
+2023,St Kitts and Nevis,America Central and South,Other,Single adult,2
+2023,St Kitts and Nevis,America Central and South,Accommodation,Family,3
+2023,St Kitts and Nevis,America Central and South,Accommodation,Single adult,7
+2023,St Kitts and Nevis,America Central and South,Subsistence Only,Family,1
+2023,St Lucia,America Central and South,Other,Family,1
+2023,St Lucia,America Central and South,Accommodation,Family,11
+2023,St Lucia,America Central and South,Accommodation,Single adult,27
+2023,St Lucia,America Central and South,Subsistence Only,Family,2
+2023,St Lucia,America Central and South,Subsistence Only,Single adult,3
+2023,St Vincent and the Grenadines,America Central and South,Other,Single adult,4
+2023,St Vincent and the Grenadines,America Central and South,Accommodation,Family,13
+2023,St Vincent and the Grenadines,America Central and South,Accommodation,Single adult,11
+2023,St Vincent and the Grenadines,America Central and South,Subsistence Only,Single adult,3
+2023,Stateless,Other,Other,Single adult,8
+2023,Stateless,Other,Accommodation,Family,53
+2023,Stateless,Other,Accommodation,Single adult,254
+2023,Stateless,Other,Subsistence Only,Family,6
+2023,Stateless,Other,Subsistence Only,Single adult,56
+2023,Sudan,Africa North,Other,Family,3
+2023,Sudan,Africa North,Other,Single adult,62
+2023,Sudan,Africa North,Accommodation,Family,153
+2023,Sudan,Africa North,Accommodation,Single adult,2085
+2023,Sudan,Africa North,Subsistence Only,Family,22
+2023,Sudan,Africa North,Subsistence Only,Single adult,64
+2023,Sweden,EU 14,Accommodation,Family,1
+2023,Syria,Middle East,Other,Family,11
+2023,Syria,Middle East,Other,Single adult,113
+2023,Syria,Middle East,Accommodation,Family,253
+2023,Syria,Middle East,Accommodation,Single adult,2456
+2023,Syria,Middle East,Subsistence Only,Family,30
+2023,Syria,Middle East,Subsistence Only,Single adult,432
+2023,Taiwan,Asia East,Accommodation,Single adult,1
+2023,Tajikistan,Asia Central,Other,Family,1
+2023,Tajikistan,Asia Central,Other,Single adult,8
+2023,Tajikistan,Asia Central,Accommodation,Family,8
+2023,Tajikistan,Asia Central,Accommodation,Single adult,34
+2023,Tajikistan,Asia Central,Subsistence Only,Single adult,2
+2023,Tanzania,Africa Sub-Saharan,Other,Family,1
+2023,Tanzania,Africa Sub-Saharan,Other,Single adult,4
+2023,Tanzania,Africa Sub-Saharan,Accommodation,Family,4
+2023,Tanzania,Africa Sub-Saharan,Accommodation,Single adult,44
+2023,Tanzania,Africa Sub-Saharan,Subsistence Only,Family,1
+2023,Tanzania,Africa Sub-Saharan,Subsistence Only,Single adult,2
+2023,Thailand,Asia South East,Other,Single adult,4
+2023,Thailand,Asia South East,Accommodation,Family,2
+2023,Thailand,Asia South East,Accommodation,Single adult,2
+2023,Thailand,Asia South East,Subsistence Only,Single adult,3
+2023,Togo,Africa Sub-Saharan,Accommodation,Single adult,6
+2023,Trinidad and Tobago,America Central and South,Other,Single adult,4
+2023,Trinidad and Tobago,America Central and South,Accommodation,Family,50
+2023,Trinidad and Tobago,America Central and South,Accommodation,Single adult,88
+2023,Trinidad and Tobago,America Central and South,Subsistence Only,Family,1
+2023,Trinidad and Tobago,America Central and South,Subsistence Only,Single adult,9
+2023,Tunisia,Africa North,Other,Single adult,18
+2023,Tunisia,Africa North,Accommodation,Family,22
+2023,Tunisia,Africa North,Accommodation,Single adult,108
+2023,Tunisia,Africa North,Subsistence Only,Single adult,8
+2023,Turkey,Europe Other,Other,Family,16
+2023,Turkey,Europe Other,Other,Single adult,91
+2023,Turkey,Europe Other,Accommodation,Family,162
+2023,Turkey,Europe Other,Accommodation,Single adult,424
+2023,Turkey,Europe Other,Subsistence Only,Family,76
+2023,Turkey,Europe Other,Subsistence Only,Single adult,453
+2023,Turkmenistan,Asia Central,Other,Single adult,2
+2023,Turkmenistan,Asia Central,Accommodation,Single adult,4
+2023,Turkmenistan,Asia Central,Subsistence Only,Family,2
+2023,Turkmenistan,Asia Central,Subsistence Only,Single adult,1
+2023,Uganda,Africa Sub-Saharan,Other,Single adult,13
+2023,Uganda,Africa Sub-Saharan,Accommodation,Family,16
+2023,Uganda,Africa Sub-Saharan,Accommodation,Single adult,99
+2023,Uganda,Africa Sub-Saharan,Subsistence Only,Family,3
+2023,Uganda,Africa Sub-Saharan,Subsistence Only,Single adult,16
+2023,Ukraine,Europe Other,Other,Family,1
+2023,Ukraine,Europe Other,Other,Single adult,10
+2023,Ukraine,Europe Other,Accommodation,Family,12
+2023,Ukraine,Europe Other,Accommodation,Single adult,28
+2023,Ukraine,Europe Other,Subsistence Only,Family,2
+2023,Ukraine,Europe Other,Subsistence Only,Single adult,8
+2023,United Arab Emirates,Middle East,Accommodation,Single adult,2
+2023,United Arab Emirates,Middle East,Subsistence Only,Family,1
+2023,United States,America North,Other,Single adult,8
+2023,United States,America North,Accommodation,Family,3
+2023,United States,America North,Accommodation,Single adult,31
+2023,United States,America North,Subsistence Only,Single adult,2
+2023,Uruguay,America Central and South,Other,Family,1
+2023,Uruguay,America Central and South,Accommodation,Single adult,1
+2023,Uzbekistan,Asia Central,Other,Family,2
+2023,Uzbekistan,Asia Central,Other,Single adult,3
+2023,Uzbekistan,Asia Central,Accommodation,Family,6
+2023,Uzbekistan,Asia Central,Accommodation,Single adult,26
+2023,Uzbekistan,Asia Central,Subsistence Only,Family,4
+2023,Uzbekistan,Asia Central,Subsistence Only,Single adult,2
+2023,Venezuela,America Central and South,Accommodation,Family,2
+2023,Venezuela,America Central and South,Accommodation,Single adult,3
+2023,Venezuela,America Central and South,Subsistence Only,Single adult,1
+2023,Vietnam,Asia South East,Other,Family,6
+2023,Vietnam,Asia South East,Other,Single adult,98
+2023,Vietnam,Asia South East,Accommodation,Family,33
+2023,Vietnam,Asia South East,Accommodation,Single adult,220
+2023,Vietnam,Asia South East,Subsistence Only,Family,12
+2023,Vietnam,Asia South East,Subsistence Only,Single adult,62
+2023,Western Sahara,Africa North,Other,Single adult,2
+2023,Western Sahara,Africa North,Accommodation,Family,1
+2023,Western Sahara,Africa North,Accommodation,Single adult,3
+2023,Yemen,Middle East,Other,Family,5
+2023,Yemen,Middle East,Other,Single adult,10
+2023,Yemen,Middle East,Accommodation,Family,30
+2023,Yemen,Middle East,Accommodation,Single adult,213
+2023,Yemen,Middle East,Subsistence Only,Family,6
+2023,Yemen,Middle East,Subsistence Only,Single adult,35
+2023,Zambia,Africa Sub-Saharan,Other,Single adult,3
+2023,Zambia,Africa Sub-Saharan,Accommodation,Family,1
+2023,Zambia,Africa Sub-Saharan,Accommodation,Single adult,1
+2023,Zimbabwe,Africa Sub-Saharan,Other,Family,3
+2023,Zimbabwe,Africa Sub-Saharan,Other,Single adult,21
+2023,Zimbabwe,Africa Sub-Saharan,Accommodation,Family,6
+2023,Zimbabwe,Africa Sub-Saharan,Accommodation,Single adult,25
+2023,Zimbabwe,Africa Sub-Saharan,Subsistence Only,Family,2
+2023,Zimbabwe,Africa Sub-Saharan,Subsistence Only,Single adult,10

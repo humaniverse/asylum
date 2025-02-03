@@ -13,10 +13,10 @@ query_urls <-
     # - https://www.gov.uk/government/collections/migration-transparency-data#immigration-enforcement
 
     # Asylum applications, decisions and resettlement
-    "asylum_summary", "Asylum and resettlement summary tables", "https://assets.publishing.service.gov.uk/media/65d8843e6efa830011dcc575/asylum-summary-dec-2023-tables.ods", "https://www.gov.uk/government/statistical-data-sets/immigration-system-statistics-data-tables",
-    "applications_decisions_resettlement", "Asylum applications, initial decisions and resettlement", "https://assets.publishing.service.gov.uk/media/65d884a387005a001a80f8bf/asylum-applications-datasets-dec-2023.xlsx", "https://www.gov.uk/government/statistical-data-sets/immigration-system-statistics-data-tables",
-    "awaiting_decision", "Asylum applications awaiting a decision", "https://assets.publishing.service.gov.uk/media/66befebe0a079b65ea323eef/asylum-applications-awaiting-decision-datasets-jun-24.xlsx", "https://www.gov.uk/government/statistical-data-sets/asylum-and-resettlement-datasets",
-    "outcomes", "Outcome analysis of asylum applications", "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1098062/outcome-analysis-asylum-applications-datasets-jun-2022.xlsx", "https://www.gov.uk/government/statistical-data-sets/asylum-and-resettlement-datasets",
+    "asylum_summary", "Asylum and resettlement summary tables", "https://assets.publishing.service.gov.uk/media/6745f99683f3d6d843be975e/asylum-summary-sep-24-tables.ods", "https://www.gov.uk/government/statistical-data-sets/immigration-system-statistics-data-tables",
+    "applications_decisions_resettlement", "Asylum applications, initial decisions and resettlement", "https://assets.publishing.service.gov.uk/media/674841ea24108edc3c8ceb31/asylum-applications-datasets-sep-2024.xlsx", "https://www.gov.uk/government/statistical-data-sets/immigration-system-statistics-data-tables",
+    "awaiting_decision", "Asylum applications awaiting a decision", "https://assets.publishing.service.gov.uk/media/6748425d6f60e77679723933/asylum-applications-awaiting-decision-datasets-sep-24.xlsx", "https://www.gov.uk/government/statistical-data-sets/asylum-and-resettlement-datasets",
+    "outcomes", "Outcome analysis of asylum applications", "https://assets.publishing.service.gov.uk/media/66bf071bb45d6a81cd31473a/outcome-analysis-asylum-applications-datasets-jun-2024.xlsx", "https://www.gov.uk/government/statistical-data-sets/asylum-and-resettlement-datasets",
 
     # Age disputes
     "age_disputes", "Age disputes", "https://assets.publishing.service.gov.uk/media/655badd1544aea0019fb30e1/age-disputes-datasets-sep-2023.xlsx", "https://www.gov.uk/government/statistical-data-sets/immigration-system-statistics-data-tables",
@@ -27,17 +27,17 @@ query_urls <-
     "claims_certified_section_94", "Asylum claims certified under Section 94", "https://assets.publishing.service.gov.uk/media/655badef544aea000dfb30fb/asylum-claims-certified-section-94-datasets-sep-2023.xlsx", "https://www.gov.uk/government/statistical-data-sets/asylum-and-resettlement-datasets",
 
     # Asylum support
-    "support_received", "Asylum seekers in receipt of support", "https://assets.publishing.service.gov.uk/media/65df594bf1cab36b60fc4737/asylum-seekers-receipt-support-datasets-dec-2023.xlsx", "https://www.gov.uk/government/statistical-data-sets/immigration-system-statistics-data-tables",
-    "support_applications", "Applications for section 95 support", "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1136760/applications-section-95-support-datasets-dec-2022.xlsx", "https://www.gov.uk/government/statistical-data-sets/asylum-and-resettlement-datasets",
+    "support_received", "Asylum seekers in receipt of support", "https://assets.publishing.service.gov.uk/media/6748453624108edc3c8ceb3a/asylum-seekers-receipt-support-datasets-sep-24.xlsx", "https://www.gov.uk/government/statistical-data-sets/immigration-system-statistics-data-tables",
+    "support_applications", "Applications for section 95 support", "https://assets.publishing.service.gov.uk/media/66bf0c46c909b91981323f19/applications-section-95-support-datasets-jun-2024.xlsx", "https://www.gov.uk/government/statistical-data-sets/asylum-and-resettlement-datasets",
 
     # Dublin regulation
     "dublin_regulation", "Dublin regulation", "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/962018/dublin-regulation-datasets-mar-2020.xlsx", "https://www.gov.uk/government/statistical-data-sets/asylum-and-resettlement-datasets",
 
     # Family reunion
-    "family_reunion", "Family reunion visa grants", "https://assets.publishing.service.gov.uk/media/65d885c36efa83001ddcc587/family-reunion-visa-grants-datasets-dec-2023.xlsx", "https://www.gov.uk/government/statistical-data-sets/immigration-system-statistics-data-tables",
+    "family_reunion", "Family reunion visa grants", "https://assets.publishing.service.gov.uk/media/674846262ac8a6da3072393c/family-reunion-visa-grants-datasets-sep-24.xlsx", "https://www.gov.uk/government/statistical-data-sets/immigration-system-statistics-data-tables",
 
     # Local authority data
-    "local_authority_resettlement", "Resettlement by local authority", "https://assets.publishing.service.gov.uk/media/655bae44d03a8d001207fd17/resettlement-local-authority-datasets-sep-2023.xlsx", "https://www.gov.uk/government/statistical-data-sets/asylum-and-resettlement-datasets",
+    "local_authority_resettlement", "Resettlement by local authority", "https://assets.publishing.service.gov.uk/media/6744842081f809b32c856901/resettlement-local-authority-datasets-sep-24.xlsx", "https://www.gov.uk/government/statistical-data-sets/asylum-and-resettlement-datasets",
     "local_authority_support", "Section 95 support by local authority", "https://assets.publishing.service.gov.uk/media/674845d76f60e7767972393a/support-local-authority-datasets-sep-24.xlsx", "https://www.gov.uk/government/statistical-data-sets/asylum-and-resettlement-datasets",
 
     # Detention

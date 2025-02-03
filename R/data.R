@@ -149,32 +149,28 @@
 #'
 #' @format A data frame with 26 variables:
 #' \describe{
-#'   \item{Year of application}{Year of application}
-#'   \item{Geographical region}{Geographical region}
+#'   \item{Year of Application}{Year of application}
+#'   \item{Geographical Region}{Geographical region}
 #'   \item{Nationality}{Nationality}
 #'   \item{Applications}{Applications}
-#'   \item{Initial decisions}{Initial decisions}
-#'   \item{Granted asylum}{Granted asylum}
-#'   \item{Granted HP/DL}{Granted HP/DL}
-#'   \item{Other grants}{Other grants}
-#'   \item{Refused}{Refused}
-#'   \item{Applications withdrawn}{Applications withdrawn}
-#'   \item{Initial decisions not yet known}{Initial decisions not yet known}
-#'   \item{Appeals lodged}{Appeals lodged}
-#'   \item{Allowed appeals}{Allowed appeals}
-#'   \item{Dismissed appeals}{Dismissed appeals}
-#'   \item{Withdrawn appeals}{Withdrawn appeals}
-#'   \item{Appeal outcome not yet known}{Appeal outcome not yet known}
-#'   \item{Enforced returns}{Enforced returns}
-#'   \item{Voluntary returns}{Voluntary returns}
-#'   \item{Assisted returns (Subset of Voluntary returns)}{Assisted returns (Subset of Voluntary returns)}
-#'   \item{Controlled returns (Subset of Voluntary returns)}{Controlled returns (Subset of Voluntary returns)}
-#'   \item{Other verified returns (Subset of Voluntary returns)}{Other verified returns (Subset of Voluntary returns)}
-#'   \item{Final outcome: Grants of asylum}{Final outcome: Grants of asylum}
-#'   \item{Final outcomes: Grants of HP/DL and other}{Final outcomes: Grants of HP/DL and other}
-#'   \item{Final outcomes: Refused asylum or HP or DL or other leave}{Final outcomes: Refused asylum or HP or DL or other leave}
-#'   \item{Final outcome: Withdrawn application}{Final outcome: Withdrawn application}
-#'   \item{Final outcome: Cases with final outcome not yet known}{Final outcome: Cases with final outcome not yet known}
+#'   \item{Initial Decisions}{Initial decisions}
+#'   \item{Initial: Grants of Protection}{Grants of protection at initial decision}
+#'   \item{Initial: Grants of Other Leave}{Grants of other leave at initial decision}
+#'   \item{Initial: Refusals}{Refusals at initial decision}
+#'   \item{Initial: Withdrawn Applications}{Withdrawn applications at initial decision}
+#'   \item{Initial: Administrative Outcomes}{Administrative outcomes at initial decision}
+#'   \item{Initial: Not Yet Known}{Not yet known}
+#'   \item{Enforced Returns}{Enforced returns}
+#'   \item{Voluntary Returns}{Voluntary returns}
+#'   \item{Assisted Returns (Subset of Voluntary returns)}{Assisted Returns (Subset of Voluntary returns)}
+#'   \item{Controlled Returns (Subset of Voluntary returns)}{Controlled Returns (Subset of Voluntary returns)}
+#'   \item{Other Verified Returns (Subset of Voluntary returns)}{Other Verified Returns (Subset of Voluntary returns)}
+#'   \item{Latest: Grants of Protection}{Latest: Grants of Protection}
+#'   \item{Latest: Grants of Other Leave}{Latest: Grants of Other Leave}
+#'   \item{Latest: Refusals}{Latest: Refusals}
+#'   \item{Latest: Withdrawn Applications}{Latest: Withdrawn Applications}
+#'   \item{Latest: Administrative Outcomes}{Latest: Administrative Outcomes}
+#'   \item{Latest: Not Yet Known}{Latest: Not Yet Known}
 #'   ...
 #' }
 #' @source \url{https://www.gov.uk/government/statistical-data-sets/asylum-and-resettlement-datasets}
@@ -1055,6 +1051,7 @@
 #'   \item{Region}{Region}
 #'   \item{Grant}{Total number of grants at initial decision}
 #'   \item{Refused}{Total number of refusals at initial decision}
+#'   \item{Administrative Outcome}{Administrative Outcome}
 #'   \item{Initial grant rate}{Initial grant rate - percentage}
 #'   ...
 #' }
@@ -1825,6 +1822,17 @@
 #' }
 #' @source \url{https://www.gov.uk/government/collections/national-referral-mechanism-statistics}
 "nrm_duty_to_notify_2023_q3"
+
+#' Referrals received via the Duty to Notify process in Q4 2023, by nationality
+#'
+#' @format A data frame with 2 variables:
+#' \describe{
+#'   \item{Nationality}{Nationality}
+#'   \item{Total}{Number of referrals via duty to notify}
+#'   ...
+#' }
+#' @source \url{https://www.gov.uk/government/collections/national-referral-mechanism-statistics}
+"nrm_duty_to_notify_2023_q4"
 
 #' Referrals received via the Duty to Notify process, by quarter
 #'

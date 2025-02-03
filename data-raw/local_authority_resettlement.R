@@ -23,7 +23,8 @@ local_authority_resettlement <-
 local_authority_resettlement <-
   local_authority_resettlement |>
   # mutate(Date = yq(Quarter)) |>
-  mutate(Date = as.Date(as.yearqtr(Quarter, format = "%Y Q%q"), frac = 1)) |>
+  # mutate(Date = as.Date(as.yearqtr(Quarter, format = "%Y Q%q"), frac = 1)) |>
+  mutate(Date = ceiling_date(yq(Quarter), unit = "quarter") - days(1)) |>
   mutate(Quarter = quarter(Date)) |>
   relocate(Date) |>
   drop_na()

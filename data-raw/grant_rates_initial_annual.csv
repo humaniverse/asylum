@@ -3343,162 +3343,166 @@ Year,Nationality,Region,Grant,Refused,Initial grant rate
 2023,Yemen,Middle East,665,2,0.9970014992503748
 2023,Zambia,Africa Sub-Saharan,13,16,0.4482758620689655
 2023,Zimbabwe,Africa Sub-Saharan,85,117,0.4207920792079208
-2024,Afghanistan,Asia Central,1178,298,0.7981029810298103
-2024,Albania,Europe Other,59,1942,0.02948525737131434
-2024,Algeria,Africa North,6,176,0.03296703296703297
-2024,Angola,Africa Sub-Saharan,2,19,0.09523809523809523
+2024,Afghanistan,Asia Central,1681,736,0.6954902772031444
+2024,Albania,Europe Other,63,2179,0.028099910793933987
+2024,Algeria,Africa North,7,190,0.03553299492385787
+2024,Angola,Africa Sub-Saharan,3,21,0.125
 2024,Antigua and Barbuda,America Central and South,1,5,0.16666666666666666
 2024,Argentina,America Central and South,0,6,0
 2024,Armenia,Europe Other,2,0,1
-2024,Australia,Oceania,1,1,0.5
-2024,Azerbaijan,Europe Other,16,15,0.5161290322580645
-2024,Bahrain,Middle East,3,4,0.42857142857142855
-2024,Bangladesh,Asia South,533,2327,0.18636363636363637
-2024,Barbados,America Central and South,1,5,0.16666666666666666
-2024,Belarus,Europe Other,14,11,0.56
+2024,Australia,Oceania,1,2,0.3333333333333333
+2024,Azerbaijan,Europe Other,16,16,0.5
+2024,Bahrain,Middle East,4,4,0.5
+2024,Bangladesh,Asia South,597,2683,0.18201219512195121
+2024,Barbados,America Central and South,1,7,0.125
+2024,Belarus,Europe Other,15,13,0.5357142857142857
 2024,Belgium,EU 14,0,1,0
 2024,Belize,America Central and South,0,1,0
 2024,Benin,Africa Sub-Saharan,2,9,0.18181818181818182
-2024,Bolivia,America Central and South,5,25,0.16666666666666666
-2024,Botswana,Africa Sub-Saharan,12,153,0.07272727272727272
-2024,Brazil,America Central and South,4,501,0.007920792079207921
+2024,Bolivia,America Central and South,5,27,0.15625
+2024,Botswana,Africa Sub-Saharan,14,183,0.07106598984771574
+2024,Brazil,America Central and South,6,674,0.008823529411764706
 2024,British overseas citizens,Other,1,1,0.5
-2024,Bulgaria,EU 2,0,0,NA
+2024,Bulgaria,EU 2,0,1,0
 2024,Burkina Faso,Africa Sub-Saharan,5,4,0.5555555555555556
-2024,Burundi,Africa Sub-Saharan,5,12,0.29411764705882354
-2024,Cameroon,Africa Sub-Saharan,111,56,0.6646706586826348
+2024,Burundi,Africa Sub-Saharan,8,12,0.4
+2024,Cameroon,Africa Sub-Saharan,119,61,0.6611111111111111
 2024,Canada,America North,0,1,0
 2024,Cape Verde,Africa Sub-Saharan,0,1,0
 2024,Central African Republic,Africa Sub-Saharan,1,0,1
-2024,Chad,Africa Sub-Saharan,28,39,0.417910447761194
+2024,Chad,Africa Sub-Saharan,32,43,0.4266666666666667
 2024,Chile,America Central and South,0,5,0
-2024,China,Asia East,57,416,0.12050739957716702
-2024,Colombia,America Central and South,13,132,0.0896551724137931
-2024,Congo,Africa Sub-Saharan,3,19,0.13636363636363635
-2024,Congo (Democratic Republic),Africa Sub-Saharan,30,74,0.28846153846153844
+2024,China,Asia East,62,504,0.10954063604240283
+2024,Colombia,America Central and South,24,199,0.10762331838565023
+2024,Congo,Africa Sub-Saharan,3,21,0.125
+2024,Congo (Democratic Republic),Africa Sub-Saharan,31,78,0.28440366972477066
 2024,Costa Rica,America Central and South,0,3,0
-2024,Cuba,America Central and South,4,9,0.3076923076923077
+2024,Croatia,EU Other,0,0,NA
+2024,Cuba,America Central and South,5,10,0.3333333333333333
+2024,Cyprus,EU Other,0,0,NA
 2024,Cyprus (Northern part of),Europe Other,1,0,1
-2024,Czechia,EU 8,0,7,0
+2024,Czechia,EU 8,0,14,0
 2024,Denmark,EU 14,0,0,NA
-2024,Djibouti,Africa Sub-Saharan,1,1,0.5
-2024,Dominica,America Central and South,4,10,0.2857142857142857
+2024,Djibouti,Africa Sub-Saharan,1,3,0.25
+2024,Dominica,America Central and South,5,14,0.2631578947368421
 2024,Dominican Republic,America Central and South,0,1,0
-2024,East Timor,Asia South East,0,12,0
-2024,Ecuador,America Central and South,5,11,0.3125
-2024,Egypt,Africa North,73,484,0.1310592459605027
-2024,El Salvador,America Central and South,20,12,0.625
+2024,East Timor,Asia South East,1,13,0.07142857142857142
+2024,Ecuador,America Central and South,5,12,0.29411764705882354
+2024,Egypt,Africa North,84,529,0.1370309951060359
+2024,El Salvador,America Central and South,20,13,0.6060606060606061
 2024,Equatorial Guinea,Africa Sub-Saharan,0,1,0
-2024,Eritrea,Africa Sub-Saharan,329,17,0.9508670520231214
-2024,Eswatini,Africa Sub-Saharan,1,2,0.3333333333333333
-2024,Ethiopia,Africa Sub-Saharan,260,114,0.6951871657754011
+2024,Eritrea,Africa Sub-Saharan,1770,219,0.889894419306184
+2024,Eswatini,Africa Sub-Saharan,1,3,0.25
+2024,Ethiopia,Africa Sub-Saharan,286,135,0.6793349168646081
+2024,Finland,EU 14,0,1,0
+2024,France,EU 14,0,0,NA
 2024,Gabon,Africa Sub-Saharan,0,1,0
-2024,"Gambia, The",Africa Sub-Saharan,27,32,0.4576271186440678
-2024,Georgia,Europe Other,10,291,0.03322259136212625
+2024,"Gambia, The",Africa Sub-Saharan,33,36,0.4782608695652174
+2024,Georgia,Europe Other,12,312,0.037037037037037035
 2024,Germany,EU 14,0,0,NA
-2024,Ghana,Africa Sub-Saharan,39,69,0.3611111111111111
+2024,Ghana,Africa Sub-Saharan,44,90,0.3283582089552239
 2024,Greece,EU 14,0,3,0
-2024,Grenada,America Central and South,8,11,0.42105263157894735
-2024,Guatemala,America Central and South,6,13,0.3157894736842105
-2024,Guinea,Africa Sub-Saharan,8,14,0.36363636363636365
-2024,Guyana,America Central and South,5,1,0.8333333333333334
+2024,Grenada,America Central and South,11,13,0.4583333333333333
+2024,Guatemala,America Central and South,8,14,0.36363636363636365
+2024,Guinea,Africa Sub-Saharan,10,19,0.3448275862068966
+2024,Guyana,America Central and South,8,1,0.8888888888888888
 2024,Haiti,America Central and South,1,1,0.5
-2024,Honduras,America Central and South,140,246,0.3626943005181347
+2024,Honduras,America Central and South,145,266,0.35279805352798055
 2024,Hong Kong,Asia East,8,22,0.26666666666666666
-2024,Hungary,EU 8,0,4,0
-2024,India,Asia South,18,995,0.017769002961500493
-2024,Indonesia,Asia South East,30,114,0.20833333333333334
-2024,Iran,Middle East,3109,1292,0.7064303567371052
-2024,Iraq,Middle East,716,1497,0.3235427022141889
+2024,Hungary,EU 8,0,10,0
+2024,India,Asia South,19,1229,0.015224358974358974
+2024,Indonesia,Asia South East,32,118,0.21333333333333335
+2024,Iran,Middle East,3683,1601,0.6970098410295231
+2024,Iraq,Middle East,913,1806,0.33578521515262966
 2024,Ireland,EU 14,0,1,0
-2024,Israel,Middle East,0,7,0
-2024,Italy,EU 14,0,3,0
-2024,Ivory Coast,Africa Sub-Saharan,10,16,0.38461538461538464
-2024,Jamaica,America Central and South,10,15,0.4
-2024,Jordan,Middle East,10,19,0.3448275862068966
-2024,Kazakhstan,Asia Central,26,92,0.22033898305084745
-2024,Kenya,Africa Sub-Saharan,52,43,0.5473684210526316
-2024,Kosovo,Europe Other,4,17,0.19047619047619047
-2024,Kuwait,Middle East,111,30,0.7872340425531915
-2024,Kyrgyzstan,Asia Central,20,101,0.1652892561983471
+2024,Israel,Middle East,0,8,0
+2024,Italy,EU 14,0,4,0
+2024,Ivory Coast,Africa Sub-Saharan,12,17,0.41379310344827586
+2024,Jamaica,America Central and South,10,20,0.3333333333333333
+2024,Jordan,Middle East,18,50,0.2647058823529412
+2024,Kazakhstan,Asia Central,29,106,0.21481481481481482
+2024,Kenya,Africa Sub-Saharan,58,50,0.5370370370370371
+2024,Kosovo,Europe Other,4,22,0.15384615384615385
+2024,Kuwait,Middle East,191,32,0.8565022421524664
+2024,Kyrgyzstan,Asia Central,23,109,0.17424242424242425
 2024,Laos,Asia South East,0,0,NA
-2024,Latvia,EU 8,0,11,0
-2024,Lebanon,Middle East,18,20,0.47368421052631576
-2024,Liberia,Africa Sub-Saharan,0,5,0
-2024,Libya,Africa North,85,2,0.9770114942528736
-2024,Lithuania,EU 8,0,9,0
-2024,Malawi,Africa Sub-Saharan,7,5,0.5833333333333334
-2024,Malaysia,Asia South East,12,139,0.07947019867549669
-2024,Maldives,Asia South,2,0,1
+2024,Latvia,EU 8,0,14,0
+2024,Lebanon,Middle East,20,22,0.47619047619047616
+2024,Liberia,Africa Sub-Saharan,2,6,0.25
+2024,Libya,Africa North,172,2,0.9885057471264368
+2024,Lithuania,EU 8,0,16,0
+2024,Malawi,Africa Sub-Saharan,8,5,0.6153846153846154
+2024,Malaysia,Asia South East,15,143,0.0949367088607595
+2024,Maldives,Asia South,3,0,1
 2024,Mali,Africa Sub-Saharan,12,8,0.6
-2024,Mauritania,Africa North,1,7,0.125
-2024,Mauritius,Africa Sub-Saharan,3,46,0.061224489795918366
-2024,Mexico,America Central and South,7,15,0.3181818181818182
+2024,Mauritania,Africa North,1,8,0.1111111111111111
+2024,Mauritius,Africa Sub-Saharan,3,52,0.05454545454545454
+2024,Mexico,America Central and South,7,17,0.2916666666666667
 2024,Moldova,Europe Other,2,7,0.2222222222222222
-2024,Mongolia,Asia East,2,2,0.5
+2024,Mongolia,Asia East,3,2,0.6
 2024,Montenegro,Europe Other,0,2,0
-2024,Morocco,Africa North,21,82,0.20388349514563106
-2024,Myanmar (Burma),Asia South East,88,29,0.7521367521367521
-2024,Namibia,Africa Sub-Saharan,78,406,0.16115702479338842
-2024,Nepal,Asia South,10,898,0.011013215859030838
-2024,Netherlands,EU 14,0,0,NA
-2024,Nicaragua,America Central and South,27,35,0.43548387096774194
-2024,Niger,Africa Sub-Saharan,0,2,0
-2024,Nigeria,Africa Sub-Saharan,247,360,0.40691927512355847
+2024,Morocco,Africa North,28,99,0.2204724409448819
+2024,Myanmar (Burma),Asia South East,93,30,0.7560975609756098
+2024,Namibia,Africa Sub-Saharan,86,437,0.16443594646271512
+2024,Nepal,Asia South,11,944,0.011518324607329843
+2024,Netherlands,EU 14,0,1,0
+2024,Nicaragua,America Central and South,31,38,0.4492753623188406
+2024,Niger,Africa Sub-Saharan,1,2,0.3333333333333333
+2024,Nigeria,Africa Sub-Saharan,263,458,0.3647711511789182
 2024,North Macedonia,Europe Other,1,3,0.25
-2024,Occupied Palestinian Territories,Middle East,62,4,0.9393939393939394
-2024,Oman,Middle East,6,2,0.75
-2024,Other and unknown,Other,5,3,0.625
-2024,Pakistan,Asia South,1139,1076,0.5142212189616253
+2024,Occupied Palestinian Territories,Middle East,102,6,0.9444444444444444
+2024,Oman,Middle East,6,4,0.6
+2024,Other and unknown,Other,7,5,0.5833333333333334
+2024,Pakistan,Asia South,1312,1225,0.5171462357114702
 2024,Panama,America Central and South,0,2,0
-2024,Peru,America Central and South,2,14,0.125
-2024,Philippines,Asia South East,16,321,0.04747774480712166
-2024,Poland,EU 8,0,20,0
-2024,Portugal,EU 14,0,2,0
+2024,Peru,America Central and South,2,20,0.09090909090909091
+2024,Philippines,Asia South East,17,347,0.046703296703296704
+2024,Poland,EU 8,0,126,0
+2024,Portugal,EU 14,0,3,0
 2024,Qatar,Middle East,2,0,1
-2024,Refugee,Other,244,5,0.9799196787148594
-2024,Romania,EU 2,0,27,0
-2024,Russia,Europe Other,125,154,0.44802867383512546
-2024,Rwanda,Africa Sub-Saharan,1,15,0.0625
-2024,Saudi Arabia,Middle East,86,22,0.7962962962962963
-2024,Senegal,Africa Sub-Saharan,7,9,0.4375
+2024,Refugee,Other,294,7,0.9767441860465116
+2024,Romania,EU 2,0,52,0
+2024,Russia,Europe Other,134,160,0.4557823129251701
+2024,Rwanda,Africa Sub-Saharan,2,16,0.1111111111111111
+2024,Saudi Arabia,Middle East,121,31,0.7960526315789473
+2024,Senegal,Africa Sub-Saharan,8,10,0.4444444444444444
 2024,Serbia,Europe Other,0,3,0
-2024,Sierra Leone,Africa Sub-Saharan,49,58,0.45794392523364486
-2024,Singapore,Asia South East,0,1,0
-2024,Slovakia,EU 8,0,3,0
+2024,Sierra Leone,Africa Sub-Saharan,54,61,0.46956521739130436
+2024,Singapore,Asia South East,0,2,0
+2024,Slovakia,EU 8,0,8,0
 2024,Solomon Islands,Oceania,0,2,0
-2024,Somalia,Africa Sub-Saharan,101,89,0.531578947368421
-2024,South Africa,Africa Sub-Saharan,4,20,0.16666666666666666
+2024,Somalia,Africa Sub-Saharan,159,127,0.5559440559440559
+2024,South Africa,Africa Sub-Saharan,4,21,0.16
 2024,South Korea,Asia East,0,1,0
-2024,South Sudan,Africa Sub-Saharan,71,5,0.9342105263157895
+2024,South Sudan,Africa Sub-Saharan,130,7,0.948905109489051
 2024,Spain,EU 14,0,0,NA
-2024,Sri Lanka,Asia South,221,457,0.32595870206489674
-2024,St Kitts and Nevis,America Central and South,0,2,0
-2024,St Lucia,America Central and South,7,20,0.25925925925925924
-2024,St Vincent and the Grenadines,America Central and South,14,18,0.4375
-2024,Stateless,Other,57,5,0.9193548387096774
-2024,Sudan,Africa North,457,8,0.9827956989247312
-2024,Sweden,EU 14,0,0,NA
-2024,Syria,Middle East,314,8,0.9751552795031055
+2024,Sri Lanka,Asia South,240,496,0.32608695652173914
+2024,St Kitts and Nevis,America Central and South,0,3,0
+2024,St Lucia,America Central and South,7,31,0.18421052631578946
+2024,St Vincent and the Grenadines,America Central and South,15,23,0.39473684210526316
+2024,Stateless,Other,96,5,0.9504950495049505
+2024,Sudan,Africa North,1573,18,0.988686360779384
+2024,Sweden,EU 14,0,1,0
+2024,Syria,Middle East,1314,15,0.9887133182844243
 2024,Taiwan,Asia East,1,1,0.5
-2024,Tajikistan,Asia Central,104,189,0.35494880546075086
-2024,Tanzania,Africa Sub-Saharan,27,21,0.5625
-2024,Thailand,Asia South East,3,126,0.023255813953488372
+2024,Tajikistan,Asia Central,109,203,0.34935897435897434
+2024,Tanzania,Africa Sub-Saharan,28,23,0.5490196078431373
+2024,Thailand,Asia South East,3,132,0.022222222222222223
 2024,Togo,Africa Sub-Saharan,1,4,0.2
-2024,Trinidad and Tobago,America Central and South,14,48,0.22580645161290322
-2024,Tunisia,Africa North,19,62,0.2345679012345679
-2024,Turkey,Europe Other,198,904,0.17967332123411978
+2024,Trinidad and Tobago,America Central and South,17,66,0.20481927710843373
+2024,Tunisia,Africa North,20,67,0.22988505747126436
+2024,Turkey,Europe Other,216,1045,0.17129262490087233
 2024,Turkmenistan,Asia Central,4,5,0.4444444444444444
-2024,Uganda,Africa Sub-Saharan,119,25,0.8263888888888888
-2024,Ukraine,Europe Other,63,5,0.9264705882352942
+2024,Uganda,Africa Sub-Saharan,158,44,0.7821782178217822
+2024,Ukraine,Europe Other,71,6,0.922077922077922
 2024,United Arab Emirates,Middle East,2,1,0.6666666666666666
-2024,United States,America North,0,16,0
+2024,United States,America North,0,22,0
 2024,Uruguay,America Central and South,0,1,0
-2024,Uzbekistan,Asia Central,34,355,0.08740359897172237
-2024,Vanuatu,Oceania,0,2,0
+2024,Uzbekistan,Asia Central,38,385,0.08983451536643026
+2024,Vanuatu,Oceania,0,3,0
 2024,Venezuela,America Central and South,0,6,0
-2024,Vietnam,Asia South East,109,222,0.3293051359516616
+2024,Vietnam,Asia South East,135,264,0.3383458646616541
 2024,Western Sahara,Africa North,1,0,1
-2024,Yemen,Middle East,109,0,1
+2024,Yemen,Middle East,240,3,0.9876543209876543
 2024,Zambia,Africa Sub-Saharan,6,4,0.6
-2024,Zimbabwe,Africa Sub-Saharan,28,40,0.4117647058823529
+2024,Zimbabwe,Africa Sub-Saharan,31,43,0.4189189189189189
