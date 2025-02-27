@@ -110,6 +110,31 @@ fetch_asylum_support <- function() {
   support_received
 }
 
+#' Load latest data on people receiving asylum support by local authority
+#' @returns A tibble containing the wrangled data
+#' @export
+fetch_local_authority_support <- function() {
+  data_file <- download_stats("https://www.gov.uk/government/statistical-data-sets/immigration-system-statistics-data-tables", "Asylum seekers in receipt of support by local authority detailed datasets")
+
+  local_authority_support <-
+    suppressWarnings(read_excel(data_file, sheet = "Data - Asy_D11", skip = 1))
+
+  # Wrangling
+  local_authority_support <-
+    local_authority_support |>
+    rename(Date = `Date (as at…)`) |>
+    filter(Date != "End of table") |>
+    mutate(Date = dmy(Date)) |>
+    mutate(
+      Year = year(Date),
+      Quarter = quarter(Date)
+    ) |>
+    relocate(Date, Year, Quarter) |>
+    na.omit()
+
+  local_authority_support
+}
+
 #' Load latest data on family reunion visa grants
 #' @returns A tibble containing the wrangled data
 #' @export
