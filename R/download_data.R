@@ -18,6 +18,25 @@ fetch_irregular_migration <- function() {
   irregular_migration
 }
 
+#' Load latest data on asylum applications from small boat arrivals
+#' @returns A tibble containing the wrangled data
+#' @export
+fetch_small_boat_asylum_claims <- function() {
+  data_file <- download_stats("https://www.gov.uk/government/statistical-data-sets/immigration-system-statistics-data-tables", "Irregular migration to the UK detailed dataset")
+
+  small_boat_asylum_applications <-
+    suppressWarnings(read_excel(data_file, sheet = "Data - Irr_D02", skip = 1))
+
+  small_boat_asylum_applications <-
+    small_boat_asylum_applications |>
+    mutate(Date = ceiling_date(yq(Quarter), unit = "quarter") - days(1)) |>
+    mutate(Quarter = quarter(Date)) |>
+    relocate(Date) |>
+    na.omit()
+
+  small_boat_asylum_applications
+}
+
 #' Load latest data on initial decisions
 #' @returns A tibble containing the wrangled data
 #' @export
