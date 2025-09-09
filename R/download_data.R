@@ -109,14 +109,14 @@ fetch_applications <- function() {
   applications
 }
 
-#' Load latest data on people receiving asylum support
+#' Load latest data on people receiving asylum support by Local Authority and Region
 #' @returns A tibble containing the wrangled data
 #' @export
 fetch_asylum_support <- function() {
-  data_file <- download_stats("https://www.gov.uk/government/statistical-data-sets/immigration-system-statistics-data-tables", "Asylum seekers in receipt of support detailed datasets")
+  data_file <- download_stats("https://www.gov.uk/government/statistical-data-sets/immigration-system-statistics-data-tables", "Asylum seekers in receipt of support by local authority detailed datasets")
 
   support_received <-
-    suppressWarnings(read_excel(data_file, sheet = "Data_Asy_D09", skip = 1))
+    suppressWarnings(read_excel(data_file, sheet = "Data_Asy_D11", skip = 1))
 
   # Wrangling
   support_received <-
