@@ -2,7 +2,7 @@
 % Please edit documentation in R/download_data.R
 \name{fetch_asylum_support}
 \alias{fetch_asylum_support}
-\title{Load latest data on people receiving asylum support by Local Authority and Region}
+\title{Load latest data on people receiving asylum support}
 \usage{
 fetch_asylum_support()
 }
@@ -10,5 +10,5 @@ fetch_asylum_support()
 A tibble containing the wrangled data
 }
 \description{
-Load latest data on people receiving asylum support by Local Authority and Region
+Load latest data on people receiving asylum support
 }
