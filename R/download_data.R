@@ -2,7 +2,10 @@
 #' @returns A tibble containing the wrangled data
 #' @export
 fetch_irregular_migration <- function() {
-  data_file <- download_stats("https://www.gov.uk/government/statistical-data-sets/immigration-system-statistics-data-tables", "Irregular migration to the UK detailed dataset")
+  data_file <- download_stats(
+    "https://www.gov.uk/government/statistical-data-sets/immigration-system-statistics-data-tables",
+    "Irregular migration to the UK detailed dataset"
+  )
 
   irregular_migration <-
     suppressWarnings(read_excel(data_file, sheet = "Data_Irr_D01", skip = 1))
@@ -22,10 +25,13 @@ fetch_irregular_migration <- function() {
 #' @returns A tibble containing the wrangled data
 #' @export
 fetch_small_boat_asylum_claims <- function() {
-  data_file <- download_stats("https://www.gov.uk/government/statistical-data-sets/immigration-system-statistics-data-tables", "Irregular migration to the UK detailed dataset")
+  data_file <- download_stats(
+    "https://www.gov.uk/government/statistical-data-sets/immigration-system-statistics-data-tables",
+    "Irregular migration to the UK detailed dataset"
+  )
 
   small_boat_asylum_applications <-
-    suppressWarnings(read_excel(data_file, sheet = "Data_Irr_D02", skip = 1))
+    suppressWarnings(read_excel(data_file, sheet = "Data_Irr_D02", skip = 2))
 
   small_boat_asylum_applications <-
     small_boat_asylum_applications |>
@@ -41,7 +47,10 @@ fetch_small_boat_asylum_claims <- function() {
 #' @returns A tibble containing the wrangled data
 #' @export
 fetch_decisions <- function() {
-  data_file <- download_stats("https://www.gov.uk/government/statistical-data-sets/immigration-system-statistics-data-tables", "Asylum claims and initial decisions detailed datasets")
+  data_file <- download_stats(
+    "https://www.gov.uk/government/statistical-data-sets/immigration-system-statistics-data-tables",
+    "Asylum claims and initial decisions detailed datasets"
+  )
 
   decisions_resettlement <-
     suppressWarnings(read_excel(data_file, sheet = "Data_Asy_D02", skip = 1))
@@ -53,11 +62,21 @@ fetch_decisions <- function() {
     relocate(Date) |>
 
     mutate(
-      `Applicant type` = if_else(`Applicant type` == "Dependant", "Dependant", "Main applicant"),
+      `Applicant type` = if_else(
+        `Applicant type` == "Dependant",
+        "Dependant",
+        "Main applicant"
+      ),
       `Case outcome` = case_when(
-        `Case outcome` %in% c("Non-substantiated withdrawal", "Non-Substantiated Withdrawal") ~ "Non-Substantiated Withdrawal",
-        `Case outcome` %in% c("Other refusals", "Other Refusals") ~ "Other Refusals",
-        `Case outcome` %in% c("Other Withdrawal", "Other withdrawal") ~ "Other Withdrawal",
+        `Case outcome` %in%
+          c(
+            "Non-substantiated withdrawal",
+            "Non-Substantiated Withdrawal"
+          ) ~ "Non-Substantiated Withdrawal",
+        `Case outcome` %in%
+          c("Other refusals", "Other Refusals") ~ "Other Refusals",
+        `Case outcome` %in%
+          c("Other Withdrawal", "Other withdrawal") ~ "Other Withdrawal",
         TRUE ~ `Case outcome`
       )
     ) |>
@@ -71,7 +90,10 @@ fetch_decisions <- function() {
 #' @returns A tibble containing the wrangled data
 #' @export
 fetch_awaiting_decision <- function() {
-  data_file <- download_stats("https://www.gov.uk/government/statistical-data-sets/immigration-system-statistics-data-tables", "Asylum claims awaiting a decision detailed datasets")
+  data_file <- download_stats(
+    "https://www.gov.uk/government/statistical-data-sets/immigration-system-statistics-data-tables",
+    "Asylum claims awaiting a decision detailed datasets"
+  )
 
   awaiting_decision <-
     suppressWarnings(read_excel(data_file, sheet = "Data_Asy_D03", skip = 1))
@@ -84,7 +106,11 @@ fetch_awaiting_decision <- function() {
     mutate(Date = dmy(Date)) |>
 
     mutate(
-      `Applicant type` = if_else(`Applicant type` == "Dependant", "Dependant", "Main applicant")
+      `Applicant type` = if_else(
+        `Applicant type` == "Dependant",
+        "Dependant",
+        "Main applicant"
+      )
     )
 
   awaiting_decision
@@ -94,7 +120,10 @@ fetch_awaiting_decision <- function() {
 #' @returns A tibble containing the wrangled data
 #' @export
 fetch_applications <- function() {
-  data_file <- download_stats("https://www.gov.uk/government/statistical-data-sets/immigration-system-statistics-data-tables", "Asylum claims and initial decisions detailed datasets")
+  data_file <- download_stats(
+    "https://www.gov.uk/government/statistical-data-sets/immigration-system-statistics-data-tables",
+    "Asylum claims and initial decisions detailed datasets"
+  )
 
   applications <-
     suppressWarnings(read_excel(data_file, sheet = "Data_Asy_D01", skip = 1))
@@ -103,7 +132,13 @@ fetch_applications <- function() {
     applications |>
     mutate(Date = ceiling_date(yq(Quarter), unit = "quarter") - days(1)) |>
     relocate(Date) |>
-    mutate(`Applicant type` = if_else(`Applicant type` == "Dependant", "Dependant", "Main applicant")) |>
+    mutate(
+      `Applicant type` = if_else(
+        `Applicant type` == "Dependant",
+        "Dependant",
+        "Main applicant"
+      )
+    ) |>
     na.omit()
 
   applications
@@ -113,7 +148,10 @@ fetch_applications <- function() {
 #' @returns A tibble containing the wrangled data
 #' @export
 fetch_asylum_support <- function() {
-  data_file <- download_stats("https://www.gov.uk/government/statistical-data-sets/immigration-system-statistics-data-tables", "Asylum seekers in receipt of support detailed datasets")
+  data_file <- download_stats(
+    "https://www.gov.uk/government/statistical-data-sets/immigration-system-statistics-data-tables",
+    "Asylum seekers in receipt of Home Office support detailed datasets"
+  )
 
   support_received <-
     suppressWarnings(read_excel(data_file, sheet = "Data_Asy_D09", skip = 1))
@@ -133,7 +171,10 @@ fetch_asylum_support <- function() {
 #' @returns A tibble containing the wrangled data
 #' @export
 fetch_local_authority_support <- function() {
-  data_file <- download_stats("https://www.gov.uk/government/statistical-data-sets/immigration-system-statistics-data-tables", "Asylum seekers in receipt of support by local authority detailed datasets")
+  data_file <- download_stats(
+    "https://www.gov.uk/government/statistical-data-sets/immigration-system-statistics-data-tables",
+    "Asylum seekers in receipt of Home Office support by local authority detailed datasets"
+  )
 
   local_authority_support <-
     suppressWarnings(read_excel(data_file, sheet = "Data_Asy_D11", skip = 1))
@@ -158,7 +199,10 @@ fetch_local_authority_support <- function() {
 #' @returns A tibble containing the wrangled data
 #' @export
 fetch_reunion <- function() {
-  data_file <- download_stats("https://www.gov.uk/government/statistical-data-sets/immigration-system-statistics-data-tables", "Family reunion visa grants detailed datasets")
+  data_file <- download_stats(
+    "https://www.gov.uk/government/statistical-data-sets/immigration-system-statistics-data-tables",
+    "Refugee family reunion visa grants detailed datasets"
+  )
 
   family_reunion <-
     suppressWarnings(read_excel(data_file, sheet = "Data_Fam_D01", skip = 1))
