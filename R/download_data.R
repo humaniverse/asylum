@@ -195,6 +195,33 @@ fetch_local_authority_support <- function() {
   local_authority_support
 }
 
+#' Load latest data on refugees resettled by resettlement scheme and local authority
+#' @returns A tibble containing the wrangled data
+#' @export
+fetch_local_authority_resettlement <- function() {
+  data_file <- download_stats(
+    "https://www.gov.uk/government/statistical-data-sets/immigration-system-statistics-data-tables",
+    "Resettlement by local authority detailed datasets"
+  )
+
+  local_authority_resettlement <-
+    suppressWarnings(read_excel(data_file, sheet = "Data_Res_D01", skip = 1))
+
+  # Wrangling
+  local_authority_resettlement <-
+    local_authority_resettlement |>
+    mutate(Date = ceiling_date(yq(Quarter), unit = "quarter") - days(1)) |>
+    relocate(Date) |>
+    mutate(
+      Year = year(Date),
+      Quarter = quarter(Date)
+    ) |>
+    relocate(Date, Year, Quarter) |>
+    na.omit()
+
+  local_authority_resettlement
+}
+
 #' Load latest data on family reunion visa grants
 #' @returns A tibble containing the wrangled data
 #' @export
