@@ -4,11 +4,11 @@
 fetch_irregular_migration <- function() {
   data_file <- download_stats(
     "https://www.gov.uk/government/statistical-data-sets/immigration-system-statistics-data-tables",
-    "Irregular migration to the UK detailed dataset"
+    "Illegal entry routes to the UK detailed dataset"
   )
 
   irregular_migration <-
-    suppressWarnings(read_excel(data_file, sheet = "Data_Irr_D01", skip = 1))
+    suppressWarnings(read_excel(data_file, sheet = "Data_IER_D01", skip = 1))
 
   # Wrangling
   irregular_migration <-
@@ -27,11 +27,11 @@ fetch_irregular_migration <- function() {
 fetch_small_boat_asylum_claims <- function() {
   data_file <- download_stats(
     "https://www.gov.uk/government/statistical-data-sets/immigration-system-statistics-data-tables",
-    "Irregular migration to the UK detailed dataset"
+    "Illegal entry routes to the UK detailed dataset"
   )
 
   small_boat_asylum_applications <-
-    suppressWarnings(read_excel(data_file, sheet = "Data_Irr_D02", skip = 2))
+    suppressWarnings(read_excel(data_file, sheet = "Data_IER_D02", skip = 1))
 
   small_boat_asylum_applications <-
     small_boat_asylum_applications |>
